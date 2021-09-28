@@ -1,0 +1,1101 @@
+,Year,Brand,Model,Cost,City,State,Mileage,Accident,Body,Engine,Owners,Usefor,Services
+0,2018,Dodge,Challenger_GT, 31999, Queens Village, NY ,29828,Minor Damage,Coupe,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+1,2012,Dodge,Challenger_SRT8_392, 37888, Bronx, NY ,3105,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,5
+2,2018,Dodge,Durango_SXT, 29354, Fair Lawn, NJ ,26849,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+3,2017,Dodge,Charger_Daytona_392, 45999, Freehold, NJ ,9418,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,2
+4,2019,Dodge,Challenger_R/T_Scat_Pack_Widebody, 49997, White Plains, NY ,6634,No Accident or Damage Reported,Coupe,Blue_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,3
+5,2020,Dodge,Durango_R/T, 46500, Croton On Hudson, NY ,16239,No Accident or Damage Reported,SUV,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+6,2018,Dodge,Charger_GT, 32988, Eatontown, NJ ,15662,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+7,2018,Dodge,Challenger_SRT_392, 46290, Shrewsbury, NJ ,10242,No Accident or Damage Reported,Coupe,Gray_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,4
+8,2018,Dodge,Durango_GT, 31995, Croton On Hudson, NY ,48295,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+9,2018,Dodge,Charger_GT, 33500, Nanuet, NY ,4269,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+10,2021,Dodge,Charger_R/T_Scat_Pack, 50000, Croton On Hudson, NY ,2148,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,1
+11,2018,Dodge,Durango_SXT, 30125, Brooklyn, NY ,16785,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+12,2021,Dodge,Charger_R/T_Scat_Pack, 52995, Edison, NJ ,667,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,1
+13,2018,Dodge,Charger_R/T_Scat_Pack, 42565, Farmingdale, NY ,30343,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,7
+14,2017,Dodge,Durango_GT, 27999, Old Bridge, NJ ,63853,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+15,2020,Dodge,Challenger_R/T, 37469, Flemington, NJ ,9713,No Accident or Damage Reported,Coupe,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+16,2018,Dodge,Charger_Daytona, 39480, Jericho, NY ,15913,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+17,2018,Dodge,Challenger_R/T_Plus, 35980, Jericho, NY ,19009,No Accident or Damage Reported,Coupe,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+18,2018,Dodge,Durango_SXT, 29995, Rockaway, NJ ,31119,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+19,2018,Dodge,Journey_Crossroad, 19995, Westbury, NY ,35153,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+20,2018,Dodge,Durango_SRT, 56995, Saint James, NY ,34544,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,7
+21,2019,Dodge,Durango_R/T, 43988, Eatontown, NJ ,13570,No Accident or Damage Reported,SUV,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+22,2019,Dodge,Challenger_SXT, 29003, Yonkers, NY ,43447,No Accident or Damage Reported,Coupe,Orange_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+23,2018,Dodge,Durango_SXT, 28995, Cranbury, NJ ,32583,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+24,2019,Dodge,Durango_GT, 39000, East Brunswick, NJ ,12185,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+25,2019,Dodge,Challenger_GT, 32995, Edison, NJ ,8561,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+26,2020,Dodge,Charger_R/T_Scat_Pack, 40988, Valley Stream, NY ,26486,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,4
+27,2016,Dodge,Charger_SXT, 22250, Morristown, NJ ,73669,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+28,2020,Dodge,Charger_R/T_Scat_Pack, 42495, Robbinsville, NJ ,26191,No Accident or Damage Reported,Sedan,Red_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,3
+29,2020,Dodge,Durango_SXT, 34912, East Hanover, NJ ,19030,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+30,2019,Dodge,Challenger_GT, 30995, Jamaica, NY ,16490,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+31,2019,Dodge,Durango_SXT, 30900, Amityville, NY ,29063,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+32,2019,Dodge,Charger_R/T_Scat_Pack, 44995, Robbinsville, NJ ,11490,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,3
+33,2019,Dodge,Durango_GT_Plus, 36810, Ocean, NJ ,26120,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+34,2018,Dodge,Durango_GT, 32900, Nanuet, NY ,18885,Accident/Minor Damage,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+35,2018,Dodge,Durango_SXT, 30588, Lakewood, NJ ,23432,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+36,2020,Dodge,Challenger_R/T_Scat_Pack_Widebody, 51295, Robbinsville, NJ ,9265,No Accident or Damage Reported,Coupe,Blue_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,1
+37,2018,Dodge,Durango_GT, 32995, Saint James, NY ,57609,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,20
+38,2018,Dodge,Charger_GT, 32665, Farmingdale, NY ,8908,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+39,2020,Dodge,Charger_R/T_Scat_Pack, 47456, Jersey City, NJ ,16220,No Accident or Damage Reported,Sedan,Red_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,5
+40,2018,Dodge,Durango_GT, 32388, Flemington, NJ ,88729,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+41,2018,Dodge,Challenger_SRT_392, 47995, Lakewood, NJ ,14509,No Accident or Damage Reported,Coupe,Green_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,2
+42,2018,Dodge,Charger_R/T_Scat_Pack, 42500, Amityville, NY ,36822,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,5
+43,2018,Dodge,Challenger_SRT_Hellcat_Widebody, 65000, Eatontown, NJ ,22585,No Accident or Damage Reported,Coupe,Red_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Personal Use,15
+44,2018,Dodge,Charger_R/T_Scat_Pack, 41900, Amityville, NY ,42910,No Accident or Damage Reported,Sedan,8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,9
+45,2018,Dodge,Charger_GT, 32555, Bayside, NY ,4912,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+46,2017,Dodge,Journey_SE, 14000, Eatontown, NJ ,86274,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+47,2020,Dodge,Challenger_R/T, 36600, Nanuet, NY ,15388,No Accident or Damage Reported,Coupe,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+48,2016,Dodge,Challenger_SRT_Hellcat, 60877, West Long Branch, NJ ,4314,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Vehicle Use,3
+49,2018,Dodge,Challenger_R/T_Scat_Pack, 36988, Valley Stream, NY ,41806,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,8
+50,2015,Dodge,Challenger_R/T, 25995, South Amboy, NJ ,80487,No Accident or Damage Reported,Coupe,White_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,7
+51,2018,Dodge,Durango_SXT_Plus, 30900, Freehold, NJ ,27056,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+52,2019,Dodge,Durango_R/T, 41448, Shrewsbury, NJ ,40200,No Accident or Damage Reported,SUV,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+53,2018,Dodge,Challenger_GT, 32988, Butler, NJ ,21748,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+54,2018,Dodge,Challenger_R/T, 40413, Saint James, NY ,25141,No Accident or Damage Reported,Coupe,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,14
+55,2019,Dodge,Charger_R/T, 35995, Saint James, NY ,35041,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+56,2018,Dodge,Charger_R/T_Scat_Pack, 44595, Farmingdale, NY ,19765,No Accident or Damage Reported,Sedan,Orange_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,5
+57,2018,Dodge,Durango_SXT, 28991, Little Falls, NJ ,33541,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+58,2018,Dodge,Challenger_GT, 31997, White Plains, NY ,45443,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+59,2018,Dodge,Charger_GT, 31900, Amityville, NY ,41430,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+60,2018,Dodge,Charger_GT, 31900, Amityville, NY ,33089,No Accident or Damage Reported,Sedan,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+61,2019,Dodge,Challenger_GT, 33980, Jericho, NY ,10033,No Accident or Damage Reported,Coupe,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+62,2018,Dodge,Durango_SXT_Plus, 27900, Freehold, NJ ,67329,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+63,2015,Dodge,Challenger_R/T_Scat_Pack, 34995, Lakewood, NJ ,43879,No Accident or Damage Reported,Coupe,Gray_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,7
+64,2019,Dodge,Durango_R/T, 46995, Rockaway, NJ ,19021,No Accident or Damage Reported,SUV,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+65,2013,Dodge,Challenger_Rallye_Redline, 19995, SADDLE BROOK, NJ ,57988,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,23
+66,2018,Dodge,Charger_GT, 31100, Nanuet, NY ,22712,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+67,2018,Dodge,Charger_GT, 27900, Hazlet, NJ ,48090,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,0
+68,2020,Dodge,Charger_R/T_Scat_Pack, 47995, Huntington Station, NY ,4026,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,3
+69,2018,Dodge,Charger_SXT_Plus, 21949, Woodside, NY ,36994,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+70,2019,Dodge,Charger_R/T_Scat_Pack, 43490, Valley Stream, NY ,20049,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,3
+71,2018,Dodge,Durango_SXT, 29995, Brooklyn, NY ,25188,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+72,2018,Dodge,Durango_SXT, 28823, Saint James, NY ,33460,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+73,2018,Dodge,Challenger_T/A_392, 44995, Wall Township, NJ ,10987,No Accident or Damage Reported,Coupe,Gray_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,10
+74,2018,Dodge,Charger_R/T_Scat_Pack, 39495, Commack, NY ,32231,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,5
+75,2019,Dodge,Charger_R/T_Scat_Pack, 43490, Valley Stream, NY ,20049,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,3
+76,2019,Dodge,Durango_GT, 38495, Hackettstown, NJ ,11959,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+77,2018,Dodge,Durango_SRT, 54995, Hackettstown, NJ ,44495,No Accident or Damage Reported,SUV,Silver_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,10
+78,2019,Dodge,Durango_GT, 37698, Hackettstown, NJ ,25311,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+79,2019,Dodge,Challenger_R/T_Scat_Pack, 44989, Hackettstown, NJ ,1888,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,2
+80,2020,Dodge,Durango_GT, 38382, Hackettstown, NJ ,35105,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+81,2018,Dodge,Durango_SXT, 29995, Hackettstown, NJ ,44005,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+82,2019,Dodge,Challenger_R/T_Scat_Pack, 43590, Pleasantville, NY,932,No Accident or Damage Reported,Coupe,Green_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,1
+83,2019,Dodge,Challenger_R/T, 36480, Jericho, NY ,25825,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,7
+84,2018,Dodge,Charger_GT, 28750, North Plainfield, NJ ,20029,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+85,2020,Dodge,Durango_R/T, 46000, Nanuet, NY ,16123,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+86,2020,Dodge,Charger_R/T_Scat_Pack, 49995, Jamaica, NY ,11986,No Accident or Damage Reported,Sedan,Red_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,6
+87,2018,Dodge,Charger_R/T_Scat_Pack, 44500, Amityville, NY ,27540,No Accident or Damage Reported,Sedan,Silver_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,2
+88,2020,Dodge,Charger_SRT_Hellcat_Widebody, 68495, Linden, NJ ,9010,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Corporate Use,3
+89,2018,Dodge,Durango_SXT, 26444, Linden, NJ ,56354,Minor Damage,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+90,2018,Dodge,Durango_GT, 34497, Lebanon, NJ ,49840,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+91,2018,Dodge,Durango_GT, 30900, Amityville, NY ,58517,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,15
+92,2018,Dodge,Charger_GT, 27490, Valley Stream, NY ,44204,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+93,2017,Dodge,Challenger_SXT, 22995, Wall Township, NJ ,64643,No Accident or Damage Reported,Coupe,Orange_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,14
+94,2018,Dodge,Durango_GT, 28988, Wharton, NJ ,45073,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+95,2018,Dodge,Challenger_R/T_Scat_Pack, 39964, Wantagh, NY ,28444,No Accident or Damage Reported,Coupe,Red_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,8
+96,2019,Dodge,Challenger_SXT, 27990, Forest Hills, NY ,46284,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+97,2012,Dodge,Challenger_SRT8_392, 37888, Bronx, NY ,3105,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,5
+98,2017,Dodge,Journey_SE, 14995, Point Pleasant Boro, NJ ,92909,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,19
+99,2018,Dodge,Durango_SXT, 29354, Fair Lawn, NJ ,26849,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+100,2018,Dodge,Charger_Daytona_392, 39991, Little Falls, NJ ,45911,Damage Reported,Sedan,Red_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,17
+101,2020,Dodge,Charger_R/T_Scat_Pack, 43750, Woodside, NY ,8782,No Accident or Damage Reported,Sedan,Purple_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,2
+102,2017,Dodge,Challenger_R/T_392_Scat_Pack_Shaker, 32495, Newark, NJ ,49142,No Accident or Damage Reported,Coupe,Gray_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,13
+103,2018,Dodge,Durango_Citadel, 32495, Westbury, NY ,41853,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+104,2020,Dodge,Charger_R/T_Scat_Pack, 49218, PARAMUS, NJ ,4310,No Accident or Damage Reported,Sedan,Silver_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,3
+105,2019,Dodge,Grand_Caravan, 17995, East Windsor, NJ ,95309,No Accident or Damage Reported,Minivan,Burgundy_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+106,2019,Dodge,Durango_SXT, 31988, Green Brook, NJ ,32259,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+107,2020,Dodge,Charger_R/T_Scat_Pack, 46995, Ramsey, NJ ,11750,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,3
+108,2018,Dodge,Challenger_GT, 31995, Robbinsville, NJ ,22091,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+109,2016,Dodge,Challenger_R/T, 31925, Flemington, NJ ,37665,No Accident or Damage Reported,Coupe,White_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,10
+110,2018,Dodge,Challenger_T/A_Plus, 38850, Franklin Square, NY ,1794,No Accident or Damage Reported,Coupe,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,5
+111,2015,Dodge,Challenger_R/T_Plus, 27999, Ramsey, NJ ,62075,No Accident or Damage Reported,Coupe,Gray_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,17
+112,2018,Dodge,Charger_R/T_Scat_Pack, 39850, Franklin Square, NY ,34751,Accident Reported,Sedan,Blue_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,9
+113,2019,Dodge,Charger_SXT, 21559, Irvington, NJ ,34673,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,1
+114,2016,Dodge,Journey_SXT, 12999, Jamaica, NY ,81000,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,3
+115,2018,Dodge,Charger_R/T_392, 47918, Greenvale, NY ,20572,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,5
+116,2015,Dodge,Challenger_SRT_Hellcat, 57551, Madison, NJ ,13915,No Accident or Damage Reported,Coupe,Red_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Personal Use,7
+117,2019,Dodge,Charger_R/T_Scat_Pack, 45998, Lakewood, NJ ,28839,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,8
+118,2016,Dodge,Charger_SXT, 20887, East Meadow, NY ,95287,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,15
+119,2018,Dodge,Challenger_R/T, 28295, Newark, NJ ,31180,No Accident or Damage Reported,Coupe,Red_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,3
+120,2018,Dodge,Challenger_GT, 31996, Morristown, NJ ,20028,No Accident or Damage Reported,Coupe,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+121,2016,Dodge,Challenger_SXT, 23700, Hazlet, NJ ,46152,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,7
+122,2018,Dodge,Challenger_GT, 30686, Farmingdale, NY ,39018,No Accident or Damage Reported,Coupe,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+123,2019,Dodge,Durango_R/T, 35450, Bronx, NY ,51694,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+124,2020,Dodge,Durango_R/T, 42395, Elmwood Park, NJ ,22606,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+125,2018,Dodge,Charger_SXT, 19990, Great Neck, NY ,41365,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+126,2020,Dodge,Durango_R/T, 42395, Elmwood Park, NJ ,22606,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+127,2017,Dodge,Durango_GT, 25795, Ramsey, NJ ,85055,Minor Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+128,2018,Dodge,Charger_R/T_Scat_Pack, 39995, Woodside, NY ,25294,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,2
+129,2018,Dodge,Durango_R/T, 37988, Valley Stream, NY ,47499,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,11
+130,2020,Dodge,Challenger_R/T_Scat_Pack, 45995, Lakewood, NJ ,11571,No Accident or Damage Reported,Coupe,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,3
+131,2016,Dodge,Durango_Limited, 26995, Lindenhurst, NY ,39985,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,13
+132,2016,Dodge,Challenger_R/T_Scat_Pack, 36647, Westbury, NY ,17379,No Accident or Damage Reported,Coupe,White_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,5
+133,2018,Dodge,Challenger_R/T_Plus, 34645, Farmingdale, NY ,32161,No Accident or Damage Reported,Coupe,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+134,2019,Dodge,Challenger_SRT_Hellcat_Redeye_Widebody, 81987, Saint James, NY ,5971,No Accident or Damage Reported,Coupe,White_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Personal Use,8
+135,2019,Dodge,Durango_R/T, 44960, East Brunswick, NJ ,28960,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+136,2020,Dodge,Charger_SRT_Hellcat_Widebody, 82980, Jericho, NY ,1199,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Personal Use,2
+137,2018,Dodge,Durango_GT, 35000, Morristown, NJ ,46412,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,12
+138,2019,Dodge,Charger_SXT, 29498, Huntington, NY ,32225,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+139,2018,Dodge,Durango_GT, 36995, Sussex, NJ ,42545,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+140,2018,Dodge,Charger_SRT_392, 49900, Amityville, NY ,7686,No Accident or Damage Reported,Sedan,Red_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,4
+141,2019,Dodge,Durango_SXT_Plus, 33500, Nanuet, NY ,25963,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+142,2017,Dodge,Charger_R/T_Scat_Pack, 42100, Nanuet, NY ,15713,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,15
+143,2021,Dodge,Durango_SRT_Hellcat, 94950, Bronx, NY ,3040,No Accident or Damage Reported,SUV,Blue_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Personal Use,2
+144,2018,Dodge,Charger_R/T, 28788, Valley Stream, NY ,46424,Major Damage,Sedan,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+145,2015,Dodge,Challenger_R/T_Plus, 28695, Ramsey, NJ ,43853,No Accident or Damage Reported,Coupe,White_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,16
+146,2018,Dodge,Charger_R/T_Scat_Pack, 39288, Valley Stream, NY ,37703,Accident Reported,Sedan,Gray_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,6
+147,2016,Dodge,Charger_SRT_392, 38999, Flemington, NJ ,41296,No Accident or Damage Reported,Sedan,Red_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,14
+148,2019,Dodge,Durango_SXT, 28000, Woodside, NY ,26017,Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+149,2017,Dodge,Durango_R/T, 30595, Robbinsville, NJ ,66284,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,12
+150,2018,Dodge,Charger_GT, 30900, Amityville, NY ,33355,Minor Damage,Sedan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+151,2018,Dodge,Durango_SXT, 29995, Hackettstown, NJ ,35655,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+152,2018,Dodge,Challenger_GT, 34636, Lebanon, NJ ,10908,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+153,2020,Dodge,Charger_R/T_Scat_Pack, 45999, Newark, NJ,12563,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,1
+154,2018,Dodge,Durango_Citadel, 35995, Farmingdale, NY ,38927,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+155,2018,Dodge,Durango_GT, 29495, Newark, NJ ,27574,Minor Damage,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+156,2018,Dodge,Challenger_R/T, 36995, Greenvale, NY ,25308,No Accident or Damage Reported,Coupe,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+157,2014,Dodge,Durango_Limited, 21795, West Babylon, NY ,81180,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,27
+158,2021,Dodge,Charger_R/T_Scat_Pack, 45950, Bronx, NY ,625,No Accident or Damage Reported,Sedan,Orange_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,1
+159,2021,Dodge,Charger_R/T_Scat_Pack, 44950, Bronx, NY ,1952,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,1
+160,2018,Dodge,Challenger_R/T, 38988, Valley Stream, NY ,21408,Accident/Minor Damage,Coupe,Red_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,5
+161,2018,Dodge,Journey_Crossroad, 14485, Morristown, NJ ,135035,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,23
+162,2016,Dodge,Charger_SRT_392, 40990, Shrewsbury, NJ ,39841,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,5
+163,2019,Dodge,Durango_SXT_Plus, 27175, Irvington, NJ ,56321,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,0
+164,2019,Dodge,Charger_R/T_Scat_Pack, 43995, Wharton, NJ ,35551,No Accident or Damage Reported,Sedan,Green_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,13
+165,2018,Dodge,Durango_GT, 30995, Wharton, NJ ,76852,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+166,2017,Dodge,Durango_GT, 26995, North Brunswick, NJ ,82544,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,7
+167,2018,Dodge,Grand_Caravan_GT, 20995, Point Pleasant Boro, NJ ,60975,No Accident or Damage Reported,Minivan,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,3
+168,2019,Dodge,Challenger_SRT_Hellcat_Redeye, 74450, Bronx, NY ,5584,No Accident or Damage Reported,Coupe,Purple_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Personal Use,1
+169,2019,Dodge,Durango_SXT, 38351, Flemington, NJ ,18560,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+170,2021,Dodge,Challenger_R/T_Scat_Pack_Widebody, 55099, Englewood, NJ ,502,No Accident or Damage Reported,Coupe,Red_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,1
+171,2018,Dodge,Charger_GT, 24950, Bronx, NY ,32335,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+172,2014,Dodge,Avenger_SE, 7995, Hasbrouck Heights, NJ ,85123,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,6
+173,2018,Dodge,Durango_GT, 31900, Amityville, NY ,50457,Minor Damage,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,14
+174,2018,Dodge,Charger_GT, 32995, Nanuet, NY ,13535,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+175,2018,Dodge,Charger_GT, 32995, Nanuet, NY ,13535,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+176,2020,Dodge,Charger_SXT, 23590, Freeport, NY ,33990,No Accident or Damage Reported,Sedan,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,2
+177,2019,Dodge,Charger_SXT, 22469, Valley Stream, NY ,34824,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,2
+178,2017,Dodge,Durango_R/T, 34995, Saint James, NY ,54926,Damage Reported,SUV,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+179,2018,Dodge,Charger_GT, 30995, Hackettstown, NJ ,21495,Accident Reported,Sedan,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+180,2020,Dodge,Charger_SXT, 24396, Long Island City, NY ,38522,Accident/No Damage,Sedan,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,3
+181,2018,Dodge,Challenger_R/T, 35488, Green Brook, NJ ,9824,No Accident or Damage Reported,Coupe,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+182,2021,Dodge,Challenger_SRT, 84488, Green Brook, NJ ,5669,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Personal Use,2
+183,2018,Dodge,Durango_R/T, 40995, Brooklyn, NY ,29131,No Accident or Damage Reported,SUV,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+184,2018,Dodge,Durango_SXT, 30995, Brooklyn, NY ,29403,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+185,2019,Dodge,Durango_R/T, 46995, Sussex, NJ ,25906,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+186,2018,Dodge,Challenger_R/T_392_Scat_Pack_Shaker, 41988, Greenvale, NY ,26342,No Accident or Damage Reported,Coupe,Orange_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,8
+187,2018,Dodge,Charger_Daytona, 35000, Verona, NJ ,31395,Accident Reported,Sedan,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+188,2018,Dodge,Challenger_SXT_Plus, 28990, Bay Shore, NY ,15559,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+189,2018,Dodge,Challenger_SXT, 24900, Bloomfield, NJ ,42582,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,16
+190,2020,Dodge,Charger_R/T_Scat_Pack, 50500, Stamford, CT ,6241,No Accident or Damage Reported,Sedan,Red_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,1
+191,2018,Dodge,Charger_SRT_Hellcat, 63850, Franklin Square, NY ,28130,Accident Reported,Sedan,Black_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Personal Use,4
+192,2018,Dodge,Challenger_R/T_Plus, 34700, Rahway, NJ ,31087,No Accident or Damage Reported,Coupe,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+193,2016,Dodge,Challenger_SRT_Hellcat, 59995, Lakewood, NJ ,9991,No Accident or Damage Reported,Coupe,Orange_Engine:_8_Cyl_6.2_L_,2-Owner,Personal Use,8
+194,2017,Dodge,Challenger_R/T, 29798, Lindenhurst, NY ,35766,Minor Damage,Coupe,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+195,2017,Dodge,Challenger_GT, 27995, Robbinsville, NJ ,45380,No Accident or Damage Reported,Coupe,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Corporate Use,9
+196,2018,Dodge,Charger_GT_Plus, 30987, East Meadow, NY ,33439,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,4
+197,2020,Dodge,Challenger_SRT_Hellcat_Redeye_Widebody, 74950, Bronx, NY ,8093,No Accident or Damage Reported,Coupe,White_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Personal Use,1
+198,2018,Dodge,Charger_GT, 27995, Totowa, NJ ,46265,Accident/Minor Damage,Sedan,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,16
+199,2020,Dodge,Challenger_SXT, 25495, Colonia, NJ ,45613,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+200,2020,Dodge,Challenger_GT, 32998, Watchung, NJ ,5135,No Accident or Damage Reported,Coupe,Orange_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+201,2013,Dodge,Challenger_R/T, 20495, Westbury, NY ,69275,No Accident or Damage Reported,Coupe,Blue_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,6
+202,2015,Dodge,Dart_GT, 8990, Lodi, NJ ,83447,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+203,2019,Dodge,Charger_SXT, 29700, Wayne, NJ ,26300,Accident Reported,Sedan,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+204,2014,Dodge,Challenger_SRT8_Core, 31485, Massapequa, NY ,19677,No Accident or Damage Reported,Coupe,Purple_Engine:_8_Cyl_6.4_L_,3+ Owners,Personal Use,3
+205,2018,Dodge,Challenger_R/T_392_Scat_Pack_Shaker, 36500, Somerville, NJ ,27201,Accident Reported,Coupe,Gray_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,8
+206,2015,Dodge,Challenger_SXT, 20999, Eatontown, NJ ,69668,No Accident or Damage Reported,Coupe,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,7
+207,2017,Dodge,Durango_R/T, 34980, Bronx, NY ,47845,No Accident or Damage Reported,SUV,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+208,2019,Dodge,Durango_GT, 33900, Verona, NJ ,54139,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+209,2019,Dodge,Charger_SRT_Hellcat, 65700, Princeton, NJ ,27071,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Personal Use,8
+210,2017,Dodge,Charger_R/T, 34988, Valley Stream, NY ,46458,Accident/Minor Damage,Sedan,Green_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,17
+211,2020,Dodge,Charger_SXT, 22950, Woodside, NY ,15305,No Accident or Damage Reported,Sedan,Burgundy_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,0
+212,2015,Dodge,Challenger_R/T_Scat_Pack, 26995, Nanuet, NY ,85803,Accident/Minor Damage,Coupe,Gray_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,19
+213,2018,Dodge,Challenger_GT, 31999, Queens Village, NY ,29828,Minor Damage,Coupe,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+214,2018,Dodge,Charger_Daytona, 37995, East Brunswick, NJ ,34288,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,12
+215,2020,Dodge,Charger_R/T_Scat_Pack, 47395, Bronx, NY ,6321,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,5
+216,2018,Dodge,Charger_GT, 24818, Jamaica, NY ,62973,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,Number of Owners,Commercial Use,5
+217,2015,Dodge,Challenger_SRT_392, 41981, Avenel, NJ ,3317,No Accident or Damage Reported,Coupe,Green_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,1
+218,2016,Dodge,Dart_SXT, 11995, Highland Park, NJ ,81374,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Rental Use,7
+219,2021,Dodge,Durango_SRT_Hellcat, 94995, Bronx, NY ,4458,No Accident or Damage Reported,SUV,Red_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Personal Use,4
+220,2018,Dodge,Durango_GT, 29650, Woodside, NY ,36819,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+221,2018,Dodge,Challenger_GT, 30990, Jamaica, NY ,15513,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+222,2020,Dodge,Durango_SXT_Plus, 36992, Springfield, NJ ,16382,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,4
+223,2020,Dodge,Durango_GT_Plus, 37912, East Hanover, NJ ,16366,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Corporate Use,1
+224,2018,Dodge,Charger_GT, 34995, Brooklyn, NY ,5674,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+225,2018,Dodge,Charger_SRT_Hellcat, 62299, Ramsey, NJ ,18075,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Personal Use,5
+226,2019,Dodge,Durango_SXT_Plus, 34995, Sussex, NJ ,25690,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+227,2018,Dodge,Durango_GT, 35695, Parsippany, NJ ,20770,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+228,2020,Dodge,Durango_GT, 39995, Saint James, NY ,12619,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+229,2018,Dodge,Challenger_GT, 32900, Amityville, NY ,20865,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+230,2019,Dodge,Challenger_SRT_Hellcat_Redeye_Widebody, 83990, Pleasantville, NY,4898,No Accident or Damage Reported,Coupe,White_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Personal Use,3
+231,2018,Dodge,Durango_R/T, 43797, Lebanon, NJ ,20895,No Accident or Damage Reported,SUV,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+232,2016,Dodge,Charger_R/T, 21997, Elizabeth, NJ ,92034,Accident/Minor Damage,Sedan,Purple_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+233,2014,Dodge,Dart_SXT, 8985, Massapequa, NY ,98092,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+234,2018,Dodge,Durango_GT, 33900, Verona, NJ ,37373,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+235,2013,Dodge,Challenger_SRT8_392, 33500, Morristown, NJ ,41106,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_6.4_L_,3+ Owners,Personal Use,18
+236,2018,Dodge,Durango_GT, 32488, Green Brook, NJ ,40389,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,4
+237,2018,Dodge,Durango_SXT, 27000, Jersey City, NJ ,32501,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+238,2018,Dodge,Challenger_GT, 28988, Valley Stream, NY ,33200,Accident Reported,Coupe,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+239,2018,Dodge,Durango_SXT_Plus, 30498, Green Brook, NJ ,28462,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+240,2020,Dodge,Charger_GT, 35888, WEST NEW YORK, NJ ,15029,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+241,2018,Dodge,Challenger_GT, 32995, East Windsor, NJ ,24391,No Accident or Damage Reported,Coupe,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+242,2012,Dodge,Avenger_SXT, 6995, Butler, NJ ,98141,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+243,2020,Dodge,Charger_R/T_Scat_Pack, 46590, Newark, NJ,4591,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,1
+244,2018,Dodge,Durango_R/T, 41995, Mount Kisco, NY ,41596,No Accident or Damage Reported,SUV,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+245,2019,Dodge,Durango_R/T, 44888, Bayside, NY ,13497,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+246,2017,Dodge,Durango_SXT, 25990, Haskell, NJ ,58230,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,6
+247,2019,Dodge,Challenger_R/T_Scat_Pack, 41495, Edison, NJ ,20434,No Accident or Damage Reported,Coupe,Gray_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,0
+248,2019,Dodge,Durango_R/T, 44995, Rockaway, NJ ,25502,Accident/Minor Damage,SUV,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+249,2019,Dodge,Durango_GT_Plus, 37439, Butler, NJ ,25402,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+250,2015,Dodge,Charger_SE, 14250, Little Ferry, NJ ,119826,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,3
+251,2018,Dodge,Durango_GT, 37888, Butler, NJ ,31385,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+252,2010,Dodge,Journey_SXT, 7995, Ramsey, NJ ,93954,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,12
+253,2018,Dodge,Durango_GT, 33700, Nanuet, NY ,33375,Accident Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+254,2014,Dodge,Durango_Limited, 18000, Nanuet, NY ,127315,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+255,2018,Dodge,Durango_GT, 32995, Croton On Hudson, NY ,46465,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+256,2019,Dodge,Charger_R/T, 35495, Jamaica, NY ,16452,Damage Reported,Sedan,Green_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+257,2016,Dodge,Charger_SRT_Hellcat, 46988, Lakewood, NJ ,72765,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Personal Use,14
+258,2018,Dodge,Durango_R/T, 44497, Lebanon, NJ ,22740,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+259,2018,Dodge,Durango_R/T, 37995, Westbury, NY ,53460,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+260,2016,Dodge,Challenger_R/T_Plus, 34898, Oakhurst, NJ ,32671,No Accident or Damage Reported,Coupe,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,13
+261,2017,Dodge,Journey_SXT, 13899, Woodbridge, NJ ,81705,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,11
+262,2019,Dodge,Charger_R/T_Scat_Pack, 47653, East Brunswick, NJ ,15945,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,4
+263,2020,Dodge,Durango_R/T, 49888, Oakhurst, NJ ,5889,No Accident or Damage Reported,SUV,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+264,2001,Dodge,Ram_2500_ST, 6500, Lakewood, NJ ,109975,Accident Reported,Pickup,Red_Engine:_8_Cyl_5.9_L_,CARFAX 1-Owner,Personal Use,4
+265,2009,Dodge,Challenger_R/T, 20985, Massapequa, NY ,58556,No Accident or Damage Reported,Coupe,Blue_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,10
+266,2016,Dodge,Dart_SE, 9999, S Hackensack, NJ ,83772,Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+267,2003,Dodge,Ram_2500_ST, 6999, S Hackensack, NJ ,131539,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,32
+268,2019,Dodge,Charger_SXT, 21495, Jamaica, NY ,28129,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,5
+269,2014,Dodge,Challenger_R/T_Shaker, 21495, West Babylon, NY ,105198,Minor Damage,Coupe,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,14
+270,2016,Dodge,Charger_R/T, 24995, Somerset, NJ ,62300,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,15
+271,2018,Dodge,Challenger_R/T, 33988, Green Brook, NJ ,18523,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+272,2016,Dodge,Charger_SXT, 19995, Robbinsville, NJ ,70029,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,1
+273,2020,Dodge,Charger, 38880, Somerville, NJ ,18077,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+274,2019,Dodge,Durango_R/T, 41139, Robbinsville, NJ ,25104,No Accident or Damage Reported,SUV,Gray_Engine:_8_Cyl_5.7_L_,Number of Owners,Corporate Use,5
+275,2020,Dodge,Challenger_SXT, 24750, Bronx, NY ,30570,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,5
+276,2014,Dodge,Avenger_SE, 9595, Newton, NJ ,84548,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+277,2016,Dodge,Challenger_R/T_Plus, 31495, Ramsey, NJ ,13955,No Accident or Damage Reported,Coupe,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+278,2018,Dodge,Challenger_SRT_392, 45490, New Rochelle, NY ,37262,No Accident or Damage Reported,Coupe,Green_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,11
+279,2019,Dodge,Journey_SE_Value_Package, 24595, Robbinsville, NJ ,9484,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+280,2018,Dodge,Challenger_SXT, 29745, Lakewood, NJ ,35252,No Accident or Damage Reported,Coupe,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+281,2019,Dodge,Durango_GT_Plus, 39995, Bayside, NY ,15741,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,0
+282,2019,Dodge,Charger_SRT_Hellcat, 65950, Neptune, NJ ,15620,No Accident or Damage Reported,Sedan,Red_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Personal Use,2
+283,2014,Dodge,Durango_Limited, 17995, Newark, NJ ,78781,Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+284,2016,Dodge,Challenger_SRT_Hellcat, 52995, Wall Township, NJ ,29506,No Accident or Damage Reported,Coupe,White_Engine:_8_Cyl_6.2_L_,3+ Owners,Personal Use,15
+285,2018,Dodge,Challenger_R/T, 35499, Watchung, NJ ,8804,No Accident or Damage Reported,Coupe,Purple_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+286,2018,Dodge,Charger_GT, 27495, Wall Township, NJ ,38921,Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+287,2016,Dodge,Charger_SXT, 27966, Butler, NJ ,29319,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,5
+288,2012,Dodge,Durango_Citadel, 14995, Uniondale, NY ,124248,No Accident or Damage Reported,SUV,Gray_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,19
+289,2019,Dodge,Durango_GT_Plus, 38995, Rockaway, NJ ,24174,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+290,2017,Dodge,Charger_SXT, 21995, Roslyn Heights, NY ,66150,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,18
+291,2020,Dodge,Charger_SRT_Hellcat_Widebody, 81988, Green Brook, NJ ,3975,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_6.2_L_,2-Owner,Personal Use,5
+292,2018,Dodge,Charger_SXT_Plus, 27995, Bronx, NY ,41520,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+293,2021,Dodge,Charger_R/T_Scat_Pack, 44950, Woodside, NY ,2649,No Accident or Damage Reported,Sedan,Green_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,1
+294,2018,Dodge,Charger_SXT_Plus, 29295, Bronx, NY ,15844,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,14
+295,2017,Dodge,Durango_GT, 30100, Nanuet, NY ,58167,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+296,2013,Dodge,Dart_SXT_Rallye, 6325, Ramsey, NJ ,194229,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.4_L_,2-Owner,Personal Use,18
+297,2014,Dodge,Challenger_R/T, 23500, Norwalk, CT ,75130,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,10
+298,2020,Dodge,Durango_R/T, 35450, Bronx, NY ,34249,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,1
+299,2018,Dodge,Charger_R/T, 33988, Valley Stream, NY ,17306,Damage Reported,Sedan,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,8
+300,2019,Dodge,Charger_SXT, 25201, Saint James, NY ,37256,Accident Reported,Sedan,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,3
+301,2016,Dodge,Grand_Caravan_SXT, 14471, Wantagh, NY ,81329,No Accident or Damage Reported,Minivan,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,9
+302,2018,Dodge,Charger_R/T, 22995, Bronx, NY ,68835,No Accident or Damage Reported,Sedan,Silver_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,4
+303,2018,Dodge,Challenger_R/T, 39888, Oakhurst, NJ ,21270,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+304,2019,Dodge,Challenger_SRT_Hellcat, 66990, Ridgefield, CT ,2001,No Accident or Damage Reported,Coupe,Gray_Engine:_8_Cyl_6.2_L_,2-Owner,Personal Use,6
+305,2018,Dodge,Charger_GT_Plus, 30995, Edison, NJ ,12264,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+306,2018,Dodge,Durango_R/T, 39900, Wayne, NJ ,25588,Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+307,2019,Dodge,Challenger_R/T_Scat_Pack_Widebody, 49998, COLONIA, NJ ,6678,No Accident or Damage Reported,Coupe,White_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,10
+308,2019,Dodge,Challenger_GT, 31995, Jamaica, NY ,37013,No Accident or Damage Reported,Coupe,Purple_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,8
+309,2016,Dodge,Challenger_SXT, 23495, Budd Lake, NJ ,55811,Accident/Minor Damage,Coupe,White_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,4
+310,2016,Dodge,Challenger_R/T_Scat_Pack, 38499, Newark, NJ,2179,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,0
+311,2017,Dodge,Challenger_SRT_Hellcat, 62995, Croton On Hudson, NY ,6887,No Accident or Damage Reported,Coupe,Silver_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Personal Use,6
+312,2018,Dodge,Durango_GT, 35988, Lakewood, NJ ,19584,Accident/Minor Damage,SUV,6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+313,2018,Dodge,Durango_SXT, 31000, Bronx, NY ,10000,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+314,2013,Dodge,Dart_SXT, 11985, Inwood, NY ,37477,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+315,2018,Dodge,Charger_SRT_Hellcat, 58950, Bronx, NY ,37600,Accident Reported,Sedan,Red_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Personal Use,3
+316,2006,Dodge,Charger_R/T, 8995, Lakewood, NJ ,101112,Accident Reported,Sedan,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+317,2018,Dodge,Charger_Daytona, 37990, Valley Stream, NY ,21634,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,7
+318,2018,Dodge,Challenger_R/T_Scat_Pack, 44299, Randolph, NJ ,9018,No Accident or Damage Reported,Coupe,Gray_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,2
+319,2016,Dodge,Challenger_R/T_Scat_Pack, 41995, Randolph, NJ ,2544,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,2
+320,2018,Dodge,Charger_GT_Plus, 29995, Wall Township, NJ ,37628,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+321,2019,Dodge,Charger_SXT, 23999, Irvington, NJ ,45807,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,1
+322,2019,Dodge,Durango_GT, 35995, Rockaway, NJ ,37551,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+323,2019,Dodge,Charger_GT, 29999, Inwood, NY ,26106,Minor Damage,Sedan,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+324,2018,Dodge,Durango_Citadel_Anodized_Platinum, 41995, Rockaway, NJ ,26160,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+325,2018,Dodge,Durango_Citadel_Anodized_Platinum, 41995, Rockaway, NJ ,26160,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+326,2018,Dodge,Durango_R/T, 40495, Westbury, NY ,31955,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+327,2020,Dodge,Durango_R/T, 45767, Union, NJ ,23105,No Accident or Damage Reported,SUV,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+328,2018,Dodge,Journey_Crossroad, 23995, Farmingdale, NY ,38934,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+329,2008,Dodge,Nitro_SXT, 8500, Hazlet, NJ ,81984,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,29
+330,2019,Dodge,Challenger_R/T_Scat_Pack, 43750, Hollis, NY ,13436,No Accident or Damage Reported,Coupe,Green_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,4
+331,2019,Dodge,Charger_GT, 28588, Green Brook, NJ ,47739,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,4
+332,2016,Dodge,Charger_SXT, 15490, Freehold, NJ ,105060,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,12
+333,2018,Dodge,Durango_SXT, 31300, Nanuet, NY ,35572,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+334,2018,Dodge,Charger_SXT_Plus, 20050, Hollis, NY ,64241,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,5
+335,2018,Dodge,Durango_SXT, 32000, Nanuet, NY ,20401,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+336,2014,Dodge,Charger_SE, 9999, Little Ferry, NJ ,143059,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,9
+337,2018,Dodge,Durango_GT, 35200, Nanuet, NY ,30875,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+338,2020,Dodge,Durango_SXT_Plus, 37000, Nanuet, NY ,11603,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+339,2014,Dodge,Charger_SE, 9995, Bay Shore, NY ,103267,Damage Reported,Sedan,White_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,5
+340,2009,Dodge,Ram_1500_Laramie, 12995, South Hackensack, NJ ,174220,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,17
+341,2018,Dodge,Durango_SXT, 31434, East Brunswick, NJ ,31792,Accident Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+342,2018,Dodge,Durango_GT, 33995, Brooklyn, NY ,36311,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+343,2019,Dodge,Challenger_R/T, 36491, Greenvale, NY ,25709,No Accident or Damage Reported,Coupe,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,2
+344,2020,Dodge,Grand_Caravan_SXT, 24875, Brooklyn, NY ,52178,No Accident or Damage Reported,Minivan,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,2
+345,2011,Dodge,Challenger_R/T, 16995, Commack, NY ,129510,Damage Reported,Coupe,Orange_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,22
+346,2013,Dodge,Charger_SE, 10000, Ramsey, NJ ,138290,Accident Reported,Sedan,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,22
+347,2018,Dodge,Charger_GT, 27999, Newark, NJ,42625,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,11
+348,2019,Dodge,Charger_GT, 29726, Jamaica, NY ,21003,Damage Reported,Sedan,Orange_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,3
+349,2018,Dodge,Durango_GT, 34995, Farmingdale, NY ,28817,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,0
+350,2018,Dodge,Durango_GT, 34991, Little Falls, NJ ,35080,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+351,2019,Dodge,Durango_R/T, 39995, South Amboy, NJ ,55090,No Accident or Damage Reported,SUV,Red_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,10
+352,2018,Dodge,Durango_SXT, 30900, Freehold, NJ ,28644,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+353,2017,Dodge,Charger_R/T, 34897, Lebanon, NJ ,29003,No Accident or Damage Reported,Sedan,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+354,2016,Dodge,Challenger_SRT_Hellcat, 57881, Avenel, NJ ,8110,No Accident or Damage Reported,Coupe,White_Engine:_8_Cyl_6.2_L_,2-Owner,Personal Use,4
+355,2017,Dodge,Journey_SXT, 13599, Jamaica, NY ,74507,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,4
+356,2020,Dodge,Durango_GT, 40000, East Brunswick, NJ ,30910,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+357,2018,Dodge,Challenger_GT, 33655, Farmingdale, NY ,21991,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+358,2014,Dodge,Durango_Limited, 20900, Hazlet, NJ ,95751,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+359,2018,Dodge,Charger_R/T, 32950, Bronx, NY ,20448,Accident Reported,Sedan,Green_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+360,2013,Dodge,Dart_SE, 4499, S Hackensack, NJ ,181997,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,26
+361,2016,Dodge,Charger_SRT_Hellcat, 45970, Massapequa Park, NY ,70719,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_6.2_L_,2-Owner,Personal Use,10
+362,2019,Dodge,Charger_R/T, 31940, Massapequa Park, NY ,52447,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,2
+363,2018,Dodge,Journey_SE, 15950, Woodside, NY ,61561,Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+364,2015,Dodge,Journey_SE, 9995, Union, NJ ,106232,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,22
+365,2016,Dodge,Challenger_R/T_Scat_Pack, 34656, Amityville, NY ,17444,No Accident or Damage Reported,Coupe,Blue_Engine:_8_Cyl_6.4_L_,3+ Owners,Personal Use,5
+366,2018,Dodge,Durango_GT, 34688, Brooklyn, NY ,28898,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+367,2015,Dodge,Challenger_SRT_Hellcat, 56988, Green Brook, NJ ,7476,No Accident or Damage Reported,Coupe,White_Engine:_8_Cyl_6.2_L_,3+ Owners,Personal Use,7
+368,2018,Dodge,Challenger_GT, 30991, Little Falls, NJ ,0,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,15
+369,2019,Dodge,Charger_SXT, 23995, Brooklyn, NY ,29812,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,0
+370,2017,Dodge,Charger_Daytona, 35900, Freehold, NJ ,51762,Damage Reported,Sedan,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,4
+371,2014,Dodge,Charger_SXT, 13900, Belleville, NJ ,80715,Minor Damage,Sedan,White_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,14
+372,2017,Dodge,Challenger_SRT_Hellcat, 54990, Somerville, NJ ,30041,Minor Damage,Coupe,Black_Engine:_8_Cyl_6.2_L_,2-Owner,Personal Use,7
+373,2015,Dodge,Journey_SXT, 10490, Lodi, NJ ,83485,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,2
+374,2016,Dodge,Charger_SRT_Hellcat, 48970, Little Ferry, NJ ,48755,Major Damage,Sedan,Orange_Engine:_8_Cyl_6.2_L_,3+ Owners,Personal Use,26
+375,2013,Dodge,Dart_SXT, 5900, Hillside, NJ ,188508,No Accident or Damage Reported,Sedan,Orange_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,10
+376,2019,Dodge,Charger_SXT, 35995, Wharton, NJ ,6807,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+377,2018,Dodge,Durango_SXT, 30995, Wharton, NJ ,34391,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+378,2021,Dodge,Charger_SXT, 24950, Bronx, NY ,11118,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+379,2018,Dodge,Durango_GT, 32795, Bronx, NY ,32926,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+380,2020,Dodge,Charger_R/T, 34950, Bronx, NY ,3222,No Accident or Damage Reported,Sedan,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+381,2019,Dodge,Charger_R/T_Scat_Pack, 46995, Jamaica, NY ,20015,Accident/Minor Damage,Sedan,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,1
+382,2019,Dodge,Durango_GT, 37942, Saint James, NY ,19903,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+383,2018,Dodge,Durango_GT, 34995, Saint James, NY ,38003,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+384,2018,Dodge,Durango_GT, 34459, Hackettstown, NJ ,33078,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+385,2015,Dodge,Durango_Limited, 18995, Hackettstown, NJ ,129151,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,14
+386,2019,Dodge,Durango_GT, 35995, Hackettstown, NJ ,35995,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+387,2020,Dodge,Charger_SXT, 24444, Huntington, NY ,31836,Minor Damage,Sedan,6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,4
+388,2018,Dodge,Challenger_GT, 32883, PARAMUS, NJ ,23428,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+389,2018,Dodge,Durango_R/T, 42995, Brooklyn, NY ,32268,No Accident or Damage Reported,SUV,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+390,2018,Dodge,Charger_GT, 30997, South Plainfield, NJ ,32715,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+391,2018,Dodge,Challenger_SXT_Plus, 31499, Farmingdale, NY ,7371,No Accident or Damage Reported,Coupe,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+392,2018,Dodge,Durango_GT, 36900, Amityville, NY ,28158,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+393,2020,Dodge,Durango_R/T, 49991, Little Falls, NJ ,12207,No Accident or Damage Reported,SUV,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+394,2018,Dodge,Durango_GT, 37900, Amityville, NY ,23967,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+395,2018,Dodge,Durango_SXT, 31850, Farmingdale, NY ,8324,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+396,2018,Dodge,Durango_GT, 35995, Brooklyn, NY ,22887,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+397,2018,Dodge,Durango_GT, 39900, Sussex, NJ ,22794,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+398,2020,Dodge,Durango_R/T, 43995, Brooklyn, NY ,26187,No Accident or Damage Reported,SUV,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+399,2018,Dodge,Challenger_R/T, 43995, Farmingdale, NY ,17103,No Accident or Damage Reported,Coupe,Red_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,2
+400,2015,Dodge,Challenger_R/T, 24900, Bronx, NY ,67618,Accident/Minor Damage,Coupe,White_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,25
+401,2018,Dodge,Durango_GT, 30595, Robbinsville, NJ ,66689,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,10
+402,2018,Dodge,Durango_GT, 34276, Tenafly, NJ ,36928,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+403,2021,Dodge,Charger_SXT, 27985, Hasbrouck Heights, NJ ,17356,Accident Reported,Sedan,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,0
+404,2019,Dodge,Durango_GT, 32588, Lakewood, NJ ,53603,No Accident or Damage Reported,SUV,6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+405,2018,Dodge,Durango_SXT, 32997, Lebanon, NJ ,34631,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+406,2015,Dodge,Durango_SXT, 20161, Princeton, NJ ,100009,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+407,2016,Dodge,Challenger_R/T_Plus, 30988, Ramsey, NJ ,52335,No Accident or Damage Reported,Coupe,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,13
+408,2018,Dodge,Durango_GT, 34460, Shrewsbury, NJ ,42841,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+409,2018,Dodge,Durango_SRT, 43900, Rahway, NJ ,107619,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Commercial Use,10
+410,2018,Dodge,Challenger_GT, 32887, White Plains, NY ,34761,No Accident or Damage Reported,Coupe,Orange_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+411,2009,Dodge,Challenger_SRT8, 32495, Lakewood, NJ ,13819,No Accident or Damage Reported,Coupe,Blue_Engine:_8_Cyl_6.1_L_,3+ Owners,Personal Use,8
+412,2018,Dodge,Durango_SXT, 35994, Union, NJ ,31130,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+413,2020,Dodge,Challenger_R/T_Scat_Pack, 47943, Freeport, NY ,5510,No Accident or Damage Reported,Coupe,Orange_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,2
+414,2017,Dodge,Durango_GT, 25874, Uniondale, NY ,47078,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,2
+415,2017,Dodge,Challenger_SRT_Hellcat, 56990, Freehold, NJ ,20278,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_6.2_L_,2-Owner,Multiple Use,9
+416,2010,Dodge,Grand_Caravan_SE, 3995, Hasbrouck Heights, NJ ,201403,Accident/Minor Damage,Minivan,Blue_Engine:_6_Cyl_3.3_L_,3+ Owners,Personal Use,24
+417,2012,Dodge,Journey_SXT, 9299, Eatontown, NJ ,111716,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,15
+418,2018,Dodge,Durango_R/T, 38995, Great Neck, NY ,35768,Accident Reported,SUV,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+419,2018,Dodge,Durango_GT, 33900, North Plainfield, NJ ,41324,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,13
+420,2014,Dodge,Charger_R/T, 19880, East Brunswick, NJ ,52000,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,14
+421,2018,Dodge,Durango_R/T, 37838, Butler, NJ ,67071,Accident Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+422,2018,Dodge,Durango_GT, 34810, Ocean, NJ ,32508,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+423,2019,Dodge,Challenger_GT, 32495, Jersey City, NJ ,26399,No Accident or Damage Reported,Coupe,Orange_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+424,2019,Dodge,Charger_R/T_Scat_Pack, 45993, PARAMUS, NJ ,3343,No Accident or Damage Reported,Sedan,Red_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,0
+425,2009,Dodge,Challenger_SRT8, 21995, Lakewood, NJ ,106629,No Accident or Damage Reported,Coupe,Orange_Engine:_8_Cyl_6.1_L_,3+ Owners,Multiple Use,32
+426,2007,Dodge,Caliber_SXT, 4699, Sussex, NJ ,129252,No Accident or Damage Reported,Hatchback,Orange_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,18
+427,2017,Dodge,Challenger_R/T, 38899, Randolph, NJ ,23056,No Accident or Damage Reported,Coupe,Gray_Engine:_8_Cyl_6.4_L_,2-Owner,Multiple Use,6
+428,2017,Dodge,Durango_GT, 29995, Roslyn, NY ,55859,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,11
+429,2018,Dodge,Durango_GT, 36995, Robbinsville, NJ ,28002,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+430,2018,Dodge,Charger_GT, 28795, Bronx, NY ,30715,Accident/Minor Damage,Sedan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+431,2018,Dodge,Charger_SXT, 21590, Elmwood Park, NJ ,60871,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,5
+432,2009,Dodge,Ram_1500_SLT, 9999, S Hackensack, NJ ,157897,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_4.7_L_,CARFAX 1-Owner,Commercial Use,31
+433,2018,Dodge,Charger_R/T_Scat_Pack, 40995, Commack, NY ,28304,Accident Reported,Sedan,Black_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,8
+434,2014,Dodge,Journey_SXT, 8595, Brooklyn, NY ,124042,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,15
+435,2009,Dodge,Ram_2500_ST, 14999, S Hackensack, NJ ,98105,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,3+ Owners,Commercial Use,21
+436,2019,Dodge,Challenger_SXT, 29989, Sayville, NY ,15410,Minor Damage,Coupe,Orange_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+437,2018,Dodge,Durango_GT, 36995, Brooklyn, NY ,30685,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+438,2018,Dodge,Durango_GT, 32995, Jamaica, NY ,49497,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,12
+439,2018,Dodge,Durango_SXT, 32995, Brooklyn, NY ,22731,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+440,2018,Dodge,Challenger_R/T, 35538, Farmingdale, NY ,24717,No Accident or Damage Reported,Coupe,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+441,2018,Dodge,Durango_SXT, 32900, Amityville, NY ,16532,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+442,2018,Dodge,Durango_R/T, 39900, Upper Saddle River, NJ ,36933,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+443,2018,Dodge,Durango_GT, 35900, Amityville, NY ,41446,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+444,2018,Dodge,Durango_R/T, 39900, Hazlet, NJ ,48872,No Accident or Damage Reported,SUV,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,1
+445,2018,Dodge,Durango_SXT, 30980, Jericho, NY ,29535,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+446,2019,Dodge,Durango_SXT_Plus, 32995, Brooklyn, NY ,32791,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+447,2018,Dodge,Durango_R/T, 41980, Jericho, NY ,34585,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+448,2018,Dodge,Durango_SXT, 30000, Bronx, NY ,25986,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+449,2016,Dodge,Journey_Crossroad, 14200, Bronx, NY ,80305,Accident Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,13
+450,2018,Dodge,Durango_SXT, 33989, Freehold, NJ ,28616,Accident/Minor Damage,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+451,2013,Dodge,Dart_SXT_Rallye, 9499, East Windsor, NJ ,109407,No Accident or Damage Reported,Sedan,Orange_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+452,2018,Dodge,Durango_GT, 31995, South Amboy, NJ ,47876,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Corporate Use,6
+453,2013,Dodge,Avenger_SE, 7995, Asbury Park, NJ ,115383,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,4
+454,2018,Dodge,Charger_GT, 31725, Robbinsville, NJ ,30459,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.6_L_,Number of Owners,Personal Use,3
+455,2018,Dodge,Challenger_R/T, 35388, Valley Stream, NY ,28401,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,1
+456,2019,Dodge,Charger_R/T, 35850, Franklin Square, NY ,27354,Damage Reported,Sedan,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,1
+457,2018,Dodge,Charger_R/T, 28988, Green Brook, NJ ,59469,No Accident or Damage Reported,Sedan,Red_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,3
+458,2020,Dodge,Durango_GT_Plus, 49912, East Hanover, NJ ,10543,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+459,2018,Dodge,Durango_GT, 33995, Freeport, NY ,38261,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+460,2019,Dodge,Challenger_R/T_Scat_Pack, 43488, Green Brook, NJ ,17521,No Accident or Damage Reported,Coupe,Blue_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,6
+461,2015,Dodge,Challenger_R/T_Plus, 33975, Lakewood, NJ ,42341,No Accident or Damage Reported,Coupe,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+462,2019,Dodge,Grand_Caravan_SE, 26388, Freehold, NJ ,10828,No Accident or Damage Reported,Minivan,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+463,2014,Dodge,Charger_SE, 9995, Brooklyn, NY ,122035,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,12
+464,2020,Dodge,Durango_GT_Plus, 41295, Robbinsville, NJ ,22446,No Accident or Damage Reported,SUV,6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+465,2017,Dodge,Charger_R/T, 30918, Greenvale, NY ,51643,Accident Reported,Sedan,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,14
+466,2015,Dodge,Journey, 11995, Roselle, NJ ,72452,Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,9
+467,2018,Dodge,Charger_GT, 30995, Jersey City, NJ ,53782,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+468,2017,Dodge,Charger_R/T_Scat_Pack, 39400, Old Bridge, NJ ,25183,Major Damage,Sedan,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,2
+469,2018,Dodge,Durango_SXT_Plus, 30991, Little Falls, NJ ,19677,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+470,2005,Dodge,Ram_2500_ST, 14499, S Hackensack, NJ ,239563,No Accident or Damage Reported,Pickup,Burgundy_Engine:_6_Cyl_5.9_L_,2-Owner,Multiple Use,19
+471,2018,Dodge,Durango_R/T, 38480, Massapequa Park, NY ,46751,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,7
+472,2016,Dodge,Challenger, 27985, Massapequa, NY ,45284,Accident Reported,Coupe,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,10
+473,2012,Dodge,Grand_Caravan_SE, 5999, Brooklyn, NY ,127071,Accident Reported,Minivan,Silver_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,1
+474,2019,Dodge,Durango_R/T, 38990, Valley Stream, NY ,31601,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,0
+475,2018,Dodge,Charger_R/T_392, 41595, Bronx, NY ,53619,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Lease Use,13
+476,2014,Dodge,Challenger_SRT8_Core, 33881, Avenel, NJ ,16713,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_6.4_L_,3+ Owners,Personal Use,4
+477,2010,Dodge,Charger_R/T, 9975, Lindenhurst, NY ,105668,Minor Damage,Sedan,White_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,9
+478,2018,Dodge,Charger_GT, 27995, Bronx, NY ,28527,Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+479,2018,Dodge,Durango_GT, 37868, Butler, NJ ,38302,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+480,2018,Dodge,Charger_GT, 34928, Butler, NJ ,25620,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+481,2019,Dodge,Challenger_SXT, 24675, Brooklyn, NY ,26288,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,1
+482,2018,Dodge,Durango_GT, 37868, Butler, NJ ,38612,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+483,2016,Dodge,Challenger_SRT_392, 43888, Syosset, NY ,14537,No Accident or Damage Reported,Coupe,Gray_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,4
+484,2018,Dodge,Durango_R/T, 45888, Butler, NJ ,32883,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+485,2017,Dodge,Charger_Daytona_392, 35950, Bronx, NY ,27843,Accident Reported,Sedan,Orange_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,11
+486,2019,Dodge,Durango_R/T, 43795, Hempstead, NY ,25056,Minor Damage,SUV,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+487,2016,Dodge,Charger_SE, 16595, Elizabeth, NJ ,89760,Accident Reported,Sedan,Blue_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,6
+488,2019,Dodge,Durango_GT_Plus, 38995, Rockaway, NJ ,30039,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+489,2017,Dodge,Durango_GT, 24997, Elizabeth, NJ ,111102,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Vehicle Use,9
+490,2015,Dodge,Dart_SXT, 8950, Yonkers, NY ,92709,Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,3+ Owners,Multiple Use,18
+491,2018,Dodge,Durango_SXT, 30497, Morristown, NJ ,53637,Accident Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+492,2017,Dodge,Grand_Caravan_GT, 16488, Lakewood, NJ ,90790,Accident Reported,Minivan,6_Cyl_3.6_L_,2-Owner,Multiple Use,8
+493,2018,Dodge,Durango_GT, 38995, Rockaway, NJ ,27939,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,13
+494,2018,Dodge,Charger_SRT_392, 47750, North Plainfield, NJ ,18210,No Accident or Damage Reported,Sedan,Orange_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,1
+495,2019,Dodge,Charger_R/T_Scat_Pack, 41950, Bronx, NY ,10798,No Accident or Damage Reported,Sedan,Purple_Engine:_8_Cyl_6.4_L_,3+ Owners,Vehicle Use,1
+496,2013,Dodge,Challenger_R/T, 25777, Oakhurst, NJ ,62781,No Accident or Damage Reported,Coupe,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+497,2015,Dodge,Challenger_SXT, 19900, Elmsford, NY ,71485,No Accident or Damage Reported,Coupe,Silver_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,5
+498,2021,Dodge,Charger_R/T_Scat_Pack, 55999, Bridgewater, NJ ,2856,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Corporate Use,1
+499,2020,Dodge,Durango_Citadel_Anodized_Platinum, 48912, East Hanover, NJ ,12080,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Corporate Use,2
+500,2015,Dodge,Charger_SXT, 18995, Manalapan, NJ ,88901,Accident/Minor Damage,Sedan,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+501,2012,Dodge,Challenger_SXT, 18595, Paterson, NJ ,82328,No Accident or Damage Reported,Coupe,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,10
+502,2018,Dodge,Charger_R/T, 36992, Springfield, NJ ,21312,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+503,2018,Dodge,Durango_GT, 25995, Bronx, NY ,84336,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,13
+504,2007,Dodge,Caliber_SXT, 4999, S Hackensack, NJ ,91028,No Accident or Damage Reported,Hatchback,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,30
+505,2018,Dodge,Charger_R/T_Scat_Pack, 37200, Valley Stream, NY ,33534,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,6
+506,2018,Dodge,Durango_GT, 32800, Bronx, NY ,39295,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+507,2018,Dodge,Charger_SRT_Hellcat, 66995, Brooklyn, NY ,27994,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Personal Use,4
+508,2011,Dodge,Challenger_SRT8, 28495, South Hackensack, NJ ,56925,Accident Reported,Coupe,White_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,3
+509,2016,Dodge,Durango_SXT, 19900, Brooklyn, NY ,102104,Minor Damage,SUV,Red_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,15
+510,2020,Dodge,Durango_R/T, 37450, Bronx, NY ,32556,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,2
+511,2017,Dodge,Durango_GT, 27495, East Windsor, NJ ,79973,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,6
+512,2018,Dodge,Journey_Crossroad, 17995, South River, NJ ,51828,Accident Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,2
+513,2018,Dodge,Durango_R/T, 39900, Freehold, NJ ,50025,Minor Damage,SUV,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+514,2018,Dodge,Challenger_R/T, 29000, Old Bridge, NJ ,63792,No Accident or Damage Reported,Coupe,Silver_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,8
+515,2016,Dodge,Charger_R/T, 21975, Hillside, NJ ,84980,No Accident or Damage Reported,Sedan,Silver_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,8
+516,2015,Dodge,Journey_SXT, 10900, Hillside, NJ ,91609,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,7
+517,2018,Dodge,Challenger_R/T_392_Scat_Pack_Shaker, 39995, Wall Township, NJ ,28350,Branded Title,Coupe,Purple_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,6
+518,2017,Dodge,Challenger_GT, 31500, Hackettstown, NJ ,55628,No Accident or Damage Reported,Coupe,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+519,2018,Dodge,Durango_SXT_Plus, 32549, Robbinsville, NJ ,24072,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+520,2018,Dodge,Durango_SXT, 30198, Floral Park, NY ,27193,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+521,2020,Dodge,Challenger_R/T_Scat_Pack, 47488, Green Brook, NJ ,2784,No Accident or Damage Reported,Coupe,Red_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,2
+522,2015,Dodge,Charger_R/T_Road/Track, 25500, Rockville Centre, NY ,62769,Accident Reported,Sedan,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,28
+523,2006,Dodge,Viper_SRT10, 69995, South River, NJ ,7022,No Accident or Damage Reported,Convertible,Red_Engine:_10_Cyl_8.3_L_,CARFAX 1-Owner,Personal Use,2
+524,2018,Dodge,Charger_R/T_Scat_Pack, 39995, Wharton, NJ ,43058,No Accident or Damage Reported,Sedan,Red_Engine:_8_Cyl_6.4_L_,3+ Owners,Multiple Use,11
+525,2018,Dodge,Durango_SXT, 31995, Rockaway, NJ ,31287,Minor Damage,SUV,Purple_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+526,2005,Dodge,Dakota_ST, 6950, Stamford, CT ,89820,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Commercial Use,22
+527,2004,Dodge,Ram_1500_SLT, 5499, S Hackensack, NJ ,278431,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,8
+528,2015,Dodge,Durango_SXT, 21000, East Brunswick, NJ ,71239,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,8
+529,2019,Dodge,Charger_SXT, 22893, Bronx, NY ,44005,Minor Damage,Sedan,Black_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,7
+530,2018,Dodge,Charger_R/T_Scat_Pack, 46999, Lakewood, NJ ,23899,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,4
+531,2018,Dodge,Charger_R/T_Scat_Pack, 41500, Old Bridge, NJ ,46638,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,4
+532,2004,Dodge,Durango_ST, 4995, Jersey City, NJ ,96125,Accident Reported,SUV,Red_Engine:_8_Cyl_4.7_L_,CARFAX 1-Owner,Government Use,8
+533,2020,Dodge,Charger_R/T_Scat_Pack, 54999, Bridgewater, NJ ,28301,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,3
+534,2009,Dodge,Challenger_SRT8, 27999, Bridgewater, NJ ,47614,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_6.1_L_,2-Owner,Personal Use,13
+535,2013,Dodge,Journey, 9255, Rockaway, NJ ,91602,Accident Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+536,2016,Dodge,Grand_Caravan_American_Value_Package, 11650, Woodside, NY ,84822,Accident/Minor Damage,Minivan,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Government Use,9
+537,2002,Dodge,Ram_3500_SLT, 15995, Stockholm, NJ ,163112,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_5.9_L_,2-Owner,Vehicle Use,7
+538,2010,Dodge,Challenger_SRT8, 33888, Huntington, NY ,10700,No Accident or Damage Reported,Coupe,Blue_Engine:_8_Cyl_6.1_L_,2-Owner,Personal Use,8
+539,2020,Dodge,Grand_Caravan_SXT, 28888, Bronx, NY ,29328,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,2
+540,2018,Dodge,Durango_GT, 33400, Nanuet, NY ,54329,Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,13
+541,2015,Dodge,Challenger_SRT_Hellcat, 43995, Wall Township, NJ ,45740,Minor Damage,Coupe,Green_Engine:_8_Cyl_6.2_L_,2-Owner,Multiple Use,19
+542,2017,Dodge,Charger_SXT, 17989, Union, NJ ,97469,Minor Damage,Sedan,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,12
+543,2009,Dodge,Journey_SXT, 5999, Passaic, NJ ,117525,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+544,2019,Dodge,Durango_GT_Plus, 38992, Springfield, NJ ,28800,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+545,2015,Dodge,Durango_Limited, 20469, Newark, NJ ,64770,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,4
+546,2014,Dodge,Grand_Caravan_SE, 10995, Saint James, NY ,71025,No Accident or Damage Reported,Minivan,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,3
+547,2020,Dodge,Challenger_R/T_50th_Anniversary, 39499, Wharton, NJ ,8711,No Accident or Damage Reported,Coupe,Red_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,4
+548,2019,Dodge,Challenger_SXT, 25990, Brooklyn, NY ,29889,Accident Reported,Coupe,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,1
+549,2014,Dodge,Challenger_R/T_Shaker, 33950, Elmont, NY ,26834,No Accident or Damage Reported,Coupe,Orange_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+550,2016,Dodge,Charger_SXT, 18499, Hasbrouck Heights, NJ ,79920,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,6
+551,2015,Dodge,Durango_Limited, 24998, Saint James, NY ,84386,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,16
+552,2019,Dodge,Durango_SRT, 59850, Franklin Square, NY ,7752,Accident Reported,SUV,White_Engine:_8_Cyl_6.4_L_,2-Owner,Multiple Use,5
+553,2020,Dodge,Challenger_R/T_Scat_Pack, 46995, Asbury Park, NJ ,5985,No Accident or Damage Reported,Coupe,Red_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,3
+554,2009,Dodge,Nitro_SE, 4990, Hasbrouck Heights, NJ ,161535,Damage Reported,SUV,Silver_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,14
+555,2016,Dodge,Journey_SXT, 13950, Bronx, NY ,53217,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,Number of Owners,Vehicle Use,5
+556,2018,Dodge,Durango_GT, 36912, East Hanover, NJ ,36456,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+557,2013,Dodge,Challenger_R/T, 26952, Greenvale, NY ,19596,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,11
+558,2019,Dodge,Durango_R/T, 43900, Amityville, NY ,35784,Minor Damage,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,11
+559,2020,Dodge,Durango_R/T, 49999, Sussex, NJ ,9798,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,3
+560,2017,Dodge,Durango_GT, 32995, Jersey City, NJ ,56225,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+561,2018,Dodge,Charger_GT, 37995, Jersey City, NJ ,32583,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+562,2018,Dodge,Durango_GT, 34950, Woodside, NY ,24489,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+563,2018,Dodge,Durango_GT, 32722, Butler, NJ ,29071,Accident Reported,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,1
+564,2015,Dodge,Dart_Aero, 5999, Brooklyn, NY ,114113,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_1.4_L_,2-Owner,Personal Use,10
+565,2019,Dodge,Charger_SXT, 27990, Freehold, NJ ,54490,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,5
+566,2017,Dodge,Charger_SRT_Hellcat, 49995, Wall Township, NJ ,40192,Branded Title,Sedan,White_Engine:_8_Cyl_6.2_L_,3+ Owners,Personal Use,23
+567,2020,Dodge,Challenger_SXT, 25450, Woodside, NY ,10780,Accident/Minor Damage,Coupe,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,2
+568,2017,Dodge,Grand_Caravan_SXT, 14890, Valley Stream, NY ,63992,No Accident or Damage Reported,Minivan,Blue_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,5
+569,2016,Dodge,Charger_SXT, 16950, Woodside, NY ,70415,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,3
+570,2018,Dodge,Durango_GT, 35000, Bronx, NY ,35609,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+571,2020,Dodge,Charger_R/T_Scat_Pack, 43995, Jersey City, NJ ,5999,No Accident or Damage Reported,Sedan,Orange_Engine:_8_Cyl_6.4_L_,2-Owner,Multiple Use,1
+572,2021,Dodge,Challenger_R/T, 37588, Valley Stream, NY ,850,Accident Reported,Coupe,Green_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Vehicle Use,0
+573,2016,Dodge,Challenger_R/T_Scat_Pack, 34295, Jersey City, NJ ,18746,Damage Reported,Coupe,Red_Engine:_8_Cyl_6.4_L_,3+ Owners,Personal Use,8
+574,2007,Dodge,Ram_2500_Laramie, 8699, S Hackensack, NJ ,160470,Minor Damage,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,3
+575,2018,Dodge,Charger_R/T, 37995, Bronx, NY ,28360,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,6
+576,2018,Dodge,Durango_R/T, 38888, Jamaica, NY ,62408,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+577,2018,Dodge,Challenger_R/T, 42900, Rahway, NJ ,45137,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,6
+578,2016,Dodge,Dart_SXT, 13999, Queens Village, NY ,16853,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,1
+579,2020,Dodge,Durango_R/T, 39995, Inwood, NY ,17065,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,1
+580,2017,Dodge,Durango_R/T, 34716, Monmouth Junction, NJ ,53048,Accident/Minor Damage,SUV,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+581,2018,Dodge,Challenger_R/T_Scat_Pack, 37495, Jersey City, NJ ,33363,No Accident or Damage Reported,Coupe,Blue_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,9
+582,2009,Dodge,Challenger_SRT8, 31985, Massapequa, NY ,15330,No Accident or Damage Reported,Coupe,Orange_Engine:_8_Cyl_6.1_L_,2-Owner,Personal Use,10
+583,2019,Dodge,Charger_SXT, 24985, Paterson, NJ ,41079,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,1
+584,2019,Dodge,Durango_Citadel_Anodized_Platinum, 38480, Massapequa Park, NY ,43054,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,1
+585,2017,Dodge,Challenger_GT, 26985, Jersey City, NJ ,25669,Accident/Minor Damage,Coupe,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+586,2018,Dodge,Charger_GT, 32995, Wharton, NJ ,20042,Damage Reported,Sedan,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+587,2018,Dodge,Durango_GT, 38995, Rockaway, NJ ,28787,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+588,2019,Dodge,Charger_SXT, 21995, Woodside, NY ,33529,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,3
+589,2018,Dodge,Charger_R/T_Scat_Pack, 40731, Bronx, NY ,28974,Damage Reported,Sedan,Gray_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Corporate Use,11
+590,2019,Dodge,Durango_SXT_Plus, 33609, Queens Village, NY ,27700,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,0
+591,2019,Dodge,Challenger_R/T_Scat_Pack, 45490, Watchung, NJ ,7704,No Accident or Damage Reported,Coupe,Blue_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,5
+592,2017,Dodge,Durango_SXT, 29999, Queens Village, NY ,36242,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,0
+593,2021,Dodge,Durango_R/T, 39850, Bronx, NY ,14937,No Accident or Damage Reported,SUV,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,0
+594,2018,Dodge,Challenger_SXT_Plus, 26795, Bronx, NY ,30704,Damage Reported,Coupe,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,0
+595,2013,Dodge,Charger_Police, 10000, Lakewood, NJ ,127271,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Vehicle Use,2
+596,2018,Dodge,Durango_GT, 38407, Staten Island, NY ,24067,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+597,2018,Dodge,Challenger_SXT, 29992, Springfield, NJ ,27301,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+598,2018,Dodge,Durango_GT, 40992, Springfield, NJ ,29542,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+599,2021,Dodge,Durango_R/T, 54995, Rockaway, NJ ,6161,No Accident or Damage Reported,SUV,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,3
+600,2018,Dodge,Durango_GT, 40992, Springfield, NJ ,29542,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+601,2014,Dodge,Durango_Limited, 24995, West Nyack, NY ,58635,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,16
+602,2020,Dodge,Charger_SRT_Hellcat_Widebody, 82980, Richmond Hill, NY ,1140,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_6.2_L_,Number of Owners,Vehicle Use,1
+603,2018,Dodge,Charger_R/T, 42405, Oakhurst, NJ ,22306,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,8
+604,2018,Dodge,Charger_GT, 31821, Long Island City, NY ,39702,Damage Reported,Sedan,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+605,2018,Dodge,Charger_R/T, 38995, Saint James, NY ,19676,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,12
+606,2020,Dodge,Challenger_R/T, 27050, Newark, NJ ,21138,Accident Reported,Coupe,Red_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,1
+607,2019,Dodge,Durango_GT, 31995, Edison, NJ ,53663,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+608,2018,Dodge,Charger_R/T_Scat_Pack, 44998, Lebanon, NJ ,23282,Minor Damage,Sedan,Purple_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,8
+609,2018,Dodge,Challenger_GT, 34995, Asbury Park, NJ ,23317,No Accident or Damage Reported,Coupe,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+610,2018,Dodge,Charger_GT, 32997, Lebanon, NJ ,21758,No Accident or Damage Reported,Sedan,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+611,2019,Dodge,Challenger_R/T_Scat_Pack, 45527, Tenafly, NJ ,3935,No Accident or Damage Reported,Coupe,Gray_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,2
+612,2018,Dodge,Durango_R/T, 40981, Woodside, NY ,24010,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+613,2019,Dodge,Durango_GT, 36517, Bronx, NY ,39299,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+614,2020,Dodge,Durango_R/T, 50999, Sussex, NJ ,10964,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,5
+615,2020,Dodge,Durango_GT, 40995, Brooklyn, NY ,7218,Accident Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+616,2014,Dodge,Durango_Limited, 20995, UNION CITY, NJ ,92126,Accident/Minor Damage,SUV,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,37
+617,2018,Dodge,Durango_SXT_Plus, 32998, COLONIA, NJ ,29982,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+618,2012,Dodge,Journey_SXT, 7601, Paterson, NJ ,127268,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,6
+619,2006,Dodge,Ram_2500_ST, 11995, Newton, NJ ,174871,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,15
+620,2015,Dodge,Challenger_SXT_Plus, 20850, Franklin Square, NY ,77230,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,27
+621,2018,Dodge,Durango_SXT_Plus, 32995, Edison, NJ ,32265,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+622,2019,Dodge,Charger_GT, 28490, Valley Stream, NY ,51683,No Accident or Damage Reported,Sedan,Orange_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,2
+623,2019,Dodge,Charger_GT, 32995, Lakewood, NJ ,30331,No Accident or Damage Reported,Sedan,Red_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,5
+624,2018,Dodge,Charger_R/T_Scat_Pack, 41029, Englewood, NJ ,22053,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Corporate Use,2
+625,2013,Dodge,Dart_Aero, 9463, Wantagh, NY ,57216,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,4
+626,2018,Dodge,Durango_R/T, 43400, Bloomfield, NJ ,30477,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,14
+627,2020,Dodge,Charger_R/T, 41480, Jericho, NY ,16422,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+628,2017,Dodge,Journey_SXT, 14300, Eatontown, NJ ,99119,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,8
+629,2017,Dodge,Durango_GT, 23995, Butler, NJ ,115946,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,23
+630,2004,Dodge,Ram_3500_SLT, 29900, Freehold, NJ ,74154,No Accident or Damage Reported,Pickup,Blue_Engine:_6_Cyl_5.9_L_,2-Owner,Multiple Use,7
+631,2018,Dodge,Durango_GT, 33995, Wall Township, NJ ,28143,Accident Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+632,2018,Dodge,Challenger_GT, 29200, New York, NY ,37333,Minor Damage,Coupe,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,10
+633,2007,Dodge,Caliber_R/T, 4995, Garfield, NJ ,126981,No Accident or Damage Reported,Hatchback,Silver_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,39
+634,2016,Dodge,Challenger_R/T_392_Scat_Pack_Shaker, 40990, Freehold, NJ ,27187,No Accident or Damage Reported,Coupe,Gray_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,8
+635,2019,Dodge,Charger_R/T_Scat_Pack, 45495, Lakewood, NJ ,19889,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_6.4_L_,3+ Owners,Multiple Use,4
+636,2013,Dodge,Avenger, 7995, West Nyack, NY ,99214,Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.4_L_,3+ Owners,Multiple Use,1
+637,2015,Dodge,Durango_Citadel, 24995, South Amboy, NJ ,95947,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,13
+638,2011,Dodge,Challenger_SRT8, 26990, West Babylon, NY ,66625,No Accident or Damage Reported,Coupe,Silver_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,26
+639,2018,Dodge,Charger_GT, 25950, Bronx, NY ,19916,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,4
+640,2013,Dodge,Charger_SXT, 13999, Little Ferry, NJ ,95734,Minor Damage,Sedan,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,21
+641,2019,Dodge,Charger_GT, 23980, Bronx, NY ,53071,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,0
+642,2010,Dodge,Ram_2500, 23485, Massapequa, NY ,81143,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,Number of Owners,Vehicle Use,6
+643,2016,Dodge,Charger_SXT, 21888, Butler, NJ ,69447,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,8
+644,2006,Dodge,Ram_1500_SLT, 8999, Lakewood, NJ ,151005,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,11
+645,2018,Dodge,Challenger_R/T_Plus_Shaker, 40590, New York, NY,2891,No Accident or Damage Reported,Coupe,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+646,2018,Dodge,Durango_GT, 37868, Butler, NJ ,30603,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,0
+647,2014,Dodge,Dart_SXT, 12990, New York, NY,68183,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+648,2017,Dodge,Durango_R/T, 32881, Avenel, NJ ,46155,Damage Reported,SUV,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+649,2003,Dodge,Ram_1500_SLT, 14995, Point Pleasant Boro, NJ ,84392,No Accident or Damage Reported,Pickup,Beige_Engine:_8_Cyl_5.9_L_,3+ Owners,Personal Use,5
+650,2010,Dodge,Ram_1500_ST, 12995, Highland Park, NJ ,102990,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,8
+651,2015,Dodge,Challenger_R/T_Plus_Shaker, 29987, Morristown, NJ ,51449,Accident Reported,Coupe,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+652,2015,Dodge,Charger_R/T, 27981, Ramsey, NJ ,22552,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,1
+653,2020,Dodge,Charger_SXT, 28499, South Plainfield, NJ ,31861,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,1
+654,2018,Dodge,Durango_GT, 36900, Amityville, NY ,13454,No Accident or Damage Reported,SUV,6_Cyl_3.6_L_,CARFAX 1-Owner,Corporate Use,3
+655,2010,Dodge,Challenger_SRT8, 28995, Lodi, NJ ,35015,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_6.1_L_,3+ Owners,Personal Use,16
+656,2018,Dodge,Durango_SXT, 30995, Brooklyn, NY ,40025,Accident Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+657,2018,Dodge,Durango_R/T, 41995, Edison, NJ ,39120,Minor Damage,SUV,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,16
+658,2018,Dodge,Durango_GT, 33900, Bronx, NY ,36216,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Corporate Use,1
+659,2018,Dodge,Durango_GT, 36629, Bronx, NY ,27776,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+660,2018,Dodge,Charger_GT, 32995, East Brunswick, NJ ,36612,Minor Damage,Sedan,Green_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+661,2014,Dodge,Grand_Caravan_SXT, 12375, Hackettstown, NJ ,96132,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,21
+662,2018,Dodge,Durango_R/T, 38900, Bronx, NY ,44718,No Accident or Damage Reported,SUV,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,3
+663,2010,Dodge,Journey_R/T, 6995, Union, NJ ,126059,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,30
+664,2019,Dodge,Journey_Crossroad, 20695, Linden, NJ ,44207,Accident/No Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,3
+665,2018,Dodge,Durango_R/T, 44900, Jersey City, NJ ,40801,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+666,2019,Dodge,Challenger_SXT, 27888, Bay Shore, NY ,29806,Minor Damage,Coupe,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,1
+667,2018,Dodge,Durango_GT, 39884, South Plainfield, NJ ,31603,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+668,2014,Dodge,Grand_Caravan_American_Value_Package, 17900, Amityville, NY ,70380,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+669,2018,Dodge,Challenger_GT, 34995, Brooklyn, NY ,26000,No Accident or Damage Reported,Coupe,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+670,2014,Dodge,Durango_Citadel, 25995, Brooklyn, NY ,47555,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+671,2019,Dodge,Challenger_R/T_Scat_Pack, 40995, Great Neck, NY ,26559,Damage Reported,Coupe,Black_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,8
+672,2020,Dodge,Durango_GT_Plus, 44980, Jericho, NY ,22866,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+673,2019,Dodge,Durango_SXT, 37995, Sussex, NJ ,28813,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+674,2017,Dodge,Journey_Crossroad, 23998, West Islip, NY ,24211,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+675,2018,Dodge,Charger_GT, 29140, Jamaica, NY ,24877,No Accident or Damage Reported,Sedan,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+676,2018,Dodge,Challenger_GT, 33995, Bloomfield, NJ ,27190,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+677,2017,Dodge,Journey_Crossroad, 23998, West Islip, NY ,24211,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+678,2018,Dodge,Durango_R/T, 44423, Hempstead, NY ,21643,Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+679,2012,Dodge,Durango_R/T, 14990, Sayreville, NJ ,158457,Accident Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,13
+680,2018,Dodge,Challenger_GT, 30988, Valley Stream, NY ,39415,Minor Damage,Coupe,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,8
+681,2016,Dodge,Challenger_SRT_392, 36990, Bronx, NY ,28231,No Accident or Damage Reported,Coupe,Gray_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,8
+682,2020,Dodge,Durango_R/T, 44850, Franklin Square, NY ,21376,Accident/Minor Damage,SUV,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,2
+683,2016,Dodge,Durango_Limited, 24495, South Amboy, NJ ,95394,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,11
+684,2017,Dodge,Durango_GT, 30997, Lodi, NJ ,32859,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,11
+685,2018,Dodge,Challenger_R/T_392_Scat_Pack_Shaker, 44980, Upper Saddle River, NJ ,34909,No Accident or Damage Reported,Coupe,Gray_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,9
+686,2019,Dodge,Charger_GT, 25195, Linden, NJ ,64513,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,6
+687,2009,Dodge,Caliber_SXT, 6992, Bridgewater, NJ ,66535,No Accident or Damage Reported,Hatchback,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,5
+688,2019,Dodge,Durango_GT, 33988, Valley Stream, NY ,39663,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+689,2009,Dodge,Challenger_SRT8, 28995, Lakewood, NJ ,40982,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_6.1_L_,3+ Owners,Personal Use,7
+690,2013,Dodge,Dart_SXT, 8795, East Windsor, NJ ,119189,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+691,2018,Dodge,Charger_GT, 28922, Springfield, NJ ,62686,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,11
+692,2017,Dodge,Grand_Caravan_GT, 16500, Kearny, NJ ,101748,No Accident or Damage Reported,Minivan,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,5
+693,2018,Dodge,Charger_SRT_Hellcat, 59995, Inwood, NY ,43104,Minor Damage,Sedan,Green_Engine:_8_Cyl_6.2_L_,3+ Owners,Personal Use,6
+694,2008,Dodge,Durango_SXT, 5495, Lake Hopatcong, NJ ,154388,Accident Reported,SUV,White_Engine:_8_Cyl_4.7_L_,3+ Owners,Multiple Use,4
+695,2008,Dodge,Ram_1500_ST, 8999, S Hackensack, NJ ,169726,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,45
+696,2018,Dodge,Challenger_T/A_392, 42499, Newark, NJ,16025,No Accident or Damage Reported,Coupe,Gray_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,0
+697,2018,Dodge,Durango_GT, 38995, Budd Lake, NJ ,14867,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+698,2005,Dodge,Dakota_SLT, 8900, Kearny, NJ ,222947,No Accident or Damage Reported,Pickup,Blue_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,13
+699,2018,Dodge,Charger_R/T_Scat_Pack, 42995, Bronx, NY ,29451,Accident Reported,Sedan,Black_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Lease Use,10
+700,2008,Dodge,Avenger_R/T, 3999, S Hackensack, NJ ,150982,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Multiple Use,6
+701,2018,Dodge,Charger_Daytona, 42694, Brooklyn, NY ,14000,Major Damage,Sedan,Gray_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,5
+702,2018,Dodge,Grand_Caravan_SXT, 19500, Nanuet, NY ,73940,Accident Reported,Minivan,Red_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,8
+703,2017,Dodge,Grand_Caravan_GT, 13995, Pt Pleasant, NJ ,100965,Major Damage,Minivan,Red_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,12
+704,2018,Dodge,Durango_R/T, 42553, Nyack, NY ,27691,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,6
+705,2019,Dodge,Durango_GT_Plus, 35490, Valley Stream, NY ,27480,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+706,2020,Dodge,Grand_Caravan_GT, 21950, Bronx, NY ,53675,Major Damage,Minivan,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,3
+707,2018,Dodge,Charger_SRT_392, 44123, Mountain Lakes, NJ ,57576,No Accident or Damage Reported,Sedan,Red_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,1
+708,2018,Dodge,Durango_SXT, 31810, Ocean, NJ ,23497,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+709,2010,Dodge,Ram_1500_TRX, 17500, Jersey City, NJ ,89526,Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,16
+710,2016,Dodge,Challenger_R/T_Plus, 27977, Syosset, NY ,41353,No Accident or Damage Reported,Coupe,Blue_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,6
+711,2013,Dodge,Grand_Caravan_SXT, 5495, Lakewood, NJ ,164057,Accident Reported,Minivan,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,18
+712,2019,Dodge,Charger_R/T_Scat_Pack, 37890, Great Neck, NY ,27272,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,2
+713,2018,Dodge,Challenger_R/T_392_Scat_Pack_Shaker, 42995, Edison, NJ ,34422,No Accident or Damage Reported,Coupe,Gray_Engine:_8_Cyl_6.4_L_,2-Owner,Multiple Use,13
+714,2020,Dodge,Journey_Crossroad, 21765, Amityville, NY ,10556,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Rental Use,2
+715,2016,Dodge,Dart_SXT_Sport, 13799, West Milford, NJ ,60898,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+716,2013,Dodge,Durango_Crew, 20985, Inwood, NY ,75850,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,16
+717,2009,Dodge,Challenger_SRT8, 31890, Elmwood Park, NJ ,2853,No Accident or Damage Reported,Coupe,Blue_Engine:_8_Cyl_6.1_L_,2-Owner,Personal Use,3
+718,2008,Dodge,Viper_SRT10, 68595, Paramus, NJ ,50186,No Accident or Damage Reported,Coupe,Green_Engine:_10_Cyl_8.4_L_,3+ Owners,Personal Use,14
+719,2017,Dodge,Challenger_SRT_Hellcat, 59998, South Hackensack, NJ ,1888,No Accident or Damage Reported,Coupe,Yellow_Engine:_8_Cyl_6.2_L_,2-Owner,Multiple Use,1
+720,2015,Dodge,Challenger_SRT_Hellcat, 56999, Bridgewater, NJ ,9731,Damage Reported,Coupe,White_Engine:_8_Cyl_6.2_L_,3+ Owners,Personal Use,8
+721,2019,Dodge,Durango_GT, 32990, Jamaica, NY ,36709,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+722,2011,Dodge,Challenger_R/T, 19995, Irvington, NJ ,92335,Minor Damage,Coupe,8_Cyl_5.7_L_,3+ Owners,Personal Use,27
+723,2018,Dodge,Durango_GT, 37995, Brooklyn, NY ,41128,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+724,2019,Dodge,Charger_R/T, 30990, Great Neck, NY ,65831,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,7
+725,2019,Dodge,Charger_R/T, 30990, Great Neck, NY ,65831,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,7
+726,2020,Dodge,Charger_R/T_Scat_Pack, 37921, Springfield, NJ ,5495,No Accident or Damage Reported,Sedan,Red_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,7
+727,2018,Dodge,Durango_GT, 35980, Jericho, NY ,36463,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+728,2019,Dodge,Charger_R/T_Scat_Pack, 43995, Yonkers, NY ,50600,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,8
+729,2016,Dodge,Journey_SXT, 15988, Totowa, NJ ,52357,Accident Reported,SUV,White_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,12
+730,2019,Dodge,Durango_R/T, 46900, Amityville, NY ,31494,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+731,2018,Dodge,Durango_R/T, 42980, Jericho, NY ,32246,No Accident or Damage Reported,SUV,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+732,2013,Dodge,Durango_R/T, 14400, RINGWOOD, NJ ,157100,No Accident or Damage Reported,SUV,Silver_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,50
+733,2018,Dodge,Durango_GT, 35991, Little Falls, NJ ,34427,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+734,2018,Dodge,Durango_GT, 35900, Amityville, NY ,48717,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+735,2019,Dodge,Durango_GT_Plus, 38991, Little Falls, NJ ,19964,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+736,2018,Dodge,Challenger_R/T, 34500, Bronx, NY ,29463,No Accident or Damage Reported,Coupe,Gray_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,9
+737,2018,Dodge,Challenger_GT, 35897, Union, NJ ,26452,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+738,2009,Dodge,Ram_1500_SLT, 11499, S Hackensack, NJ ,205409,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,57
+739,2018,Dodge,Charger_SXT_Plus, 17650, Woodside, NY ,80968,Minor Damage,Sedan,Black_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,12
+740,2015,Dodge,Dart_SXT, 9999, S Hackensack, NJ ,106767,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,19
+741,2018,Dodge,Durango_R/T, 37888, Jamaica, NY ,57140,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,8
+742,2019,Dodge,Charger_SXT, 22475, Valley Stream, NY ,32537,Minor Damage,Sedan,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Rental Use,5
+743,2014,Dodge,Charger_SE, 10900, Plainfield, NJ ,93730,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,5
+744,2014,Dodge,Challenger_R/T_Shaker, 33988, Centereach, NY ,6293,No Accident or Damage Reported,Coupe,Orange_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,3
+745,2020,Dodge,Challenger_R/T_Scat_Pack, 39950, Bronx, NY ,13339,No Accident or Damage Reported,Coupe,Blue_Engine:_8_Cyl_6.4_L_,2-Owner,Multiple Use,0
+746,2012,Dodge,Charger_R/T, 20590, New York, NY,47627,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,10
+747,2018,Dodge,Durango_GT, 33995, Freeport, NY ,38550,Minor Damage,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+748,2016,Dodge,Challenger_R/T, 32745, Lakewood, NJ ,55322,No Accident or Damage Reported,Coupe,Blue_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,11
+749,2010,Dodge,Challenger_R/T_Classic, 17495, Bayonne, NJ ,111915,Damage Reported,Coupe,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+750,2018,Dodge,Challenger_SXT_Plus, 26355, Englewood, NJ ,37061,Accident/Minor Damage,Coupe,Yellow_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+751,2017,Dodge,Challenger_GT, 31995, Ramsey, NJ ,23448,No Accident or Damage Reported,Coupe,Blue_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,7
+752,2018,Dodge,Challenger_R/T, 35990, Newark, NJ,10826,No Accident or Damage Reported,Coupe,Red_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,4
+753,2018,Dodge,Charger_Daytona_392, 39595, Linden, NJ ,66072,Minor Damage,Sedan,Blue_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,10
+754,2018,Dodge,Charger_R/T_392, 39980, Richmond Hill, NY ,11559,Accident Reported,Sedan,Gray_Engine:_8_Cyl_6.4_L_,3+ Owners,Personal Use,5
+755,2018,Dodge,Durango_SXT, 29995, Ramsey, NJ ,36620,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+756,2017,Dodge,Durango_GT, 27998, FAIR LAWN, NJ ,77080,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+757,2017,Dodge,Journey_GT, 23590, Newark, NJ,36451,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+758,2016,Dodge,Durango_Limited, 23357, Jersey City, NJ ,89126,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,15
+759,2000,Dodge,Ram_2500, 6499, S Hackensack, NJ ,148918,Accident Reported,Pickup,Blue_Engine:_8_Cyl_5.9_L_,3+ Owners,Vehicle Use,1
+760,2005,Dodge,Ram_1500_Laramie, 6099, S Hackensack, NJ ,152272,Accident Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,15
+761,2011,Dodge,Charger_Rallye, 11900, Atlantic Highlands, NJ ,85387,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,36
+762,2019,Dodge,Durango_R/T, 42999, Queens Village, NY ,19993,Accident Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,0
+763,2020,Dodge,Durango_R/T, 47995, Wall Township, NJ ,12258,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,0
+764,2016,Dodge,Charger_R/T_Scat_Pack, 38995, Edison, NJ ,53911,Accident/Minor Damage,Sedan,Black_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,15
+765,2019,Dodge,Charger_SXT, 27295, Bronx, NY ,33047,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,1
+766,2007,Dodge,Charger_R/T, 9185, Rockaway, NJ ,107237,Accident Reported,Sedan,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+767,2018,Dodge,Durango_GT, 29395, Amityville, NY ,71394,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,7
+768,2017,Dodge,Durango_GT, 31992, Springfield, NJ ,60149,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,3
+769,2007,Dodge,Ram_1500_SLT, 6799, S Hackensack, NJ ,227502,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,27
+770,2014,Dodge,Grand_Caravan, 11995, East Windsor, NJ ,93551,No Accident or Damage Reported,Minivan,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+771,2016,Dodge,Journey_Crossroad_Plus, 18990, Huntington, NY ,41632,Accident/Minor Damage,SUV,6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,15
+772,2014,Dodge,Durango_SXT, 21995, New Brunswick, NJ ,80763,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,8
+773,2018,Dodge,Durango_GT, 35922, Springfield, NJ ,52007,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,7
+774,2019,Dodge,Charger_SXT, 26499, Newark, NJ,36925,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,2
+775,2014,Dodge,Dart_GT, 10988, Lakewood, NJ ,74296,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,29
+776,2018,Dodge,Durango_GT, 37588, Summit, NJ ,34882,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+777,2018,Dodge,Charger_R/T, 28152, Brooklyn, NY ,26470,Accident Reported,Sedan,Gray_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,0
+778,2020,Dodge,Durango_Citadel, 53995, Jersey City, NJ ,9953,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Corporate Use,3
+779,2018,Dodge,Durango_GT, 36995, Jersey City, NJ ,45784,Minor Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+780,2018,Dodge,Grand_Caravan_SXT, 18900, Hillside, NJ ,45813,Accident/Minor Damage,Minivan,Silver_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,2
+781,2014,Dodge,Charger_R/T, 19888, Butler, NJ ,78150,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,21
+782,2019,Dodge,Grand_Caravan_SE, 17900, Atlantic Highlands, NJ ,85940,Minor Damage,Minivan,White_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,10
+783,2013,Dodge,Dart_SXT, 7995, Jersey City, NJ ,116385,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,2
+784,2018,Dodge,Durango_GT, 29500, Hillside, NJ ,53841,Accident Reported,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,4
+785,2015,Dodge,Challenger_R/T_Scat_Pack, 39950, Westport, CT ,16518,No Accident or Damage Reported,Coupe,Blue_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,5
+786,2016,Dodge,Journey_SXT, 9999, S Hackensack, NJ ,109989,Accident Reported,SUV,6_Cyl_3.6_L_,2-Owner,Multiple Use,10
+787,2004,Dodge,Ram_1500_ST, 13997, Brooklyn, NY ,146337,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,20
+788,2004,Dodge,Viper_SRT10, 67799, Randolph, NJ ,2398,No Accident or Damage Reported,Convertible,Red_Engine:_10_Cyl_8.3_L_,3+ Owners,Personal Use,16
+789,2013,Dodge,Dart_Limited, 8999, S Hackensack, NJ ,114056,Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,15
+790,2015,Dodge,Grand_Caravan_SE, 14999, Morristown, NJ ,74356,Minor Damage,Minivan,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,15
+791,2019,Dodge,Charger_SXT, 28194, Union, NJ ,48709,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,0
+792,2009,Dodge,Charger_R/T, 12983, East Meadow, NY ,62231,Accident Reported,Sedan,White_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,21
+793,2011,Dodge,Charger_R/T, 15995, South Amboy, NJ ,68652,No Accident or Damage Reported,Sedan,Orange_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,20
+794,2015,Dodge,Durango_Limited, 28485, Inwood, NY ,51788,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+795,2018,Dodge,Durango_GT, 34995, West Nyack, NY ,46491,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+796,2018,Dodge,Durango_SXT, 32250, Franklin Square, NY ,38333,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+797,2019,Dodge,Challenger_SRT_Hellcat, 89888, Blauvelt, NY ,4687,No Accident or Damage Reported,Coupe,Silver_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Personal Use,1
+798,2019,Dodge,Durango_SXT, 32590, Newark, NJ,34441,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+799,2011,Dodge,Challenger_R/T, 22812, Linden, NJ ,56808,No Accident or Damage Reported,Coupe,Orange_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+800,2011,Dodge,Challenger_R/T, 22812, Linden, NJ ,56808,No Accident or Damage Reported,Coupe,Orange_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+801,2017,Dodge,Charger_SXT, 20987, Irvington, NJ ,90312,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,10
+802,2013,Dodge,Durango_Citadel, 14999, Hasbrouck Heights, NJ ,133210,Accident Reported,SUV,Gray_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,33
+803,2018,Dodge,Challenger_SRT_392, 49995, East Brunswick, NJ ,31821,Accident Reported,Coupe,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,7
+804,2015,Dodge,Charger_SRT_392, 39995, E Rutherford, NJ ,63004,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_6.4_L_,3+ Owners,Personal Use,14
+805,2019,Dodge,Challenger_SXT, 28239, Bronx, NY ,30178,Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,3
+806,2018,Dodge,Durango_R/T, 46995, Garwood, NJ ,15173,Accident/Minor Damage,SUV,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+807,2011,Dodge,Durango_Express, 14495, Newark, NJ ,129645,No Accident or Damage Reported,SUV,Purple_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,33
+808,2012,Dodge,Durango_SXT, 12499, Brooklyn, NY ,106466,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,22
+809,2014,Dodge,Grand_Caravan_SXT_30th_Anniversary_Edition, 12500, Sussex, NJ ,93604,No Accident or Damage Reported,Minivan,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,21
+810,2017,Dodge,Durango_GT, 31183, PARAMUS, NJ ,43500,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,10
+811,2015,Dodge,Durango_SXT, 23814, Butler, NJ ,61173,Minor Damage,SUV,Blue_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,16
+812,2018,Dodge,Durango_SRT, 59499, Inwood, NY ,25035,No Accident or Damage Reported,SUV,Blue_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Corporate Use,7
+813,2018,Dodge,Durango_GT, 29718, Elmont, NY ,34617,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+814,2019,Dodge,Grand_Caravan_SXT, 24400, Nanuet, NY ,63108,No Accident or Damage Reported,Minivan,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,6
+815,2016,Dodge,Challenger_R/T, 31000, Nanuet, NY ,66281,No Accident or Damage Reported,Coupe,Red_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,1
+816,2018,Dodge,Durango_GT, 31995, Bronx, NY ,67513,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+817,2010,Dodge,Charger_SXT, 5995, Lodi, NJ ,143794,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,3+ Owners,Multiple Use,4
+818,2018,Dodge,Durango_R/T, 40642, Jamaica, NY ,40261,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+819,2018,Dodge,Durango_SXT, 33900, East Hanover, NJ ,24812,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Corporate Use,6
+820,2018,Dodge,Durango_SXT, 35992, Springfield, NJ ,33100,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+821,2013,Dodge,Durango_Crew, 17992, Springfield, NJ ,109228,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,18
+822,2004,Dodge,Dakota_SLT, 7499, Paterson, NJ ,108200,Accident/No Damage,Pickup,Burgundy_Engine:_8_Cyl_4.7_L_,3+ Owners,Multiple Use,27
+823,2014,Dodge,Durango_SXT, 20995, North Bergen, NJ ,74393,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,8
+824,2016,Dodge,Charger_R/T_Scat_Pack, 38399, Ramsey, NJ ,53382,Minor Damage,Sedan,Black_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,9
+825,2018,Dodge,Durango_GT, 33890, Great Neck, NY ,35975,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+826,2018,Dodge,Durango_R/T, 42980, Richmond Hill, NY ,31641,No Accident or Damage Reported,SUV,Gray_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,9
+827,2014,Dodge,Durango_Limited, 14500, Hazlet, NJ ,178320,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,19
+828,2015,Dodge,Durango_R/T, 28900, Glen Cove, NY ,62400,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,7
+829,2015,Dodge,Durango_Limited, 24500, Glen Cove, NY ,69187,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,18
+830,2018,Dodge,Challenger_GT, 35000, East Brunswick, NJ ,27250,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,4
+831,2013,Dodge,Journey_SXT, 9900, Freehold, NJ ,108522,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,22
+832,2016,Dodge,Grand_Caravan_R/T, 16199, Maplewood, NJ ,86163,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,5
+833,2016,Dodge,Charger_R/T_Road/Track, 28900, Rahway, NJ ,46147,Accident Reported,Sedan,Blue_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,16
+834,2010,Dodge,Ram_1500_SLT, 11750, Edison, NJ ,174149,Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,22
+835,2014,Dodge,Durango_SXT, 18985, Massapequa, NY ,80906,Minor Damage,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,21
+836,2019,Dodge,Charger_GT, 33995, Brooklyn, NY ,5308,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,3
+837,2018,Dodge,Durango_GT, 35884, Bronx, NY ,37307,Accident/Minor Damage,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+838,2017,Dodge,Grand_Caravan_GT, 18997, Newton, NJ ,64750,Accident/Minor Damage,Minivan,Silver_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,5
+839,2014,Dodge,Durango_SXT, 20999, Newark, NJ,89211,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,17
+840,2018,Dodge,Durango_R/T, 44997, Lebanon, NJ ,25487,No Accident or Damage Reported,SUV,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,12
+841,2018,Dodge,Challenger_T/A_Plus, 38985, Paterson, NJ ,32267,No Accident or Damage Reported,Coupe,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+842,2009,Dodge,Challenger_SRT8, 29900, Amityville, NY ,59241,No Accident or Damage Reported,Coupe,Silver_Engine:_8_Cyl_6.1_L_,3+ Owners,Personal Use,25
+843,2020,Dodge,Durango_R/T, 51999, Sussex, NJ ,10811,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,3
+844,2009,Dodge,Ram_1500_SLT, 18995, Lodi, NJ ,77705,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,31
+845,2019,Dodge,Grand_Caravan_SXT, 21500, Belle Mead, NJ ,54778,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,3
+846,2020,Dodge,Durango_GT_Plus, 35000, Springfield, NJ ,31903,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+847,2020,Dodge,Charger_SRT_Hellcat_Widebody, 76900, North Plainfield, NJ ,6702,Accident/Minor Damage,Sedan,Green_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Corporate Use,2
+848,2006,Dodge,Ram_1500_SLT, 9997, Newfoundland, NJ ,79295,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_4.7_L_,CARFAX 1-Owner,Personal Use,15
+849,2021,Dodge,Challenger_SXT, 29995, Jamaica, NY ,4787,Accident Reported,Coupe,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,0
+850,2018,Dodge,Durango_SXT, 31998, Centereach, NY ,41721,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+851,2011,Dodge,Durango_Express, 11980, Bronx, NY ,79153,Accident Reported,SUV,Purple_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,14
+852,2016,Dodge,Charger_R/T_Scat_Pack, 37480, Massapequa Park, NY ,38999,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,8
+853,2013,Dodge,Dart_GT, 8999, Passaic, NJ ,108475,Accident/Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,35
+854,2015,Dodge,Challenger_SXT, 17988, Lindenhurst, NY ,72526,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.6_L_,Number of Owners,Personal Use,10
+855,2018,Dodge,Journey_SXT, 20499, Queens Village, NY ,42578,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,6
+856,2018,Dodge,Durango_SXT, 31900, Summit, NJ ,19974,Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+857,2020,Dodge,Charger_R/T, 34995, Freeport, NY ,32320,No Accident or Damage Reported,Sedan,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,0
+858,2018,Dodge,Challenger_R/T, 43999, Watchung, NJ ,36719,No Accident or Damage Reported,Coupe,Red_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,4
+859,2018,Dodge,Journey_Crossroad, 16950, Bronx, NY ,76656,Accident Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,6
+860,2018,Dodge,Durango_R/T, 43959, Avenel, NJ ,28288,Accident Reported,SUV,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+861,2018,Dodge,Durango_SXT, Call for Price, Rockaway, NJ ,14932,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+862,2018,Dodge,Charger_R/T_Scat_Pack, 41995, Jersey City, NJ ,13431,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,0
+863,2020,Dodge,Challenger_R/T_Scat_Pack_Widebody, Call for Price, Rockaway, NJ ,2757,No Accident or Damage Reported,Coupe,Red_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,3
+864,2007,Dodge,Nitro_R/T, 6995, Keyport, NJ ,131335,Accident/Minor Damage,SUV,Blue_Engine:_6_Cyl_4.0_L_,3+ Owners,Personal Use,10
+865,2020,Dodge,Challenger_SRT_Hellcat_Redeye_Widebody, 89995, Long Island City, NY ,2609,No Accident or Damage Reported,Coupe,White_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Personal Use,1
+866,2018,Dodge,Durango_GT, 39500, Summit, NJ ,12251,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+867,2020,Dodge,Durango_GT, 38450, Forest Hills, NY ,24350,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,1
+868,2018,Dodge,Charger_Daytona_392, 44500, Amityville, NY ,20264,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,9
+869,2017,Dodge,Charger_R/T_Scat_Pack, 35994, Fair Lawn, NJ ,70259,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,3
+870,2018,Dodge,Durango_R/T, 41995, Brooklyn, NY ,31448,Accident Reported,SUV,Red_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,8
+871,2018,Dodge,Durango_SRT, 59988, COLONIA, NJ ,26629,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_6.4_L_,2-Owner,Multiple Use,4
+872,2018,Dodge,Challenger_R/T_Plus, 35500, South Plainfield, NJ ,29463,Accident/Minor Damage,Coupe,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+873,2018,Dodge,Durango_SXT, Call for Price, Bayside, NY ,20206,No Accident or Damage Reported,SUV,6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+874,2011,Dodge,Durango_Crew, 12500, Hasbrouck Heights, NJ ,121300,Accident Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,16
+875,2017,Dodge,Journey_SXT, 18885, Hasbrouck Heights, NJ ,55549,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,1
+876,2016,Dodge,Challenger_SXT_Plus, 25274, Jersey City, NJ ,45711,Minor Damage,Coupe,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+877,2018,Dodge,Charger_R/T_Scat_Pack, 44700, Staten Island, NY ,27888,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,3
+878,2015,Dodge,Charger_SXT, 20900, Hazlet, NJ ,108472,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+879,2009,Dodge,Ram_1500_Sport, 26995, Paterson, NJ ,77825,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,30
+880,2016,Dodge,Durango_Citadel, 30900, Neptune, NJ ,77731,No Accident or Damage Reported,SUV,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+881,2015,Dodge,Charger_SE, 16995, Irvington, NJ ,89757,Damage Reported,Sedan,6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,23
+882,2018,Dodge,Charger_GT, 33877, Morristown, NJ ,17767,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Vehicle Use,6
+883,2018,Dodge,Durango_GT, 34749, Tenafly, NJ ,37801,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+884,2017,Dodge,Challenger_R/T_392_Scat_Pack_Shaker, 41499, Newark, NJ,9760,No Accident or Damage Reported,Coupe,Gray_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,1
+885,2006,Dodge,Sprinter_2500, 9900, Uniondale, NY ,197106,Accident Reported,Van,White_Engine:_5_Cyl_2.7_L_,CARFAX 1-Owner,Commercial Use,12
+886,2018,Dodge,Journey_Crossroad, 24998, Lebanon, NJ ,35554,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+887,2019,Dodge,Charger_R/T_Scat_Pack, 42152, Freeport, NY ,31695,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,9
+888,2016,Dodge,Charger_SE, 18495, Elizabeth, NJ ,90249,Minor Damage,Sedan,Black_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,15
+889,2013,Dodge,Durango_Crew, 16999, East Rutherford, NJ ,90795,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,25
+890,2020,Dodge,Challenger_SRT_Hellcat_Widebody, 78686, Secaucus, NJ ,4844,Minor Damage,Coupe,Black_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Personal Use,4
+891,2019,Dodge,Durango_GT, 37000, Norwalk, CT ,39481,Minor Damage,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+892,2018,Dodge,Charger_R/T_Scat_Pack, 47343, East Brunswick, NJ ,20733,Accident/Minor Damage,Sedan,Black_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,14
+893,2018,Dodge,Grand_Caravan_GT, 21995, Neptune, NJ ,64686,No Accident or Damage Reported,Minivan,Silver_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,7
+894,2010,Dodge,Ram_1500_SLT, 15900, Avenel, NJ ,155958,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,34
+895,2015,Dodge,Durango_R/T, 26522, Jersey City, NJ ,92280,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,16
+896,2015,Dodge,Dart_GT, 10997, Elizabeth, NJ ,98230,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,34
+897,2017,Dodge,Challenger_R/T_392_Scat_Pack_Shaker, 38990, Valley Stream, NY ,36602,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_6.4_L_,3+ Owners,Personal Use,1
+898,2018,Dodge,Challenger_SRT_392, 37900, Rahway, NJ ,102588,Accident/Minor Damage,Coupe,Green_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,9
+899,2019,Dodge,Durango_R/T, 39990, Valley Stream, NY ,49716,Accident Reported,SUV,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+900,2016,Dodge,Challenger_R/T_Scat_Pack, 41900, Bohemia, NY ,21322,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_6.4_L_,3+ Owners,Personal Use,6
+901,2011,Dodge,Challenger_SRT8, 32485, Massapequa, NY ,56475,No Accident or Damage Reported,Coupe,Green_Engine:_8_Cyl_6.4_L_,3+ Owners,Personal Use,3
+902,2019,Dodge,Durango_R/T, 39990, Valley Stream, NY ,49716,Accident Reported,SUV,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+903,2019,Dodge,Charger_R/T_Scat_Pack, 39950, Bronx, NY ,22473,Damage Reported,Sedan,White_Engine:_8_Cyl_6.4_L_,2-Owner,Multiple Use,8
+904,2020,Dodge,Charger_R/T_Scat_Pack, 47800, Saint James, NY ,10289,No Accident or Damage Reported,Sedan,Green_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,6
+905,2017,Dodge,Charger_R/T_Scat_Pack, 42188, Valley Stream, NY ,42564,Accident Reported,Sedan,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,5
+906,2019,Dodge,Charger_R/T_Scat_Pack, 41488, Valley Stream, NY ,26009,Accident Reported,Sedan,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,6
+907,2013,Dodge,Charger_SXT_Plus, 17795, Lakewood, NJ ,63142,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,11
+908,2017,Dodge,Grand_Caravan_GT, 17800, New Rochelle, NY ,83678,Accident/Minor Damage,Minivan,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,0
+909,2014,Dodge,Journey_R/T, 15995, Lake Hopatcong, NJ ,68752,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+910,2019,Dodge,Challenger_R/T_Scat_Pack, 49959, Avenel, NJ ,4444,No Accident or Damage Reported,Coupe,Red_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,4
+911,2018,Dodge,Challenger_R/T, 31995, Bronx, NY ,27139,Accident Reported,Coupe,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+912,2013,Dodge,Durango_Crew, 16995, Yonkers, NY ,96000,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,19
+913,2018,Dodge,Charger_R/T, 42223, Bronx, NY ,30566,Accident Reported,Sedan,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+914,2018,Dodge,Challenger_T/A_Plus, 41512, Bronx, NY ,34522,Minor Damage,Coupe,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+915,2015,Dodge,Grand_Caravan_R/T, 13950, Woodside, NY ,83593,No Accident or Damage Reported,Minivan,Silver_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,12
+916,2007,Dodge,Charger, 3999, Brooklyn, NY ,169000,Branded Title,Sedan,Silver_Engine:_6_Cyl_2.7_L_,3+ Owners,Multiple Use,3
+917,2003,Dodge,Ram_2500_SLT, 14599, S Hackensack, NJ ,80543,No Accident or Damage Reported,Pickup,6_Cyl_5.9_L_,3+ Owners,Multiple Use,3
+918,2019,Dodge,Charger_SXT, 19950, Woodside, NY ,32992,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,3
+919,2018,Dodge,Challenger_R/T_392_Scat_Pack_Shaker, 47995, Edison, NJ ,10819,Minor Damage,Coupe,Blue_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,4
+920,2018,Dodge,Durango_SRT, 53500, Norwalk, CT ,75505,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,26
+921,2013,Dodge,Charger_SE, 12895, Garfield, NJ ,103000,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,4
+922,2019,Dodge,Durango_GT, 36002, Saint James, NY ,40490,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+923,2013,Dodge,Durango_SXT, 15995, Irvington, NJ ,128340,No Accident or Damage Reported,SUV,6_Cyl_3.6_L_,2-Owner,Personal Use,6
+924,2018,Dodge,Challenger_GT, 34995, Brooklyn, NY ,10903,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+925,2015,Dodge,Durango_Limited, 28900, Amityville, NY ,69037,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,3
+926,2018,Dodge,Challenger_R/T_392_Scat_Pack_Shaker, 47995, Edison, NJ ,10819,Minor Damage,Coupe,Blue_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,4
+927,2018,Dodge,Durango_SRT, 53500, Norwalk, CT ,75505,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,26
+928,2018,Dodge,Challenger_GT, 34995, Brooklyn, NY ,10903,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+929,2019,Dodge,Durango_GT, 36002, Saint James, NY ,40490,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+930,2017,Dodge,Durango_GT, 30900, Bronx, NY ,32872,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,5
+931,2013,Dodge,Dart_SXT, 12990, Pleasantville, NY,74950,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,11
+932,2017,Dodge,Durango_GT, 31900, Amityville, NY ,42198,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+933,2018,Dodge,Durango_GT, 36980, Jericho, NY ,24700,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,6
+934,2017,Dodge,Grand_Caravan_SE, 16595, Paramus, NJ ,83004,No Accident or Damage Reported,Minivan,Red_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,12
+935,2019,Dodge,Charger_GT, 33888, Bayside, NY ,9708,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+936,2019,Dodge,Grand_Caravan_GT, 23523, Yonkers, NY ,56224,No Accident or Damage Reported,Minivan,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,0
+937,2012,Dodge,Durango_Citadel, 16567, Eatontown, NJ ,136810,Minor Damage,SUV,Gray_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,39
+938,2017,Dodge,Challenger_R/T_392_Scat_Pack_Shaker, 36995, Edison, NJ ,66953,Accident/Minor Damage,Coupe,Gray_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,1
+939,2006,Dodge,Ram_1500_SLT, 7323, Eatontown, NJ ,222362,Accident Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,8
+940,2008,Dodge,Ram_1500_SLT, 12900, Hazlet, NJ ,136185,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,14
+941,2017,Dodge,Challenger_R/T, 26995, Newark, NJ ,54563,No Accident or Damage Reported,Coupe,Gray_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,4
+942,2010,Dodge,Ram_1500_ST, 19988, Saint James, NY ,91240,Accident/Minor Damage,Pickup,Brown_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,34
+943,2013,Dodge,Charger_SRT8, 30940, Jersey City, NJ ,58487,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_6.4_L_,3+ Owners,Multiple Use,15
+944,2011,Dodge,Journey_Mainstreet, 9695, Ramsey, NJ ,102615,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,21
+945,2016,Dodge,Charger_SXT, 24900, Hillside, NJ ,64420,Accident/Minor Damage,Sedan,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+946,2011,Dodge,Journey_Mainstreet, 8495, Neptune, NJ ,132181,Accident/Minor Damage,SUV,Beige_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,18
+947,2017,Dodge,Charger_R/T, 38988, Green Brook, NJ ,33309,No Accident or Damage Reported,Sedan,Yellow_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,19
+948,2015,Dodge,Dart_SXT, 12990, Newark, NJ,83912,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,22
+949,2019,Dodge,Challenger_GT, 29952, Freeport, NY ,21126,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+950,2014,Dodge,Grand_Caravan, 26900, Howell, NJ ,46859,Accident Reported,Minivan,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,9
+951,2013,Dodge,Durango_R/T, 23995, New Brunswick, NJ ,82740,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,5
+952,2017,Dodge,Charger_SXT, 25205, Haskell, NJ ,72151,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,16
+953,2014,Dodge,Challenger_SXT, 23995, Haskell, NJ ,45188,No Accident or Damage Reported,Coupe,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+954,2014,Dodge,Durango_Limited, 11495, Brooklyn, NY ,144101,Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+955,2017,Dodge,Journey_Crossroad, 17861, Bronx, NY ,56535,Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,10
+956,2018,Dodge,Durango_GT, 36800, New Rochelle, NY ,45177,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+957,2019,Dodge,Charger_GT, 26998, Brooklyn, NY ,37251,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,1
+958,2019,Dodge,Charger_SXT, 27997, Brooklyn, NY ,37394,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,1
+959,2015,Dodge,Durango_SXT, 22000, Old Bridge, NJ ,72837,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+960,2019,Dodge,Challenger_R/T_Scat_Pack_Widebody, 54176, Flemington, NJ ,13978,No Accident or Damage Reported,Coupe,Gray_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,3
+961,2020,Dodge,Charger_R/T, 39990, Newark, NJ,17391,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,3
+962,2019,Dodge,Durango_GT, 42850, Flemington, NJ ,36775,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+963,2012,Dodge,Caliber_SXT, 8850, Newton, NJ ,96021,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,9
+964,2017,Dodge,Grand_Caravan_SXT, 9995, Lakewood, NJ ,143167,Accident/Minor Damage,Minivan,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,11
+965,2012,Dodge,Charger_Police, 9899, West Milford, NJ ,119984,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Government Use,16
+966,2016,Dodge,Charger_SE, 19995, New Brunswick, NJ ,78122,Damage Reported,Sedan,White_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,12
+967,2018,Dodge,Durango_GT, 33995, Bronx, NY ,33718,Accident Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+968,2010,Dodge,Charger_SXT, 7500, Hazlet, NJ ,121942,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.5_L_,3+ Owners,Multiple Use,15
+969,2009,Dodge,Ram_1500_SLT, 18888, Butler, NJ ,64126,Accident Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,9
+970,2018,Dodge,Durango_GT, 35995, Jersey City, NJ ,39839,Minor Damage,SUV,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,9
+971,2018,Dodge,Durango_SRT, Call for Price, Long Island City, NY ,36442,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,8
+972,2018,Dodge,Durango_SXT, 29500, Croton On Hudson, NY ,34041,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+973,2018,Dodge,Durango_SRT, Call for Price, Long Island City, NY ,29130,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,7
+974,2018,Dodge,Journey_GT, 20677, Irvington, NJ ,55335,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,6
+975,2016,Dodge,Challenger_R/T, 27500, Bronx, NY ,64173,Accident Reported,Coupe,Black_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,5
+976,2018,Dodge,Durango_R/T, Call for Price, Brooklyn, NY ,25967,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+977,2018,Dodge,Durango_SXT, 29500, Croton On Hudson, NY ,34041,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+978,2019,Dodge,Durango_R/T, Call for Price, Sussex, NJ ,10003,No Accident or Damage Reported,SUV,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+979,2018,Dodge,Durango_SRT, 62995, Springfield, NJ ,17821,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_6.4_L_,Number of Owners,Personal Use,13
+980,2017,Dodge,Challenger_SXT, 23690, Great Neck, NY ,27389,No Accident or Damage Reported,Coupe,Green_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,9
+981,2017,Dodge,Durango_GT, 30999, Newark, NJ,53521,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,11
+982,2003,Dodge,Ram_2500_SLT, 19899, West Milford, NJ ,169121,Accident Reported,Pickup,Green_Engine:_6_Cyl_5.9_L_,3+ Owners,Multiple Use,9
+983,2001,Dodge,Ram_2500_ST, 10000, Lakewood, NJ ,160196,Accident Reported,Pickup,Blue_Engine:_10_Cyl_8.0_L_,3+ Owners,Multiple Use,4
+984,2013,Dodge,Durango_SXT, 17500, Morristown, NJ ,90416,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,22
+985,2018,Dodge,Durango_SXT, 32991, South River, NJ ,21208,Minor Damage,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+986,2018,Dodge,Durango_GT, 36000, Jersey City, NJ ,26280,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+987,2017,Dodge,Challenger_SXT, 25988, Valley Stream, NY ,36536,Accident Reported,Coupe,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+988,2014,Dodge,Grand_Caravan_American_Value_Package, 12000, Morristown, NJ ,90802,Accident/Minor Damage,Minivan,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,20
+989,2017,Dodge,Challenger_R/T_Scat_Pack, 41590, Newark, NJ,28958,No Accident or Damage Reported,Coupe,Gray_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,4
+990,2015,Dodge,Challenger_R/T_Plus, 34590, Newark, NJ,12985,No Accident or Damage Reported,Coupe,Blue_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,3
+991,2017,Dodge,Grand_Caravan_SXT, Call for Price, Jersey City, NJ ,12721,No Accident or Damage Reported,Minivan,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,12
+992,2020,Dodge,Durango_R/T, 49998, Edison, NJ ,29939,Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+993,2018,Dodge,Charger_SRT_Hellcat, 68800, Bloomfield, NJ ,14351,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_6.2_L_,2-Owner,Multiple Use,8
+994,2019,Dodge,Durango_SXT, 36900, Kearny, NJ ,15472,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+995,2018,Dodge,Durango_SRT, 52921, Springfield, NJ ,37993,No Accident or Damage Reported,SUV,Gray_Engine:_8_Cyl_6.4_L_,3+ Owners,Personal Use,11
+996,2014,Dodge,Challenger_R/T_Classic, 22688, Massapequa Park, NY ,91386,No Accident or Damage Reported,Coupe,Blue_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,13
+997,2018,Dodge,Challenger_SXT, 23888, Elmont, NY ,25533,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,5
+998,2019,Dodge,Charger_SXT, 28995, Bronx, NY ,30561,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,2
+999,2008,Dodge,Grand_Caravan_SXT, 3995, South Hackensack, NJ ,143580,Accident Reported,Minivan,Blue_Engine:_6_Cyl_3.8_L_,2-Owner,Multiple Use,15
+1000,2014,Dodge,Grand_Caravan_SE, 11995, Point Pleasant Boro, NJ ,127017,No Accident or Damage Reported,Minivan,Silver_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,18
+1001,2018,Dodge,Durango_SRT, 54995, Bronx, NY ,41810,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_6.4_L_,3+ Owners,Personal Use,10
+1002,2017,Dodge,Charger_R/T, 33000, Nanuet, NY ,45947,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,2
+1003,2011,Dodge,Charger_SE, 10995, Point Pleasant Boro, NJ ,127911,Minor Damage,Sedan,Gray_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,22
+1004,2013,Dodge,Durango_SXT, 17495, Ramsey, NJ ,100714,Accident Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,14
+1005,2013,Dodge,Durango_SXT, 19995, North Bergen, NJ ,85679,Accident Reported,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,12
+1006,2019,Dodge,Charger_SRT_Hellcat, 63988, Valley Stream, NY ,11445,Damage Reported,Sedan,Black_Engine:_8_Cyl_6.2_L_,3+ Owners,Multiple Use,4
+1007,2019,Dodge,Journey_GT, 29988, Hillside, NJ ,48562,Minor Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,1
+1008,2017,Dodge,Durango_SXT, Call for Price, Rockaway, NJ ,36426,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,9
+1009,2020,Dodge,Durango_R/T, 39950, Bronx, NY ,10620,Accident Reported,SUV,Gray_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,0
+1010,2021,Dodge,Challenger_R/T_Scat_Pack, 59980, Richmond Hill, NY ,868,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_6.4_L_,Number of Owners,Vehicle Use,0
+1011,2018,Dodge,Durango_SXT, 29418, Freeport, NY ,34172,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+1012,2013,Dodge,Charger_SXT_Plus, 16900, Rahway, NJ ,90681,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,27
+1013,2021,Dodge,Durango_GT, 41995, Springfield, NJ ,24419,No Accident or Damage Reported,SUV,Green_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,0
+1014,2021,Dodge,Durango_R/T, 45850, Bronx, NY ,7745,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,0
+1015,2018,Dodge,Charger_Daytona, 38999, Newark, NJ,18354,Minor Damage,Sedan,Red_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,4
+1016,2020,Dodge,Charger_GT, 31921, Springfield, NJ ,13983,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,2
+1017,2019,Dodge,Grand_Caravan_GT, 23988, Totowa, NJ ,52470,Accident Reported,Minivan,Red_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,3
+1018,2019,Dodge,Charger_R/T, 42833, Yonkers, NY ,30723,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,7
+1019,2010,Dodge,Ram_1500_ST, 10499, S Hackensack, NJ ,174214,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,8
+1020,2008,Dodge,Charger_R/T, 12995, Commack, NY ,64595,Accident Reported,Sedan,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+1021,2019,Dodge,Charger_SRT_Hellcat, 68999, Bridgewater, NJ ,17486,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_6.2_L_,2-Owner,Personal Use,6
+1022,2013,Dodge,Grand_Caravan_Crew, 10995, Newark, NJ ,119661,Accident/Minor Damage,Minivan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+1023,2007,Dodge,Ram_1500_Laramie, 9995, Belle Mead, NJ ,175508,Accident Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,17
+1024,2005,Dodge,Sprinter_2500_SHC, 9999, S Hackensack, NJ ,268024,No Accident or Damage Reported,Van,White_Engine:_5_Cyl_2.7_L_,CARFAX 1-Owner,Commercial Use,0
+1025,2017,Dodge,Journey_Crossroad_Plus, 17995, Clifton, NJ ,96659,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,13
+1026,2010,Dodge,Charger_R/T, 9600, Bloomfield, NJ ,118603,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,7
+1027,2016,Dodge,Challenger_SXT, 20750, Old Bridge, NJ ,76773,Minor Damage,Coupe,Blue_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,8
+1028,2018,Dodge,Durango_SXT, 31000, Bronx, NY ,27501,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+1029,2016,Dodge,Durango_Limited, 20780, Massapequa Park, NY ,120425,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,5
+1030,2009,Dodge,Grand_Caravan_SE, 6999, Eatontown, NJ ,123174,Accident Reported,Minivan,Gray_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,9
+1031,2013,Dodge,Journey_SXT, 11900, Union, NJ ,82475,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,20
+1032,2005,Dodge,Ram_1500_SLT, 6499, S Hackensack, NJ ,160561,Accident Reported,Pickup,Gold_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,25
+1033,2014,Dodge,Grand_Caravan_SXT_30th_Anniversary_Edition, 11995, Uniondale, NY ,105415,Accident/Minor Damage,Minivan,White_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,10
+1034,2020,Dodge,Grand_Caravan_GT, 26995, Bayonne, NJ ,36137,Accident Reported,Minivan,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,0
+1035,2009,Dodge,Nitro_SE, 7777, Shrewsbury, NJ ,186522,Accident Reported,SUV,Blue_Engine:_6_Cyl_3.7_L_,2-Owner,Multiple Use,12
+1036,2014,Dodge,Grand_Caravan_SXT, 8995, Jersey City, NJ ,132930,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,77
+1037,2005,Dodge,Ram_2500_SLT, 5495, South Hackensack, NJ ,212000,Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,6
+1038,2018,Dodge,Charger_R/T_Scat_Pack, Call for Price, Robbinsville, NJ ,8810,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,4
+1039,2021,Dodge,Charger_SRT_Hellcat_Redeye_Widebody, Call for Price, Robbinsville, NJ ,1251,No Accident or Damage Reported,Sedan,Orange_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Personal Use,1
+1040,2015,Dodge,Journey_Crossroad, 15995, Bronx, NY ,118165,Accident Reported,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,17
+1041,2019,Dodge,Charger_SXT, 23555, Linden, NJ ,58929,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,1
+1042,2017,Dodge,Durango_SXT, 33995, Garwood, NJ ,32556,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+1043,2003,Dodge,Grand_Caravan_Sport, 8995, North Middletown, NJ ,118183,No Accident or Damage Reported,Minivan,Silver_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,13
+1044,2018,Dodge,Durango_SRT, 50021, Springfield, NJ ,46932,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,1
+1045,2009,Dodge,Ram_1500_SLT, 13995, Rahway, NJ ,107335,Accident Reported,Pickup,Black_Engine:_8_Cyl_4.7_L_,3+ Owners,Multiple Use,13
+1046,2013,Dodge,Journey_Crew, 11999, S Hackensack, NJ ,99599,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,19
+1047,2015,Dodge,Durango_R/T, 29990, Valley Stream, NY ,38568,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,24
+1048,2021,Dodge,Durango_R/T, 45950, Bronx, NY ,8446,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,0
+1049,2019,Dodge,Durango_R/T, 39052, Freeport, NY ,26910,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+1050,2020,Dodge,Durango_GT, 39459, Avenel, NJ ,26435,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,6
+1051,2017,Dodge,Journey_SXT, 16995, Jamaica, NY ,53577,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,3
+1052,2017,Dodge,Durango_GT, 32000, Norwalk, CT ,45998,Accident Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,7
+1053,2018,Dodge,Durango_SXT, 31990, Brooklyn, NY ,26249,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+1054,2020,Dodge,Charger_R/T, 42750, Bronx, NY ,8400,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+1055,2018,Dodge,Charger_GT, 35992, Springfield, NJ ,22178,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+1056,2018,Dodge,Challenger_SXT_Plus, 33995, Bronx, NY ,42427,No Accident or Damage Reported,Coupe,Green_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+1057,2015,Dodge,Challenger_SXT, 21995, Saint James, NY ,47222,Minor Damage,Coupe,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,13
+1058,2014,Dodge,Durango_Limited, 24992, Springfield, NJ ,88915,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,13
+1059,2018,Dodge,Durango_SXT, 31888, Bayside, NY ,29869,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+1060,2017,Dodge,Durango_R/T, 35147, East Brunswick, NJ ,52456,Minor Damage,SUV,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,3
+1061,2012,Dodge,Charger_R/T_Max, 7995, Bronx, NY ,105678,Branded Title,Sedan,Red_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,19
+1062,2015,Dodge,Charger_SE, 19722, Jersey City, NJ ,67794,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,8
+1063,2018,Dodge,Durango_GT, 41889, South Plainfield, NJ ,46897,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,2
+1064,2018,Dodge,Charger_R/T, 35497, Saint James, NY ,32223,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,7
+1065,2012,Dodge,Durango_SXT, 15995, Irvington, NJ ,89146,Accident/Minor Damage,SUV,6_Cyl_3.6_L_,2-Owner,Personal Use,3
+1066,2010,Dodge,Ram_1500_SLT, 9995, South Hackensack, NJ ,240832,Accident Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,25
+1067,2018,Dodge,Charger_R/T_Scat_Pack, 40326, Freeport, NY ,18418,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,0
+1068,2015,Dodge,Challenger_R/T, 30295, Tenafly, NJ ,49047,Accident/Minor Damage,Coupe,Red_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,15
+1069,2018,Dodge,Durango_SRT, 57999, Maplewood, NJ ,38024,Accident Reported,SUV,Black_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,12
+1070,2014,Dodge,Charger_SXT, 11995, Plainfield, NJ ,100921,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,6
+1071,2018,Dodge,Charger_R/T_Scat_Pack, 46354, Upper Saddle River, NJ ,29998,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_6.4_L_,2-Owner,Multiple Use,11
+1072,2016,Dodge,Dart_SXT, 9995, Saint James, NY ,61993,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,5
+1073,2018,Dodge,Journey_Crossroad, 25996, South Plainfield, NJ ,18748,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,0
+1074,2020,Dodge,Grand_Caravan_GT, 29857, Union, NJ ,51784,No Accident or Damage Reported,Minivan,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,0
+1075,2018,Dodge,Durango_GT, 33991, Little Falls, NJ ,38250,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Corporate Use,12
+1076,2015,Dodge,Challenger_R/T_Plus, 28985, Massapequa, NY ,76120,No Accident or Damage Reported,Coupe,White_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,16
+1077,2019,Dodge,Challenger_R/T, 31580, Massapequa Park, NY ,49121,No Accident or Damage Reported,Coupe,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,1
+1078,2016,Dodge,Durango_Citadel, 26995, Brooklyn, NY ,99790,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,19
+1079,2015,Dodge,Journey_SXT_Plus, 10999, S Hackensack, NJ ,104902,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,14
+1080,2018,Dodge,Durango_SXT, 31995, Wall Township, NJ ,30958,Minor Damage,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+1081,2019,Dodge,Durango_GT_Plus, 39900, Bohemia, NY ,20523,Minor Damage,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+1082,2021,Dodge,Durango_R/T, 45921, Springfield, NJ ,25673,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,1
+1083,2018,Dodge,Durango_SRT, 55998, Springfield, NJ ,34744,No Accident or Damage Reported,SUV,Red_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,16
+1084,2019,Dodge,Durango_GT, 38900, Summit, NJ ,30809,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+1085,2019,Dodge,Challenger_R/T, 29195, Bronx, NY ,40477,Accident/Minor Damage,Coupe,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,3
+1086,2019,Dodge,Charger_GT, 29998, Syosset, NY ,36452,Minor Damage,Sedan,Red_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,3
+1087,2020,Dodge,Charger_R/T_Scat_Pack, 40921, Springfield, NJ ,9893,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Corporate Use,3
+1088,2019,Dodge,Journey_GT, 19490, Irvington, NJ ,56040,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,0
+1089,2019,Dodge,Durango_GT, 37959, Avenel, NJ ,19035,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+1090,2017,Dodge,Challenger_R/T_392_Scat_Pack_Shaker, 42995, Edison, NJ ,0,No Accident or Damage Reported,Coupe,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,1
+1091,2008,Dodge,Ram_1500_SLT, 14988, Saint James, NY ,77057,Accident Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,11
+1092,2013,Dodge,Durango_Crew, 21995, New Brunswick, NJ ,59779,Accident/Minor Damage,SUV,Gray_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,17
+1093,2011,Dodge,Durango_Express, 13995, New Brunswick, NJ ,112214,Minor Damage,SUV,Gray_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,17
+1094,2011,Dodge,Durango_Crew, 11749, RINGWOOD, NJ ,132298,Minor Damage,SUV,Silver_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,35
+1095,2011,Dodge,Durango_Citadel, 13900, Hillside, NJ ,123866,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,28
+1096,2006,Dodge,Ram_1500_ST, 5999, Little Ferry, NJ ,190749,Accident Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,20
+1097,2018,Dodge,Durango_GT, 29143, Jersey City, NJ ,80394,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,7
+1098,2015,Dodge,Durango_Limited, 21995, Irvington, NJ ,103635,No Accident or Damage Reported,SUV,6_Cyl_3.6_L_,3+ Owners,Multiple Use,20
+1099,2014,Dodge,Durango_Limited, 24700, Mahwah, NJ ,79689,Accident/Minor Damage,SUV,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,25

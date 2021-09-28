@@ -1,0 +1,1251 @@
+,Year,Brand,Model,Cost,City,State,Mileage,Accident,Body,Engine,Owners,Usefor,Services
+0,2020,Honda,HR-V_EX, 26498, Annandale, NJ ,13482,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Corporate Use,4
+1,2019,Honda,Civic_Sport, 22500, Newton, NJ ,30054,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+2,2016,Honda,HR-V_EX, 15595, Union, NJ ,102882,Minor Damage,SUV,Black_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,27
+3,2018,Honda,Civic_EX-T, 21595, North Plainfield, NJ ,3999,No Accident or Damage Reported,Coupe,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+4,2020,Honda,Odyssey_EX_L, 37998, North Plainfield, NJ ,31427,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+5,2018,Honda,Accord_Touring, 26990, Denville, NJ ,39686,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+6,2018,Honda,Pilot_EX, 23995, Cranbury, NJ ,90168,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+7,2018,Honda,Civic_Si, 24590, Denville, NJ ,33729,No Accident or Damage Reported,Coupe,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+8,2018,Honda,Pilot_EXL, 28970, Flemington, NJ ,50378,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+9,2018,Honda,Accord_EXL, 23888, Linden, NJ ,51537,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+10,2018,Honda,Accord_EXL, 23357, Lynbrook, NY ,27568,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+11,2018,Honda,Accord_EX, 23985, Yonkers, NY ,16377,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,1
+12,2019,Honda,Fit_LX, 17320, Denville, NJ ,32218,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,23
+13,2019,Honda,Civic_LX, 20590, Denville, NJ ,38486,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+14,2018,Honda,CR-V_EX, 25687, Bedford Hills, NY ,35734,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+15,2021,Honda,Accord_Sport, 26995, New York, NY ,23015,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+16,2019,Honda,Pilot_EXL, 33900, Bronx, NY ,16313,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+17,2018,Honda,CR-V_EXL, 25423, West Caldwell, NJ ,44222,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,11
+18,2019,Honda,Accord_LX, 23388, Wharton, NJ ,16161,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+19,2020,Honda,Accord_Sport, 26600, Bronx, NY ,17478,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,1
+20,2020,Honda,CR-V_EXL, 29799, Lakewood, NJ ,33385,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+21,2019,Honda,Odyssey_EX_L, 32859, Denville, NJ ,35132,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+22,2017,Honda,CR-V_Touring, 26795, Hackettstown, NJ ,55937,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,15
+23,2019,Honda,Civic_Sport, 21299, Pompton Plains, NJ ,30360,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+24,2019,Honda,Civic_LX, 20000, Denville, NJ ,25292,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+25,2016,Honda,Pilot_Touring, 29998, Saint James, NY ,47071,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,15
+26,2019,Honda,Odyssey_Elite, 38000, Princeton, NJ ,39597,No Accident or Damage Reported,Minivan,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+27,2019,Honda,Accord_EX, 24231, Lynbrook, NY ,10663,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+28,2020,Honda,Accord_Sport, 22615, Lynbrook, NY ,36098,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,12
+29,2020,Honda,Civic_LX, 22995, Hackettstown, NJ ,14532,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+30,2020,Honda,Odyssey_EX_L, 39100, Princeton, NJ ,18302,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+31,2018,Honda,Accord_EXL, 24748, Princeton, NJ ,33594,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,10
+32,2018,Honda,Odyssey_EX_L, 32900, Lakewood, NJ ,32701,No Accident or Damage Reported,Minivan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+33,2018,Honda,Odyssey_EX_L, 32900, Lakewood, NJ ,30908,No Accident or Damage Reported,Minivan,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+34,2019,Honda,Pilot_EXL, 33805, Ramsey, NJ ,29762,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+35,2020,Honda,Accord_Sport, 25308, WEST NEW YORK, NJ ,20112,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+36,2018,Honda,Accord_EXL, 22498, Floral Park, NY ,26774,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+37,2018,Honda,Pilot_EX, 27998, Floral Park, NY ,23089,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+38,2018,Honda,Accord_Sport, 22779, New York, NY ,35236,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,11
+39,2018,Honda,Civic_Sport, 22595, North Plainfield, NJ ,26573,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,12
+40,2018,Honda,Accord_EXL, 22395, Nanuet, NY ,85133,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+41,2020,Honda,Passport_Sport, 33800, White Plains, NY ,4672,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+42,2018,Honda,Civic_LX, 16575, Bay Shore, NY ,17440,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+43,2020,Honda,HR-V_LX, 23250, Shrewsbury, NJ ,9807,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,8
+44,2016,Honda,CR-V_EX, 21595, Brooklyn, NY ,37514,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+45,2019,Honda,Civic_EX, 23000, Denville, NJ ,42958,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,10
+46,2019,Honda,Civic_EX, 22990, Denville, NJ ,44866,No Accident or Damage Reported,Coupe,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+47,2019,Honda,Civic_Sport, 23990, Denville, NJ ,11657,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+48,2019,Honda,Odyssey_EX_L, 33789, Tenafly, NJ ,36970,No Accident or Damage Reported,Minivan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+49,2019,Honda,Odyssey_Elite, 39500, Bedford Hills, NY ,36714,No Accident or Damage Reported,Minivan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+50,2019,Honda,HR-V_LX, 21000, Bedford Hills, NY ,43251,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,12
+51,2019,Honda,Pilot_EXL, 34200, Bedford Hills, NY ,29755,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+52,2018,Honda,CR-V_EXL, 26162, Bedford Hills, NY ,41363,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+53,2019,Honda,Odyssey_Elite, 39500, Bedford Hills, NY ,36714,No Accident or Damage Reported,Minivan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+54,2019,Honda,CR-V_EXL, 28477, Lodi, NJ ,13701,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+55,2018,Honda,Pilot_LX, 27498, Tarrytown, NY ,20368,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+56,2018,Honda,Accord_Sport, 23100, Wayne, NJ ,34646,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+57,2016,Honda,Pilot_Touring, 24155, Rockaway, NJ ,108819,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,17
+58,2014,Honda,Accord_LX, 14000, Bedford Hills, NY ,86903,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,15
+59,2019,Honda,Fit_LX, 17995, Brooklyn, NY ,11618,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+60,2019,Honda,Accord_Touring, 30498, Edison, NJ ,17473,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+61,2018,Honda,Accord_LX, 20111, Lynbrook, NY ,28398,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+62,2018,Honda,HR-V_EX-L, 22295, Brooklyn, NY ,40589,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,3
+63,2014,Honda,CR-V_EX, 11995, Point Pleasant Boro, NJ ,138378,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+64,2017,Honda,CR-V_EX, 21995, Pt Pleasant, NJ ,76700,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,19
+65,2017,Honda,Civic_Touring, 19495, Pt Pleasant, NJ ,38615,No Accident or Damage Reported,Coupe,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+66,2018,Honda,Pilot_EX, 26965, Ramsey, NJ ,53330,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+67,2018,Honda,Accord_EXL, 23880, East Brunswick, NJ ,41481,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+68,2019,Honda,Odyssey_EX_L, 36200, White Plains, NY ,29107,No Accident or Damage Reported,Minivan,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+69,2016,Honda,Civic_EX-T, 16686, Orangeburg, NY ,82456,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+70,2016,Honda,Civic_EX-T, 19900, White Plains, NY ,23566,No Accident or Damage Reported,Sedan,4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,13
+71,2019,Honda,Accord_Sport, 24995, Bronx, NY ,22268,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+72,2017,Honda,CR-V_EX, 22995, Darien, CT ,60962,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,16
+73,2019,Honda,Pilot_Touring, 35998, Hasbrouck Heights, NJ ,31039,Accident/Minor Damage,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+74,2018,Honda,Accord_EX, 23295, Robbinsville, NJ ,28896,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+75,2018,Honda,Pilot_EXL, 31555, Bedford Hills, NY ,34004,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+76,2019,Honda,Ridgeline_Sport, 32439, Tenafly, NJ ,37208,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,14
+77,2019,Honda,CR-V_LX, 23967, Flemington, NJ ,34935,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+78,2019,Honda,Pilot_EXL, 36310, Princeton, NJ ,19050,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+79,2016,Honda,HR-V_EX-L, 19495, Great Neck, NY ,38573,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,7
+80,2018,Honda,Civic_LX, 19981, Flemington, NJ ,29451,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+81,2018,Honda,Civic_EX, 18022, Princeton, NJ ,87860,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+82,2018,Honda,CR-V_LX, 23995, Hackettstown, NJ ,29559,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+83,2018,Honda,Accord_Sport, 24400, Mahwah, NJ ,44451,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+84,2019,Honda,Ridgeline_RTL-E, 35995, Denville, NJ ,50011,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+85,2018,Honda,Accord_LX, 20777, Kenvil, NJ ,41231,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+86,2019,Honda,Pilot_Touring, 38931, Pompton Plains, NJ ,18719,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+87,2020,Honda,Accord_LX, 22900, Rockville Centre, NY ,23588,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+88,2014,Honda,Civic_LX, 10975, Bay Shore, NY ,119295,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,23
+89,2019,Honda,Civic_Sport, 19000, Lynbrook, NY ,24395,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+90,2018,Honda,Accord_EXL, 24629, Tarrytown, NY ,37303,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,13
+91,2018,Honda,CR-V_EX, 25995, Brooklyn, NY ,27078,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+92,2020,Honda,Civic_EX, 22334, Union, NJ ,33158,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+93,2018,Honda,Civic_EXL, 22990, Denville, NJ ,27357,Accident/Minor Damage,Hatchback,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,12
+94,2019,Honda,HR-V_EX, 20888, West Islip, NY ,34341,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,13
+95,2020,Honda,Accord_Sport, 25308, Lynbrook, NY ,15517,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+96,2019,Honda,HR-V_LX, 21999, Princeton, NJ ,28478,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,5
+97,2019,Honda,Odyssey_EX_L, 33590, Denville, NJ ,62487,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,14
+98,2019,Honda,Odyssey_EX_L, 31995, Nanuet, NY ,67959,No Accident or Damage Reported,Minivan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+99,2017,Honda,Pilot_EXL, 27850, Jackson Heights, NY ,39956,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Lease Use,2
+100,2015,Honda,Civic_EXL, 18642, Jamaica, NY ,22890,No Accident or Damage Reported,Coupe,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,26
+101,2019,Honda,Accord_Sport, 24688, Tarrytown, NY ,23376,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,10
+102,2018,Honda,CR-V_EX, 24495, Linden, NJ ,46386,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+103,2018,Honda,Pilot_EXL, 28997, Hackettstown, NJ ,62785,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+104,2019,Honda,Accord_Sport, 24000, Rochelle Park, NJ ,21792,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,10
+105,2019,Honda,Civic_Sport, 20299, Eatontown, NJ ,39463,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+106,2018,Honda,CR-V_EX, 23488, Blauvelt, NY ,61548,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,12
+107,2018,Honda,Civic_EX, 19883, East Meadow, NY ,35455,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+108,2016,Honda,Pilot_EXL, 23500, Morristown, NJ ,103023,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,17
+109,2019,Honda,Accord_Sport, 27399, Lakewood, NJ ,31604,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+110,2017,Honda,CR-V_EXL, 26500, Florham Park, NJ ,13224,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,10
+111,2018,Honda,Accord_EXL, 26300, Mahwah, NJ ,22989,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,1
+112,2019,Honda,Odyssey_EX_L, 36000, Woodside, NY ,19222,No Accident or Damage Reported,Minivan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+113,2019,Honda,Odyssey_EX_L, 33998, Morristown, NJ ,22614,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+114,2018,Honda,Accord_Touring, 25494, Great Neck, NY ,24206,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+115,2019,Honda,Pilot_Touring, 37489, Pompton Plains, NJ ,28338,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+116,2018,Honda,Accord_EXL, 24100, Little Ferry, NJ ,32444,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,18
+117,2016,Honda,Pilot_Touring, 28998, Westbury, NY ,49299,No Accident or Damage Reported,SUV,6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+118,2017,Honda,Civic_LX, 17500, Woodside, NY ,36083,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+119,2018,Honda,Accord_Sport, 22989, Tarrytown, NY ,28733,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+120,2018,Honda,Accord_LX, 21982, Freehold, NJ ,35017,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+121,2019,Honda,Odyssey_EX_L, 35220, Bedford Hills, NY ,35480,No Accident or Damage Reported,Minivan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+122,2019,Honda,Odyssey_EX, 31775, Hackettstown, NJ ,22930,No Accident or Damage Reported,Minivan,Green_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+123,2020,Honda,Accord_EXL, 28788, Ramsey, NJ ,2569,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+124,2019,Honda,Accord_LX, 20899, Trenton, NJ ,48486,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+125,2019,Honda,Accord_LX, 20899, Trenton, NJ ,48486,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+126,2018,Honda,Civic_EXL, 19790, Fairfield, CT ,58332,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+127,2018,Honda,CR-V_EX, 27595, Hackettstown, NJ ,16681,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+128,2018,Honda,CR-V_EXL, 27292, White Plains, NY ,26094,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,16
+129,2018,Honda,Civic_EX, 18495, Elizabeth, NJ ,32239,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+130,2020,Honda,Odyssey_EX_L, 38995, Edison, NJ ,20815,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+131,2016,Honda,Civic_EXL, 19500, Wilton, CT ,15862,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,12
+132,2018,Honda,Civic_LX, 17999, Tarrytown, NY ,29053,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+133,2019,Honda,Odyssey_EX_L, 34929, Wantagh, NY ,36359,No Accident or Damage Reported,Minivan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+134,2019,Honda,Odyssey_EX, 29999, Tarrytown, NY ,48269,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,14
+135,2018,Honda,Pilot_EXL, 31995, North Plainfield, NJ ,42229,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+136,2019,Honda,Odyssey_Touring, 39990, Denville, NJ ,35054,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+137,2016,Honda,Civic_EXL, 18950, Norwalk, CT ,44567,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,3+ Owners,Personal Use,8
+138,2019,Honda,Odyssey_EX_L, 31498, Westbury, NY ,45779,No Accident or Damage Reported,Minivan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+139,2018,Honda,Accord_Touring, 23444, Irvington, NJ ,47416,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+140,2021,Honda,Accord_Sport, 29499, Huntington Station, NY ,3269,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+141,2018,Honda,Accord_Sport, 18995, Huntington Station, NY ,117323,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,1
+142,2014,Honda,CR-V_EXL, 13695, Hackettstown, NJ ,142226,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,18
+143,2018,Honda,Civic_Type_R, 35589, North Plainfield, NJ ,37238,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,10
+144,2019,Honda,Accord_Sport, 25895, Whippany, NJ ,14536,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,17
+145,2017,Honda,Civic_EXL, 19500, Whippany, NJ ,74281,No Accident or Damage Reported,Hatchback,Silver_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,22
+146,2018,Honda,Accord_EXL, 24480, East Brunswick, NJ ,16922,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+147,2018,Honda,Accord_Touring, 26502, Edison, NJ ,17990,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+148,2018,Honda,Accord_LX, 17995, Bronx, NY ,0,No Accident or Damage Reported,Sedan,Brown_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+149,2018,Honda,Civic_Sport, 20385, Mahwah, NJ ,49179,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,0
+150,2019,Honda,Odyssey_EX, 31998, Pompton Plains, NJ ,11119,No Accident or Damage Reported,Minivan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+151,2017,Honda,CR-V_EX, 21982, Centereach, NY ,55320,No Accident or Damage Reported,SUV,Green_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,16
+152,2019,Honda,Passport_Sport, 31122, Tenafly, NJ ,18106,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+153,2019,Honda,CR-V_EX, 28448, Bronx, NY ,20101,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+154,2018,Honda,Civic_EX, 19534, Ramsey, NJ ,40949,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+155,2019,Honda,Civic_Sport, 22310, Madison, NJ ,17979,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+156,2016,Honda,Civic_LX, 16000, White Plains, NY ,72200,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,19
+157,2019,Honda,Civic_LX, 19986, Jamaica, NY ,18575,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+158,2019,Honda,Civic_LX, 18792, Freehold, NJ ,32992,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+159,2018,Honda,Accord_LX, 17958, Lindenhurst, NY ,53668,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+160,2019,Honda,Civic_Sport, 19900, Rahway, NJ ,36618,No Accident or Damage Reported,Coupe,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+161,2016,Honda,HR-V_EX, 15199, Eatontown, NJ ,101002,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,15
+162,2019,Honda,Odyssey_Touring, 39500, Woodside, NY ,13771,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+163,2015,Honda,Civic_EXL, 14995, Brooklyn, NY ,85337,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,1
+164,2016,Honda,Accord_Sport, 15500, Old Bridge, NJ ,124303,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+165,2020,Honda,HR-V_EX-L, 25500, Glen Cove, NY ,18943,No Accident or Damage Reported,SUV,4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,7
+166,2018,Honda,Odyssey_Elite, 38997, Little Ferry, NJ ,21288,No Accident or Damage Reported,Minivan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+167,2018,Honda,Accord_LX, 20745, Great Neck, NY ,17055,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+168,2019,Honda,HR-V_LX, 20671, Pompton Plains, NJ ,28500,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,3
+169,2019,Honda,Insight_EX, 22000, Woodside, NY ,19809,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+170,2017,Honda,Accord_Touring, 20000, Woodside, NY ,93703,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,17
+171,2018,Honda,Accord_Touring, 25935, Sea Girt, NJ ,33881,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,4
+172,2016,Honda,CR-V_LX, 18880, Mamaroneck, NY ,42614,Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+173,2020,Honda,Accord_Sport, 25555, Irvington, NJ ,29111,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+174,2018,Honda,HR-V_LX, 21000, Newton, NJ ,40376,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,9
+175,2018,Honda,Accord_EXL, 24995, Totowa, NJ ,25649,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+176,2020,Honda,HR-V_EX, 26498, Annandale, NJ ,13482,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Corporate Use,4
+177,2019,Honda,Fit_LX, 19210, Mahwah, NJ ,22296,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,0
+178,2018,Honda,Accord_LX, 20950, Mahwah, NJ ,44644,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,0
+179,2018,Honda,Accord_EXL, 25999, Lakewood, NJ ,38788,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+180,2017,Honda,Pilot_EXL, 29997, White Plains, NY ,39775,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+181,2018,Honda,HR-V_EX, 20595, Brooklyn, NY ,32160,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,9
+182,2018,Honda,CR-V_LX, 23995, Brooklyn, NY ,32903,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+183,2018,Honda,Civic_EX-T, 20351, Brooklyn, NY ,6506,No Accident or Damage Reported,Coupe,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+184,2020,Honda,Civic_Sport, 20436, Hempstead, NY ,11105,No Accident or Damage Reported,Coupe,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+185,2018,Honda,CR-V_EXL, 26523, Flemington, NJ ,42063,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+186,2017,Honda,Accord_Sport_Special_Edition, 17995, Brooklyn, NY ,86407,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+187,2020,Honda,Civic_LX, 20595, Tarrytown, NY ,30776,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+188,2019,Honda,Accord_Sport, 24495, Tarrytown, NY ,40529,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+189,2018,Honda,Accord_EXL, 21397, Morristown, NJ ,68917,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+190,2017,Honda,Accord_Sport, 16995, West Nyack, NY ,111112,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+191,2018,Honda,Civic_LX, 17999, Tarrytown, NY ,47074,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+192,2018,Honda,Civic_LX, 17991, Smithtown, NY ,32630,No Accident or Damage Reported,Sedan,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+193,2020,Honda,Civic_Sport, 24694, Jamaica, NY ,4607,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+194,2020,Honda,Odyssey_EX_L, 39500, Bronx, NY ,4553,No Accident or Damage Reported,Minivan,Burgundy_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+195,2018,Honda,Civic_LX, 18963, Jamaica, NY ,20567,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+196,2016,Honda,Pilot_EXL, 19200, Eatontown, NJ ,153122,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,16
+197,2021,Honda,Civic_LX, 22495, Edison, NJ ,6501,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+198,2018,Honda,Accord_EX, 22888, Eatontown, NJ ,38865,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,12
+199,2018,Honda,Clarity_Base, 22076, Princeton, NJ ,13050,Damage Reported,Sedan,Green_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+200,2019,Honda,Accord_EX, 22500, Bronx, NY ,48965,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+201,2018,Honda,Accord_EXL, 23891, Irvington, NJ ,34979,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,10
+202,2019,Honda,Accord_Sport, 23888, Jamaica, NY ,51723,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+203,2015,Honda,CR-V_Touring, 19556, Denville, NJ ,88552,No Accident or Damage Reported,SUV,Brown_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,20
+204,2021,Honda,Civic_Type_R, 45495, Edison, NJ ,2001,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+205,2018,Honda,Pilot_EXL, 31995, North Plainfield, NJ ,49181,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+206,2019,Honda,Civic_LX, 20456, Jamaica, NY ,14918,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+207,2018,Honda,Civic_LX, 18386, Orangeburg, NY ,28613,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+208,2019,Honda,Odyssey_EX_L, 35370, Denville, NJ ,39781,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+209,2018,Honda,Pilot_EXL, 25495, Commack, NY ,61996,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+210,2018,Honda,Civic_Si, 21895, EATONTOWN, NJ ,49362,Accident Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,15
+211,2014,Honda,CR-V_EXL, 15800, Wilton, CT ,109612,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,25
+212,2017,Honda,Accord_Sport_Special_Edition, 13990, Bronx, NY ,130734,Accident Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Taxi Use,9
+213,2019,Honda,Accord_Sport, 24122, Freehold, NJ ,29666,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+214,2018,Honda,CR-V_EXL, 27982, Freehold, NJ ,29093,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+215,2018,Honda,Accord_EX, 24998, Annandale, NJ ,27592,Accident/Minor Damage,Sedan,Beige_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,12
+216,2018,Honda,Accord_EXL, 24409, Ramsey, NJ ,9570,Minor Damage,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+217,2020,Honda,Accord_Base, 25535, Sea Girt, NJ ,3899,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+218,2019,Honda,Civic_LX, 20987, Ringoes, NJ ,17865,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,4
+219,2016,Honda,CR-V_LX, 18950, Mamaroneck, NY ,59353,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,13
+220,2020,Honda,Pilot_EXL, 37899, Lakewood, NJ ,7753,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,0
+221,2017,Honda,Civic_EXL, 17735, Ocean, NJ ,68007,Accident Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,16
+222,2018,Honda,Odyssey_EX_L, 27699, Ramsey, NJ ,95733,No Accident or Damage Reported,Minivan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+223,2004,Honda,Pilot_EXL, 6000, Norwalk, CT ,165815,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,41
+224,2020,Honda,CR-V_LX, 23990, Valley Stream, NY ,21115,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+225,2018,Honda,Civic_Sport, 20990, West Nyack, NY ,29638,Accident Reported,Hatchback,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+226,2018,Honda,Accord_LX, 17195, Nanuet, NY ,109367,Minor Damage,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+227,2019,Honda,Pilot_LX, 29550, Bronx, NY ,11808,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+228,2019,Honda,Pilot_EXL, 34000, Bronx, NY ,31787,No Accident or Damage Reported,SUV,Green_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+229,2018,Honda,Odyssey_EX, 28962, Jamaica, NY ,24086,Accident/Minor Damage,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+230,2016,Honda,Civic_EX, 18995, Harriman, NY ,53537,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+231,2018,Honda,CR-V_EXL, 27946, Flemington, NJ ,36167,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+232,2021,Honda,Pilot_EXL, 39589, Ramsey, NJ ,8928,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+233,2019,Honda,Accord_Sport, 23997, Elizabeth, NJ ,22499,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+234,2019,Honda,Odyssey_EX, 31996, Jamaica, NY ,28284,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+235,2018,Honda,CR-V_EX, 26128, Farmingdale, NY ,26655,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+236,2016,Honda,Accord_EXL, 22000, Jersey City, NJ ,19986,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,6
+237,2018,Honda,CR-V_EX, 25522, Freehold, NJ ,24557,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+238,2018,Honda,Accord_Touring, 26982, Freehold, NJ ,26909,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+239,2019,Honda,Insight_EX, 17900, Brooklyn, NY ,43808,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+240,2019,Honda,CR-V_LX, 25982, Freehold, NJ ,12635,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+241,2018,Honda,CR-V_EX, 24995, Brooklyn, NY ,31608,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+242,2019,Honda,HR-V_EX, 20303, Irvington, NJ ,42995,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,1
+243,2019,Honda,Civic_Si, 22995, Hackettstown, NJ ,57212,No Accident or Damage Reported,Coupe,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+244,2019,Honda,Accord_Sport, 25500, Hollis, NY ,17864,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+245,2020,Honda,Civic_Sport, 24999, Newark, NJ,11222,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+246,2018,Honda,CR-V_EXL, 22795, Hackettstown, NJ ,81389,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,15
+247,2017,Honda,Accord_EXL, 15995, Hackettstown, NJ ,126799,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,19
+248,2018,Honda,Accord_EXL, 23971, East Brunswick, NJ ,42735,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,13
+249,2018,Honda,CR-V_EX, 25499, Eatontown, NJ ,44561,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+250,2019,Honda,Pilot_Touring, 39995, Edison, NJ ,9507,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+251,2019,Honda,Accord_Sport, 23495, Newark, NJ ,24128,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,10
+252,2018,Honda,CR-V_EXL, 27413, Brooklyn, NY ,13573,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+253,2019,Honda,Odyssey_EX_L, 34995, Brooklyn, NY ,15370,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,0
+254,2017,Honda,Civic_Si, 22990, Green Brook, NJ ,15245,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+255,2019,Honda,Odyssey_EX_L, 34888, WEST NEW YORK, NJ ,31277,No Accident or Damage Reported,Minivan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+256,2016,Honda,HR-V_EX, 15995, South Amboy, NJ ,93395,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,5
+257,2018,Honda,Accord_EX, 23799, Brooklyn, NY ,20296,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,1
+258,2019,Honda,Odyssey_EX_L, 33499, Tarrytown, NY ,51461,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+259,2018,Honda,Civic_LX, 18982, Freehold, NJ ,15843,No Accident or Damage Reported,Coupe,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+260,2018,Honda,Accord_Sport, 20490, Ridgefield, CT ,72962,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,11
+261,2018,Honda,Accord_EX, 23995, Brooklyn, NY ,12527,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,10
+262,2019,Honda,Civic_Sport, 19495, Linden, NJ ,59340,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+263,2018,Honda,Accord_EXL, 23450, Bronx, NY ,32857,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+264,2016,Honda,HR-V_EX-L, 18000, Jersey City, NJ ,55459,Very Minor Damage,SUV,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,19
+265,2018,Honda,Civic_LX, 18687, Jamaica, NY ,18239,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+266,2018,Honda,Accord_Sport, 19996, Long Island City, NY ,44297,Major Damage,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+267,2019,Honda,Accord_Sport, 22990, Bronx, NY ,34931,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+268,2019,Honda,CR-V_LX, 24695, Hackettstown, NJ ,37790,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+269,2014,Honda,Accord_Sport, 15000, Ramsey, NJ ,99202,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+270,2019,Honda,Odyssey_Elite, 37995, Wall Township, NJ ,36084,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+271,2018,Honda,Accord_LX, 17995, Jamaica, NY ,76043,Accident Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+272,2018,Honda,Accord_EX, 21395, Paramus, NJ ,62580,Damage Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,15
+273,2013,Honda,Accord_LX, 12488, Wantagh, NY ,110637,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,40
+274,2019,Honda,Odyssey_EX, 33172, Madison, NJ ,20437,No Accident or Damage Reported,Minivan,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Corporate Use,11
+275,2018,Honda,Accord_EXL, 25497, Morristown, NJ ,30854,No Accident or Damage Reported,Sedan,Beige_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+276,2017,Honda,Accord_EXL, 21900, Bronx, NY ,29759,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+277,2016,Honda,CR-V_SE, 20995, Lawrence Township, NJ ,36908,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+278,2018,Honda,Civic_EX-T, 19895, Totowa, NJ ,22797,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,1
+279,2019,Honda,Pilot_EXL, 35995, Hackettstown, NJ ,26395,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+280,2018,Honda,Accord_EX, 23672, Freehold, NJ ,30983,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+281,2019,Honda,Odyssey_EX_L, 32982, Freehold, NJ ,44903,No Accident or Damage Reported,Minivan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+282,2019,Honda,Civic_LX, 19982, Freehold, NJ ,25951,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+283,2018,Honda,CR-V_EX, 25982, Freehold, NJ ,28892,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+284,2018,Honda,Accord_Sport, 24495, Saint James, NY ,18632,No Accident or Damage Reported,Sedan,4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+285,2019,Honda,Pilot_EXL, 33991, Smithtown, NY ,30649,No Accident or Damage Reported,SUV,6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+286,2020,Honda,Civic_LX, 21316, Jamaica, NY ,15971,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+287,2020,Honda,Odyssey_EX, 36228, Jamaica, NY ,14466,No Accident or Damage Reported,Minivan,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+288,2021,Honda,Passport_EX_L, 39488, West Caldwell, NJ ,5125,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+289,2019,Honda,Ridgeline_RTL-E, 38500, Nanuet, NY ,29739,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+290,2019,Honda,Pilot_EXL, 34956, West Caldwell, NJ ,14637,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+291,2019,Honda,Passport_EX_L, 36495, Paramus, NJ ,11604,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+292,2018,Honda,Civic_LX, 16999, Copiague, NY ,15488,Accident/Minor Damage,Hatchback,4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+293,2018,Honda,Civic_LX, 15269, Lynbrook, NY ,23107,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+294,2018,Honda,Accord_Touring, 27699, Wharton, NJ ,31440,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+295,2019,Honda,HR-V_EX, 23985, Yonkers, NY ,20852,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,4
+296,2018,Honda,Pilot_EXL, 29990, Rockaway, NJ ,38543,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+297,2018,Honda,Civic_EX, 16980, Bronx, NY ,30564,Very Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+298,2015,Honda,Accord_EXL, 15846, Princeton, NJ ,92297,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,1
+299,2019,Honda,Pilot_LX, 30775, Hackettstown, NJ ,14240,No Accident or Damage Reported,SUV,Green_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Corporate Use,5
+300,2018,Honda,CR-V_Touring, 28690, Valley Stream, NY ,20103,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+301,2018,Honda,Accord_EXL, 22990, Valley Stream, NY ,44850,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+302,2018,Honda,Civic_Si, 21895, Valley Stream, NY ,26473,No Accident or Damage Reported,Coupe,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+303,2020,Honda,Accord_Sport, 25995, Saint James, NY ,24539,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,0
+304,2018,Honda,Pilot_EX, 23500, Woodside, NY ,90864,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,18
+305,2018,Honda,Pilot_EXL, 33655, Farmingdale, NY ,13030,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+306,2017,Honda,Civic_Si, 18950, Neptune, NJ ,78498,Accident Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,15
+307,2017,Honda,CR-V_Touring, 27499, Old Bridge, NJ ,32703,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,16
+308,2019,Honda,Odyssey_LX, 25895, Colonia, NJ ,47129,Accident Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+309,2019,Honda,Civic_EX, 21300, Bronx, NY ,33690,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,10
+310,2018,Honda,CR-V_EXL, 27000, Rockville Centre, NY ,19453,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+311,2020,Honda,Accord_Sport, 29276, Mahwah, NJ ,21277,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+312,2010,Honda,CR-V_EXL, 7449, Garfield, NJ ,183355,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,44
+313,2012,Honda,Civic_EXL, 7499, Garfield, NJ ,157839,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,25
+314,2018,Honda,CR-V_EXL, 27704, Larchmont, NY ,20626,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+315,2017,Honda,Civic_LX, 16881, Avenel, NJ ,43828,No Accident or Damage Reported,Coupe,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+316,2016,Honda,HR-V_LX, 16995, Jamaica, NY ,43179,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,3
+317,2018,Honda,Civic_EX-T, 17990, Great Neck, NY ,17468,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+318,2018,Honda,Odyssey_Touring, 37999, Eatontown, NJ ,26969,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,14
+319,2018,Honda,Accord_EX, 20646, Irvington, NJ ,67885,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+320,2012,Honda,Civic_LX, 7250, Little Ferry, NJ ,118415,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,13
+321,2017,Honda,CR-V_EXL, 24000, Bronx, NY ,42735,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+322,2017,Honda,CR-V_EXL, 22899, Maplewood, NJ ,82785,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,10
+323,2019,Honda,HR-V_Sport, 22995, Hackettstown, NJ ,24310,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,10
+324,2019,Honda,Civic_EX, 23500, Princeton, NJ ,29890,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,1
+325,2020,Honda,Pilot_EX, 33929, Tenafly, NJ ,24335,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+326,2018,Honda,Clarity_Base, 21700, Princeton, NJ ,35743,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,1
+327,2019,Honda,Civic_Sport, 19990, Jamaica, NY ,23141,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+328,2019,Honda,Accord_Sport, 23481, Avenel, NJ ,29552,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+329,2018,Honda,Accord_EX, 22999, Eatontown, NJ ,36820,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+330,2019,Honda,Civic_LX, 18463, PARAMUS, NJ ,29767,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+331,2018,Honda,Civic_LX-P, 19982, Freehold, NJ ,24105,No Accident or Damage Reported,Coupe,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+332,2019,Honda,Odyssey_EX_L, 33982, Freehold, NJ ,42542,No Accident or Damage Reported,Minivan,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+333,2018,Honda,Pilot_EXL, 27281, Woodside, NY ,40128,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+334,2019,Honda,Odyssey_EX_L, 34982, Freehold, NJ ,34212,No Accident or Damage Reported,Minivan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+335,2019,Honda,Accord_EX, 26982, Freehold, NJ ,17102,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+336,2020,Honda,Civic_Sport, 25200, Mahwah, NJ ,17967,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+337,2019,Honda,Accord_LX, 22518, Long Island City, NY ,35572,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,17
+338,2020,Honda,Passport_Touring, 38300, Bronx, NY ,8443,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+339,2018,Honda,Pilot_EX, 28899, Lakewood, NJ ,44839,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+340,2019,Honda,Odyssey_EX_L, 34500, Old Bridge, NJ ,30012,No Accident or Damage Reported,Minivan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,15
+341,2018,Honda,Civic_EX, 19900, Old Bridge, NJ ,32775,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+342,2019,Honda,Accord_Sport, 24490, Valley Stream, NY ,19508,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+343,2019,Honda,Pilot_EXL, 32660, Keyport, NJ ,38337,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+344,2018,Honda,Pilot_EXL, 31500, Stamford, CT ,42255,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+345,2019,Honda,Odyssey_EX_L, 34495, Paramus, NJ ,34720,No Accident or Damage Reported,Minivan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+346,2018,Honda,Civic_LX, 19495, Pt Pleasant, NJ ,24158,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+347,2019,Honda,Accord_Sport, 25097, Long Island City, NY ,15642,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,12
+348,2019,Honda,CR-V_EXL, 30495, Saint James, NY ,12116,No Accident or Damage Reported,SUV,4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+349,2017,Honda,Accord_Sport, 16295, Nanuet, NY ,101231,Accident Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+350,2018,Honda,Accord_EXL, 26587, Jamaica, NY ,20514,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+351,2018,Honda,Accord_Sport, 25000, White Plains, NY ,16366,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+352,2018,Honda,CR-V_EX, 24706, West Caldwell, NJ ,52191,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+353,2019,Honda,Accord_Sport, 26000, White Plains, NY ,38754,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+354,2019,Honda,Civic_EX, 22690, North Plainfield, NJ ,33681,No Accident or Damage Reported,Coupe,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+355,2019,Honda,Accord_Sport, 24500, White Plains, NY ,54354,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+356,2019,Honda,Odyssey_EX_L, 36628, Jamaica, NY ,28611,No Accident or Damage Reported,Minivan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+357,2021,Honda,Civic_EX, 26000, White Plains, NY ,4403,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+358,2018,Honda,Pilot_EXL, 31500, Stamford, CT ,42255,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+359,2018,Honda,Civic_EX-T, 21697, Jamaica, NY ,17076,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+360,2020,Honda,Accord_Sport, 22450, Woodside, NY ,14230,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+361,2017,Honda,CR-V_EX, 25777, Mahwah, NJ ,44649,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,1
+362,2014,Honda,Odyssey_EX_L, 14995, Brooklyn, NY ,105840,No Accident or Damage Reported,Minivan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+363,2016,Honda,Accord_EX, 16998, Morristown, NJ ,80283,No Accident or Damage Reported,Sedan,Beige_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,20
+364,2018,Honda,CR-V_EXL, 23547, Hempstead, NY ,57479,Damage Reported,SUV,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,15
+365,2017,Honda,Ridgeline_RTL, 30495, Edison, NJ ,31345,Accident Reported,Pickup,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+366,2016,Honda,Pilot_EXL, 23299, Tarrytown, NY ,97072,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,19
+367,2014,Honda,Accord_Sport, 11595, Robbinsville, NJ ,138462,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,20
+368,2020,Honda,CR-V_LX, 26995, Hackettstown, NJ ,11937,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Corporate Use,3
+369,2018,Honda,Civic_LX, 15995, Mount Kisco, NY ,57183,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,5
+370,2019,Honda,HR-V_EX, 21226, Jamaica, NY ,42601,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,7
+371,2018,Honda,Pilot_EXL, 28495, Westbury, NY ,30190,Major Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+372,2019,Honda,HR-V_EX, 22000, Rockville Centre, NY ,11226,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,5
+373,2017,Honda,CR-V_Touring, 25381, Great Neck, NY ,37808,Accident Reported,SUV,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+374,2019,Honda,Civic_LX, 20718, Hackettstown, NJ ,4846,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,4
+375,2018,Honda,Civic_LX, 16899, Jamaica, NY ,51004,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+376,2017,Honda,Odyssey_Touring_Elite, 31466, Tenafly, NJ ,52710,Damage Reported,Minivan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+377,2017,Honda,CR-V_EXL, 24683, Flemington, NJ ,60032,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,13
+378,2018,Honda,CR-V_LX, 22700, Bedford Hills, NY ,28629,Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+379,2020,Honda,CR-V_LX, 23995, Freeport, NY ,13174,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Rental Use,1
+380,2018,Honda,Civic_EX-T, 19995, Hackettstown, NJ ,42813,Accident Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+381,2009,Honda,Fit_Sport, 6986, Rockaway, NJ ,114932,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,12
+382,2018,Honda,Civic_Si, 22994, Brooklyn, NY ,25931,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+383,2018,Honda,Accord_Sport, 21450, Woodside, NY ,30883,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+384,2016,Honda,Odyssey_LX, 14495, Brooklyn, NY ,114090,No Accident or Damage Reported,Minivan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+385,2018,Honda,Accord_EX, 25995, Nanuet, NY ,3772,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+386,2019,Honda,Civic_LX, 15932, Lynbrook, NY ,43843,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+387,2016,Honda,CR-V_EX, 20000, Rockville Centre, NY ,44412,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+388,2018,Honda,Civic_LX, 19780, Mahwah, NJ ,34437,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+389,2019,Honda,Pilot_EXL, 35595, Mount Kisco, NY ,30552,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+390,2018,Honda,Accord_Sport, 21598, Maplewood, NJ ,65542,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,11
+391,2018,Honda,Pilot_EXL, 33887, Lebanon, NJ ,27902,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+392,2019,Honda,Pilot_EXL, 34995, Hackettstown, NJ ,38206,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+393,2019,Honda,HR-V_EX-L, 24995, Hackettstown, NJ ,27548,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,7
+394,2016,Honda,CR-V_EX, 19888, Mamaroneck, NY ,51285,Minor Damage,SUV,4_Cyl_2.4_L_,2-Owner,Personal Use,25
+395,2010,Honda,Element_LX, 7340, Ramsey, NJ ,210003,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,40
+396,2018,Honda,Accord_Sport, 21495, Jamaica, NY ,31290,Accident Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+397,2018,Honda,Accord_Sport, 25835, Sea Girt, NJ ,25884,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+398,2018,Honda,Accord_EXL, 19880, East Brunswick, NJ ,79953,Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+399,2018,Honda,HR-V_EX, 18885, Colonia, NJ ,36843,Accident Reported,SUV,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,5
+400,2017,Honda,Civic_LX, 12499, Little Ferry, NJ ,98460,Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,18
+401,2007,Honda,Pilot_EX, 4499, Little Ferry, NJ ,206719,Accident Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,41
+402,2020,Honda,HR-V_LX, 19995, Freeport, NY ,13757,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Rental Use,2
+403,2018,Honda,Odyssey_EX_L, 29990, Jamaica, NY ,33216,No Accident or Damage Reported,Minivan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,15
+404,2019,Honda,Civic_LX, 19982, Freehold, NJ ,22593,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+405,2019,Honda,Civic_Type_R, 39895, Paramus, NJ ,20011,Minor Damage,Hatchback,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+406,2020,Honda,Civic_Sport, 21995, Brooklyn, NY ,24399,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+407,2014,Honda,Accord_LX, 15985, Stamford, CT ,55389,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,15
+408,2020,Honda,Civic_Si, 26769, Hempstead, NY ,10785,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+409,2017,Honda,Civic_EX-T, 17700, Wayne, NJ ,53331,Accident Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+410,2017,Honda,Accord_EX, 19995, Totowa, NJ ,21246,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+411,2018,Honda,Pilot_EXL, 31999, Tarrytown, NY ,31029,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+412,2018,Honda,Civic_EX-T, 16769, Hempstead, NY ,50349,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,14
+413,2018,Honda,Pilot_Elite, 32990, Great Neck, NY ,48591,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+414,2019,Honda,Civic_Sport, 24490, Denville, NJ ,7146,No Accident or Damage Reported,Coupe,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Vehicle Use,5
+415,2020,Honda,Civic_EX, 21995, Wall Township, NJ ,47925,No Accident or Damage Reported,Hatchback,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,1
+416,2019,Honda,Civic_LX, 19522, Freehold, NJ ,25902,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+417,2018,Honda,Civic_EX-T, 18788, WEST NEW YORK, NJ ,23096,No Accident or Damage Reported,Coupe,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,16
+418,2018,Honda,Accord_Sport, 23982, Freehold, NJ ,34481,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+419,2016,Honda,CR-V_EX, 17995, Asbury Park, NJ ,108477,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+420,2018,Honda,Accord_EXL, 24982, Freehold, NJ ,34601,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,11
+421,2019,Honda,Accord_Sport, 19995, Bronx, NY ,53414,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+422,2018,Honda,Accord_Sport, 21646, Hempstead, NY ,14721,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+423,2018,Honda,Pilot_EXL, 30982, Freehold, NJ ,46386,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+424,2019,Honda,Pilot_EX, 29982, Freehold, NJ ,45445,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+425,2018,Honda,Pilot_EXL, 31485, Yonkers, NY ,35422,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+426,2013,Honda,Civic_LX, 6995, Lynbrook, NY ,112029,Major Damage,Coupe,Blue_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,16
+427,2018,Honda,CR-V_EX, 25412, Freehold, NJ ,34101,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+428,2017,Honda,Civic_EX, 18275, West Caldwell, NJ ,76772,No Accident or Damage Reported,Hatchback,Burgundy_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,9
+429,2014,Honda,CR-V_LX, 12495, Pt Pleasant, NJ ,123384,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,11
+430,2018,Honda,Odyssey_EX_L, 30898, Brooklyn, NY ,25915,No Accident or Damage Reported,Minivan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+431,2018,Honda,CR-V_EXL, 27732, Freehold, NJ ,20751,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,0
+432,2018,Honda,CR-V_LX, 21990, Jamaica, NY ,30613,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+433,2018,Honda,Clarity_Touring, 23000, Woodside, NY ,19444,Accident Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+434,2019,Honda,Odyssey_EX_L, 34895, Nanuet, NY ,34756,No Accident or Damage Reported,Minivan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+435,2018,Honda,Pilot_EX, 27200, Bloomfield, NJ ,35474,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+436,2020,Honda,Passport_EX_L, 36795, Nanuet, NY ,16290,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+437,2018,Honda,CR-V_EX, 25995, Hackensack, NJ ,27888,No Accident or Damage Reported,SUV,4_Cyl_1.5_L_,2-Owner,Personal Use,6
+438,2010,Honda,Accord_EXL, 7199, Eatontown, NJ ,140629,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,31
+439,2019,Honda,Accord_EX, 22499, Saint James, NY ,31981,Minor Damage,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,10
+440,2018,Honda,Civic_EXL, 17490, Brooklyn, NY ,38730,Accident Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+441,2018,Honda,Accord_EXL, 26995, Nanuet, NY ,38026,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+442,2018,Honda,Civic_LX, 16995, South Hackensack, NJ ,27256,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+443,2019,Honda,Civic_Si, 22135, Bay Shore, NY ,35881,Accident Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+444,2018,Honda,Accord_LX, 17890, Valley Stream, NY ,53486,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,6
+445,2018,Honda,Civic_EX-T, 20795, Nanuet, NY ,46472,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,10
+446,2018,Honda,CR-V_LX, 24000, Woodside, NY ,32284,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+447,2019,Honda,Civic_LX, 15900, Bronx, NY ,51240,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+448,2018,Honda,CR-V_EXL, 24000, Woodside, NY ,73308,Accident Reported,SUV,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,10
+449,2016,Honda,CR-V_SE, 19535, Ramsey, NJ ,61668,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+450,2020,Honda,Civic_Sport, 23999, Tarrytown, NY ,5668,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+451,2019,Honda,CR-V_EX, 29082, North Brunswick, NJ ,17313,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+452,2016,Honda,Pilot_Touring, 27999, Tarrytown, NY ,75659,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+453,2018,Honda,Civic_LX, 21995, Tarrytown, NY ,5010,No Accident or Damage Reported,Hatchback,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+454,2019,Honda,Odyssey_EX, 31899, Lakewood, NJ ,38926,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,0
+455,2018,Honda,Accord_EXL, 21507, Jersey City, NJ ,89597,No Accident or Damage Reported,Sedan,Brown_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+456,2018,Honda,Accord_Sport, 24488, Jersey City, NJ ,26960,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+457,2018,Honda,Accord_Sport, 23995, South Hackensack, NJ ,39573,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+458,2017,Honda,Pilot_EXL, 28988, Westbury, NY ,44189,No Accident or Damage Reported,SUV,6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,15
+459,2017,Honda,Pilot_Touring, 33655, Farmingdale, NY ,24343,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+460,2015,Honda,Pilot_Touring, 20995, UNION CITY, NJ ,107016,No Accident or Damage Reported,SUV,6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,15
+461,2019,Honda,Accord_EXL, 25900, Englewood Cliffs, NJ ,30553,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+462,2017,Honda,CR-V_Touring, 27118, Englewood, NJ ,39569,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,1
+463,2018,Honda,Pilot_EXL, 30822, Pompton Plains, NJ ,43345,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+464,2018,Honda,Civic_EXL, 24000, Woodside, NY ,3567,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+465,2012,Honda,Odyssey_EX_L, 10250, Little Ferry, NJ ,154923,No Accident or Damage Reported,Minivan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,21
+466,2008,Honda,Fit_Sport, 4499, S Hackensack, NJ ,170818,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_1.5_L_,3+ Owners,Personal Use,34
+467,2009,Honda,Civic_EX, 5999, Teterboro, NJ ,116636,Damage Reported,Coupe,Red_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,13
+468,2020,Honda,Civic_Sport, 23607, Hempstead, NY ,18057,No Accident or Damage Reported,Hatchback,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+469,2019,Honda,CR-V_EXL, 29000, Bedford Hills, NY ,37902,No Accident or Damage Reported,SUV,Beige_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+470,2019,Honda,Accord_Sport, 26799, Lakewood, NJ ,17497,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,0
+471,2020,Honda,HR-V_EX, 26565, Bedford Hills, NY ,9853,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,3
+472,2019,Honda,CR-V_LX, 25022, Princeton, NJ ,35330,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+473,2018,Honda,Odyssey_Touring, 37646, Princeton, NJ ,17556,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+474,2017,Honda,Accord_EXL, 20000, Princeton, NJ ,97527,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+475,2006,Honda,Pilot_EXL, 6499, Little Ferry, NJ ,119705,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,11
+476,2018,Honda,Pilot_EXL, 30988, Valley Stream, NY ,18094,Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+477,2018,Honda,Accord_EXL, 23628, Hempstead, NY ,21230,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,4
+478,2020,Honda,Civic_Sport, 20742, Carlstadt, NJ ,29306,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+479,2011,Honda,Civic_LX, 5990, Rockaway, NJ ,174090,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,14
+480,2019,Honda,Odyssey_EX_L, 33995, Brooklyn, NY ,17802,Minor Damage,Minivan,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+481,2020,Honda,HR-V_LX, 19995, Freeport, NY ,25189,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Rental Use,3
+482,2018,Honda,Accord_Sport, 22888, Blauvelt, NY ,33026,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+483,2014,Honda,Accord_Touring, 16895, Ramsey, NJ ,67285,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+484,2020,Honda,Civic_LX, 17995, Freeport, NY ,20555,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Rental Use,4
+485,2019,Honda,Civic_Si, 22554, Bronx, NY ,47112,Minor Damage,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+486,2018,Honda,Pilot_EXL, 27995, Great Neck, NY ,33890,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,0
+487,2019,Honda,Civic_Si, 23738, Madison, NJ ,49632,Accident Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+488,2010,Honda,Pilot_EX, 8995, Ramsey, NJ ,165470,No Accident or Damage Reported,SUV,Burgundy_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,10
+489,2016,Honda,Pilot_Elite, 29995, Edison, NJ ,63322,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,15
+490,2019,Honda,Passport_Elite, 38595, Edison, NJ ,25197,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,17
+491,2018,Honda,Accord_Touring, 20999, Jamaica, NY ,102303,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,16
+492,2019,Honda,Civic_Sport, 22399, Lakewood, NJ ,37976,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+493,2019,Honda,Accord_EXL, 23990, Freeport, NY ,35089,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+494,2018,Honda,Accord_Touring, 27490, Denville, NJ ,29782,Accident Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+495,2019,Honda,Civic_LX, 16975, Woodside, NY ,42061,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+496,2018,Honda,Accord_LX, 22279, Pompton Plains, NJ ,14900,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+497,2019,Honda,Pilot_EXL, 34470, PARSIPPANY, NJ ,29927,Accident Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+498,2019,Honda,Civic_Sport, 18990, Freeport, NY ,24711,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+499,2019,Honda,Civic_LX, 19334, Morristown, NJ ,24505,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+500,2019,Honda,Civic_LX, 16975, Woodside, NY ,42061,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+501,2019,Honda,Odyssey_EX_L, 33880, Mamaroneck, NY ,32052,No Accident or Damage Reported,Minivan,6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+502,2020,Honda,Pilot_EX, 35995, Keyport, NJ ,20279,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+503,2018,Honda,Accord_Touring, 27490, Denville, NJ ,29782,Accident Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+504,2018,Honda,Accord_LX, 22279, Pompton Plains, NJ ,14900,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+505,2017,Honda,Pilot_EXL, 22999, Brooklyn, NY ,107589,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+506,2018,Honda,CR-V_EXL, 26990, Valley Stream, NY ,22476,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+507,2018,Honda,Pilot_EXL, 30798, Morristown, NJ ,51756,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,14
+508,2019,Honda,Pilot_EXL, 34470, PARSIPPANY, NJ ,29927,Accident Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+509,2019,Honda,Pilot_EXL, 33899, Butler, NJ ,9527,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+510,2018,Honda,Odyssey_EX_L, 27999, Teterboro, NJ ,81909,No Accident or Damage Reported,Minivan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+511,2016,Honda,Pilot_Touring, 27962, Denville, NJ ,73218,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,20
+512,2019,Honda,CR-V_EXL, 31893, Roselle, NJ ,19007,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+513,2018,Honda,Civic_LX, 18998, Roselle, NJ ,36631,No Accident or Damage Reported,Coupe,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+514,2019,Honda,Passport_EX_L, 35989, Tarrytown, NY ,15561,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+515,2019,Honda,Civic_EXL, 23895, Tarrytown, NY ,19535,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+516,2018,Honda,Accord_Sport, 26995, Tarrytown, NY ,16953,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+517,2016,Honda,CR-V_SE, 19000, Princeton, NJ ,73480,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,16
+518,2017,Honda,Accord_Sport, 19699, Freehold, NJ ,73012,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+519,2019,Honda,Civic_Sport_Touring, 27990, Denville, NJ ,35220,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+520,2018,Honda,Pilot_EX, 28990, Denville, NJ ,58387,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+521,2017,Honda,CR-V_Touring, 26998, Upper Saddle River, NJ ,21414,Accident Reported,SUV,Silver_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,11
+522,2017,Honda,CR-V_EXL, 22987, Ringoes, NJ ,83150,Minor Damage,SUV,White_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,13
+523,2014,Honda,Accord_EXL, 15950, Mamaroneck, NY ,63500,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,19
+524,2019,Honda,HR-V_EX, 21995, Jamaica, NY ,15567,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,4
+525,2019,Honda,Civic_LX, 16980, Jamaica, NY ,39783,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+526,2004,Honda,Pilot_EX, 5499, Hasbrouck Heights, NJ ,134815,Accident Reported,SUV,Gold_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,4
+527,2017,Honda,HR-V_EX-L, 14987, Irvington, NJ ,116108,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,12
+528,2019,Honda,Passport_Elite, 29995, Bayonne, NJ ,106435,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+529,2019,Honda,Civic_EX, 21100, Wayne, NJ ,31135,No Accident or Damage Reported,Coupe,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,11
+530,2018,Honda,Accord_Sport, 23899, West Islip, NY ,19354,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+531,2019,Honda,HR-V_Touring, 25799, Lakewood, NJ ,27397,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,0
+532,2018,Honda,Accord_Sport, 21990, Great Neck, NY ,31560,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+533,2020,Honda,Pilot_EXL, 37995, Edison, NJ ,7450,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+534,2018,Honda,CR-V_EXL, 25795, Jamaica, NY ,47640,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,10
+535,2018,Honda,CR-V_LX, 23998, COLONIA, NJ ,23985,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+536,2019,Honda,CR-V_EX, 29295, Harriman, NY ,23585,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+537,2018,Honda,Accord_Touring, 27995, Nanuet, NY ,35045,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+538,2019,Honda,Accord_Sport, 26595, Nanuet, NY ,33219,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+539,2018,Honda,CR-V_LX, 24995, North Plainfield, NJ ,24703,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+540,2013,Honda,Accord_LX, 12995, Croton On Hudson, NY ,100269,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,6
+541,2003,Honda,Pilot_EXL, 4995, Rahway, NJ ,164624,Accident/Minor Damage,SUV,6_Cyl_3.5_L_,3+ Owners,Personal Use,30
+542,2020,Honda,CR-V_LX, 27354, West Caldwell, NJ ,10671,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Corporate Use,3
+543,2019,Honda,Accord_Sport, 23995, Yonkers, NY ,30036,Accident Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+544,2019,Honda,Accord_Sport, 26900, Mahwah, NJ ,21583,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+545,2018,Honda,Accord_LX, 23600, Mahwah, NJ ,23598,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,13
+546,2018,Honda,Accord_LX, 20997, Elizabeth, NJ ,36117,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+547,2019,Honda,Odyssey_EX_L, 36000, Woodside, NY ,23102,No Accident or Damage Reported,Minivan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,15
+548,2019,Honda,Civic_LX, 20884, South Plainfield, NJ ,15093,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+549,2018,Honda,Pilot_EXL, 33161, Farmingdale, NY ,15730,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+550,2018,Honda,CR-V_LX, 24500, Woodside, NY ,31330,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+551,2019,Honda,Odyssey_EX_L, 36000, Woodside, NY ,23102,No Accident or Damage Reported,Minivan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,15
+552,2016,Honda,CR-V_SE, 17900, Amityville, NY ,68737,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+553,2018,Honda,Accord_LX, 20997, Elizabeth, NJ ,36117,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+554,2019,Honda,Civic_LX, 20884, South Plainfield, NJ ,15093,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+555,2018,Honda,Odyssey_EX_L, 33000, Woodside, NY ,36254,No Accident or Damage Reported,Minivan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+556,2018,Honda,CR-V_LX, 24500, Woodside, NY ,28906,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+557,2018,Honda,Accord_LX, 23600, Mahwah, NJ ,23598,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,13
+558,2019,Honda,Odyssey_EX_L, 33802, Pompton Plains, NJ ,41007,No Accident or Damage Reported,Minivan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+559,2019,Honda,Accord_EXL, 28334, Pompton Plains, NJ ,7796,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+560,2018,Honda,HR-V_EX-L, 22941, Pompton Plains, NJ ,25135,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,5
+561,2020,Honda,Civic_LX, 22000, Woodside, NY ,13552,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+562,2018,Honda,Clarity_Base, 22500, Woodside, NY ,16203,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+563,2005,Honda,Accord_LX, 5599, Paterson, NJ ,119500,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,13
+564,2019,Honda,Accord_Sport, 23999, Inwood, NY ,18306,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+565,2017,Honda,CR-V_EXL, 21890, Valley Stream, NY ,51923,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,9
+566,2011,Honda,Accord_LX, 8995, Hasbrouck Heights, NJ ,73591,Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,41
+567,2020,Honda,Civic_Type_R, 43900, Princeton, NJ ,5185,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,4
+568,2016,Honda,CR-V_EX, 19999, Eatontown, NJ ,68218,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,9
+569,2019,Honda,Pilot_Touring, 33000, Eatontown, NJ ,59807,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,15
+570,2020,Honda,Accord_LX, 19950, Woodside, NY ,19015,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,0
+571,2016,Honda,Odyssey_SE, 25900, Lynbrook, NY ,32969,No Accident or Damage Reported,Minivan,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+572,2018,Honda,Accord_Touring, 26199, Brooklyn, NY ,27327,Minor Damage,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+573,2018,Honda,HR-V_EX-L, 22995, Brooklyn, NY ,25006,Accident Reported,SUV,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,8
+574,2018,Honda,Odyssey_Touring, 33995, Brooklyn, NY ,40225,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Corporate Use,2
+575,2018,Honda,Pilot_EXL, 27995, Westbury, NY ,33989,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,0
+576,2019,Honda,Odyssey_EX_L, 32777, Lodi, NJ ,38408,Minor Damage,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+577,2013,Honda,Pilot_EXL, 10691, Paterson, NJ ,171519,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,14
+578,2018,Honda,Accord_EXL, 26495, Robbinsville, NJ ,23604,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,9
+579,2015,Honda,Accord_EXL, 18995, South Amboy, NJ ,24198,Accident/Minor Damage,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,14
+580,2009,Honda,Civic_LX, 6595, Brooklyn, NY ,135786,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,15
+581,2018,Honda,Pilot_EXL, 27990, Jamaica, NY ,52334,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+582,2018,Honda,HR-V_LX, 16990, Woodside, NY ,32135,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,4
+583,2018,Honda,Clarity_Base, 20999, Tarrytown, NY ,42504,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,12
+584,2019,Honda,Pilot_EXL, 33995, Brooklyn, NY ,27894,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+585,2018,Honda,CR-V_EX, 27950, Newton, NJ ,30248,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+586,2019,Honda,HR-V_Sport, 22995, Ramsey, NJ ,12660,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,6
+587,2019,Honda,CR-V_EX, 27989, Tarrytown, NY ,17773,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+588,2019,Honda,Passport_Sport, 31979, Tarrytown, NY ,31195,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+589,2018,Honda,CR-V_EXL, 26633, North Brunswick, NJ ,39752,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+590,2019,Honda,CR-V_EX, 27999, Tarrytown, NY ,23889,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+591,2019,Honda,HR-V_Sport, 22995, Brooklyn, NY ,21989,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,2
+592,2019,Honda,Odyssey_Touring, 39753, PARAMUS, NJ ,18492,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+593,2019,Honda,Odyssey_EX_L, 35999, Flemington, NJ ,30435,No Accident or Damage Reported,Minivan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+594,2020,Honda,Civic_LX, 21999, Tarrytown, NY ,4907,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+595,2014,Honda,Accord_EXL, 19995, Mount Kisco, NY ,15081,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+596,2018,Honda,Accord_Sport, 23777, Lodi, NJ ,38467,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+597,2018,Honda,Pilot_EXL, 31995, Lakewood, NJ ,36406,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+598,2019,Honda,Odyssey_LX, 29857, Jamaica, NY ,30653,No Accident or Damage Reported,Minivan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,17
+599,2020,Honda,Accord_Sport, 27995, Paramus, NJ ,11458,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+600,2019,Honda,CR-V_LX, 25887, Madison, NJ ,35136,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+601,2020,Honda,Accord_Sport, 27995, Paramus, NJ ,11458,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+602,2019,Honda,Accord_Sport, 30635, Sea Girt, NJ ,17394,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+603,2017,Honda,Accord_LXS, 16900, Atlantic Highlands, NJ ,37610,Accident Reported,Coupe,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+604,2019,Honda,Accord_Sport, 24999, Inwood, NY ,30015,Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+605,2018,Honda,CR-V_EX, 25000, Rockville Centre, NY ,34210,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+606,2010,Honda,CR-V_EXL, 7999, Keyport, NJ ,169211,Accident Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,32
+607,2019,Honda,Civic_LX, 20995, Edison, NJ ,15900,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+608,2018,Honda,Civic_Sport, 20995, Edison, NJ ,55791,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+609,2019,Honda,Ridgeline_Sport, 33000, Woodside, NY ,24337,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+610,2020,Honda,Accord_Sport, 27777, Eatontown, NJ ,10881,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+611,2018,Honda,Civic_EX-T, 17949, Lynbrook, NY ,23820,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Government Use,0
+612,2018,Honda,HR-V_LX, 20185, Woodside, NY ,34267,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,6
+613,2019,Honda,Accord_LX, 24885, Denville, NJ ,32116,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+614,2018,Honda,Accord_LX, 24590, Denville, NJ ,12117,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+615,2018,Honda,Civic_EX-T, 20500, Kearny, NJ ,43121,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+616,2020,Honda,Pilot_EXL, 37572, Mamaroneck, NY ,20260,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+617,2012,Honda,Civic_LX, 7499, Little Ferry, NJ ,102547,No Accident or Damage Reported,Coupe,Silver_Engine:_4_Cyl_1.8_L_,3+ Owners,Multiple Use,6
+618,2019,Honda,CR-V_EX, 29188, Flemington, NJ ,33560,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+619,2018,Honda,Accord_Sport, 26595, North Plainfield, NJ ,26847,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,10
+620,2019,Honda,Accord_Sport, 24782, Lakewood, NJ ,42806,Accident/Minor Damage,Sedan,Blue_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,1
+621,2020,Honda,Civic_LX, 22595, North Plainfield, NJ ,14496,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+622,2015,Honda,CR-V_EX, 13750, Little Ferry, NJ ,145798,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,25
+623,2019,Honda,Accord_Sport, 26595, North Plainfield, NJ ,31838,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+624,2018,Honda,Civic_Touring, 25990, Denville, NJ ,27980,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+625,2012,Honda,Pilot_EXL, 12995, Brooklyn, NY ,128255,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+626,2003,Honda,S2000, 24295, Hackettstown, NJ ,92096,No Accident or Damage Reported,Convertible,Red_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,18
+627,2013,Honda,Ridgeline_Sport, 19990, Great Neck, NY ,98156,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,9
+628,2019,Honda,Civic_Sport, 22982, Freehold, NJ ,21945,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Corporate Use,3
+629,2018,Honda,Accord_Touring, 24392, Freehold, NJ ,51230,Accident/Minor Damage,Sedan,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+630,2019,Honda,Civic_EX, 23600, Nanuet, NY ,11483,Accident Reported,Sedan,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+631,2018,Honda,Civic_LX, 18922, Springfield, NJ ,20800,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,7
+632,2015,Honda,CR-V_EX, 18885, Flemington, NJ ,65988,No Accident or Damage Reported,SUV,Beige_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,7
+633,2019,Honda,CR-V_EXL, 29495, Hackettstown, NJ ,34923,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+634,2018,Honda,Accord_EX, 23995, North Plainfield, NJ ,51185,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,16
+635,2016,Honda,Accord_EXL, 18988, Eatontown, NJ ,92086,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,13
+636,2018,Honda,Civic_EX, 23259, Madison, NJ ,21812,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Corporate Use,17
+637,2018,Honda,Accord_Touring, 25869, New York, NY ,47849,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,8
+638,2009,Honda,CR-V_EXL, 9991, Bohemia, NY ,149961,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+639,2019,Honda,Civic_Sport, 22999, Lakewood, NJ ,10152,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+640,2018,Honda,Accord_LX, 22989, Lakewood, NJ ,26076,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,0
+641,2019,Honda,Pilot_EXL, 37899, Lakewood, NJ ,14538,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,0
+642,2018,Honda,Accord_EX, 21995, Totowa, NJ ,28010,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+643,2018,Honda,Accord_Sport, 24475, Oakhurst, NJ ,33920,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,12
+644,2018,Honda,Accord_Sport, 20995, Linden, NJ ,39999,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+645,2019,Honda,Accord_Sport, 25490, Valley Stream, NY ,22963,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,11
+646,2016,Honda,Odyssey_SE, 22990, West Nyack, NY ,67070,Accident/Minor Damage,Minivan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+647,2007,Honda,CR-V_EXL, 6999, Mine Hill, NJ ,172131,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,35
+648,2014,Honda,Accord_LX, 9795, West Babylon, NY ,155461,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,28
+649,2017,Honda,Civic_LX, 18591, New York, NY ,39147,Damage Reported,Hatchback,Gray_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,10
+650,2011,Honda,Pilot_EXL, 12499, Keyport, NJ ,102326,Accident/Minor Damage,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+651,2017,Honda,Civic_LX, 18591, New York, NY ,39147,Damage Reported,Hatchback,Gray_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,10
+652,2019,Honda,Odyssey_EX_L, 32990, Jamaica, NY ,30593,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+653,2018,Honda,Civic_LX, 17990, Brooklyn, NY ,21331,No Accident or Damage Reported,Coupe,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+654,2016,Honda,Pilot_Elite, 26894, Jersey City, NJ ,84393,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,23
+655,2016,Honda,Pilot_EXL, 28470, Bronx, NY ,53435,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,14
+656,2017,Honda,Accord_Touring, 23597, Kenvil, NJ ,53059,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,15
+657,2019,Honda,CR-V_LX, 27587, Jamaica, NY ,4758,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+658,2019,Honda,Civic_Sport, 22863, Jamaica, NY ,25500,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+659,2017,Honda,Pilot_EXL, 28000, Bronx, NY ,65504,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+660,2017,Honda,Civic_EX-T, 16495, East Rutherford, NJ ,80845,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,13
+661,2016,Honda,Pilot_EXL, 26488, Freehold, NJ ,42886,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,14
+662,2019,Honda,Odyssey_EX_L, 35888, Eatontown, NJ ,12454,Damage Reported,Minivan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+663,2012,Honda,Civic_LX, 6350, Mahwah, NJ ,203685,No Accident or Damage Reported,Coupe,Green_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,15
+664,2018,Honda,CR-V_EX, 25499, Eatontown, NJ ,44269,Accident Reported,SUV,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+665,2018,Honda,Civic_LX, 15129, Jersey City, NJ ,43152,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+666,2007,Honda,Accord_SE, 5499, Keyport, NJ ,145245,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,5
+667,2016,Honda,Accord_EX, 16900, Plainfield, NJ ,66315,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,10
+668,2013,Honda,Accord_LX, 7750, Little Ferry, NJ ,170253,Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,30
+669,2018,Honda,Accord_Touring, 26999, Jamaica, NY ,14398,Accident Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+670,2016,Honda,Civic_EX-T, 15970, Little Ferry, NJ ,68678,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,11
+671,2018,Honda,Accord_Sport, 22599, Eatontown, NJ ,39265,Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+672,2019,Honda,Accord_EX, 25999, Eatontown, NJ ,21346,Minor Damage,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+673,2019,Honda,Pilot_EXL, 28595, Newark, NJ ,51819,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,15
+674,2015,Honda,Accord_EXL, 16995, Garfield, NJ ,59080,No Accident or Damage Reported,Coupe,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,13
+675,2016,Honda,Accord_LX, 17700, Warwick, NY ,58014,Damage Reported,Sedan,Brown_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,11
+676,2019,Honda,Civic_Type_R, 37990, Massapequa Park, NY ,26616,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+677,2018,Honda,CR-V_EXL, 27989, Freehold, NJ ,33906,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+678,2019,Honda,Civic_Si, 25795, Hackettstown, NJ ,28092,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+679,2017,Honda,CR-V_Touring, 23256, Princeton, NJ ,102780,Minor Damage,SUV,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,23
+680,2014,Honda,CR-V_EXL, 17500, Princeton, NJ ,79980,Accident/Minor Damage,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+681,2018,Honda,Civic_LX, 17995, Totowa, NJ ,17334,Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+682,2018,Honda,Odyssey_EX_L, 34995, Edison, NJ ,18591,No Accident or Damage Reported,Minivan,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+683,2018,Honda,Civic_LX, 19038, Freehold, NJ ,21490,No Accident or Damage Reported,Sedan,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+684,2019,Honda,Civic_LX, 20295, Edison, NJ ,34190,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+685,2019,Honda,HR-V_LX, 22430, Eatontown, NJ ,17727,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,7
+686,2018,Honda,CR-V_EX, 24985, Yonkers, NY ,47415,No Accident or Damage Reported,SUV,Beige_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+687,2020,Honda,Pilot_EXL, 37988, Tarrytown, NY ,14576,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+688,2018,Honda,Accord_Sport, 29000, Mahwah, NJ ,16152,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+689,2019,Honda,CR-V_LX, 25700, Wayne, NJ ,11945,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+690,2019,Honda,Accord_Sport, 26995, Lakewood, NJ ,17175,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+691,2019,Honda,Odyssey_Touring, 40485, Tarrytown, NY ,24271,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,14
+692,2014,Honda,CR-V_EXL, 16699, Trenton, NJ ,95980,No Accident or Damage Reported,SUV,Brown_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+693,2019,Honda,Accord_Sport, 24900, Wayne, NJ ,26452,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+694,2019,Honda,Civic_EX, 22469, Tarrytown, NY ,34605,No Accident or Damage Reported,Coupe,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+695,2018,Honda,Accord_LX, 22999, Tarrytown, NY ,20319,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+696,2020,Honda,Civic_Sport, 24499, Tarrytown, NY ,8001,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+697,2020,Honda,Pilot_EX, 36245, Lakewood, NJ ,7397,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+698,2018,Honda,Civic_Type_R, 39590, Newark, NJ,3982,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+699,2015,Honda,CR-V_Touring, 23499, Bayside, NY ,15428,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+700,2018,Honda,Civic_EX-T, 21595, Elizabeth, NJ ,25724,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+701,2016,Honda,HR-V_EX-L, 19888, Brooklyn, NY ,34540,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,7
+702,2018,Honda,Odyssey_EX_L, 32412, Freehold, NJ ,23388,Minor Damage,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+703,2016,Honda,Pilot_EXL, 24995, UNION CITY, NJ ,77296,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,19
+704,2019,Honda,Insight_EX, 23990, Denville, NJ ,12079,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Vehicle Use,6
+705,2019,Honda,Accord_Sport, 25799, Lakewood, NJ ,32415,Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,1
+706,2018,Honda,HR-V_EX-L, 20700, Uniondale, NY ,38076,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,3
+707,2019,Honda,Civic_LX, 17998, Hollis, NY ,17244,Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+708,2018,Honda,Clarity_Base, 19500, Old Bridge, NJ ,40820,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+709,2013,Honda,Accord_LX, 13695, Great Neck, NY ,60385,Accident Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,20
+710,2019,Honda,CR-V_EX, 24490, Freeport, NY ,28926,Minor Damage,SUV,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+711,2013,Honda,CR-V_EXL, 17299, Ramsey, NJ ,50779,Accident Reported,SUV,Brown_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+712,2018,Honda,HR-V_LX, 17900, Hillside, NJ ,47875,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,7
+713,2009,Honda,CR-V_EXL, 8990, Yonkers, NY ,120152,Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,18
+714,2018,Honda,Civic_EX-T, 16995, Roslyn Heights, NY ,41006,Accident/Minor Damage,Coupe,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,1
+715,2014,Honda,Accord_EXL, 9995, Somerset, NJ ,182101,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,20
+716,2018,Honda,Accord_Touring, 27823, Jamaica, NY ,22058,Accident Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+717,2014,Honda,Accord_EXL, 14990, East Hanover, NJ ,79976,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+718,2018,Honda,HR-V_EX, 22231, Jamaica, NY ,28763,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,10
+719,2019,Honda,Accord_LX, 23799, Lakewood, NJ ,36913,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+720,2011,Honda,Civic_EXL, 9991, Bohemia, NY ,92176,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,12
+721,2018,Honda,Civic_Si, 20832, Hollis, NY ,34838,No Accident or Damage Reported,Coupe,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+722,2015,Honda,Odyssey_EX_L, 14995, Brooklyn, NY ,126017,No Accident or Damage Reported,Minivan,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+723,2018,Honda,Civic_Si, 18990, Great Neck, NY ,39721,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+724,2018,Honda,Civic_LX, 17455, Freehold, NJ ,34907,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+725,2018,Honda,Accord_Touring, 27823, Jamaica, NY ,22058,Accident Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+726,2019,Honda,Accord_Sport, 25000, White Plains, NY ,33898,Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,11
+727,2018,Honda,Civic_LX, 14999, Woodside, NY ,35287,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+728,2011,Honda,Civic_EXL, 9991, Bohemia, NY ,92176,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,12
+729,2018,Honda,Accord_EX, 21500, West Nyack, NY ,62840,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+730,2005,Honda,Accord_EX, 5489, Passaic, NJ ,110100,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,18
+731,2018,Honda,Civic_LX, 19318, Jamaica, NY ,9689,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+732,2018,Honda,Accord_EXL, 25000, Madison, NJ ,26682,Accident Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+733,2018,Honda,Pilot_LX, 27584, West Caldwell, NJ ,18838,Accident Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+734,2018,Honda,Civic_EXL, 22226, Jamaica, NY ,16092,Accident Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+735,2018,Honda,Civic_EX, 21064, Madison, NJ ,36776,Accident Reported,Hatchback,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+736,2003,Honda,Accord_LX, 3995, Paterson, NJ ,175732,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,4
+737,2019,Honda,Civic_Si, 25900, Nanuet, NY ,24301,Minor Damage,Coupe,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+738,2018,Honda,Accord_EXL, 25000, White Plains, NY ,35650,Damage Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,12
+739,2011,Honda,CR-V_EX, 9500, Uniondale, NY ,128891,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,17
+740,2019,Honda,Civic_Sport, 21982, Freehold, NJ ,31292,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+741,2018,Honda,Civic_EX, 17894, Hempstead, NY ,43093,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,1
+742,2014,Honda,CR-V_LX, 14799, Jamaica, NY ,61879,Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,7
+743,2014,Honda,Accord_LX, 15139, Saint James, NY ,76634,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,19
+744,2018,Honda,Pilot_EXL, 32982, Freehold, NJ ,22640,No Accident or Damage Reported,SUV,Green_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+745,2019,Honda,Odyssey_EX_L, 36982, Freehold, NJ ,15244,No Accident or Damage Reported,Minivan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+746,2018,Honda,CR-V_EXL, 26982, Freehold, NJ ,28727,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+747,2018,Honda,CR-V_EX, 27791, Smithtown, NY ,15718,No Accident or Damage Reported,SUV,4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+748,2018,Honda,Accord_LX, 22411, Jamaica, NY ,37573,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,11
+749,2020,Honda,HR-V_EX, 25970, Jamaica, NY ,27667,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,10
+750,2017,Honda,Pilot_EXL, 28555, West Babylon, NY ,39012,Accident/Minor Damage,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Lease Use,7
+751,2019,Honda,Accord_Sport, 27935, Sea Girt, NJ ,22061,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+752,2019,Honda,Pilot_Touring, 39647, Jamaica, NY ,20997,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+753,2019,Honda,Pilot_EXL, 39235, Sea Girt, NJ ,13318,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+754,2018,Honda,CR-V_EXL, 28209, Madison, NJ ,36026,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,14
+755,2019,Honda,Accord_Sport, 26745, Jamaica, NY ,17984,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+756,2019,Honda,Ridgeline_RTL-E, 41233, Jamaica, NY ,12095,No Accident or Damage Reported,Pickup,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+757,2016,Honda,Pilot_Touring, 30524, West Caldwell, NJ ,50863,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+758,2019,Honda,HR-V_Sport, 23000, White Plains, NY ,35192,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,12
+759,2017,Honda,Accord_EXL, 23594, West Nyack, NY ,24556,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+760,2014,Honda,Civic_LX, 11497, Morristown, NJ ,115967,No Accident or Damage Reported,Coupe,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,19
+761,2021,Honda,HR-V_EX-L, 27752, Lynbrook, NY ,6051,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,1
+762,2013,Honda,Accord_EX, 11987, Irvington, NJ ,131150,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,13
+763,2017,Honda,Civic_Touring, 18992, Hackettstown, NJ ,75841,Minor Damage,Coupe,Black_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,16
+764,2015,Honda,Accord_EXL, 12999, Inwood, NY ,118741,Major Damage,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+765,2018,Honda,Odyssey_EX_L, 31992, Denville, NJ ,28519,No Accident or Damage Reported,Minivan,Blue_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,4
+766,2019,Honda,HR-V_Sport, 22795, Hackettstown, NJ ,28957,Accident Reported,SUV,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,8
+767,2018,Honda,Clarity_Base, 19995, Tenafly, NJ ,46441,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+768,2016,Honda,Pilot_EXL, 22000, Princeton, NJ ,116560,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,23
+769,2018,Honda,Civic_LX-P, 18639, Bedford Hills, NY ,34373,No Accident or Damage Reported,Coupe,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+770,2018,Honda,Accord_Touring, 26800, Bedford Hills, NY ,30506,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+771,2018,Honda,CR-V_LX, 23500, Bedford Hills, NY ,25575,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+772,2016,Honda,CR-V_EXL, 23078, Princeton, NJ ,38211,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,7
+773,2018,Honda,Civic_EX, 18885, Edison, NJ ,34596,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+774,2020,Honda,Accord_Touring, 31995, Brooklyn, NY ,9403,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+775,2020,Honda,Accord_Touring, 31995, Brooklyn, NY ,9403,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+776,2013,Honda,CR-V_EXL, 16995, Bay Shore, NY ,70684,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,17
+777,2013,Honda,CR-V_EX, 11900, Atlantic Highlands, NJ ,135531,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,22
+778,2009,Honda,Odyssey_EX, 7995, East Rutherford, NJ ,134495,No Accident or Damage Reported,Minivan,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+779,2020,Honda,Civic_Sport, 22995, Jamaica, NY ,17389,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+780,2020,Honda,Accord_Sport, 26900, Rahway, NJ ,22074,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+781,2007,Honda,Civic_LX, 4999, Sussex, NJ ,193204,No Accident or Damage Reported,Sedan,Beige_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,32
+782,2018,Honda,Clarity_Base, 22195, Edison, NJ ,33333,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+783,2018,Honda,Civic_LX, 18911, Eatontown, NJ ,32581,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+784,2019,Honda,Odyssey_EX_L, 37999, Eatontown, NJ ,17442,No Accident or Damage Reported,Minivan,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+785,2019,Honda,Civic_LX, 20495, Edison, NJ ,37164,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+786,2019,Honda,Odyssey_EX_L, 35950, Eatontown, NJ ,30830,No Accident or Damage Reported,Minivan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+787,2019,Honda,Odyssey_EX_L, 35999, Eatontown, NJ ,41101,No Accident or Damage Reported,Minivan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+788,2013,Honda,Odyssey_EX_L, 12995, Brooklyn, NY ,120156,No Accident or Damage Reported,Minivan,Burgundy_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+789,2014,Honda,Odyssey_EX_L, 14995, Brooklyn, NY ,116860,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,14
+790,2016,Honda,Civic_LX, 15993, Bohemia, NY ,37397,Major Damage,Coupe,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,4
+791,2016,Honda,Odyssey_EX_L, 20542, Carlstadt, NJ ,51861,Accident Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+792,2012,Honda,Pilot_EXL, 9995, Bridgewater, NJ ,190000,Accident/Minor Damage,SUV,Blue_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,14
+793,2018,Honda,Pilot_EXL, 27988, Valley Stream, NY ,39161,Accident Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,9
+794,2020,Honda,Civic_LX, 18995, Freeport, NY ,22506,Damage Reported,Hatchback,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Rental Use,4
+795,2017,Honda,Civic_Type_R, 35322, North Brunswick, NJ ,31090,Accident/Minor Damage,Hatchback,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,13
+796,2016,Honda,Pilot_EXL, 26995, Scarsdale, NY ,43333,Accident Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,19
+797,2016,Honda,Fit_EX, 14895, Hackettstown, NJ ,91982,No Accident or Damage Reported,Hatchback,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+798,2019,Honda,Accord_Sport, 22980, Bronx, NY ,33912,Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,10
+799,2018,Honda,Accord_Sport, 21000, Old Bridge, NJ ,20637,Accident Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+800,2018,Honda,Accord_Sport, 21000, Old Bridge, NJ ,20637,Accident Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+801,2019,Honda,Pilot_Touring, 37490, Valley Stream, NY ,15952,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+802,2016,Honda,Accord_LX, 17495, PARAMUS, NJ ,51117,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,15
+803,2018,Honda,Civic_EXL, 19990, Valley Stream, NY ,20047,Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+804,2014,Honda,CR-V_EXL, 14995, Uniondale, NY ,116986,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Corporate Use,5
+805,2010,Honda,Accord_Crosstour_EXL, 7999, Teterboro, NJ ,152308,No Accident or Damage Reported,SUV,Burgundy_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,17
+806,2018,Honda,Accord_Sport, 22888, Butler, NJ ,34110,Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+807,2011,Honda,CR-V_LX, 6995, Jersey City, NJ ,186882,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,39
+808,2015,Honda,Pilot_EXL, 14995, Bronx, NY ,156216,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+809,2019,Honda,Odyssey_EX_L, 33982, Freehold, NJ ,30949,Accident/Minor Damage,Minivan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+810,2018,Honda,CR-V_EX, 25402, Freehold, NJ ,22190,Accident Reported,SUV,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+811,2008,Honda,CR-V_EX, 8788, Lakewood, NJ ,98360,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,32
+812,2017,Honda,Ridgeline_RTL, 18999, Brooklyn, NY ,112500,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+813,2018,Honda,Accord_EX, 24982, Freehold, NJ ,23455,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,1
+814,2018,Honda,Accord_EXL, 25982, Freehold, NJ ,26759,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+815,2019,Honda,Civic_Sport, 22522, Freehold, NJ ,12494,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+816,2018,Honda,Clarity_Base, 21982, Freehold, NJ ,23677,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+817,2019,Honda,Civic_LX, 19982, Freehold, NJ ,24216,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+818,2018,Honda,Pilot_EXL, 32982, Freehold, NJ ,26220,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+819,2018,Honda,Ridgeline_Sport, 28275, Mahwah, NJ ,77835,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+820,2017,Honda,Accord_Sport_Special_Edition, 18995, Hackensack, NJ ,48798,Minor Damage,Sedan,4_Cyl_2.4_L_,2-Owner,Personal Use,12
+821,2018,Honda,Civic_LX, 17904, Pompton Plains, NJ ,54492,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+822,2019,Honda,Civic_LX, 20999, Lakewood, NJ ,21508,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+823,2019,Honda,Civic_LX, 20799, Lakewood, NJ ,30769,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+824,2018,Honda,Accord_EX, 23494, Haskell, NJ ,42451,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,1
+825,2018,Honda,CR-V_Touring, 29495, Great Neck, NY ,10550,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+826,2019,Honda,CR-V_EX, 26490, Valley Stream, NY ,29268,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+827,2014,Honda,Accord_EXL, 14995, Brooklyn, NY ,103541,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,33
+828,2019,Honda,CR-V_EX, 28389, Bedford Hills, NY ,24113,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+829,2011,Honda,Pilot_EXL, 9450, Paterson, NJ ,179853,Minor Damage,SUV,Burgundy_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,34
+830,2019,Honda,Civic_LX, 14995, Butler, NJ ,52038,Branded Title,Hatchback,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Rental Use,2
+831,2016,Honda,Pilot_EXL, 29495, Saint James, NY ,40595,No Accident or Damage Reported,SUV,6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,16
+832,2013,Honda,Odyssey_EX_L, 12995, New Windsor, NY ,107407,No Accident or Damage Reported,Minivan,Blue_Engine:_6_Cyl_3.5_L_,2-Owner,Multiple Use,18
+833,2019,Honda,Pilot_EXL, 36681, Bronx, NY ,26361,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+834,2018,Honda,Pilot_EX, 31353, Jamaica, NY ,25035,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+835,2018,Honda,Accord_EX, 26735, Sea Girt, NJ ,19281,No Accident or Damage Reported,Sedan,Brown_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+836,2018,Honda,Accord_LX, 23335, Sea Girt, NJ ,42347,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+837,2020,Honda,Passport_Sport, 33995, Paramus, NJ ,27002,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+838,2019,Honda,CR-V_EXL, 30073, Madison, NJ ,41391,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+839,2015,Honda,Civic_EX, 12950, Little Ferry, NJ ,56897,Accident Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,18
+840,2019,Honda,Odyssey_Elite, 42598, Tenafly, NJ ,11455,No Accident or Damage Reported,Minivan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+841,2019,Honda,Pilot_EX, 33995, Paramus, NJ ,33865,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+842,2021,Honda,Civic_EXL, 27775, West Caldwell, NJ ,5483,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+843,2017,Honda,CR-V_EX, 26000, White Plains, NY ,29458,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+844,2019,Honda,Accord_Touring, 29929, Wantagh, NY ,16603,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+845,2018,Honda,HR-V_LX, 21132, Madison, NJ ,14522,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,4
+846,2018,Honda,Odyssey_EX_L, 32016, Bronx, NY ,54675,No Accident or Damage Reported,Minivan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+847,2020,Honda,Pilot_LX, 30995, Paramus, NJ ,40465,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+848,2019,Honda,Odyssey_EX_L, 38495, Paramus, NJ ,23278,No Accident or Damage Reported,Minivan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+849,2019,Honda,Odyssey_Elite, 42995, Paramus, NJ ,29199,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+850,2019,Honda,Odyssey_EX_L, 37283, Madison, NJ ,30275,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+851,2021,Honda,Civic_EXL, 27775, West Caldwell, NJ ,5483,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+852,2018,Honda,CR-V_LX, 25000, White Plains, NY ,28107,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+853,2019,Honda,Accord_Touring, 29929, Wantagh, NY ,16603,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+854,2021,Honda,HR-V_EX-L, 30000, Paramus, NJ ,3730,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,2
+855,2008,Honda,Accord_EXL, 8985, Hasbrouck Heights, NJ ,93775,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,23
+856,2017,Honda,Pilot_EXL, 27762, Saint James, NY ,41655,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,20
+857,2018,Honda,Pilot_EXL, 34386, Madison, NJ ,35350,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+858,2018,Honda,HR-V_LX, 21132, Madison, NJ ,14522,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,4
+859,2017,Honda,CR-V_EX, 26000, White Plains, NY ,29458,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+860,2018,Honda,Accord_EXL, 25288, Jamaica, NY ,47198,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,12
+861,2019,Honda,Accord_Sport, 28988, Eatontown, NJ ,51991,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+862,2017,Honda,Civic_EX, 16095, Elizabeth, NJ ,113360,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,18
+863,2021,Honda,Civic_Sport, 23995, Freeport, NY ,1470,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Rental Use,1
+864,2012,Honda,Odyssey_EX, 10950, Paterson, NJ ,132328,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,29
+865,2010,Honda,Odyssey_EX, 8899, Lakewood, NJ ,125291,No Accident or Damage Reported,Minivan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,25
+866,2017,Honda,Accord_Sport, 20240, Mount Kisco, NY ,76000,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,12
+867,2018,Honda,Pilot_EXL, 31995, North Bergen, NJ ,43621,No Accident or Damage Reported,SUV,Green_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+868,2015,Honda,Pilot_EXL, 10998, Bronx, NY ,0,Accident Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,21
+869,2018,Honda,Odyssey_EX_L, 30982, Freehold, NJ ,48404,Accident/Minor Damage,Minivan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+870,2017,Honda,Civic_LX, 15888, Long Island City, NY ,29677,Major Damage,Coupe,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+871,2018,Honda,Accord_LX, 20786, Great Neck, NY ,28776,Accident Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+872,2013,Honda,CR-V_EXL, 16488, Greenvale, NY ,70940,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,23
+873,2017,Honda,Accord_LX, 13999, Jamaica, NY ,64155,Accident Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,2
+874,2018,Honda,Accord_LX, 21990, Hackettstown, NJ ,24746,Accident/Minor Damage,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+875,2010,Honda,Civic_LX, 8777, Newton, NJ ,66710,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,17
+876,2015,Honda,Civic_LX, 13995, Edison, NJ ,57725,Minor Damage,Sedan,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,8
+877,2019,Honda,CR-V_LX, 23900, Rahway, NJ ,36396,Accident Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+878,2018,Honda,Accord_LX, 21990, Hackettstown, NJ ,24746,Accident/Minor Damage,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+879,2019,Honda,Odyssey_Elite, 40000, Princeton, NJ ,38600,Accident/Minor Damage,Minivan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,16
+880,2018,Honda,Accord_Touring, 25944, Bedford Hills, NY ,38478,No Accident or Damage Reported,Sedan,4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,11
+881,2018,Honda,CR-V_EXL, 26895, Randolph, NJ ,36156,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,2
+882,2019,Honda,Pilot_EX, 31695, Tenafly, NJ ,18244,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+883,2015,Honda,Accord_LX, 16000, Princeton, NJ ,68522,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,8
+884,2017,Honda,Civic_EX, 20999, Morristown, NJ ,16892,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+885,2011,Honda,Accord_EXL, 8987, Irvington, NJ ,141931,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,24
+886,2012,Honda,CR-V_EXL, 15500, Norwalk, CT ,83824,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+887,2018,Honda,Civic_LX, 19900, Mahwah, NJ ,34030,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+888,2018,Honda,Accord_EXL, 26900, Rahway, NJ ,26977,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,1
+889,2016,Honda,Accord_EX, 20495, Netcong, NJ ,75577,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,15
+890,2016,Honda,Civic_LX, 14495, Ramsey, NJ ,76632,Accident Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,4
+891,2017,Honda,CR-V_EX, 25998, Hackettstown, NJ ,39523,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+892,2019,Honda,Passport_EX_L, 35981, Bridgewater, NJ ,32255,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+893,2013,Honda,CR-V_EXL, 14995, Saint James, NY ,74812,Accident Reported,SUV,Green_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,13
+894,2012,Honda,Civic_LX, 5999, Great Neck, NY ,110218,Damage Reported,Sedan,4_Cyl_1.8_L_,3+ Owners,Personal Use,14
+895,2018,Honda,Pilot_EXL, 30847, Princeton, NJ ,53392,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+896,2017,Honda,CR-V_LX, 22995, North Plainfield, NJ ,57504,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+897,2017,Honda,HR-V_EX, 15999, Inwood, NY ,73501,Accident/Minor Damage,SUV,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,0
+898,2016,Honda,Odyssey_LX, 11450, Brick, NJ ,176497,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Corporate Use,12
+899,2011,Honda,Civic_LXS, 7499, Union, NJ ,112567,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,6
+900,2018,Honda,Civic_EX, 20999, Bayside, NY ,9004,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+901,2018,Honda,Accord_Touring, 21495, Linden, NJ ,77033,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,15
+902,2011,Honda,Civic_LX, 8295, Edison, NJ ,100801,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,7
+903,2018,Honda,Accord_Sport, 29498, Annandale, NJ ,34139,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+904,2007,Honda,S2000, 25995, South Hackensack, NJ ,94000,No Accident or Damage Reported,Convertible,Yellow_Engine:_4_Cyl_2.2_L_,3+ Owners,Personal Use,12
+905,2019,Honda,Pilot_Elite, 39446, Woodside, NY ,34383,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+906,2017,Honda,CR-V_EXL, 23199, Eatontown, NJ ,35999,Minor Damage,SUV,Beige_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,4
+907,2017,Honda,Pilot_Touring, 29999, Eatontown, NJ ,74784,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Multiple Use,24
+908,2013,Honda,Accord_Sport, 14525, Mahwah, NJ ,94641,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+909,2019,Honda,Odyssey_LX, 29989, Pompton Plains, NJ ,24898,No Accident or Damage Reported,Minivan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+910,2015,Honda,Civic_LX, 14285, Inwood, NY ,56307,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,15
+911,2020,Honda,Odyssey_EX_L, 35329, Monmouth Junction, NJ ,40898,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,8
+912,2018,Honda,Pilot_EXL, 28798, Hollis, NY ,47875,Damage Reported,SUV,Green_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+913,2007,Honda,Accord_EXL, 4995, Union, NJ ,157994,No Accident or Damage Reported,Coupe,Red_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,13
+914,2008,Honda,Ridgeline_RTS, 5499, S Hackensack, NJ ,231183,No Accident or Damage Reported,Pickup,Blue_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,16
+915,2013,Honda,Pilot_EXL, 14995, Brooklyn, NY ,104966,No Accident or Damage Reported,SUV,Burgundy_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,30
+916,2018,Honda,Ridgeline_Black_Edition, 37200, Hackettstown, NJ ,47354,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Vehicle Use,8
+917,2016,Honda,HR-V_LX, 9199, Little Ferry, NJ ,214268,Damage Reported,SUV,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,1
+918,2019,Honda,Odyssey_Elite, 38595, Brooklyn, NY ,21773,Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+919,2020,Honda,Pilot_EXL, 35990, Valley Stream, NY ,10027,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+920,2019,Honda,Accord_Sport, 24485, Monmouth Junction, NJ ,44039,Minor Damage,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+921,2013,Honda,Accord_LX, 12988, Saint James, NY ,74425,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,11
+922,2018,Honda,Civic_EX, 17477, Lake Hopatcong, NJ ,43939,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+923,2018,Honda,CR-V_EXL, 23900, Atlantic Highlands, NJ ,41954,Accident Reported,SUV,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+924,2018,Honda,Clarity_Base, 18500, Old Bridge, NJ ,60617,Accident/Minor Damage,Sedan,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+925,2018,Honda,Civic_EX, 17477, Lake Hopatcong, NJ ,43939,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+926,2017,Honda,Pilot_EXL, 26995, Pleasantville, NY ,63310,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+927,2013,Honda,Pilot_EXL, 14995, Brooklyn, NY ,104966,No Accident or Damage Reported,SUV,Burgundy_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,30
+928,2018,Honda,Ridgeline_Black_Edition, 37200, Hackettstown, NJ ,47354,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Vehicle Use,8
+929,2019,Honda,HR-V_LX, 21500, Old Bridge, NJ ,15089,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,2
+930,2019,Honda,Accord_LX, 17950, Bronx, NY ,17786,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+931,2014,Honda,Accord_LX, 15995, Cranbury, NJ ,36858,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+932,2015,Honda,Pilot_EXL, 16995, Brooklyn, NY ,116725,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,16
+933,2015,Honda,Accord_LX, 17455, Oakhurst, NJ ,57140,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,16
+934,2018,Honda,HR-V_EX, 21995, Asbury Park, NJ ,16347,Damage Reported,SUV,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,1
+935,2017,Honda,Civic_Touring, 21245, Lakewood, NJ ,47807,No Accident or Damage Reported,Coupe,Gray_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,7
+936,2017,Honda,Civic_EX, 18500, EATONTOWN, NJ ,51980,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,8
+937,2018,Honda,Civic_Sport_Touring, 24673, North Brunswick, NJ ,42637,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,20
+938,2020,Honda,Accord_Sport, 26350, Franklin Square, NY ,9089,Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+939,2010,Honda,CR-V_LX, 7900, Avenel, NJ ,177518,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,8
+940,2018,Honda,Accord_EXL, 25144, Monmouth Junction, NJ ,30041,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+941,2013,Honda,Accord_LX, 14199, Shrewsbury, NJ ,57639,Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+942,2016,Honda,Pilot_EX, 21985, Paterson, NJ ,92716,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+943,2014,Honda,Accord_EXL, 14995, Robbinsville, NJ ,98111,Accident Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,3+ Owners,Multiple Use,20
+944,2019,Honda,HR-V_LX, 21995, Brooklyn, NY ,18610,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,7
+945,2019,Honda,Civic_Type_R, 39990, Massapequa Park, NY ,10680,No Accident or Damage Reported,Hatchback,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+946,2018,Honda,Civic_Sport, 22990, Denville, NJ ,32279,Accident Reported,Hatchback,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+947,2016,Honda,Pilot_Touring, 22900, Atlantic Highlands, NJ ,100395,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+948,2019,Honda,Odyssey_EX, 28990, Valley Stream, NY ,50676,No Accident or Damage Reported,Minivan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+949,2018,Honda,Pilot_LX, 27000, Old Bridge, NJ ,32396,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+950,2018,Honda,CR-V_LX, 22620, Port Chester, NY ,32893,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+951,2014,Honda,CR-V_LX, 14645, Elizabeth, NJ ,89130,Accident Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+952,2018,Honda,Accord_EXL, 25982, Freehold, NJ ,38751,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+953,2019,Honda,Odyssey_Elite, 39982, Freehold, NJ ,37076,No Accident or Damage Reported,Minivan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+954,2020,Honda,CR-V_EX, 29752, New York, NY ,3766,No Accident or Damage Reported,SUV,4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,1
+955,2018,Honda,Civic_LX, 18982, Freehold, NJ ,32329,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+956,2019,Honda,Civic_EX, 21982, Freehold, NJ ,40314,No Accident or Damage Reported,Coupe,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+957,2018,Honda,Civic_LX, 18982, Freehold, NJ ,22230,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+958,2011,Honda,Civic_EXL, 7500, Sussex, NJ ,96784,Accident Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,17
+959,2012,Honda,Civic_LX, 8700, Eatontown, NJ ,125086,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,7
+960,2017,Honda,HR-V_EX-L, 21990, New York, NY,27822,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,9
+961,2017,Honda,CR-V_Touring, 27990, New York, NY,46856,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+962,2006,Honda,S2000, 24995, Warwick, NY ,63441,Accident Reported,Convertible,Black_Engine:_4_Cyl_2.2_L_,CARFAX 1-Owner,Personal Use,24
+963,2020,Honda,Civic_Si, 29200, Bronx, NY ,19598,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+964,2016,Honda,Accord_EXL, 20365, Oakhurst, NJ ,49035,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,11
+965,2020,Honda,Passport_EX_L, 36922, Springfield, NJ ,8589,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,6
+966,2019,Honda,Accord_Sport, 23950, Woodside, NY ,7874,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,0
+967,2019,Honda,Passport_Elite, 37995, Edison, NJ ,13221,No Accident or Damage Reported,SUV,Green_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+968,2018,Honda,Accord_Sport, 21546, Avenel, NJ ,42804,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,17
+969,2019,Honda,Accord_Sport, 20450, Woodside, NY ,19031,Accident Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+970,2018,Honda,Civic_Type_R, 35985, Larchmont, NY ,43180,Minor Damage,Hatchback,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,11
+971,2014,Honda,Pilot_EXL, 16995, Brooklyn, NY ,101691,Accident/Minor Damage,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+972,2017,Honda,Civic_Si, 18581, Avenel, NJ ,88937,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,1
+973,2016,Honda,Civic_EX, 15995, New Windsor, NY ,88106,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+974,2021,Honda,Accord_LX, 25995, Elmwood Park, NJ ,1031,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,0
+975,2018,Honda,Accord_Sport, 22995, Bronx, NY ,32100,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,0
+976,2015,Honda,Odyssey_EX, 10995, Brooklyn, NY ,124003,No Accident or Damage Reported,Minivan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,19
+977,2018,Honda,Civic_EX, 19062, Long Island City, NY ,35700,Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+978,2013,Honda,Pilot_EXL, 12995, Brooklyn, NY ,121187,No Accident or Damage Reported,SUV,Burgundy_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+979,2017,Honda,Pilot_Elite, 29969, East Brunswick, NJ ,56764,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+980,2019,Honda,Accord_Sport, 19487, Woodside, NY ,48413,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,1
+981,2013,Honda,CR-V_EXL, 12995, Brooklyn, NY ,111965,No Accident or Damage Reported,SUV,Brown_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,16
+982,2018,Honda,Civic_Sport, 20995, Denville, NJ ,25204,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,10
+983,2018,Honda,CR-V_EX, 23995, Saint James, NY ,58594,Accident Reported,SUV,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+984,2019,Honda,Civic_EX, 19995, South Hackensack, NJ ,51880,Accident Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+985,2020,Honda,Civic_Touring, 26000, Woodside, NY ,9750,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+986,2018,Honda,Accord_EXL, 26000, Woodside, NY ,23282,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,15
+987,2021,Honda,Civic_EX, 26000, Woodside, NY ,3444,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Commercial Use,4
+988,2018,Honda,Accord_Sport, 19357, Woodside, NY ,30152,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+989,2021,Honda,Civic_LX, 22500, Woodside, NY ,2338,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,3
+990,2018,Honda,Accord_Sport, 22000, Woodside, NY ,62708,Accident Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,13
+991,2018,Honda,CR-V_EX, 19990, Great Neck, NY ,69077,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,11
+992,2014,Honda,Civic_LX, 12995, South Amboy, NJ ,77613,Accident/Minor Damage,Sedan,Blue_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,0
+993,2018,Honda,Civic_EX-T, 20750, Mahwah, NJ ,30737,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+994,2017,Honda,Accord_Touring, 25000, Mahwah, NJ ,50869,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+995,2017,Honda,Odyssey_EX_L, 29000, Norwalk, CT ,58110,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,12
+996,2018,Honda,Civic_LX, 17154, Great Neck, NY ,42015,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+997,2016,Honda,Civic_Touring, 20850, Mahwah, NJ ,61671,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+998,2013,Honda,Civic_LX, 12495, Wantagh, NY ,80199,Accident/Minor Damage,Sedan,Brown_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,17
+999,2018,Honda,Civic_LX, 17500, Woodside, NY ,59330,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+1000,2019,Honda,Civic_EX, 19995, South Hackensack, NJ ,51880,Accident Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+1001,2018,Honda,Accord_EXL, 26000, Woodside, NY ,23282,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,15
+1002,2018,Honda,CR-V_EX, 23995, Saint James, NY ,58594,Accident Reported,SUV,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+1003,2018,Honda,Civic_Sport, 20995, Denville, NJ ,25204,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,10
+1004,2020,Honda,Civic_Touring, 26000, Woodside, NY ,9750,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+1005,2017,Honda,Civic_EXL, 22000, Woodside, NY ,18684,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,5
+1006,2019,Honda,Pilot_Touring, 38300, Woodside, NY ,29688,Accident/Minor Damage,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+1007,2018,Honda,CR-V_LX, 23332, Pompton Plains, NJ ,40931,Minor Damage,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+1008,2014,Honda,CR-V_LX, 19797, Madison, NJ ,19814,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+1009,2004,Honda,CR-V_LX, 4999, S Hackensack, NJ ,143856,Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,40
+1010,2004,Honda,CR-V_EX, 4995, North Middletown, NJ ,163087,Accident Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,42
+1011,2017,Honda,Accord_EXL, 13900, Brooklyn, NY ,134539,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Taxi Use,5
+1012,2018,Honda,Accord_LX, 21961, Wantagh, NY ,32927,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,11
+1013,2018,Honda,HR-V_EX, 22000, Princeton, NJ ,45765,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,1
+1014,2017,Honda,Accord_EXL, 26380, Mahwah, NJ ,32554,No Accident or Damage Reported,Sedan,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+1015,2018,Honda,Civic_LX, 19718, Pompton Plains, NJ ,43538,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,14
+1016,2018,Honda,CR-V_EX, 26490, South Plainfield, NJ ,36679,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+1017,2019,Honda,Pilot_LX, 32000, Woodside, NY ,1040,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+1018,2018,Honda,Accord_LX, 22000, Woodside, NY ,40654,No Accident or Damage Reported,Sedan,Beige_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+1019,2019,Honda,Civic_Sport, 23000, Woodside, NY ,34163,No Accident or Damage Reported,Coupe,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+1020,2016,Honda,CR-V_EXL, 17997, Elizabeth, NJ ,94102,Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,1
+1021,2010,Honda,Pilot_EXL, 8997, Newfoundland, NJ ,162321,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,19
+1022,2019,Honda,Pilot_Elite, 41000, Princeton, NJ ,38306,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+1023,2018,Honda,Civic_EX, 18788, Edison, NJ ,30645,Accident/Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,9
+1024,2019,Honda,Accord_LX, 24982, Freehold, NJ ,9227,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+1025,2012,Honda,Civic_LX, 8488, Bridgewater, NJ ,148406,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,4
+1026,2018,Honda,Civic_EX, 18788, Edison, NJ ,30645,Accident/Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,9
+1027,2019,Honda,Pilot_Elite, 41000, Princeton, NJ ,38306,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+1028,2010,Honda,Civic_LX, 6291, Paterson, NJ ,121667,Accident Reported,Sedan,Blue_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,12
+1029,2021,Honda,Civic_LX, 20995, Freeport, NY ,6868,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,2
+1030,2019,Honda,Accord_LX, 24982, Freehold, NJ ,9227,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+1031,2011,Honda,Pilot_EXL, 10391, Paterson, NJ ,166781,No Accident or Damage Reported,SUV,Burgundy_Engine:_6_Cyl_3.5_L_,3+ Owners,Multiple Use,17
+1032,2013,Honda,Civic_Si, 14799, Woodbridge, NJ ,97484,No Accident or Damage Reported,Coupe,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,18
+1033,2018,Honda,HR-V_LX, 17977, Lodi, NJ ,45620,Major Damage,SUV,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Corporate Use,9
+1034,2017,Honda,Ridgeline_RTL, 22990, Rockaway, NJ ,142028,Accident Reported,Pickup,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,13
+1035,2017,Honda,CR-V_EX, 26488, Lebanon, NJ ,31106,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+1036,2019,Honda,Civic_Type_R, 40995, Edison, NJ ,26157,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+1037,2013,Honda,CR-V_EXL, 15895, Hackettstown, NJ ,95965,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+1038,2019,Honda,Pilot_EXL, 34601, Princeton, NJ ,46279,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+1039,2019,Honda,HR-V_EX, 24595, Hackettstown, NJ ,30960,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,6
+1040,2006,Honda,Civic_EX, 5800, Stamford, CT ,153700,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,16
+1041,2017,Honda,Accord_Touring, 24995, Tarrytown, NY ,42000,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,12
+1042,2014,Honda,Odyssey_Touring_Elite, 14900, Brooklyn, NY ,131502,No Accident or Damage Reported,Minivan,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,23
+1043,2018,Honda,CR-V_LX, 23999, Rutherford, NJ ,34841,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,13
+1044,2012,Honda,Civic, 9999, Lindenhurst, NY ,103269,Accident/No Damage,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+1045,2020,Honda,Accord_Sport, 24999, Freeport, NY ,25131,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Rental Use,1
+1046,2016,Honda,CR-V_EXL, 20787, Saint James, NY ,41830,No Accident or Damage Reported,SUV,Brown_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+1047,2017,Honda,Civic_Si, 20888, Freehold, NJ ,86097,No Accident or Damage Reported,Coupe,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Vehicle Use,5
+1048,2016,Honda,Civic_Touring, 17599, Jersey City, NJ ,81488,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,10
+1049,2015,Honda,Accord_EXL, 17295, Brooklyn, NY ,42000,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+1050,2012,Honda,Accord_EXL, 11595, West Nyack, NY ,121114,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,20
+1051,2011,Honda,Pilot_EXL, 11995, West Nyack, NY ,142970,Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,29
+1052,2018,Honda,CR-V_EX, 26999, Flemington, NJ ,28296,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+1053,2005,Honda,Accord_EX, 4495, Huntington Station, NY ,185286,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+1054,2018,Honda,CR-V_LX, 23982, Freehold, NJ ,31131,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+1055,2017,Honda,CR-V_EX, 24294, Union, NJ ,51911,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,13
+1056,2015,Honda,Accord_EXL, 12699, Sussex, NJ ,103595,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,18
+1057,2014,Honda,Pilot_EXL, 14990, Lodi, NJ ,119721,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,12
+1058,2018,Honda,Ridgeline_RTL-T, 33495, Edison, NJ ,35783,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Corporate Use,6
+1059,2017,Honda,Civic_EX-T, 19995, Edison, NJ ,33502,No Accident or Damage Reported,Sedan,Burgundy_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,0
+1060,2021,Honda,Odyssey_EX_L, 41900, Florham Park, NJ ,8392,No Accident or Damage Reported,Minivan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+1061,2018,Honda,Accord_LX, 22500, Florham Park, NJ ,20151,No Accident or Damage Reported,Sedan,Brown_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+1062,2018,Honda,Pilot_EXL, 32990, Denville, NJ ,40674,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+1063,2018,Honda,Civic_EX, 20995, North Plainfield, NJ ,18704,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+1064,2020,Honda,CR-V_EX, 30400, Jersey City, NJ ,8551,Accident Reported,SUV,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+1065,2008,Honda,Pilot_EXL, 10000, Old Bridge, NJ ,98403,No Accident or Damage Reported,SUV,Green_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,20
+1066,2017,Honda,Accord_Touring, 24900, Old Bridge, NJ ,36975,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+1067,2018,Honda,Civic_EX-T, 21295, Denville, NJ ,59516,Accident Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,17
+1068,2020,Honda,Fit_EX, 23990, Denville, NJ ,7720,No Accident or Damage Reported,Hatchback,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Corporate Use,2
+1069,2019,Honda,Accord_EXL, 27745, Lakewood, NJ ,17271,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,0
+1070,2018,Honda,Civic_Si, 24995, Somerset, NJ ,24860,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,1
+1071,2019,Honda,HR-V_EX, 23490, Valley Stream, NY ,17621,No Accident or Damage Reported,SUV,Purple_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,1
+1072,2019,Honda,Accord_EX, 24995, Bay Shore, NY ,22307,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+1073,2018,Honda,Clarity_Touring, 24595, North Plainfield, NJ ,31509,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+1074,2014,Honda,CR-V_LX, 12999, Inwood, NY ,127928,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,24
+1075,2008,Honda,Ridgeline_RTS, 8999, S Hackensack, NJ ,168177,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,30
+1076,2015,Honda,Civic_LX, 10099, Sussex, NJ ,140599,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,12
+1077,2009,Honda,Accord_LXP, 9495, Paramus, NJ ,100938,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,18
+1078,2011,Honda,CR-V_EXL, 8995, Bronx, NY ,0,Accident Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,22
+1079,2017,Honda,Accord_Sport, 22950, Elmont, NY ,55445,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+1080,2020,Honda,CR-V_Touring, 31993, Hempstead, NY ,25582,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,1
+1081,2018,Honda,HR-V_EX-L, 23477, Lodi, NJ ,27061,No Accident or Damage Reported,SUV,Purple_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,9
+1082,2019,Honda,Pilot_EXL, 35999, Tarrytown, NY ,26062,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+1083,2018,Honda,Civic_LX-P, 20693, PARAMUS, NJ ,12341,No Accident or Damage Reported,Coupe,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+1084,2006,Honda,Ridgeline_RTL, 7990, Sayreville, NJ ,177910,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,5
+1085,2018,Honda,Odyssey_EX_L, 28295, Bronx, NY ,32148,Accident Reported,Minivan,6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+1086,2015,Honda,Pilot_EXL, 21991, Smithtown, NY ,84229,Accident/Minor Damage,SUV,6_Cyl_3.5_L_,2-Owner,Personal Use,12
+1087,2018,Honda,Civic_LX-P, 18581, Avenel, NJ ,27385,No Accident or Damage Reported,Coupe,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,3
+1088,2018,Honda,CR-V_LX, 27971, Nutley, NJ ,16760,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+1089,2019,Honda,CR-V_EXL, 33971, Nutley, NJ ,10216,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+1090,2015,Honda,CR-V_EX, 23297, Nutley, NJ ,52120,No Accident or Damage Reported,SUV,Burgundy_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+1091,2012,Honda,CR-V_EXL, 20595, North Plainfield, NJ ,54072,No Accident or Damage Reported,SUV,Green_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+1092,2016,Honda,Pilot_EXL, 25999, Old Bridge, NJ ,52178,Accident/No Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,17
+1093,2018,Honda,CR-V_EX, 28799, Lakewood, NJ ,11893,Minor Damage,SUV,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,0
+1094,2016,Honda,Civic_EX, 15995, Neptune, NJ ,84316,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,12
+1095,2013,Honda,Civic_EX, 9983, Bridgewater, NJ ,191433,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,27
+1096,2020,Honda,Civic_Sport, 23995, Inwood, NY ,1176,No Accident or Damage Reported,Coupe,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,1
+1097,2018,Honda,CR-V_EXL, 28799, Lakewood, NJ ,25425,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,0
+1098,2019,Honda,Passport_EX_L, 34699, Lakewood, NJ ,32692,No Accident or Damage Reported,SUV,Brown_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,0
+1099,2020,Honda,CR-V_LX, 28899, Lakewood, NJ ,13299,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,0
+1100,2018,Honda,Clarity_Base, 20581, Avenel, NJ ,24392,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,15
+1101,2017,Honda,Accord_Sport, 18995, Wall Township, NJ ,45361,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,7
+1102,2008,Honda,Pilot_EXL, 9995, Bronx, NY ,92498,Damage Reported,SUV,Green_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,18
+1103,2008,Honda,CR-V_EXL, 9995, Freeport, NY ,149115,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,22
+1104,2019,Honda,Pilot_Touring, 37995, Nanuet, NY ,44979,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+1105,2019,Honda,Pilot_Touring, 39995, Nanuet, NY ,31148,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,14
+1106,2018,Honda,Pilot_EXL, 31495, Nanuet, NY ,53751,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+1107,2018,Honda,CR-V_LX, 25995, Nanuet, NY ,21732,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+1108,2018,Honda,Accord_LX, 23995, Nanuet, NY ,37333,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+1109,2020,Honda,Accord_Sport, 25999, Brooklyn, NY ,23823,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+1110,2015,Honda,Accord_EX, 15989, Ramsey, NJ ,93843,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,22
+1111,2018,Honda,Civic_EX, 18295, Saint James, NY ,47155,Accident Reported,Sedan,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+1112,2019,Honda,Accord_EX, 24995, Brooklyn, NY ,18953,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+1113,2019,Honda,Civic_Si, 25390, Jamaica, NY ,22805,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+1114,2018,Honda,Civic_Si, 23988, Eatontown, NJ ,47949,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,9
+1115,2020,Honda,CR-V_EXL, 34875, Larchmont, NY ,8449,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+1116,2012,Honda,Odyssey_EX_L, 10900, Plainfield, NJ ,110277,Branded Title,Minivan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,14
+1117,2017,Honda,Civic_Sport_Touring, 24698, Mendham, NJ ,28913,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,9
+1118,2011,Honda,Accord_EX, 8800, Lynbrook, NY ,128547,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,14
+1119,2017,Honda,Odyssey_SE, 24779, Englewood, NJ ,48549,No Accident or Damage Reported,Minivan,Silver_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,12
+1120,2020,Honda,Accord_Sport, 31335, Sea Girt, NJ ,25769,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,3
+1121,2014,Honda,CR-V_EXL, 17900, Hackettstown, NJ ,82807,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,10
+1122,2016,Honda,Odyssey_EX, 24569, New York, NY ,39462,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+1123,2017,Honda,CR-V_EX, 20995, Bronx, NY ,0,Damage Reported,SUV,White_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,9
+1124,2015,Honda,Accord_Sport, 11499, Jersey City, NJ ,131944,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,3+ Owners,Multiple Use,10
+1125,2017,Honda,Accord_Sport, 10500, Hillside, NJ ,184771,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Taxi Use,7
+1126,2017,Honda,CR-V_EXL, 25984, South Plainfield, NJ ,43140,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+1127,2008,Honda,Civic_LX, 4997, Elizabeth, NJ ,171148,Accident Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,15
+1128,2018,Honda,Civic_EX, 19499, Eatontown, NJ ,25738,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,8
+1129,2018,Honda,CR-V_EX, 24995, Fair Lawn, NJ ,60845,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,8
+1130,2019,Honda,Pilot_EXL, 36000, Woodside, NY ,23234,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+1131,2019,Honda,Accord_LX, 23995, South Hackensack, NJ ,13588,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+1132,2018,Honda,CR-V_LX, 22998, West Babylon, NY ,50122,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+1133,2020,Honda,Accord_LX, 20816, Irvington, NJ ,32238,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,2-Owner,Multiple Use,2
+1134,2018,Honda,Pilot_EXL, 32995, Farmingdale, NY ,22750,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+1135,2018,Honda,Pilot_EXL, 33000, Woodside, NY ,33536,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+1136,2019,Honda,Pilot_EXL, 36500, Woodside, NY ,28347,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,15
+1137,2006,Honda,CR-V_SE, 8994, Elmsford, NY ,89336,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+1138,2019,Honda,Pilot_EXL, 37000, Woodside, NY ,14318,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+1139,2018,Honda,CR-V_EX, 25499, Pompton Plains, NJ ,45352,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+1140,2018,Honda,Accord_LX, 23000, Woodside, NY ,22033,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+1141,2019,Honda,HR-V_Sport, 24500, Woodside, NY ,19597,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,4
+1142,2019,Honda,Pilot_LX, 31000, Woodside, NY ,21746,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+1143,2018,Honda,Accord_LX, 23500, Woodside, NY ,18704,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,10
+1144,2019,Honda,HR-V_EX, 25000, Woodside, NY ,31341,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,6
+1145,2018,Honda,Accord_Sport, 26000, Woodside, NY ,16431,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+1146,2019,Honda,Pilot_EX, 33000, Woodside, NY ,27281,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+1147,2019,Honda,Accord_Sport, 27000, Woodside, NY ,28501,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+1148,2018,Honda,CR-V_EXL, 26481, Avenel, NJ ,33018,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,12
+1149,2017,Honda,Civic_Sport, 19995, Commack, NY ,22704,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,15
+1150,2018,Honda,Accord_Sport, 18490, Valley Stream, NY ,80562,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+1151,2013,Honda,Civic_LX, 10690, Roselle Park, NJ ,100168,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,11
+1152,2019,Honda,Accord_Sport, 24995, Edison, NJ ,38076,Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+1153,2018,Honda,Clarity_Base, 21995, Edison, NJ ,28235,Accident/Minor Damage,Sedan,Green_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+1154,2019,Honda,Accord_LX, 22499, Eatontown, NJ ,53233,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+1155,2018,Honda,CR-V_LX, 21995, Great Neck, NY ,29635,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+1156,2017,Honda,Civic_LX, 15999, Eatontown, NJ ,80546,Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+1157,2018,Honda,Accord_Sport, 24777, Eatontown, NJ ,57902,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,13
+1158,2019,Honda,Accord_LX, 26400, East Hanover, NJ ,13500,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+1159,2015,Honda,CR-V_LX, 18700, Mahwah, NJ ,29458,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+1160,2012,Honda,Pilot_EXL, 12995, Brooklyn, NY ,113073,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,Number of Owners,Corporate Use,6
+1161,2013,Honda,Accord_EXL, 14795, Massapequa, NY ,64983,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+1162,2011,Honda,Odyssey_EX_L, 9495, Bronx, NY ,0,Minor Damage,Minivan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+1163,2018,Honda,Civic_Si, 21980, Bronx, NY ,19439,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+1164,2018,Honda,Accord_Touring, 21990, Rockaway, NJ ,142721,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+1165,2020,Honda,Odyssey_EX_L, 38995, Tarrytown, NY ,13162,Minor Damage,Minivan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+1166,2018,Honda,Accord_Sport, 24099, Trenton, NJ ,34071,Very Minor Damage,Sedan,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+1167,2019,Honda,Accord_LX, 22648, Brooklyn, NY ,13832,Major Damage,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+1168,2018,Honda,Accord_EXL, 24995, Brooklyn, NY ,36056,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,1
+1169,2018,Honda,Accord_Touring, 28999, Tarrytown, NY ,20478,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,9
+1170,2014,Honda,Civic_LX, 12995, Edison, NJ ,94592,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,8
+1171,2018,Honda,Pilot_LX, 27999, Tarrytown, NY ,32014,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+1172,2019,Honda,Civic_LX, 20999, Tarrytown, NY ,4300,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+1173,2015,Honda,Civic_EXL, 16995, Lakewood, NJ ,74611,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,6
+1174,2018,Honda,Accord_Sport, 23900, Wayne, NJ ,37772,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Vehicle Use,13
+1175,2018,Honda,Accord_Touring, 28999, Tarrytown, NY ,20478,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,9
+1176,2015,Honda,Civic_EXL, 16995, Lakewood, NJ ,74611,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,6
+1177,2011,Honda,Pilot_EXL, 10995, Garfield, NJ ,166970,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,6
+1178,2018,Honda,Accord_LX, 23982, Freehold, NJ ,12683,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,1
+1179,2018,Honda,Pilot_EXL, 34999, Flemington, NJ ,24069,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+1180,2020,Honda,Civic_EX, 24449, Tarrytown, NY ,29347,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,11
+1181,2019,Honda,Accord_Base, 24975, East Windsor, NJ ,25098,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+1182,2019,Honda,Ridgeline_RTL-E, 37494, Tarrytown, NY ,57414,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+1183,2019,Honda,Civic_LX, 19866, PARAMUS, NJ ,30407,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+1184,2018,Honda,Clarity_Touring, 23245, Lakewood, NJ ,45440,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+1185,2010,Honda,CR-V_EXL, 10892, North Brunswick, NJ ,137076,No Accident or Damage Reported,SUV,Brown_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+1186,2018,Honda,Accord_LX, 22999, Tarrytown, NY ,19907,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+1187,2012,Honda,Civic_LX, 9200, Lynbrook, NY ,105618,Minor Damage,Sedan,Gray_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,14
+1188,2017,Honda,Fit_LX, 14635, Sea Girt, NJ ,88128,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,16
+1189,2018,Honda,Civic_Sport, 24595, Elizabeth, NJ ,13006,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+1190,2017,Honda,Pilot_EXL, 24999, Lakewood, NJ ,91735,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+1191,2018,Honda,Odyssey_EX_L, 35900, Howell, NJ ,27490,Accident Reported,Minivan,Brown_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+1192,2012,Honda,Accord_LX, 8999, Uniondale, NY ,120511,Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,20
+1193,2016,Honda,Accord_LX, 14999, Inwood, NY ,41873,Major Damage,Sedan,Red_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,7
+1194,2019,Honda,Ridgeline_RTL, 36995, Edison, NJ ,26601,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+1195,2015,Honda,CR-V_EXL, 16500, Uniondale, NY ,111958,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,45
+1196,2018,Honda,Pilot_EXL, 30900, Hillside, NJ ,19325,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,3+ Owners,Multiple Use,6
+1197,2012,Honda,Pilot_EXL, 10499, RINGWOOD, NJ ,174870,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,20
+1198,2015,Honda,Accord_LX, 12900, Atlantic Highlands, NJ ,93207,Accident Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,8
+1199,2010,Honda,Insight_EX, 5500, Sayreville, NJ ,178241,Accident/Minor Damage,Hatchback,Black_Engine:_4_Cyl_1.3_L_,2-Owner,Personal Use,29
+1200,2019,Honda,Odyssey_EX_L, 38262, Roselle, NJ ,31003,No Accident or Damage Reported,Minivan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+1201,2009,Honda,Accord_EXL, 4900, Plainfield, NJ ,194976,No Accident or Damage Reported,Sedan,Burgundy_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,37
+1202,2011,Honda,CR-V_EXL, 10995, Yonkers, NY ,99610,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,18
+1203,2012,Honda,Civic_EX, 9500, Uniondale, NY ,99734,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,6
+1204,2019,Honda,Civic_LX, 17981, Avenel, NJ ,32707,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+1205,2018,Honda,CR-V_EX, 23981, Avenel, NJ ,21290,Accident Reported,SUV,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,12
+1206,2007,Honda,Civic_LX, 4499, Paterson, NJ ,167030,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,5
+1207,2019,Honda,Accord_LX, 25495, Denville, NJ ,20488,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+1208,2018,Honda,Pilot_EX, 33595, North Plainfield, NJ ,32870,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+1209,2008,Honda,Ridgeline_RTX, 5899, S Hackensack, NJ ,152800,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,38
+1210,2020,Honda,Accord_Sport, 25922, Springfield, NJ ,41311,Minor Damage,Sedan,Black_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,17
+1211,2018,Honda,Pilot_EXL, 41895, Merrick, NY ,12202,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+1212,2018,Honda,Odyssey_EX, 26981, Avenel, NJ ,49350,Damage Reported,Minivan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+1213,2017,Honda,CR-V_EXL, 29497, Nutley, NJ ,33684,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,9
+1214,2019,Honda,CR-V_LX, 23982, Freehold, NJ ,35404,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+1215,2012,Honda,Civic_LX, 6000, Norwalk, CT ,206980,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,15
+1216,2016,Honda,Accord_LX, 18500, White Plains, NY ,38846,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,13
+1217,2018,Honda,Civic_LX, 23900, Jersey City, NJ ,12130,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+1218,2018,Honda,Accord_EXL, 26517, Denville, NJ ,41858,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+1219,2018,Honda,Accord_LX, 23995, North Plainfield, NJ ,33935,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+1220,2020,Honda,Passport_EX_L, 38995, North Plainfield, NJ ,25943,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+1221,2011,Honda,CR-V_EXL, 16995, Irvington, NJ ,36290,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,23
+1222,2018,Honda,Pilot_LX, 30595, North Plainfield, NJ ,31599,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+1223,2018,Honda,CR-V_EX, 30999, Freehold, NJ ,7210,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,6
+1224,2018,Honda,Pilot_EXL, 34995, North Plainfield, NJ ,28494,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,15
+1225,2019,Honda,Odyssey_LX, 30490, Denville, NJ ,28713,No Accident or Damage Reported,Minivan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+1226,2018,Honda,CR-V_EX, 27690, Denville, NJ ,49105,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,11
+1227,2020,Honda,Accord_Sport, 25950, Woodside, NY ,715,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,2-Owner,Vehicle Use,1
+1228,2011,Honda,CR-V_SE, 11888, Brooklyn, NY ,64615,Accident Reported,SUV,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,13
+1229,2017,Honda,Civic_Sport, 19958, Saint James, NY ,39863,No Accident or Damage Reported,Hatchback,Silver_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,2
+1230,2012,Honda,CR-V_LX, 10790, Tinton Falls, NJ ,135728,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,16
+1231,2020,Honda,Accord_LX, 23495, Elmwood Park, NJ ,9779,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,2
+1232,2020,Honda,Accord_LX, 25197, Brooklyn, NY ,5038,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+1233,2020,Honda,Civic_LX, 24135, Sea Girt, NJ ,14242,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,3
+1234,2017,Honda,Ridgeline_RTL-T, 31935, Sea Girt, NJ ,58016,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,12
+1235,2018,Honda,Civic_LX, 17995, Greenvale, NY ,32945,Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+1236,2019,Honda,Odyssey_LX, 30045, Brooklyn, NY ,16155,No Accident or Damage Reported,Minivan,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+1237,2020,Honda,Odyssey_EX_L, 39494, Brooklyn, NY ,17557,No Accident or Damage Reported,Minivan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+1238,2013,Honda,Civic_EX, 13379, Staten Island, NY ,78132,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,3
+1239,2018,Honda,CR-V_EX, 27995, Lawrence Township, NJ ,15810,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+1240,2016,Honda,Accord_Sport, 13990, Bronx, NY ,133673,Accident/Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.4_L_,3+ Owners,Multiple Use,23
+1241,2016,Honda,CR-V_EXL, 19995, Uniondale, NY ,46982,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,9
+1242,2008,Honda,Accord_EXL, 10995, Manalapan, NJ ,74361,No Accident or Damage Reported,Sedan,Green_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,30
+1243,2020,Honda,Civic_EX, 26166, Lakewood, NJ ,19192,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,0
+1244,2019,Honda,Odyssey_EX_L, 37899, Lakewood, NJ ,25136,No Accident or Damage Reported,Minivan,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,0
+1245,2020,Honda,Accord_Sport, 29699, Lakewood, NJ ,8542,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,0
+1246,2019,Honda,HR-V_EX, 25399, Lakewood, NJ ,12928,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,0
+1247,2013,Honda,Accord_EXL, 16959, Princeton, NJ ,37466,Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+1248,2018,Honda,Civic_EX, 20086, Blauvelt, NY ,0,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+1249,2013,Honda,Pilot_EXL, 15887, Princeton, NJ ,106858,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,22

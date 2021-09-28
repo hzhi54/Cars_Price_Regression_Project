@@ -1,0 +1,1101 @@
+,Year,Brand,Model,Cost,City,State,Mileage,Accident,Body,Engine,Owners,Usefor,Services
+0,2015,Jeep,Grand_Cherokee_Laredo, 21999, Queens Village, NY ,40037,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+1,2018,Jeep,Grand_Cherokee_Laredo_E, 28125, Little Falls, NJ ,27803,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+2,2019,Jeep,Compass_Altitude_Edition, 25995, Sussex, NJ ,20988,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+3,2018,Jeep,Cherokee_Limited_Edition, 25810, Ocean, NJ ,28467,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,6
+4,2017,Jeep,Renegade_Sport, 16810, Ocean, NJ ,71320,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+5,2018,Jeep,Wrangler_Sport_S, 34997, White Plains, NY ,27741,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+6,2019,Jeep,Cherokee_Limited_Edition, 25995, Cranbury, NJ ,28911,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,3
+7,2018,Jeep,Grand_Cherokee_Laredo_E, 29175, Flemington, NJ ,35763,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+8,2019,Jeep,Grand_Cherokee_Limited_Edition, 31810, Ocean, NJ ,43840,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+9,2018,Jeep,Grand_Cherokee_Limited_Edition, 33810, Ocean, NJ ,21470,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+10,2018,Jeep,Grand_Cherokee_Limited_Edition, 30893, Edison, NJ ,36811,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+11,2016,Jeep,Wrangler_Sahara, 32997, White Plains, NY ,48227,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+12,2019,Jeep,Cherokee_Limited_Edition, 26605, Brooklyn, NY ,23932,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,2
+13,2018,Jeep,Renegade_Latitude, 19495, North Brunswick, NJ ,36414,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+14,2017,Jeep,Wrangler_Sahara, 35888, Bayside, NY ,33364,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+15,2021,Jeep,Grand_Cherokee_Limited_Edition, 44931, Butler, NJ ,2837,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+16,2019,Jeep,Cherokee_Limited_Edition, 26999, Freehold, NJ ,31065,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,6
+17,2016,Jeep,Wrangler_Sahara, 32995, Emerson, NJ ,44364,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,17
+18,2016,Jeep,Cherokee_Latitude, 16995, Hackettstown, NJ ,95622,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+19,2019,Jeep,Compass_Latitude, 20631, Mahopac, NY ,86996,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+20,2019,Jeep,Grand_Cherokee_Limited_Edition, 29887, White Plains, NY ,51890,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+21,2018,Jeep,Grand_Cherokee_Limited_Edition, 30998, Roselle, NJ ,29490,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+22,2019,Jeep,Grand_Cherokee_Laredo_E, 31810, Ocean, NJ ,23206,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+23,2019,Jeep,Cherokee_Limited_Edition, 27969, Butler, NJ ,29337,No Accident or Damage Reported,SUV,Green_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,5
+24,2018,Jeep,Wrangler_Rubicon, 40988, Lakewood, NJ ,67570,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+25,2018,Jeep,Compass_Latitude, 20888, Bayside, NY ,29210,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+26,2015,Jeep,Wrangler_Sahara, 32975, Manasquan, NJ ,66731,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+27,2019,Jeep,Grand_Cherokee_Limited_Edition, 36250, Shrewsbury, NJ ,20234,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+28,2019,Jeep,Cherokee_Limited_Edition, 26547, White Plains, NY ,24201,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,8
+29,2019,Jeep,Cherokee_Latitude_Plus, 24887, White Plains, NY ,32323,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,6
+30,2019,Jeep,Cherokee_Limited_Edition, 26695, Great Neck, NY ,25075,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,4
+31,2018,Jeep,Wrangler_Sport_S, 32810, Ocean, NJ ,12038,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+32,2019,Jeep,Grand_Cherokee_Limited_Edition, 34500, East Hanover, NJ ,27819,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+33,2018,Jeep,Wrangler_Sahara, 40000, Croton On Hudson, NY ,52399,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+34,2018,Jeep,Wrangler_Sahara, 41988, Bay Shore, NY ,24745,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+35,2019,Jeep,Grand_Cherokee_Upland, 33000, East Brunswick, NJ ,43517,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+36,2018,Jeep,Grand_Cherokee_High_Altitude, 35835, Flemington, NJ ,56748,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+37,2018,Jeep,Grand_Cherokee_High_Altitude, 35626, Jamaica, NY ,53677,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+38,2018,Jeep,Wrangler_Sport_S, 37878, Butler, NJ ,33834,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+39,2019,Jeep,Grand_Cherokee_Limited_Edition, 34289, Butler, NJ ,36293,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+40,2019,Jeep,Grand_Cherokee_Limited_Edition, 37188, Flemington, NJ ,16677,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+41,2018,Jeep,Compass_Altitude_Edition, 23595, Denville, NJ ,20045,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+42,2018,Jeep,Grand_Cherokee_Laredo, 28500, Oakhurst, NJ ,33504,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+43,2019,Jeep,Grand_Cherokee_Limited_Edition, 35690, Oakhurst, NJ ,20748,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+44,2019,Jeep,Cherokee_Limited_Edition, 24980, Jericho, NY ,39395,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,4
+45,2018,Jeep,Grand_Cherokee_Limited_Edition, 31700, Nanuet, NY ,27238,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+46,2018,Jeep,Wrangler_Sport, 35100, Nanuet, NY ,46024,No Accident or Damage Reported,SUV,Beige_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+47,2018,Jeep,Wrangler_Sahara, 36609, East Brunswick, NJ ,35992,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+48,2019,Jeep,Wrangler_Rubicon, 52110, Flemington, NJ ,23831,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+49,2018,Jeep,Wrangler_Sport_S, 36389, Freehold, NJ ,33498,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+50,2019,Jeep,Wrangler_Sahara, 46989, Freehold, NJ ,20217,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+51,2016,Jeep,Wrangler_Sport, 29490, Shrewsbury, NJ ,74978,No Accident or Damage Reported,SUV,Beige_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+52,2018,Jeep,Wrangler_Sahara, 42990, Shrewsbury, NJ ,19339,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+53,2018,Jeep,Compass_Altitude_Edition, 24000, White Plains, NY ,22529,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+54,2019,Jeep,Cherokee_Latitude_Plus, 24599, Wharton, NJ ,36276,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+55,2017,Jeep,Grand_Cherokee_Limited_Edition, 28795, Edison, NJ ,43973,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+56,2018,Jeep,Wrangler_Sahara, 40455, Greenvale, NY ,43238,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+57,2019,Jeep,Cherokee_Limited_Edition, 25851, Denville, NJ ,19341,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,6
+58,2015,Jeep,Wrangler_Sport, 27487, Ringoes, NJ ,16813,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+59,2017,Jeep,Grand_Cherokee_Laredo, 26999, Copiague, NY ,30059,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+60,2016,Jeep,Renegade_Latitude, 18900, East Hanover, NJ ,27052,No Accident or Damage Reported,SUV,Yellow_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,15
+61,2018,Jeep,Grand_Cherokee_Laredo_E, 28155, Summit, NJ ,30041,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+62,2020,Jeep,Grand_Cherokee_Overland, 45995, Brooklyn, NY ,6099,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+63,2018,Jeep,Wrangler_Sport, 34995, Edison, NJ ,21490,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+64,2018,Jeep,Wrangler_Sport, 37995, Lebanon, NJ ,4961,No Accident or Damage Reported,SUV,Purple_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+65,2017,Jeep,Cherokee_Trailhawk, 20500, Neptune, NJ ,71886,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+66,2018,Jeep,Grand_Cherokee_Altitude, 32359, Keyport, NJ ,26771,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+67,2017,Jeep,Wrangler_Sport, 29900, Bronx, NY ,39998,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+68,2019,Jeep,Cherokee_Trailhawk, 25566, Lakewood, NJ ,72443,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+69,2018,Jeep,Grand_Cherokee_Limited_Edition, 31400, Nanuet, NY ,33718,No Accident or Damage Reported,SUV,Brown_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+70,2018,Jeep,Compass_Limited_Edition, 25165, Croton On Hudson, NY ,26628,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+71,2019,Jeep,Cherokee_Limited_Edition, 25499, Old Bridge, NJ ,16503,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,4
+72,2019,Jeep,Cherokee_Limited_Edition, 27995, Croton On Hudson, NY ,30720,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,6
+73,2019,Jeep,Cherokee_Limited_Edition, 25350, North Plainfield, NJ ,37824,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,9
+74,2018,Jeep,Grand_Cherokee_Limited_Edition, 29777, Bayside, NY ,34506,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+75,2018,Jeep,Wrangler_Sport, 34999, Newark, NJ,35169,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+76,2018,Jeep,Compass_Latitude, 19671, Hempstead, NY ,14760,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+77,2019,Jeep,Cherokee_Limited_Edition, 25444, Princeton, NJ ,23313,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,4
+78,2018,Jeep,Grand_Cherokee_Altitude, 29098, Lynbrook, NY ,22806,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+79,2018,Jeep,Compass_Limited_Edition, 20308, Lynbrook, NY ,50125,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,13
+80,2016,Jeep,Wrangler_Sport, 35895, Merrick, NY ,33771,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+81,2016,Jeep,Grand_Cherokee_Laredo, 18995, New Brunswick, NJ ,120356,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,19
+82,2020,Jeep,Compass_Latitude, 24000, White Plains, NY ,21969,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+83,2018,Jeep,Grand_Cherokee_Limited_Edition, 30900, Amityville, NY ,30823,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+84,2018,Jeep,Wrangler_Sport_S, 33991, Little Falls, NJ ,32537,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+85,2018,Jeep,Compass_Altitude_Edition, 24550, North Plainfield, NJ ,25918,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+86,2018,Jeep,Grand_Cherokee_Laredo, 27999, Greenwich, CT ,42107,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+87,2014,Jeep,Patriot_Sport, 10500, Westport, CT ,87137,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,18
+88,2018,Jeep,Grand_Cherokee_Limited_Edition, 30499, Randolph, NJ ,27507,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+89,2018,Jeep,Cherokee_Limited_Edition, 23995, Totowa, NJ ,29683,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,6
+90,2018,Jeep,Wrangler_Sport, 37249, Lebanon, NJ ,38955,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+91,2018,Jeep,Wrangler_Rubicon_Recon, 36495, Ramsey, NJ ,43244,No Accident or Damage Reported,SUV,Beige_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,14
+92,2018,Jeep,Grand_Cherokee_Limited_Edition, 29900, Amityville, NY ,34576,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+93,2018,Jeep,Wrangler_Sport_S, 37946, Flemington, NJ ,18331,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+94,2019,Jeep,Grand_Cherokee_Limited_Edition, 32991, Little Falls, NJ ,30277,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+95,2018,Jeep,Grand_Cherokee_Altitude, 30991, Little Falls, NJ ,46251,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,15
+96,2018,Jeep,Renegade_Latitude, 20995, Freehold, NJ ,35460,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+97,2017,Jeep,Grand_Cherokee_Trailhawk, 32977, Butler, NJ ,57161,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+98,2018,Jeep,Grand_Cherokee_Limited_Edition, 29485, Yonkers, NY ,35516,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+99,2019,Jeep,Cherokee_Limited_Edition, 27499, Wharton, NJ ,35912,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,14
+100,2018,Jeep,Grand_Cherokee_Laredo_E, 29995, Wharton, NJ ,17581,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+101,2018,Jeep,Wrangler_Sport_S, 37995, Robbinsville, NJ ,28895,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+102,2018,Jeep,Compass_Latitude, 20995, Lakewood, NJ ,26303,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+103,2018,Jeep,Compass_Altitude_Edition, 23996, Lebanon, NJ ,27144,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+104,2018,Jeep,Wrangler_Sport, 32718, Greenvale, NY ,29862,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+105,2018,Jeep,Wrangler_Sport, 37500, Norwalk, CT ,12775,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+106,2018,Jeep,Grand_Cherokee_Limited_Edition, 30000, Nanuet, NY ,44918,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+107,2015,Jeep,Wrangler_Sahara, 31999, Greenvale, NY ,31430,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+108,2018,Jeep,Grand_Cherokee_Limited_Edition, 31400, Nanuet, NY ,33074,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+109,2018,Jeep,Wrangler_Sahara, 42995, Brooklyn, NY ,24765,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+110,2018,Jeep,Grand_Cherokee_Limited_Edition, 32995, Croton On Hudson, NY ,30399,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+111,2018,Jeep,Grand_Cherokee_Altitude, 30888, Bayside, NY ,26450,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+112,2017,Jeep,Wrangler_Sport, 31998, Westbury, NY ,55422,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,14
+113,2019,Jeep,Grand_Cherokee_Limited_Edition, 32995, Great Neck, NY ,39130,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+114,2017,Jeep,Wrangler_Sahara, 36900, Freehold, NJ ,19047,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+115,2017,Jeep,Wrangler_Sport, 25999, Flemington, NJ ,79303,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+116,2013,Jeep,Grand_Cherokee_Limited_Edition, 16377, West Long Branch, NJ ,107638,No Accident or Damage Reported,SUV,Gray_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,4
+117,2018,Jeep,Grand_Cherokee_Laredo_E, 26587, Ringoes, NJ ,50203,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,3
+118,2018,Jeep,Compass_Trailhawk, 19500, West Nyack, NY ,82551,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Rental Use,3
+119,2019,Jeep,Cherokee_Limited_Edition, 26495, Flemington, NJ ,17005,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,7
+120,2020,Jeep,Grand_Cherokee_Limited_Edition, 38000, Princeton, NJ ,22275,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+121,2018,Jeep,Wrangler_Sport, 34488, Lakewood, NJ ,50357,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+122,2018,Jeep,Wrangler_Sport, 35225, EATONTOWN, NJ ,37713,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+123,2018,Jeep,Wrangler_Sport, 37988, Lakewood, NJ ,19095,No Accident or Damage Reported,SUV,6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+124,2019,Jeep,Cherokee_Latitude_Plus, 25288, Lakewood, NJ ,22439,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+125,2018,Jeep,Grand_Cherokee_Limited_Edition, 30988, Lakewood, NJ ,36131,No Accident or Damage Reported,SUV,6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+126,2020,Jeep,Gladiator_Sport, 40999, Newark, NJ,19832,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+127,2019,Jeep,Cherokee_Latitude_Plus, 25288, Lakewood, NJ ,22439,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+128,2019,Jeep,Grand_Cherokee_Upland, 32688, Lakewood, NJ ,9209,No Accident or Damage Reported,SUV,6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+129,2018,Jeep,Grand_Cherokee_Limited_Edition, 29897, Greenwich, CT ,53009,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+130,2019,Jeep,Grand_Cherokee_Limited_Edition, 34288, Lakewood, NJ ,24362,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+131,2018,Jeep,Grand_Cherokee_Laredo, 28658, Butler, NJ ,49931,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+132,2019,Jeep,Grand_Cherokee_Limited_Edition_X, 38991, Little Falls, NJ ,39239,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+133,2019,Jeep,Cherokee_Latitude_Plus, 22198, Greenvale, NY ,54400,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,13
+134,2019,Jeep,Grand_Cherokee_Upland, 31991, Little Falls, NJ ,27432,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+135,2018,Jeep,Grand_Cherokee_Laredo, 28995, Brooklyn, NY ,25373,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+136,2018,Jeep,Wrangler_Sport, 34000, Norwalk, CT ,32549,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+137,2018,Jeep,Grand_Cherokee_Limited_Edition, 30995, Brooklyn, NY ,24570,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+138,2019,Jeep,Grand_Cherokee_Laredo_E, 32995, Sussex, NJ ,18713,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+139,2020,Jeep,Grand_Cherokee_Laredo_E, 30900, Amityville, NY ,23860,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+140,2019,Jeep,Grand_Cherokee_Limited_Edition, 34335, Greenvale, NY ,23265,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+141,2019,Jeep,Wrangler_Sport, 39995, Brooklyn, NY ,22390,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+142,2018,Jeep,Grand_Cherokee_Limited_Edition, 28900, Amityville, NY ,46987,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+143,2019,Jeep,Grand_Cherokee_Limited_Edition, 33400, Hazlet, NJ ,34905,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+144,2019,Jeep,Cherokee_Limited_Edition, 26194, Jamaica, NY ,21861,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,2
+145,2018,Jeep,Grand_Cherokee_Limited_Edition, 31169, Greenvale, NY ,21083,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+146,2018,Jeep,Grand_Cherokee_Limited_Edition, 31387, White Plains, NY ,31004,Minor Damage,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+147,2018,Jeep,Grand_Cherokee_Limited_Edition, 29526, Jamaica, NY ,28083,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+148,2019,Jeep,Cherokee_Limited_Edition, 26400, Wilton, CT ,36005,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,6
+149,2019,Jeep,Cherokee_Latitude_Plus, 20498, Floral Park, NY ,40371,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,14
+150,2014,Jeep,Wrangler_Sahara, 20495, Morristown, NJ ,125365,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,22
+151,2018,Jeep,Grand_Cherokee_Limited_Edition, 29985, Yonkers, NY ,35628,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+152,2018,Jeep,Grand_Cherokee_Limited_Edition, 26980, Richmond Hill, NY ,59880,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+153,2019,Jeep,Cherokee_Limited_Edition, 25999, Wharton, NJ ,51790,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,3
+154,2019,Jeep,Cherokee_Limited_Edition, 28995, Wharton, NJ ,19612,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,8
+155,2017,Jeep,Wrangler_Sport, 32687, Larchmont, NY ,43714,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,21
+156,2020,Jeep,Grand_Cherokee_Limited_Edition, 38998, Roselle, NJ ,14779,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+157,2021,Jeep,Grand_Cherokee_Limited_Edition, 42981, Butler, NJ ,12678,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+158,2020,Jeep,Grand_Cherokee_Limited_Edition, 41250, Butler, NJ ,9377,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+159,2019,Jeep,Cherokee_Latitude_Plus, 26599, Princeton, NJ ,18017,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+160,2018,Jeep,Grand_Cherokee_Limited_Edition, 35995, Hempstead, NY ,12733,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+161,2019,Jeep,Compass_Limited_Edition, 24995, Ramsey, NJ ,30579,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+162,2014,Jeep,Wrangler_Sahara, 27442, Greenvale, NY ,67773,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,23
+163,2020,Jeep,Gladiator_Overland, 42295, Linden, NJ ,22327,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+164,2018,Jeep,Grand_Cherokee_Limited_Edition, 27995, Ramsey, NJ ,58740,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+165,2018,Jeep,Grand_Cherokee_Laredo, 28999, Greenwich, CT ,22857,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+166,2019,Jeep,Grand_Cherokee_Limited_Edition, 34999, Greenwich, CT ,24286,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+167,2018,Jeep,Grand_Cherokee_Limited_Edition, 28299, Greenvale, NY ,42853,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+168,2019,Jeep,Cherokee_Limited_Edition, 27995, Brooklyn, NY ,27319,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,7
+169,2019,Jeep,Cherokee_Limited_Edition, 27452, East Brunswick, NJ ,20603,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+170,2019,Jeep,Cherokee_Limited_Edition, 28744, East Brunswick, NJ ,17105,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,2
+171,2018,Jeep,Grand_Cherokee_Laredo_E, 27500, Amityville, NY ,30806,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+172,2018,Jeep,Wrangler_Sport, 32109, Jersey City, NJ ,53349,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+173,2018,Jeep,Grand_Cherokee_Limited_Edition, 34417, East Brunswick, NJ ,20669,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+174,2019,Jeep,Grand_Cherokee_Limited_Edition, 32480, Jericho, NY ,31928,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+175,2019,Jeep,Cherokee_Limited_Edition, 28744, East Brunswick, NJ ,17105,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,2
+176,2019,Jeep,Cherokee_Limited_Edition, 27995, Brooklyn, NY ,27319,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,7
+177,2018,Jeep,Grand_Cherokee_Laredo_E, 27500, Amityville, NY ,30806,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+178,2019,Jeep,Cherokee_Limited_Edition, 26980, Jericho, NY ,31391,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,8
+179,2018,Jeep,Grand_Cherokee_Laredo, 30900, Amityville, NY ,32175,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+180,2018,Jeep,Grand_Cherokee_Limited_Edition, 30499, Saint James, NY ,41387,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+181,2018,Jeep,Grand_Cherokee_Limited_Edition, 34417, East Brunswick, NJ ,20669,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+182,2019,Jeep,Grand_Cherokee_Laredo_E, 29991, Little Falls, NJ ,25736,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+183,2019,Jeep,Grand_Cherokee_Limited_Edition, 32480, Jericho, NY ,31928,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+184,2019,Jeep,Cherokee_Limited_Edition, 27981, Saint James, NY ,27663,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,6
+185,2021,Jeep,Gladiator_Overland, 48988, Saint James, NY ,5839,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+186,2019,Jeep,Cherokee_Limited_Edition, 24991, Little Falls, NJ ,51997,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,7
+187,2018,Jeep,Wrangler_Sport, 36995, Roslyn, NY ,42086,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+188,2018,Jeep,Compass_Trailhawk, 27995, Sussex, NJ ,33032,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+189,2017,Jeep,Grand_Cherokee_Limited_Edition, 27521, Denville, NJ ,34850,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+190,2018,Jeep,Grand_Cherokee_Laredo, 26900, Bronx, NY ,33650,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+191,2017,Jeep,Cherokee_Latitude, 22590, Pleasantville, NY,5750,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,15
+192,2018,Jeep,Wrangler_Sport_S, 37991, Little Falls, NJ ,23692,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+193,2019,Jeep,Cherokee_Latitude_Plus, 24000, Bronx, NY ,10916,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+194,2016,Jeep,Patriot_Latitude, 15850, East Hanover, NJ ,33321,Accident Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+195,2014,Jeep,Wrangler_Altitude, 28898, Lindenhurst, NY ,76780,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,17
+196,2019,Jeep,Cherokee_Limited_Edition, 25988, Lakewood, NJ ,29553,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,5
+197,2018,Jeep,Wrangler_Sport, 37495, Lebanon, NJ ,20211,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+198,2017,Jeep,Compass_Latitude, 17488, Lakewood, NJ ,51397,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+199,2019,Jeep,Grand_Cherokee_Laredo_E, 31900, Freehold, NJ ,22810,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+200,2018,Jeep,Wrangler_Sport, 39998, Lebanon, NJ ,10374,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+201,2019,Jeep,Cherokee_Limited_Edition, 25500, Rochelle Park, NJ ,36553,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,7
+202,2018,Jeep,Grand_Cherokee_Limited_Edition, 30690, Shrewsbury, NJ ,39742,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+203,2020,Jeep,Grand_Cherokee_Altitude, 38848, Shrewsbury, NJ ,13020,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+204,2020,Jeep,Grand_Cherokee_Limited_Edition, 39744, Shrewsbury, NJ ,10825,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+205,2018,Jeep,Compass_Latitude, 18888, Port Chester, NY ,81148,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+206,2020,Jeep,Grand_Cherokee_Altitude, 38888, White Plains, NY ,7602,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+207,2019,Jeep,Renegade_Latitude, 21599, Copiague, NY ,8714,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+208,2015,Jeep,Wrangler_Sahara, 29800, Norwalk, CT ,77840,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,19
+209,2018,Jeep,Renegade_Limited, 21500, West Nyack, NY ,39010,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+210,2018,Jeep,Grand_Cherokee_Limited_Edition, 33347, Jersey City, NJ ,17275,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+211,2017,Jeep,Grand_Cherokee_Limited_Edition, 28995, Brooklyn, NY ,27134,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+212,2020,Jeep,Gladiator_Overland, 45980, Jericho, NY ,20136,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+213,2020,Jeep,Renegade_Limited, 25980, Jericho, NY ,8654,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.3_L_,CARFAX 1-Owner,Personal Use,4
+214,2018,Jeep,Compass_Latitude, 21995, Edison, NJ ,24690,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+215,2018,Jeep,Grand_Cherokee_Limited_Edition, 28788, Freehold, NJ ,34544,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+216,2018,Jeep,Compass_Latitude, 22998, White Plains, NY ,24047,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+217,2018,Jeep,Grand_Cherokee_Limited_Edition, 30810, Ocean, NJ ,44948,Minor Damage,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+218,2018,Jeep,Grand_Cherokee_Limited_Edition, 32769, Ocean, NJ ,16510,Very Minor Damage,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+219,2019,Jeep,Cherokee_Limited_Edition, 23810, Ocean, NJ ,50565,Minor Damage,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,2
+220,2019,Jeep,Cherokee_Limited_Edition, 26810, Ocean, NJ ,29425,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,2
+221,2019,Jeep,Cherokee_Limited_Edition, 28810, Ocean, NJ ,10391,Accident Reported,SUV,Red_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,3
+222,2019,Jeep,Cherokee_Limited_Edition, 26810, Ocean, NJ ,25048,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,2
+223,2019,Jeep,Cherokee_Limited_Edition, 25810, Ocean, NJ ,44830,Accident Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,6
+224,2013,Jeep,Patriot_Sport, 5495, Paterson, NJ ,166833,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Government Use,2
+225,2018,Jeep,Wrangler_Rubicon, 52790, Flemington, NJ ,14493,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+226,2019,Jeep,Cherokee_Latitude, 23888, Sussex, NJ ,34963,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+227,2018,Jeep,Grand_Cherokee_Laredo_E, 26495, Lakewood, NJ ,39197,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+228,2019,Jeep,Renegade_Latitude, 23495, Ramsey, NJ ,13465,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+229,2018,Jeep,Grand_Cherokee_Overland, 33900, Jersey City, NJ ,29638,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+230,2017,Jeep,Grand_Cherokee_Overland, 27915, Hempstead, NY ,58569,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+231,2021,Jeep,Grand_Cherokee_Laredo_X, 38026, North Brunswick, NJ ,10066,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+232,2019,Jeep,Wrangler_Sahara, 46995, Red Bank, NJ ,11826,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+233,2012,Jeep,Liberty_Sport_Latitude, 9900, Avenel, NJ ,147993,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,42
+234,2017,Jeep,Wrangler_Sport, 29995, North Plainfield, NJ ,69066,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+235,2019,Jeep,Grand_Cherokee_Summit, 42540, Flemington, NJ ,43190,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+236,2018,Jeep,Grand_Cherokee_Laredo_E, 27810, Ocean, NJ ,57538,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+237,2016,Jeep,Wrangler_Black_Bear, 32989, Ocean, NJ ,47970,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+238,2015,Jeep,Wrangler_Rubicon, 34471, Flemington, NJ ,70802,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+239,2020,Jeep,Wrangler_Sport, 36900, New York, NY ,11887,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+240,2015,Jeep,Wrangler_Sport, 20990, Shrewsbury, NJ ,96452,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,30
+241,2016,Jeep,Patriot_High_Altitude_Edition, 15695, Great Neck, NY ,25770,Accident Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+242,2016,Jeep,Wrangler_Sahara, 27995, Massapequa, NY ,40059,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,3
+243,2020,Jeep,Wrangler_Sahara, 45995, Edison, NJ ,14909,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+244,2018,Jeep,Grand_Cherokee_Altitude, 31995, Brooklyn, NY ,28583,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+245,2018,Jeep,Wrangler_Sport, 33995, Great Neck, NY ,37487,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+246,2015,Jeep,Patriot_High_Altitude_Edition, 10900, Bronx, NY ,89703,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,17
+247,2019,Jeep,Cherokee_Limited_Edition, 27995, Nanuet, NY ,15621,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,9
+248,2017,Jeep,Cherokee_Latitude, 19495, Hackettstown, NJ ,50649,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,7
+249,2015,Jeep,Grand_Cherokee_Laredo, 16491, Bohemia, NY ,134763,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,20
+250,2018,Jeep,Compass_Latitude, 17800, Rahway, NJ ,54774,Accident Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+251,2018,Jeep,Grand_Cherokee_Limited_Edition, 29900, Amityville, NY ,38362,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+252,2018,Jeep,Grand_Cherokee_Laredo_E, 27900, Amityville, NY ,35983,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+253,2019,Jeep,Grand_Cherokee_Laredo, 29400, Rockville Centre, NY ,34242,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+254,2018,Jeep,Grand_Cherokee_Limited_Edition, 29900, Amityville, NY ,41000,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+255,2018,Jeep,Grand_Cherokee_Limited_Edition, 24995, Valley Stream, NY ,49756,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+256,2018,Jeep,Wrangler_Rubicon, 46879, Flemington, NJ ,45891,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+257,2019,Jeep,Grand_Cherokee_Altitude, 32974, East Brunswick, NJ ,49805,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+258,2019,Jeep,Grand_Cherokee_Limited_Edition, 32500, Amityville, NY ,37386,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+259,2018,Jeep,Grand_Cherokee_Limited_Edition, 30669, East Brunswick, NJ ,38810,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+260,2018,Jeep,Compass_Latitude, 19995, Westbury, NY ,24072,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+261,2021,Jeep,Wrangler_Sport, 41995, Edison, NJ ,7998,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+262,2019,Jeep,Cherokee_Limited_Edition, 27595, Brooklyn, NY ,25098,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,3
+263,2019,Jeep,Cherokee_Limited_Edition, 25980, Jericho, NY ,32320,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,9
+264,2020,Jeep,Grand_Cherokee_Laredo, 32499, Saint James, NY ,23286,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+265,2018,Jeep,Compass_Latitude, 18995, Westbury, NY ,53939,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+266,2021,Jeep,Grand_Cherokee_Laredo_X, 42000, Rockville Centre, NY ,2277,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+267,2019,Jeep,Cherokee_Limited_Edition, 26876, Jericho, NY ,29446,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,1
+268,2019,Jeep,Cherokee_Limited_Edition, 24995, Little Ferry, NJ ,29255,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,7
+269,2020,Jeep,Grand_Cherokee_Limited_Edition, 40183, Saint James, NY ,11111,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+270,2020,Jeep,Grand_Cherokee_Limited_Edition, 39900, Amityville, NY ,9328,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+271,2015,Jeep,Wrangler_Sport, 31000, Norwalk, CT ,24904,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+272,2018,Jeep,Wrangler_Sport, 35900, Nanuet, NY ,25924,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+273,2021,Jeep,Grand_Cherokee_Limited_Edition, 42991, Little Falls, NJ ,1013,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+274,2018,Jeep,Wrangler_Sport, 38000, Norwalk, CT ,14579,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+275,2018,Jeep,Grand_Cherokee_Limited_Edition, 29900, Amityville, NY ,36943,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+276,2019,Jeep,Grand_Cherokee_Limited_Edition, 32500, Amityville, NY ,37386,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+277,2019,Jeep,Grand_Cherokee_Altitude, 32974, East Brunswick, NJ ,49805,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+278,2018,Jeep,Wrangler_Rubicon, 46879, Flemington, NJ ,45891,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+279,2019,Jeep,Grand_Cherokee_Laredo, 29400, Rockville Centre, NY ,34242,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+280,2018,Jeep,Grand_Cherokee_Laredo_E, 27900, Amityville, NY ,35983,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+281,2018,Jeep,Compass_Altitude_Edition, 24995, Sussex, NJ ,22708,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+282,2018,Jeep,Compass_Latitude, 18995, Westbury, NY ,53939,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+283,2020,Jeep,Grand_Cherokee_Limited_Edition, 36200, Bronx, NY ,19122,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+284,2018,Jeep,Grand_Cherokee_Limited_Edition, 31994, East Brunswick, NJ ,42370,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+285,2019,Jeep,Grand_Cherokee_Limited_Edition, 33991, Little Falls, NJ ,41654,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+286,2020,Jeep,Compass, 25991, Little Falls, NJ ,9511,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+287,2018,Jeep,Grand_Cherokee_Limited_Edition, 30699, Greenvale, NY ,23097,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+288,2018,Jeep,Compass_Altitude_Edition, 24000, Norwalk, CT ,33203,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+289,2018,Jeep,Compass_Limited_Edition, 21995, Westbury, NY ,42470,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+290,2019,Jeep,Grand_Cherokee_Limited_Edition, 35590, Pleasantville, NY,27787,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+291,2018,Jeep,Wrangler_Sahara, 42595, Hackettstown, NJ ,35205,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+292,2018,Jeep,Grand_Cherokee_Laredo, 29995, Hackettstown, NJ ,27599,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+293,2021,Jeep,Grand_Cherokee_Laredo, 38795, Hackettstown, NJ ,6043,No Accident or Damage Reported,SUV,Brown_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+294,2018,Jeep,Grand_Cherokee_High_Altitude, 38000, Bronx, NY ,18612,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+295,2019,Jeep,Cherokee_Latitude_Plus, 24995, Hackettstown, NJ ,33498,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+296,2018,Jeep,Wrangler_Sport, 36595, Hackettstown, NJ ,50231,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+297,2018,Jeep,Grand_Cherokee_Limited_Edition, 30995, Hackettstown, NJ ,41115,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+298,2019,Jeep,Cherokee_Limited_Edition, 25995, Hackettstown, NJ ,26423,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,5
+299,2018,Jeep,Compass_Latitude, 20800, Bronx, NY ,19351,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+300,2018,Jeep,Compass_Latitude, 20800, Bronx, NY ,19351,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+301,2019,Jeep,Cherokee_Latitude_Plus, 22975, Brooklyn, NY ,42286,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+302,2014,Jeep,Wrangler_Sport, 25431, Ocean, NJ ,73681,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,10
+303,2018,Jeep,Compass_Latitude, 23989, Freehold, NJ ,21139,Accident/Minor Damage,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+304,2017,Jeep,Grand_Cherokee_Limited_Edition, 26990, West Nyack, NY ,51735,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Lease Use,11
+305,2018,Jeep,Grand_Cherokee_Limited_Edition, 33489, Freehold, NJ ,30047,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+306,2019,Jeep,Cherokee_Limited_Edition, 27977, White Plains, NY ,39208,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,6
+307,2019,Jeep,Cherokee_Limited_Edition, 28397, White Plains, NY ,34144,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,8
+308,2018,Jeep,Grand_Cherokee_Limited_Edition, 32527, White Plains, NY ,33353,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+309,2018,Jeep,Grand_Cherokee_Limited_Edition, 31957, White Plains, NY ,39416,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+310,2018,Jeep,Wrangler_Sahara, 41995, Robbinsville, NJ ,23584,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+311,2018,Jeep,Wrangler_Sport_S, 37595, Robbinsville, NJ ,19042,No Accident or Damage Reported,SUV,Green_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+312,2019,Jeep,Grand_Cherokee_Limited_Edition, 30993, Union, NJ ,33197,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+313,2018,Jeep,Wrangler_Sport, 37995, Robbinsville, NJ ,30050,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+314,2019,Jeep,Cherokee_Limited_Edition, 21990, Woodside, NY ,31703,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,1
+315,2018,Jeep,Wrangler_Sport_S, 34385, Robbinsville, NJ ,33761,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+316,2018,Jeep,Grand_Cherokee_Overland, 33595, Robbinsville, NJ ,35172,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,15
+317,2018,Jeep,Wrangler_Rubicon, 38300, Nanuet, NY ,42298,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+318,2017,Jeep,Compass_Latitude, 19584, Lakewood, NJ ,65060,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+319,2015,Jeep,Wrangler_Rubicon, 33426, Ramsey, NJ ,72692,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,21
+320,2018,Jeep,Grand_Cherokee_Limited_Edition, 31766, Jersey City, NJ ,32348,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+321,2020,Jeep,Gladiator_Sport, 38999, Newark, NJ,7253,No Accident or Damage Reported,Pickup,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Lease Use,2
+322,2019,Jeep,Cherokee_Limited_Edition, 23288, Lakewood, NJ ,44543,Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,11
+323,2018,Jeep,Wrangler_Sport, 34777, Eatontown, NJ ,40698,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+324,2018,Jeep,Wrangler_Sport, 28700, Eatontown, NJ ,81282,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,12
+325,2018,Jeep,Grand_Cherokee_Limited_Edition, 32275, Brooklyn, NY ,13711,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+326,2018,Jeep,Compass_Latitude, 20374, Freehold, NJ ,26465,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+327,2018,Jeep,Compass_Altitude_Edition, 22462, Freehold, NJ ,24462,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+328,2018,Jeep,Grand_Cherokee_Limited_Edition, 33588, Butler, NJ ,31680,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+329,2012,Jeep,Grand_Cherokee_Laredo, 12995, Lynbrook, NY ,117650,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,19
+330,2018,Jeep,Grand_Cherokee_Laredo_E, 30438, Butler, NJ ,34819,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+331,2019,Jeep,Cherokee_Limited_Edition, 27929, Butler, NJ ,41718,No Accident or Damage Reported,SUV,Brown_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,9
+332,2017,Jeep,Wrangler_Sahara, 37810, Ocean, NJ ,36857,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+333,2019,Jeep,Cherokee_Limited_Edition, 28810, Ocean, NJ ,25272,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,1
+334,2019,Jeep,Cherokee_Limited_Edition, 28339, Butler, NJ ,41120,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,6
+335,2019,Jeep,Cherokee_Limited_Edition, 28377, Ocean, NJ ,40337,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,10
+336,2019,Jeep,Cherokee_Limited_Edition, 28810, Ocean, NJ ,31219,No Accident or Damage Reported,SUV,Green_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,4
+337,2019,Jeep,Cherokee_Limited_Edition, 29810, Ocean, NJ ,22090,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,7
+338,2018,Jeep,Wrangler_Sport_S, 38810, Ocean, NJ ,27732,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+339,2019,Jeep,Cherokee_Trailhawk, 31925, Watchung, NJ ,28019,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,8
+340,2019,Jeep,Grand_Cherokee_Altitude, 38779, Butler, NJ ,24912,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+341,2018,Jeep,Grand_Cherokee_Laredo_E, 30810, Ocean, NJ ,19079,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+342,2019,Jeep,Cherokee_Latitude_Plus, 24579, Butler, NJ ,54461,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+343,2020,Jeep,Gladiator_Rubicon, 57380, Butler, NJ ,5979,No Accident or Damage Reported,Pickup,Beige_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+344,2019,Jeep,Cherokee_Limited_Edition, 27879, Hempstead, NY ,21914,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,2
+345,2019,Jeep,Wrangler_Sahara, 45388, Huntington, NY ,20044,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+346,2018,Jeep,Grand_Cherokee_Altitude, 33200, Bronx, NY ,17347,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+347,2017,Jeep,Wrangler_Sport, 30999, Jersey City, NJ ,31054,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,5
+348,2016,Jeep,Wrangler_Sahara, 30994, Cedar Knolls, NJ ,67081,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,13
+349,2019,Jeep,Wrangler_Sport, 34750, Pompton Plains, NJ ,33316,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,6
+350,2019,Jeep,Wrangler_Sport, 34750, Pompton Plains, NJ ,33316,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,6
+351,2018,Jeep,Compass_Latitude, 20988, Brooklyn, NY ,21705,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+352,2017,Jeep,Wrangler_Sahara, 34888, Bayside, NY ,41279,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,4
+353,2017,Jeep,Renegade_Latitude_Altitude, 18900, Ozone Park, NY ,41693,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,7
+354,2019,Jeep,Cherokee_Latitude_Plus, 22432, Staten Island, NY ,42726,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,9
+355,2015,Jeep,Grand_Cherokee_Laredo, 19888, Oakhurst, NJ ,53591,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+356,2018,Jeep,Compass_Limited_Edition, 21980, Richmond Hill, NY ,27753,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,7
+357,2016,Jeep,Wrangler_Sport, 25868, Mahopac, NY ,118232,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+358,2017,Jeep,Cherokee_Limited_Edition, 18495, North Brunswick, NJ ,86946,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,17
+359,2017,Jeep,Grand_Cherokee, 23995, Keyport, NJ ,78600,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+360,2018,Jeep,Grand_Cherokee_Limited_Edition, 29299, Copiague, NY ,24398,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+361,2017,Jeep,Cherokee_Limited_Edition, 17899, Copiague, NY ,85669,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,9
+362,2019,Jeep,Cherokee_Limited_Edition, 26000, Nanuet, NY ,57336,Accident/Minor Damage,SUV,Green_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,16
+363,2018,Jeep,Compass_Latitude, 22100, Nanuet, NY ,36627,Accident Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+364,2018,Jeep,Wrangler_Altitude, 39500, Amityville, NY ,37204,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+365,2018,Jeep,Grand_Cherokee_Limited_Edition, 32777, Oakhurst, NJ ,30379,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+366,2017,Jeep,Patriot_High_Altitude_Edition, 16895, Whippany, NJ ,66832,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+367,2018,Jeep,Grand_Cherokee_Laredo_E, 27988, Summit, NJ ,30151,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+368,2019,Jeep,Cherokee_Limited_Edition, 29488, Summit, NJ ,10285,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,5
+369,2019,Jeep,Grand_Cherokee_Limited_Edition_X, 40000, Summit, NJ ,31069,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+370,2018,Jeep,Cherokee_Latitude_Plus, 23250, Jersey City, NJ ,18130,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+371,2019,Jeep,Grand_Cherokee_Laredo, 31800, Nanuet, NY ,17858,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+372,2019,Jeep,Cherokee_Latitude_Plus, 24400, Nanuet, NY ,38976,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+373,2018,Jeep,Renegade_Latitude, 22000, Jersey City, NJ ,17452,No Accident or Damage Reported,SUV,Orange_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+374,2016,Jeep,Wrangler_Sahara, 34536, Butler, NJ ,65672,No Accident or Damage Reported,SUV,Green_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,15
+375,2019,Jeep,Compass_Altitude_Edition, 25995, Sussex, NJ ,20988,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+376,2018,Jeep,Grand_Cherokee_Limited_Edition, 29495, Great Neck, NY ,37590,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+377,2021,Jeep,Gladiator_Willys, 46845, Hillside, NJ ,6136,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+378,2018,Jeep,Compass_Latitude, 21989, Freehold, NJ ,39663,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+379,2019,Jeep,Grand_Cherokee_Limited_Edition, 35989, Freehold, NJ ,30089,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+380,2019,Jeep,Grand_Cherokee_Altitude, 31888, Lakewood, NJ ,38890,Accident Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+381,2018,Jeep,Grand_Cherokee_Limited_Edition, 29856, Centereach, NY ,37112,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+382,2018,Jeep,Grand_Cherokee_Laredo, 28710, Freehold, NJ ,38758,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+383,2018,Jeep,Cherokee_Limited_Edition, 23936, Maplewood, NJ ,35102,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,8
+384,2018,Jeep,Grand_Cherokee_Limited_Edition, 30991, Little Falls, NJ ,32778,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+385,2019,Jeep,Cherokee_Trailhawk, 25700, Eatontown, NJ ,50330,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,4
+386,2017,Jeep,Wrangler_Big_Bear, 36810, Ocean, NJ ,32081,Accident Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+387,2018,Jeep,Grand_Cherokee_Altitude, 33995, Robbinsville, NJ ,32167,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,13
+388,2019,Jeep,Cherokee_Limited_Edition, 27695, Robbinsville, NJ ,14676,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,5
+389,2017,Jeep,Cherokee_Sport, 17777, Huntington, NY ,47015,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+390,2019,Jeep,Cherokee_Limited_Edition, 26995, Lakewood, NJ ,22920,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+391,2019,Jeep,Cherokee_Limited_Edition, 26995, Lakewood, NJ ,21390,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,3
+392,2019,Jeep,Cherokee_Limited_Edition, 26495, Ramsey, NJ ,36361,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,8
+393,2018,Jeep,Wrangler_Sport, 34945, Brooklyn, NY ,26179,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,0
+394,2019,Jeep,Cherokee_Limited_Edition, 27245, Lakewood, NJ ,33800,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,3
+395,2019,Jeep,Cherokee_Limited_Edition, 26245, Lakewood, NJ ,33395,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,4
+396,2019,Jeep,Wrangler_Sport_S, 37859, Robbinsville, NJ ,35832,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+397,2018,Jeep,Compass_Latitude, 21995, Lakewood, NJ ,21529,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+398,2019,Jeep,Cherokee_Limited_Edition, 27245, Lakewood, NJ ,25773,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,4
+399,2019,Jeep,Cherokee_Limited_Edition, 26495, Ramsey, NJ ,45649,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,12
+400,2019,Jeep,Cherokee_Limited_Edition, 27245, Lakewood, NJ ,25773,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,4
+401,2019,Jeep,Cherokee_Limited_Edition, 26995, Lakewood, NJ ,22920,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+402,2018,Jeep,Wrangler_Sport_S, 37219, Robbinsville, NJ ,26426,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+403,2020,Jeep,Cherokee_Limited_Edition, 29995, Robbinsville, NJ ,33049,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,5
+404,2018,Jeep,Grand_Cherokee_Laredo_E, 28495, Lakewood, NJ ,30735,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+405,2020,Jeep,Grand_Cherokee_SRT, 66832, Mount Kisco, NY ,16575,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,5
+406,2018,Jeep,Wrangler_Sahara, 43995, Robbinsville, NJ ,31078,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+407,2019,Jeep,Cherokee_Limited_Edition, 26995, Lakewood, NJ ,21578,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,1
+408,2018,Jeep,Wrangler_Sport, 34188, Valley Stream, NY ,39095,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+409,2018,Jeep,Grand_Cherokee_Limited_Edition, 31495, South Amboy, NJ ,22609,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+410,2018,Jeep,Grand_Cherokee_Laredo_E, 29395, Robbinsville, NJ ,43961,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+411,2019,Jeep,Cherokee_Limited_Edition, 28591, Robbinsville, NJ ,32273,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,8
+412,2019,Jeep,Grand_Cherokee_Laredo_E, 32795, Robbinsville, NJ ,23247,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+413,2019,Jeep,Cherokee_Limited_Edition, 27245, Lakewood, NJ ,29874,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,4
+414,2018,Jeep,Wrangler_Sport_S, 39995, Robbinsville, NJ ,25346,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+415,2014,Jeep,Wrangler_Sport, 20742, Carlstadt, NJ ,75224,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,6
+416,2020,Jeep,Grand_Cherokee_Laredo, 33888, Bronx, NY ,10429,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+417,2018,Jeep,Grand_Cherokee_Limited_Edition, 29995, Rockaway, NJ ,51518,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,14
+418,2019,Jeep,Wrangler_Rubicon, 49399, Eatontown, NJ ,25054,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+419,2018,Jeep,Grand_Cherokee_Laredo, 27122, Greenvale, NY ,33624,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+420,2014,Jeep,Wrangler_Sport, 24000, Norwalk, CT ,95336,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,25
+421,2012,Jeep,Wrangler_Sahara, 19188, EATONTOWN, NJ ,95373,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,30
+422,2018,Jeep,Wrangler_Sport_S, 36800, Bloomfield, NJ ,9582,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,2
+423,2014,Jeep,Grand_Cherokee_Limited_Edition, 12999, Little Ferry, NJ ,169990,Minor Damage,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+424,2019,Jeep,Grand_Cherokee_Limited_Edition, 29187, Mountain Lakes, NJ ,58585,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+425,2017,Jeep,Renegade_Latitude, 15240, Eatontown, NJ ,94670,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,26
+426,2015,Jeep,Wrangler_X, 24495, Ramsey, NJ ,146329,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,23
+427,2018,Jeep,Grand_Cherokee_Limited_Edition, 28900, Verona, NJ ,58653,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+428,2020,Jeep,Grand_Cherokee_Limited_Edition_X, 52995, Rockaway, NJ ,11754,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+429,2015,Jeep,Wrangler_Willys_Wheeler, 19995, Copiague, NY ,81585,Accident Reported,SUV,Yellow_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,33
+430,2018,Jeep,Grand_Cherokee_Limited_Edition, 29988, North Plainfield, NJ ,48707,Accident Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+431,2018,Jeep,Grand_Cherokee_Limited_Edition, 28900, Nanuet, NY ,28967,Accident Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+432,2018,Jeep,Grand_Cherokee_Limited_Edition, 29900, Nanuet, NY ,23815,Minor Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+433,2019,Jeep,Cherokee_Latitude_Plus, 23000, Nanuet, NY ,38080,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Corporate Use,3
+434,2018,Jeep,Grand_Cherokee_Altitude, 30000, Woodside, NY ,40253,Accident Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+435,2016,Jeep,Wrangler_Sahara, 36500, Nanuet, NY ,33083,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,7
+436,2011,Jeep,Liberty_Limited_Edition, 9795, West Babylon, NY ,67568,No Accident or Damage Reported,SUV,Beige_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,14
+437,2018,Jeep,Compass_Limited_Edition, 25900, Freehold, NJ ,24938,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+438,2018,Jeep,Compass_Latitude, 22900, Amityville, NY ,28114,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+439,2019,Jeep,Grand_Cherokee_Limited_Edition_X, 42500, Summit, NJ ,23820,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+440,2021,Jeep,Grand_Cherokee_Laredo, 38599, Princeton, NJ ,6027,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,2
+441,2019,Jeep,Grand_Cherokee, 33500, Wilton, CT ,0,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+442,2019,Jeep,Compass_Latitude, 21495, Edison, NJ ,45808,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+443,2018,Jeep,Wrangler_Sahara, 39700, Nanuet, NY ,45870,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+444,2019,Jeep,Cherokee_Limited_Edition, 27495, Paramus, NJ ,32562,No Accident or Damage Reported,SUV,Green_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,6
+445,2018,Jeep,Grand_Cherokee_Overland, 36878, West Long Branch, NJ ,31087,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+446,2018,Jeep,Wrangler_Sport_S, 35555, Bayside, NY ,23182,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+447,2018,Jeep,Wrangler_Sport, 38600, Nanuet, NY ,21106,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+448,2019,Jeep,Cherokee_Limited_Edition, 27295, East Hanover, NJ ,35133,No Accident or Damage Reported,SUV,Green_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+449,2018,Jeep,Wrangler_Sport_S, 36995, Croton On Hudson, NY ,45773,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+450,2018,Jeep,Wrangler_Sport, 38600, Nanuet, NY ,21106,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+451,2018,Jeep,Grand_Cherokee_Laredo_E, 28888, Bayside, NY ,27977,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+452,2018,Jeep,Wrangler_Sahara, 43500, East Hanover, NJ ,27885,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+453,2018,Jeep,Grand_Cherokee_Laredo, 25995, Brooklyn, NY ,20740,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,2
+454,2018,Jeep,Grand_Cherokee_Limited_Edition, 30988, Summit, NJ ,44565,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+455,2015,Jeep,Grand_Cherokee_Summit, 19995, Neptune, NJ ,109662,Accident Reported,SUV,Red_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,12
+456,2016,Jeep,Grand_Cherokee_Summit, 29495, Lindenhurst, NY ,53021,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,3
+457,2017,Jeep,Cherokee_Limited_Edition, 17800, PARAMUS, NJ ,97342,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,2
+458,2016,Jeep,Grand_Cherokee_Limited_Edition, 27950, Greenwich, CT ,25746,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,8
+459,2016,Jeep,Cherokee_Latitude, 17749, Shrewsbury, NJ ,70980,Accident Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+460,2019,Jeep,Grand_Cherokee_Altitude, 32388, Lakewood, NJ ,16511,Damage Reported,SUV,6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+461,2013,Jeep,Grand_Cherokee_Overland, 15995, Edison, NJ ,120594,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,9
+462,2020,Jeep,Grand_Cherokee_Limited_Edition, 34995, Roslyn Heights, NY ,8694,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+463,2018,Jeep,Compass_Limited_Edition, 21480, Massapequa Park, NY ,29857,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+464,2017,Jeep,Renegade_Sport, 17990, Valley Stream, NY ,38246,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+465,2018,Jeep,Grand_Cherokee_Limited_Edition, 27888, Butler, NJ ,31516,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+466,2016,Jeep,Grand_Cherokee_Laredo, 17250, Mountain Lakes, NJ ,97759,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+467,2016,Jeep,Wrangler, 27450, Jamaica, NY ,66235,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,13
+468,2019,Jeep,Cherokee_Latitude_Plus, 25912, East Hanover, NJ ,28903,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,5
+469,2012,Jeep,Wrangler_Sport, 17500, New Brunswick, NJ ,146322,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,46
+470,2021,Jeep,Grand_Cherokee_Laredo_X, 41444, East Brunswick, NJ ,4435,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+471,2019,Jeep,Compass_Latitude, 21991, Little Falls, NJ ,34438,Accident/Minor Damage,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+472,2018,Jeep,Grand_Cherokee_Overland, 32995, Brooklyn, NY ,39806,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+473,2020,Jeep,Cherokee_Limited_Edition, 25431, Denville, NJ ,30901,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Rental Use,5
+474,2013,Jeep,Wrangler_Sahara, 24165, Lakewood, NJ ,86829,Accident Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+475,2013,Jeep,Wrangler_Sahara, 24165, Lakewood, NJ ,86829,Accident Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+476,2017,Jeep,Wrangler_Sport, 32984, South Plainfield, NJ ,45743,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+477,2020,Jeep,Cherokee_Limited_Edition, 25431, Denville, NJ ,30901,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Rental Use,5
+478,2015,Jeep,Wrangler_Sport, 26995, Jamaica, NY ,56062,No Accident or Damage Reported,SUV,Yellow_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,12
+479,2019,Jeep,Compass_Latitude, 22995, Edison, NJ ,16284,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Corporate Use,12
+480,2019,Jeep,Cherokee_Limited_Edition, 26000, East Brunswick, NJ ,32963,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,7
+481,2015,Jeep,Grand_Cherokee_Laredo, 21999, Queens Village, NY ,40037,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+482,2018,Jeep,Grand_Cherokee_Laredo_E, 28389, Jersey City, NJ ,36440,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+483,2019,Jeep,Grand_Cherokee_Limited_Edition, 33999, Greenwich, CT ,45927,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+484,2018,Jeep,Grand_Cherokee_Limited_Edition, 26995, Jamaica, NY ,52588,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+485,2019,Jeep,Cherokee_Latitude_Plus, 22315, Freehold, NJ ,29584,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+486,2019,Jeep,Cherokee_Limited_Edition, 25914, Freehold, NJ ,34947,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,3
+487,2019,Jeep,Wrangler_Sahara, 42900, Hackettstown, NJ ,41997,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,5
+488,2015,Jeep,Cherokee_Latitude, 16890, Brick, NJ ,52851,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,6
+489,2013,Jeep,Wrangler_Sport, 18990, Yonkers, NY ,98820,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,16
+490,2019,Jeep,Grand_Cherokee_Limited_Edition, 33988, Freehold, NJ ,30949,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+491,2019,Jeep,Cherokee_Limited_Edition, 26999, Jamaica, NY ,26644,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,2
+492,2019,Jeep,Compass_Latitude, 22500, Bronx, NY ,16098,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+493,2019,Jeep,Cherokee_Limited_Edition, 27288, Lakewood, NJ ,29173,Accident Reported,SUV,6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,7
+494,2019,Jeep,Cherokee_Latitude_Plus, 22695, Totowa, NJ ,41473,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+495,2011,Jeep,Grand_Cherokee_Laredo, 9900, Brooklyn, NY ,140467,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,37
+496,2018,Jeep,Grand_Cherokee_Limited_Edition, 29500, Bronx, NY ,42661,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+497,2020,Jeep,Grand_Cherokee_Limited_Edition, 35800, Bronx, NY ,18306,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+498,2019,Jeep,Grand_Cherokee_Limited_Edition, 32995, Totowa, NJ ,30620,No Accident or Damage Reported,SUV,Brown_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+499,2018,Jeep,Grand_Cherokee_Altitude, 27969, East Brunswick, NJ ,46134,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+500,2018,Jeep,Compass_Limited_Edition, 23888, Lakewood, NJ ,11973,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+501,2018,Jeep,Wrangler_Sport, 38999, Lebanon, NJ ,28598,No Accident or Damage Reported,SUV,Beige_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+502,2020,Jeep,Compass_Limited_Edition, 26588, Lakewood, NJ ,21618,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+503,2018,Jeep,Wrangler_Sahara, 41989, Lebanon, NJ ,13702,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+504,2018,Jeep,Grand_Cherokee_Altitude, 33290, Bronx, NY ,17312,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+505,2018,Jeep,Grand_Cherokee_Altitude, 27299, Copiague, NY ,28739,Minor Damage,SUV,6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+506,2020,Jeep,Compass_Trailhawk, 21699, Copiague, NY ,52711,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Rental Use,1
+507,2016,Jeep,Patriot_Latitude, 13511, Elizabeth, NJ ,111663,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,8
+508,2013,Jeep,Wrangler_Rubicon_10th_Anniversary, 35887, White Plains, NY ,47535,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,27
+509,2021,Jeep,Grand_Cherokee_Laredo_X, 39900, Hazlet, NJ ,3914,No Accident or Damage Reported,SUV,6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,0
+510,2018,Jeep,Compass_Trailhawk, 21777, White Plains, NY ,79763,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,23
+511,2017,Jeep,Grand_Cherokee_Limited_Edition, 22995, Newark, NJ ,61509,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,3
+512,2018,Jeep,Grand_Cherokee_Altitude, 29995, Keyport, NJ ,36500,Minor Damage,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+513,2018,Jeep,Grand_Cherokee_Laredo_E, 30995, Rockaway, NJ ,23094,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+514,2019,Jeep,Cherokee_Limited_Edition, 28995, Rockaway, NJ ,23848,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,9
+515,2019,Jeep,Grand_Cherokee_Limited_Edition, 37995, Rockaway, NJ ,27327,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+516,2021,Jeep,Grand_Cherokee_80th_Anniversary, 48350, Rockaway, NJ ,1851,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+517,2019,Jeep,Cherokee_Latitude_Plus, 24995, Rockaway, NJ ,39980,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+518,2019,Jeep,Cherokee_Limited_Edition, 28995, Rockaway, NJ ,19194,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+519,2019,Jeep,Cherokee, 30995, Rockaway, NJ ,10063,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,4
+520,2019,Jeep,Cherokee_Limited_Edition, 25995, Rockaway, NJ ,54556,No Accident or Damage Reported,SUV,Green_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+521,2018,Jeep,Cherokee_Limited_Edition, 25995, Rockaway, NJ ,33041,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+522,2016,Jeep,Wrangler_Rubicon, 39000, Eatontown, NJ ,23714,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+523,2019,Jeep,Grand_Cherokee_Limited_Edition, 28880, Massapequa Park, NY ,40392,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+524,2018,Jeep,Wrangler_Sahara, 44995, Brooklyn, NY ,37960,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+525,2018,Jeep,Grand_Cherokee_Limited_Edition, 30991, Little Falls, NJ ,35691,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+526,2018,Jeep,Wrangler_Willys_Wheeler, 35898, Farmingdale, NY ,28910,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+527,2018,Jeep,Wrangler_Sahara, 44995, Brooklyn, NY ,37960,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+528,2019,Jeep,Wrangler_Sport, 36659, East Brunswick, NJ ,9388,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+529,2018,Jeep,Grand_Cherokee_Overland, 36900, Glen Cove, NY ,36501,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+530,2017,Jeep,Wrangler_Sahara, 36995, Saint James, NY ,33962,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,12
+531,2019,Jeep,Cherokee_Latitude_Plus, 24000, East Brunswick, NJ ,47963,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+532,2019,Jeep,Wrangler_Rubicon, 50995, Brooklyn, NY ,27351,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+533,2019,Jeep,Wrangler_Sahara, 48995, Green Brook, NJ ,13433,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+534,2015,Jeep,Cherokee_Latitude, 11995, Robbinsville, NJ ,105134,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,3+ Owners,Multiple Use,4
+535,2019,Jeep,Grand_Cherokee_Limited_Edition, 29495, Great Neck, NY ,58142,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+536,2019,Jeep,Grand_Cherokee_Limited_Edition_X, 38990, Valley Stream, NY ,23999,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+537,2019,Jeep,Cherokee_Latitude_Plus, 22000, Old Bridge, NJ ,36223,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+538,2019,Jeep,Cherokee_Limited_Edition, 22480, Massapequa Park, NY ,30979,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,3
+539,2017,Jeep,Cherokee_Sport, 18994, Haskell, NJ ,61414,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+540,2019,Jeep,Cherokee_Limited_Edition, 27500, Bronx, NY ,10995,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,2
+541,2018,Jeep,Grand_Cherokee_Overland, 27495, Jersey City, NJ ,72708,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+542,2016,Jeep,Grand_Cherokee_Limited_Edition, 26586, Butler, NJ ,72700,Very Minor Damage,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,19
+543,2017,Jeep,Wrangler_Sahara, 38777, Butler, NJ ,33367,No Accident or Damage Reported,SUV,Beige_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,10
+544,2018,Jeep,Grand_Cherokee_Laredo, 27985, Yonkers, NY ,38728,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+545,2019,Jeep,Cherokee_Limited_Edition, 27995, Wharton, NJ ,32875,No Accident or Damage Reported,SUV,Green_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,6
+546,2018,Jeep,Compass_Latitude, 22995, Wharton, NJ ,26779,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+547,2018,Jeep,Compass_Limited_Edition, 24995, Wharton, NJ ,39867,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+548,2018,Jeep,Grand_Cherokee_Laredo, 30995, Woodside, NY ,24701,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+549,2020,Jeep,Renegade_Latitude, 25250, FAIR LAWN, NJ ,16993,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+550,2018,Jeep,Wrangler_Sport_S, 37877, West Long Branch, NJ ,13991,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+551,2018,Jeep,Grand_Cherokee_Limited_Edition, 31743, Ramsey, NJ ,27554,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+552,2018,Jeep,Wrangler_Sport, 36318, Mamaroneck, NY ,45147,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+553,2017,Jeep,Renegade_Latitude, 18495, Saint James, NY ,66145,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+554,2019,Jeep,Cherokee_Limited_Edition, 27995, Pt Pleasant, NJ ,20655,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+555,2019,Jeep,Cherokee_Limited_Edition, 27500, Nanuet, NY ,37473,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+556,2019,Jeep,Wrangler_Sahara, 43900, Mount Kisco, NY ,40220,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+557,2018,Jeep,Grand_Cherokee_Altitude, 32400, Nanuet, NY ,34294,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+558,2019,Jeep,Cherokee_Limited_Edition, 27995, Croton On Hudson, NY ,33648,No Accident or Damage Reported,SUV,Green_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,5
+559,2018,Jeep,Wrangler_Sport_S, 33777, Bayside, NY ,62142,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+560,2018,Jeep,Grand_Cherokee_Overland, 36995, Croton On Hudson, NY ,30080,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+561,2018,Jeep,Grand_Cherokee_Limited_Edition, 31709, West Caldwell, NJ ,33055,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+562,2014,Jeep,Grand_Cherokee_Summit, 23491, Bohemia, NY ,76424,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+563,2018,Jeep,Wrangler_Sahara, 39595, Brooklyn, NY ,35764,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+564,2018,Jeep,Grand_Cherokee_Limited_Edition, 27950, Bronx, NY ,27998,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+565,2018,Jeep,Grand_Cherokee_Limited_Edition, 25799, Woodside, NY ,30932,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+566,2016,Jeep,Wrangler_75th_Anniversary_Edition, 33775, EATONTOWN, NJ ,33667,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+567,2019,Jeep,Cherokee_Limited_Edition, 28999, Greenwich, CT ,17054,Accident Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,2
+568,2020,Jeep,Wrangler_Sahara, 41270, Oakhurst, NJ ,32779,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,3
+569,2018,Jeep,Wrangler_Sport_S, 32595, Robbinsville, NJ ,41682,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,13
+570,2018,Jeep,Wrangler_Sport, 31995, Westbury, NY ,48867,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+571,2018,Jeep,Grand_Cherokee_Limited_Edition, 29995, Westbury, NY ,19281,Minor Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+572,2017,Jeep,Wrangler_Rubicon, 37980, Jericho, NY ,43283,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+573,2018,Jeep,Grand_Cherokee_Limited_Edition, 27445, Greenvale, NY ,41664,Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+574,2016,Jeep,Cherokee_Latitude, 20510, East Brunswick, NJ ,23268,Accident/Minor Damage,SUV,Red_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,12
+575,2016,Jeep,Cherokee_Latitude, 18500, Glen Cove, NY ,52245,No Accident or Damage Reported,SUV,6_Cyl_3.2_L_,2-Owner,Personal Use,11
+576,2017,Jeep,Wrangler_Rubicon, 37980, Jericho, NY ,43283,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+577,2019,Jeep,Grand_Cherokee_Laredo_E, 29995, Sussex, NJ ,26788,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+578,2018,Jeep,Grand_Cherokee_Altitude, 30995, Parsippany, NJ ,29368,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,6
+579,2016,Jeep,Wrangler_Sport, 32980, Jericho, NY ,39044,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,15
+580,2019,Jeep,Grand_Cherokee_Limited_Edition, 35200, Bronx, NY ,13185,Minor Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+581,2016,Jeep,Cherokee_Latitude, 19500, Woodside, NY ,29913,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,2-Owner,Personal Use,11
+582,2009,Jeep,Grand_Cherokee_Laredo, 8779, Garfield, NJ ,79698,Accident Reported,SUV,Gold_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,12
+583,2019,Jeep,Cherokee_Limited_Edition, 22595, Belmar, NJ ,80191,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+584,2018,Jeep,Grand_Cherokee_Limited_Edition, 29490, Bronx, NY ,16395,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,2
+585,2018,Jeep,Grand_Cherokee_Limited_Edition, 31290, Shrewsbury, NJ ,36038,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+586,2016,Jeep,Renegade_Trailhawk, 19688, Lakewood, NJ ,61206,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,7
+587,2016,Jeep,Wrangler_Sport, 23988, Lakewood, NJ ,110768,Accident Reported,SUV,6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+588,2019,Jeep,Cherokee_Limited_Edition, 27590, Shrewsbury, NJ ,32605,Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,8
+589,2018,Jeep,Grand_Cherokee_Altitude, 33999, Greenwich, CT ,30489,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+590,2019,Jeep,Grand_Cherokee_Limited_Edition, 31988, Lakewood, NJ ,45929,Accident Reported,SUV,6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+591,2019,Jeep,Grand_Cherokee_Laredo, 28741, Shrewsbury, NJ ,37524,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+592,2018,Jeep,Wrangler_Sport, 36990, Shrewsbury, NJ ,40941,No Accident or Damage Reported,SUV,Green_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+593,2018,Jeep,Wrangler_Sport_S, 34000, Old Bridge, NJ ,40135,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+594,2018,Jeep,Grand_Cherokee_Limited_Edition, 29551, East Brunswick, NJ ,48752,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,13
+595,2019,Jeep,Cherokee_Limited_Edition, 26622, Greenvale, NY ,25796,Accident Reported,SUV,Red_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,11
+596,2017,Jeep,Wrangler_Sport, 31998, West Islip, NY ,50762,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,16
+597,2018,Jeep,Grand_Cherokee_Laredo_E, 27995, Freehold, NJ ,42561,Minor Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+598,2018,Jeep,Compass_Altitude_Edition, 21990, Great Neck, NY ,22216,Accident/Minor Damage,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+599,2021,Jeep,Gladiator_Willys_Sport, 46590, Pleasantville, NY,4885,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,0
+600,2019,Jeep,Compass_Latitude, 21995, Hackettstown, NJ ,38395,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+601,2018,Jeep,Grand_Cherokee_Laredo, 26887, Randolph, NJ ,64533,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+602,2016,Jeep,Cherokee_Latitude, 20999, Lebanon, NJ ,27393,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+603,2018,Jeep,Grand_Cherokee_Limited_Edition, 35989, Lebanon, NJ ,18667,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+604,2018,Jeep,Wrangler_Sport, 37990, Shrewsbury, NJ ,34411,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+605,2018,Jeep,Compass_Limited_Edition, 23488, Totowa, NJ ,36804,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+606,2019,Jeep,Grand_Cherokee_Limited_Edition_X, 42900, Rahway, NJ ,15357,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+607,2018,Jeep,Grand_Cherokee_Altitude, 34288, Lakewood, NJ ,30018,No Accident or Damage Reported,SUV,6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+608,2018,Jeep,Wrangler_Sahara, 39998, Lebanon, NJ ,33083,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+609,2018,Jeep,Grand_Cherokee_Limited_Edition, 32836, Shrewsbury, NJ ,31689,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+610,2018,Jeep,Wrangler_Willys_Wheeler, 36980, Greenvale, NY ,34323,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,14
+611,2018,Jeep,Grand_Cherokee_Sterling_Edition, 31500, Amityville, NY ,44036,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+612,2017,Jeep,Renegade_Deserthawk, 24500, Princeton, NJ ,37284,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+613,2018,Jeep,Wrangler_Sahara, 38991, Little Falls, NJ ,61625,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+614,2021,Jeep,Grand_Cherokee_Laredo_X, 41991, Little Falls, NJ ,3600,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+615,2018,Jeep,Grand_Cherokee_Limited_Edition, 31995, Brooklyn, NY ,31161,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+616,2020,Jeep,Grand_Cherokee_Laredo, 33995, Saint James, NY ,12435,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+617,2017,Jeep,Wrangler_Sahara, 37264, Saint James, NY ,36278,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+618,2018,Jeep,Wrangler_Sahara, 42565, Farmingdale, NY ,20496,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+619,2015,Jeep,Wrangler_Sahara, 35000, Norwalk, CT ,29931,No Accident or Damage Reported,SUV,Green_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+620,2018,Jeep,Grand_Cherokee_Laredo_E, 26597, White Plains, NY ,23397,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+621,2019,Jeep,Grand_Cherokee_Limited_Edition, 33997, White Plains, NY ,12745,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+622,2018,Jeep,Grand_Cherokee_Laredo_E, 27997, White Plains, NY ,11420,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+623,2014,Jeep,Compass_Latitude, 9250, Little Ferry, NJ ,88667,Accident Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,9
+624,2018,Jeep,Cherokee_Limited_Edition, 20795, Cranbury, NJ ,59867,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.2_L_,2-Owner,Personal Use,16
+625,2018,Jeep,Compass_Latitude, 16890, Wantagh, NY ,49068,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,11
+626,2019,Jeep,Cherokee_Latitude_Plus, 27447, Warwick, NY ,29640,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,6
+627,2018,Jeep,Wrangler_Sport, 33490, Jamaica, NY ,21244,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+628,2017,Jeep,Grand_Cherokee_Overland, 28495, Huntington Station, NY ,64009,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+629,2018,Jeep,Grand_Cherokee_Limited_Edition, 25795, Linden, NJ ,68940,Accident/Minor Damage,SUV,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+630,2016,Jeep,Compass_Latitude, 13500, Morristown, NJ ,98450,Accident/Minor Damage,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+631,2014,Jeep,Cherokee_Limited_Edition, 15695, Ramsey, NJ ,96383,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.2_L_,2-Owner,Personal Use,19
+632,2016,Jeep,Grand_Cherokee_Limited_Edition, 25500, Morristown, NJ ,61100,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,6
+633,2018,Jeep,Grand_Cherokee_Laredo, 26395, Darien, CT ,55953,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,6
+634,2015,Jeep,Grand_Cherokee_Limited_Edition, 18980, Bronx, NY ,82142,Minor Damage,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,22
+635,2019,Jeep,Cherokee_Limited_Edition, 23750, Woodside, NY ,35163,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+636,2018,Jeep,Grand_Cherokee_Limited_Edition, 33900, Verona, NJ ,25967,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+637,2018,Jeep,Grand_Cherokee_Limited_Edition, 27490, Valley Stream, NY ,61271,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,12
+638,2017,Jeep,Grand_Cherokee_Overland, 30783, Morristown, NJ ,74562,No Accident or Damage Reported,SUV,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+639,2019,Jeep,Grand_Cherokee_Limited_Edition, 31975, Hillside, NJ ,27063,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+640,2019,Jeep,Cherokee_Limited_Edition, 24490, Valley Stream, NY ,48192,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,3
+641,2017,Jeep,Wrangler_Freedom_Edition, 35484, Flemington, NJ ,45035,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+642,2018,Jeep,Wrangler_Rubicon, 46114, Morristown, NJ ,59896,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+643,2016,Jeep,Patriot_Sport, 10995, Lake Hopatcong, NJ ,131290,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+644,2017,Jeep,Cherokee_Latitude, 17599, Union, NJ ,101256,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,14
+645,2018,Jeep,Wrangler_Sport_S, 37794, Morristown, NJ ,38770,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+646,2018,Jeep,Compass_Latitude, 18685, Massapequa Park, NY ,32546,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+647,2020,Jeep,Gladiator_Sport_S, 39996, Butler, NJ ,6543,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+648,2018,Jeep,Wrangler_Sport_S, 40788, Summit, NJ ,8869,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+649,2014,Jeep,Wrangler_Sahara, 26695, Freehold, NJ ,76827,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,12
+650,2018,Jeep,Wrangler_Willys_Wheeler, 34900, Amityville, NY ,43159,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+651,2020,Jeep,Grand_Cherokee_Limited_Edition, 39960, Butler, NJ ,24000,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,6
+652,2018,Jeep,Grand_Cherokee_Laredo_E, 27995, Wharton, NJ ,51470,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+653,2019,Jeep,Cherokee_Limited_Edition, 27844, Watchung, NJ ,34097,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,10
+654,2018,Jeep,Grand_Cherokee_Laredo, 23900, Verona, NJ ,45860,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,0
+655,2016,Jeep,Wrangler_Sport, 25495, Bronx, NY ,130280,No Accident or Damage Reported,SUV,Green_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,23
+656,2016,Jeep,Wrangler_Sport, 27995, Wharton, NJ ,48817,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,16
+657,2018,Jeep,Grand_Cherokee_Trailhawk, 32995, Robbinsville, NJ ,40253,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+658,2016,Jeep,Wrangler_Sahara, 39750, Merrick, NY ,29384,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+659,2019,Jeep,Cherokee_Limited_Edition, 22950, Bronx, NY ,25893,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,3
+660,2013,Jeep,Wrangler_Sport, 23600, Nanuet, NY ,94971,Accident Reported,SUV,White_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,10
+661,2018,Jeep,Grand_Cherokee_High_Altitude, 38667, Morristown, NJ ,41673,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+662,2018,Jeep,Grand_Cherokee_Limited_Edition, 30900, Amityville, NY ,18039,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,12
+663,2018,Jeep,Grand_Cherokee_Limited_Edition, 30995, Brooklyn, NY ,23209,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+664,2019,Jeep,Cherokee_Limited_Edition, 24873, Greenvale, NY ,47559,Accident Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,5
+665,2018,Jeep,Grand_Cherokee_Limited_Edition, 31991, Little Falls, NJ ,26924,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Lease Use,7
+666,2018,Jeep,Grand_Cherokee_Limited_Edition, 29995, Colonia, NJ ,34398,Accident Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+667,2018,Jeep,Wrangler_Sahara, 34495, Westbury, NY ,35814,Minor Damage,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+668,2018,Jeep,Grand_Cherokee_Limited_Edition, 30595, Denville, NJ ,27256,No Accident or Damage Reported,SUV,Brown_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,10
+669,2018,Jeep,Wrangler_Sport_S, 36995, Denville, NJ ,15518,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+670,2018,Jeep,Grand_Cherokee_Laredo_E, 27991, Little Falls, NJ ,35865,Accident/Minor Damage,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+671,2018,Jeep,Grand_Cherokee_Altitude, 29995, Brooklyn, NY ,26184,Accident Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+672,2019,Jeep,Cherokee_Limited_Edition, 23995, Little Ferry, NJ ,44312,Accident Reported,SUV,Red_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,9
+673,2018,Jeep,Grand_Cherokee_Limited_Edition, 31991, Little Falls, NJ ,28985,Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+674,2010,Jeep,Compass_Sport, 6993, Flemington, NJ ,111482,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,18
+675,2019,Jeep,Cherokee_Limited_Edition, 26900, Hazlet, NJ ,33056,Accident/Minor Damage,SUV,Brown_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,1
+676,2017,Jeep,Cherokee_Limited_Edition, 15995, South Hackensack, NJ ,105637,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,17
+677,2015,Jeep,Wrangler_Willys_Wheeler, 28950, Pompton Plains, NJ ,57291,Accident Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,15
+678,2019,Jeep,Grand_Cherokee_Limited_Edition_X, 36995, Brooklyn, NY ,22459,Accident/Minor Damage,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+679,2018,Jeep,Grand_Cherokee_Limited_Edition, 30900, Glen Cove, NY ,31794,Accident Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+680,2019,Jeep,Grand_Cherokee_Limited_Edition, 33995, Edison, NJ ,23519,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+681,2018,Jeep,Grand_Cherokee_Limited_Edition, 29995, Jamaica, NY ,19818,Accident Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+682,2018,Jeep,Grand_Cherokee_Altitude, 30995, Brooklyn, NY ,29927,Accident Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+683,2015,Jeep,Wrangler_Sahara, 27000, Norwalk, CT ,74260,Accident Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+684,2005,Jeep,Wrangler_X, 9750, Little Ferry, NJ ,110168,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_4.0_L_,3+ Owners,Personal Use,12
+685,2018,Jeep,Grand_Cherokee_Limited_Edition, 29995, Brooklyn, NY ,29500,Minor Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+686,2018,Jeep,Grand_Cherokee_Limited_Edition, 30900, Hazlet, NJ ,34786,Minor Damage,SUV,Brown_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+687,2018,Jeep,Grand_Cherokee_Limited_Edition, 30255, Greenvale, NY ,29585,Minor Damage,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+688,2014,Jeep,Wrangler_Sport, 24991, Little Falls, NJ ,69264,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,10
+689,2018,Jeep,Wrangler_Sport, 34991, Little Falls, NJ ,40200,Accident/Minor Damage,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+690,2016,Jeep,Grand_Cherokee_Laredo, 17998, West Babylon, NY ,108158,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+691,2019,Jeep,Grand_Cherokee_Limited_Edition, 36600, Bronx, NY ,1545,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,7
+692,2016,Jeep,Compass_Latitude, 14000, Bronx, NY ,40272,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,9
+693,2018,Jeep,Grand_Cherokee_Limited_Edition, 28711, Greenvale, NY ,41812,Minor Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+694,2020,Jeep,Gladiator_Overland, 46991, Little Falls, NJ ,19134,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Corporate Use,5
+695,2009,Jeep,Wrangler_Sahara, 19988, Saint James, NY ,65768,Accident Reported,SUV,Orange_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,28
+696,2018,Jeep,Wrangler_Sport, 37795, Hackettstown, NJ ,28272,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,5
+697,2018,Jeep,Grand_Cherokee_Limited_Edition, 31995, Hackettstown, NJ ,22786,Minor Damage,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,12
+698,2018,Jeep,Grand_Cherokee_Laredo, 27995, Hackettstown, NJ ,58225,Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+699,2018,Jeep,Grand_Cherokee_Laredo, 27995, Hackettstown, NJ ,26244,Minor Damage,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+700,2018,Jeep,Grand_Cherokee_Limited_Edition, 31995, Hackettstown, NJ ,22786,Minor Damage,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,12
+701,2018,Jeep,Grand_Cherokee_High_Altitude, 35300, Wayne, NJ ,38800,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,12
+702,2018,Jeep,Grand_Cherokee_Sterling_Edition, 32500, Amityville, NY ,31177,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+703,2019,Jeep,Grand_Cherokee_Limited_Edition, 33800, New York, NY ,22511,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+704,2019,Jeep,Cherokee_Latitude, 19942, Carlstadt, NJ ,74014,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+705,2018,Jeep,Compass_Limited_Edition, 26495, Ramsey, NJ ,19548,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+706,2018,Jeep,Compass_Latitude, 21495, Lakewood, NJ ,24418,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+707,2015,Jeep,Grand_Cherokee_Summit, 23995, Lindenhurst, NY ,99022,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,2
+708,2018,Jeep,Grand_Cherokee_Limited_Edition, 33999, Greenwich, CT ,39003,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+709,2019,Jeep,Cherokee_Latitude, 23000, Shrewsbury, NJ ,41963,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,13
+710,2018,Jeep,Grand_Cherokee_Limited_Edition, 32995, Brooklyn, NY ,18292,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+711,2018,Jeep,Compass_Latitude, 22782, Long Island City, NY ,36629,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+712,2017,Jeep,Wrangler_Sport, 33900, Bronx, NY ,38237,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+713,2018,Jeep,Grand_Cherokee_Limited_Edition, 33995, Brooklyn, NY ,20260,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+714,2018,Jeep,Grand_Cherokee_Limited_Edition, 31900, Amityville, NY ,28207,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+715,2018,Jeep,Compass_Latitude, 21991, Little Falls, NJ ,27424,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+716,2019,Jeep,Cherokee_Limited_Edition, 25980, Jericho, NY ,51601,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,13
+717,2019,Jeep,Cherokee_Limited_Edition, 28995, Brooklyn, NY ,11206,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,5
+718,2019,Jeep,Grand_Cherokee_Limited_Edition, 33995, Brooklyn, NY ,21227,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+719,2018,Jeep,Grand_Cherokee_Summit, 44995, Sussex, NJ ,42298,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+720,2019,Jeep,Cherokee_Limited_Edition, 27480, Jericho, NY ,38521,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,3
+721,2018,Jeep,Grand_Cherokee_Altitude, 31995, Freehold, NJ ,42315,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+722,2019,Jeep,Grand_Cherokee_Limited_Edition, 34995, Brooklyn, NY ,25592,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+723,2018,Jeep,Grand_Cherokee_Limited_Edition, 34214, East Brunswick, NJ ,23385,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+724,2018,Jeep,Grand_Cherokee_Limited_Edition, 34000, East Brunswick, NJ ,27099,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+725,2018,Jeep,Compass_Limited_Edition, 26495, Brooklyn, NY ,12128,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+726,2019,Jeep,Grand_Cherokee_Limited_Edition, 33995, Brooklyn, NY ,21227,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+727,2018,Jeep,Grand_Cherokee_Limited_Edition, 34000, East Brunswick, NJ ,27099,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+728,2018,Jeep,Grand_Cherokee_Altitude, 31995, Freehold, NJ ,42315,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+729,2018,Jeep,Grand_Cherokee_Limited_Edition, 34214, East Brunswick, NJ ,23385,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+730,2018,Jeep,Grand_Cherokee_Summit, 44995, Sussex, NJ ,42298,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+731,2019,Jeep,Cherokee_Latitude_Plus, 25995, Sussex, NJ ,28886,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+732,2018,Jeep,Compass_Latitude, 25995, Sussex, NJ ,29366,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+733,2019,Jeep,Cherokee_Limited_Edition, 27480, Jericho, NY ,38521,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,3
+734,2019,Jeep,Grand_Cherokee_Limited_Edition, 34995, Brooklyn, NY ,25592,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+735,2019,Jeep,Cherokee_Limited_Edition, 29995, Sussex, NJ ,19027,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+736,2018,Jeep,Wrangler_Sahara, 44595, Farmingdale, NY ,16795,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+737,2018,Jeep,Compass_Latitude, 21998, COLONIA, NJ ,35436,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+738,2018,Jeep,Compass_Latitude, 21900, Hazlet, NJ ,46012,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+739,2020,Jeep,Cherokee_Limited_Edition, 31995, Sussex, NJ ,21545,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,2
+740,2017,Jeep,Wrangler_Smoky_Mountain, 36900, Hazlet, NJ ,50452,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+741,2015,Jeep,Wrangler, 20795, West Babylon, NY ,140212,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+742,2019,Jeep,Cherokee_Limited_Edition, 29000, Norwalk, CT ,18966,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,3
+743,2020,Jeep,Compass_High_Altitude_Edition, 28995, Sussex, NJ ,16500,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+744,2020,Jeep,Gladiator_Mojave, 56480, Jericho, NY ,4232,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+745,2018,Jeep,Grand_Cherokee_Overland, 35500, Bronx, NY ,30609,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+746,2018,Jeep,Wrangler_Sahara, 39195, Farmingdale, NY ,26175,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+747,2018,Jeep,Wrangler_Sahara, 42000, Norwalk, CT ,42467,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+748,2016,Jeep,Wrangler_Sport, 29900, Hazlet, NJ ,75806,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,17
+749,2020,Jeep,Grand_Cherokee_Altitude, 39991, East Brunswick, NJ ,12457,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+750,2020,Jeep,Gladiator_Mojave, 56480, Jericho, NY ,4232,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+751,2018,Jeep,Wrangler_Sahara, 39195, Farmingdale, NY ,26175,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+752,2016,Jeep,Renegade_Latitude, 18850, East Hanover, NJ ,29294,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+753,2012,Jeep,Grand_Cherokee_Laredo, 13895, Elmhurst, NY ,91328,Accident Reported,SUV,White_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,23
+754,2018,Jeep,Compass_Sport, 15900, Rahway, NJ ,65839,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+755,2017,Jeep,Wrangler_Sport_RHD, 22095, Newark, NJ ,87757,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Vehicle Use,10
+756,2018,Jeep,Grand_Cherokee_Laredo_E, 28244, Summit, NJ ,27098,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+757,2019,Jeep,Grand_Cherokee_Limited_Edition, 32495, New York, NY ,36298,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+758,2019,Jeep,Grand_Cherokee_Laredo_E, 30999, Newark, NJ,23797,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+759,2019,Jeep,Cherokee_Limited_Edition, 25998, Saint James, NY ,47601,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+760,2018,Jeep,Grand_Cherokee_Altitude, 34899, Randolph, NJ ,32582,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+761,2017,Jeep,Grand_Cherokee_Limited_Edition, 24995, Jamaica, NY ,59774,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,0
+762,2018,Jeep,Grand_Cherokee_High_Altitude, 38995, Edison, NJ ,23806,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+763,2018,Jeep,Compass_Limited_Edition, 23900, White Plains, NY ,38380,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+764,2019,Jeep,Wrangler_Sahara, 47500, WEST LONG BRANCH, NJ ,11382,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+765,2018,Jeep,Compass_Limited_Edition, 26898, Lebanon, NJ ,15471,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+766,2020,Jeep,Wrangler_Sport_S, 43499, Randolph, NJ ,19085,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+767,2018,Jeep,Wrangler_Sahara, 44997, Lebanon, NJ ,25941,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+768,2017,Jeep,Wrangler_Sahara, 37999, Newark, NJ,14114,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+769,2018,Jeep,Grand_Cherokee_Laredo_E, 29588, Lakewood, NJ ,33284,No Accident or Damage Reported,SUV,6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+770,2019,Jeep,Compass_Latitude, 24588, Lakewood, NJ ,16351,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+771,2018,Jeep,Wrangler_Willys_Wheeler, 37020, Shrewsbury, NJ ,41834,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+772,2019,Jeep,Compass_Trailhawk, 24995, Newton, NJ ,74758,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,14
+773,2018,Jeep,Wrangler_Sport, 40997, Lebanon, NJ ,17643,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+774,2019,Jeep,Cherokee_Limited_Edition, 27688, Lakewood, NJ ,40912,No Accident or Damage Reported,SUV,6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,2
+775,2018,Jeep,Grand_Cherokee_Altitude, 30694, Nanuet, NY ,47612,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+776,2017,Jeep,Wrangler_Sahara, 37999, Newark, NJ,14114,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+777,2017,Jeep,Grand_Cherokee_Laredo, 27607, Shrewsbury, NJ ,74391,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+778,2018,Jeep,Grand_Cherokee_Altitude, 32988, Lakewood, NJ ,33910,No Accident or Damage Reported,SUV,6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+779,2018,Jeep,Wrangler_Sport, 39998, Lebanon, NJ ,26818,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,13
+780,2018,Jeep,Wrangler_Rubicon, 44999, Newark, NJ,34508,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+781,2017,Jeep,Wrangler_Sport, 29353, Ocean, NJ ,38986,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+782,2019,Jeep,Cherokee_Limited_Edition, 27875, White Plains, NY ,37708,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,10
+783,2019,Jeep,Cherokee_Limited_Edition, 27997, White Plains, NY ,13214,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,5
+784,2019,Jeep,Cherokee_Latitude_Plus, 24887, White Plains, NY ,22531,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+785,2019,Jeep,Cherokee_Limited_Edition, 26997, White Plains, NY ,21587,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,3
+786,2019,Jeep,Cherokee_Limited_Edition, 26887, White Plains, NY ,27142,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,6
+787,2019,Jeep,Grand_Cherokee_Limited_Edition_X, 37997, White Plains, NY ,33184,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+788,2018,Jeep,Wrangler_Sport_S, 36770, White Plains, NY ,27753,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+789,2018,Jeep,Compass_Latitude, 22997, White Plains, NY ,21892,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+790,2018,Jeep,Compass_Altitude_Edition, 22887, White Plains, NY ,24208,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+791,2019,Jeep,Cherokee_Limited_Edition, 26987, White Plains, NY ,19067,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,5
+792,2019,Jeep,Cherokee_Limited_Edition, 25997, White Plains, NY ,14510,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,4
+793,2016,Jeep,Cherokee_75th_Anniversary_Edition, 14900, Avenel, NJ ,115686,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,15
+794,2016,Jeep,Wrangler_Sport, 28999, Great Neck, NY ,55965,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,6
+795,2018,Jeep,Grand_Cherokee_Limited_Edition, 25995, Newark, NJ ,46531,Accident Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+796,2018,Jeep,Grand_Cherokee_Limited_Edition, 27995, Bronx, NY ,21098,Minor Damage,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+797,2018,Jeep,Grand_Cherokee_Altitude, 28195, Ramsey, NJ ,52852,Accident Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+798,2014,Jeep,Patriot_Latitude, 11319, Robbinsville, NJ ,96495,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,32
+799,2011,Jeep,Wrangler_Sport, 14995, West Nyack, NY ,153899,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.8_L_,3+ Owners,Personal Use,29
+800,2016,Jeep,Compass_High_Altitude_Edition, 12495, Linden, NJ ,73469,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,1
+801,2020,Jeep,Gladiator_Overland, 40900, Rahway, NJ ,15931,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+802,2016,Jeep,Wrangler_Sport, 26430, Massapequa Park, NY ,65267,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,18
+803,2019,Jeep,Grand_Cherokee_Altitude, 29950, Bronx, NY ,34948,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+804,2018,Jeep,Compass_Limited_Edition, 20990, Jamaica, NY ,45125,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,13
+805,2019,Jeep,Cherokee_Limited_Edition, 27989, Freehold, NJ ,30147,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,10
+806,2018,Jeep,Wrangler_Sport_S, 37995, Keyport, NJ ,24330,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+807,2018,Jeep,Grand_Cherokee_Limited_Edition, 24890, Fairfield, CT ,95824,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+808,2020,Jeep,Grand_Cherokee_Limited_Edition, 39995, Jersey City, NJ ,15204,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Corporate Use,4
+809,2018,Jeep,Wrangler_Rubicon, 39995, Totowa, NJ ,34451,Accident Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Lease Use,9
+810,2018,Jeep,Compass_Trailhawk, 27348, White Plains, NY ,27186,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+811,2018,Jeep,Grand_Cherokee_Limited_Edition, 31694, Budd Lake, NJ ,28156,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+812,2018,Jeep,Grand_Cherokee_Overland, 33900, Verona, NJ ,32868,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,13
+813,2019,Jeep,Cherokee_Limited_Edition, 27208, Monmouth Junction, NJ ,37039,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,5
+814,2018,Jeep,Grand_Cherokee_Limited_Edition, 28931, Hollis, NY ,41082,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+815,2017,Jeep,Grand_Cherokee_Limited_Edition, 28995, PARAMUS, NJ ,32582,No Accident or Damage Reported,SUV,Brown_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Corporate Use,4
+816,2018,Jeep,Wrangler_Sport, 33988, Valley Stream, NY ,41610,Accident Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+817,2019,Jeep,Grand_Cherokee_Limited_Edition, 29900, Verona, NJ ,79316,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+818,2016,Jeep,Wrangler_Sahara, 30866, Butler, NJ ,92414,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+819,2018,Jeep,Compass_Limited_Edition, 25995, Watchung, NJ ,13597,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+820,2018,Jeep,Grand_Cherokee_Limited_Edition, 27887, Butler, NJ ,36500,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+821,2014,Jeep,Cherokee_Latitude, 11450, Little Ferry, NJ ,132281,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,15
+822,2018,Jeep,Compass_Limited_Edition, 19990, Great Neck, NY ,20465,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+823,2018,Jeep,Grand_Cherokee_Limited_Edition, 32900, Verona, NJ ,29698,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+824,2018,Jeep,Grand_Cherokee_Limited_Edition, 29980, Freeport, NY ,23597,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+825,2019,Jeep,Cherokee_Limited_Edition, 27979, Butler, NJ ,35861,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,2
+826,2018,Jeep,Grand_Cherokee_Limited_Edition, 29980, Freeport, NY ,23597,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+827,2018,Jeep,Grand_Cherokee_Trailhawk, 34485, Somerville, NJ ,70040,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+828,2018,Jeep,Wrangler_Sport_S, 38888, Morristown, NJ ,38859,No Accident or Damage Reported,SUV,Orange_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+829,2018,Jeep,Cherokee_Latitude, 21149, Robbinsville, NJ ,49515,Minor Damage,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+830,2018,Jeep,Grand_Cherokee_Limited_Edition, 32888, Butler, NJ ,39895,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,3
+831,2019,Jeep,Grand_Cherokee_Limited_Edition_X, 43589, Butler, NJ ,20420,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,1
+832,2018,Jeep,Wrangler_Sahara, 43995, Robbinsville, NJ ,37892,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+833,2019,Jeep,Grand_Cherokee_Limited_Edition_X, 39939, Butler, NJ ,29403,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,16
+834,2018,Jeep,Wrangler_Sport_S, 32988, Green Brook, NJ ,28524,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+835,2018,Jeep,Grand_Cherokee_Limited_Edition, 31000, Morristown, NJ ,58802,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+836,2019,Jeep,Cherokee_Limited_Edition, 26810, Ocean, NJ ,40935,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,9
+837,2019,Jeep,Cherokee_Limited_Edition, 27810, Ocean, NJ ,29344,No Accident or Damage Reported,SUV,Brown_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,7
+838,2018,Jeep,Grand_Cherokee_Altitude, 27600, Amityville, NY ,60979,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+839,2019,Jeep,Cherokee_Limited_Edition, 21963, Amityville, NY ,53813,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,7
+840,2014,Jeep,Patriot_Sport, 6299, S Hackensack, NJ ,144576,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,2
+841,2016,Jeep,Wrangler_Sport, 29995, Huntington Station, NY ,70030,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+842,2012,Jeep,Wrangler_Rubicon, 20795, Somerset, NJ ,107713,No Accident or Damage Reported,SUV,6_Cyl_3.6_L_,2-Owner,Personal Use,29
+843,2018,Jeep,Grand_Cherokee_Altitude, 27939, Amityville, NY ,28033,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,4
+844,2014,Jeep,Grand_Cherokee_Laredo, 14999, Levittown, NY ,130745,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,16
+845,2016,Jeep,Compass_High_Altitude_Edition, 16000, Wilton, CT ,53443,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,3
+846,2015,Jeep,Cherokee_Trailhawk, 17888, Green Brook, NJ ,78780,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,2-Owner,Personal Use,11
+847,2018,Jeep,Compass_Latitude, 22245, Lakewood, NJ ,26830,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+848,2018,Jeep,Renegade_Latitude_Altitude, 22595, Robbinsville, NJ ,19469,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+849,2015,Jeep,Renegade_Latitude, 14900, Lafayette, NJ ,102711,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+850,2018,Jeep,Compass_Latitude, 24578, Butler, NJ ,24619,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+851,2019,Jeep,Grand_Cherokee_Altitude, 38810, Ocean, NJ ,21480,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+852,2016,Jeep,Compass_High_Altitude_Edition, 13995, Rahway, NJ ,96008,Minor Damage,SUV,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,2
+853,2010,Jeep,Grand_Cherokee_Laredo, 9991, Bohemia, NY ,111335,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,39
+854,2016,Jeep,Cherokee, 13750, Little Ferry, NJ ,140148,Minor Damage,SUV,Blue_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,0
+855,2012,Jeep,Liberty_Sport, 7995, Huntington Station, NY ,125544,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,11
+856,2019,Jeep,Wrangler_Sahara, 42900, Verona, NJ ,70035,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+857,2018,Jeep,Grand_Cherokee_Limited_Edition, 32900, Verona, NJ ,36951,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,0
+858,2008,Jeep,Grand_Cherokee_Laredo, 5495, South Hackensack, NJ ,133214,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,5
+859,2019,Jeep,Cherokee_Limited_Edition, 22479, Copiague, NY ,64764,Minor Damage,SUV,Red_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,5
+860,2018,Jeep,Compass_Limited_Edition, 20990, Jamaica, NY ,33766,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+861,2018,Jeep,Grand_Cherokee_Limited_Edition, 33490, Oakhurst, NJ ,17580,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+862,2020,Jeep,Gladiator_Mojave, 58789, Randolph, NJ ,2885,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,2
+863,2016,Jeep,Wrangler_75th_Anniversary_Edition, 26999, Ramsey, NJ ,91694,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,16
+864,2019,Jeep,Cherokee_Latitude_Plus, 24233, Summit, NJ ,28659,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+865,2018,Jeep,Grand_Cherokee_Laredo, 27995, Nanuet, NY ,32006,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+866,2019,Jeep,Grand_Cherokee_Limited_Edition, 32000, Summit, NJ ,45346,Accident/Minor Damage,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+867,2018,Jeep,Grand_Cherokee_Limited_Edition, 26899, Jamaica, NY ,30569,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+868,2019,Jeep,Cherokee_Limited_Edition, 23250, Bronx, NY ,22654,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,3
+869,2018,Jeep,Grand_Cherokee_Limited_Edition, 27209, Englewood, NJ ,67224,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+870,2018,Jeep,Cherokee_Limited_Edition, 23690, Jamaica, NY ,27383,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,6
+871,2018,Jeep,Compass_Latitude, 21075, Syosset, NY ,13420,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+872,2021,Jeep,Wrangler_Sahara, 48795, Rahway, NJ ,5247,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,0
+873,2020,Jeep,Gladiator_Overland, 50900, Amityville, NY ,22288,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+874,2019,Jeep,Grand_Cherokee_Limited_Edition, 34995, Brooklyn, NY ,36880,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+875,2019,Jeep,Cherokee_Limited_Edition, 25900, Amityville, NY ,57801,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,3
+876,2019,Jeep,Cherokee_Limited_Edition, 26418, Greenvale, NY ,24878,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,14
+877,2019,Jeep,Cherokee_Limited_Edition, 27995, Brooklyn, NY ,21837,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,3
+878,2018,Jeep,Compass_Latitude, 22794, East Brunswick, NJ ,29871,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+879,2018,Jeep,Cherokee_Limited_Edition, 25995, Brooklyn, NY ,31420,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,2
+880,2019,Jeep,Grand_Cherokee_Limited_Edition_X, 42900, Amityville, NY ,24347,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+881,2019,Jeep,Cherokee_Limited_Edition, 27900, Amityville, NY ,40379,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,6
+882,2018,Jeep,Compass_Latitude, 23995, Brooklyn, NY ,17697,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+883,2019,Jeep,Cherokee_Latitude_Plus, 24500, Bronx, NY ,23736,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+884,2020,Jeep,Grand_Cherokee_High_Altitude, 43995, Saint James, NY ,29797,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+885,2019,Jeep,Grand_Cherokee_Limited_Edition, 35824, East Brunswick, NJ ,34740,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+886,2018,Jeep,Grand_Cherokee_Limited_Edition, 33995, Brooklyn, NY ,20854,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+887,2019,Jeep,Grand_Cherokee_Altitude, 35995, Brooklyn, NY ,11721,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+888,2020,Jeep,Grand_Cherokee_Limited_Edition, 37995, Brooklyn, NY ,27445,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+889,2020,Jeep,Cherokee_Latitude_Plus, 26998, Saint James, NY ,27150,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+890,2019,Jeep,Cherokee_Limited_Edition, 27995, Brooklyn, NY ,32000,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,2
+891,2019,Jeep,Cherokee_Limited_Edition, 28995, Brooklyn, NY ,19436,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,3
+892,2018,Jeep,Compass_Limited_Edition, 24886, Great Neck, NY ,29232,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+893,2018,Jeep,Grand_Cherokee_Altitude, 32749, Great Neck, NY ,27637,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+894,2018,Jeep,Wrangler_Willys_Wheeler, 35777, Summit, NJ ,55368,No Accident or Damage Reported,SUV,Beige_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,13
+895,2019,Jeep,Grand_Cherokee_Limited_Edition, 33480, Jericho, NY ,37068,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+896,2019,Jeep,Grand_Cherokee_Altitude, 33900, Englewood Cliffs, NJ ,39826,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+897,2019,Jeep,Cherokee_Limited_Edition, 29708, East Brunswick, NJ ,14595,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,2
+898,2018,Jeep,Grand_Cherokee_Limited_Edition, 31995, Edison, NJ ,28087,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+899,2019,Jeep,Cherokee_Latitude_Plus, 23980, Jericho, NY ,28080,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+900,2019,Jeep,Cherokee_Limited_Edition, 26980, Jericho, NY ,22429,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,6
+901,2020,Jeep,Grand_Cherokee_Limited_Edition, 37995, Brooklyn, NY ,27445,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+902,2018,Jeep,Grand_Cherokee_Limited_Edition, 31995, Brooklyn, NY ,31907,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+903,2019,Jeep,Grand_Cherokee_Limited_Edition_X, 42900, Amityville, NY ,24347,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+904,2018,Jeep,Compass_Latitude, 22794, East Brunswick, NJ ,29871,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+905,2019,Jeep,Grand_Cherokee_Altitude, 35995, Brooklyn, NY ,11721,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+906,2018,Jeep,Grand_Cherokee_Limited_Edition, 33995, Brooklyn, NY ,20854,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+907,2019,Jeep,Cherokee_Latitude_Plus, 24500, Bronx, NY ,23736,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+908,2020,Jeep,Grand_Cherokee_High_Altitude, 43995, Saint James, NY ,29797,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+909,2018,Jeep,Compass_Latitude, 23995, Brooklyn, NY ,17697,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+910,2019,Jeep,Cherokee_Limited_Edition, 27995, Brooklyn, NY ,21837,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,3
+911,2019,Jeep,Cherokee_Limited_Edition, 27900, Amityville, NY ,40379,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,6
+912,2018,Jeep,Grand_Cherokee_Limited_Edition, 31995, Edison, NJ ,28087,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+913,2019,Jeep,Grand_Cherokee_Limited_Edition_X, 38995, Sussex, NJ ,56889,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+914,2019,Jeep,Cherokee_Limited_Edition, 27995, Brooklyn, NY ,28249,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,4
+915,2019,Jeep,Cherokee_Latitude_Plus, 23980, Jericho, NY ,28080,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+916,2018,Jeep,Cherokee_Limited_Edition, 25995, Brooklyn, NY ,31420,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,2
+917,2018,Jeep,Compass_Limited_Edition, 24886, Great Neck, NY ,29232,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+918,2018,Jeep,Grand_Cherokee_Altitude, 32749, Great Neck, NY ,27637,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+919,2018,Jeep,Grand_Cherokee_Altitude, 32975, Brooklyn, NY ,26556,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+920,2018,Jeep,Compass_Latitude, 21980, Jericho, NY ,28226,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+921,2019,Jeep,Cherokee_Limited_Edition, 29000, Norwalk, CT ,23262,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,7
+922,2018,Jeep,Grand_Cherokee_Limited_Edition, 31991, Little Falls, NJ ,30266,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+923,2019,Jeep,Cherokee_Limited_Edition, 27500, Woodside, NY ,21359,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,6
+924,2019,Jeep,Cherokee_Limited_Edition, 27991, Little Falls, NJ ,42124,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+925,2018,Jeep,Grand_Cherokee_Limited_Edition, 29474, Brooklyn, NY ,59750,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+926,2019,Jeep,Wrangler_Sport, 36000, Norwalk, CT ,15851,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+927,2018,Jeep,Compass_Latitude, 21980, Jericho, NY ,28226,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+928,2019,Jeep,Cherokee_Limited_Edition, 29000, Norwalk, CT ,23262,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,7
+929,2019,Jeep,Cherokee_Limited_Edition, 27500, Woodside, NY ,21359,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,6
+930,2019,Jeep,Cherokee_Limited_Edition, 27991, Little Falls, NJ ,42124,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+931,2018,Jeep,Compass_Latitude, 21980, Jericho, NY ,23224,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+932,2019,Jeep,Grand_Cherokee_Upland, 34990, Pleasantville, NY,28555,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+933,2018,Jeep,Renegade_Trailhawk, 24495, Hackettstown, NJ ,34372,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+934,2020,Jeep,Grand_Cherokee_High_Altitude, 46899, Hackettstown, NJ ,23745,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+935,2018,Jeep,Grand_Cherokee_Laredo_E, 29590, Pleasantville, NY,32453,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+936,2017,Jeep,Cherokee_Limited_Edition, 15000, Jersey City, NJ ,89419,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,3
+937,2019,Jeep,Cherokee_Limited_Edition, 17900, Atlantic Highlands, NJ ,94461,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Corporate Use,6
+938,2016,Jeep,Patriot_Latitude, 14999, Jamaica, NY ,55020,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,8
+939,2016,Jeep,Patriot_Sport, 12590, Eatontown, NJ ,64658,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,12
+940,2013,Jeep,Wrangler_Sport, 22800, Bronx, NY ,68798,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,16
+941,2015,Jeep,Cherokee_Latitude, 16385, North Middletown, NJ ,55850,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.2_L_,2-Owner,Personal Use,18
+942,2018,Jeep,Cherokee_Limited_Edition, 19850, Woodside, NY ,43445,Accident/Minor Damage,SUV,Green_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,9
+943,2018,Jeep,Grand_Cherokee_Sterling_Edition, 30900, Verona, NJ ,33611,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,0
+944,2021,Jeep,Wrangler_Rubicon, 54800, Bronx, NY ,3473,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+945,2018,Jeep,Wrangler_Sport, 30988, Valley Stream, NY ,47748,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+946,2018,Jeep,Wrangler_Sport_S, 34445, Robbinsville, NJ ,32848,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+947,2017,Jeep,Wrangler_Big_Bear, 34305, PARAMUS, NJ ,34942,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,12
+948,2018,Jeep,Wrangler_Sahara, 40995, Robbinsville, NJ ,38278,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Corporate Use,9
+949,2019,Jeep,Grand_Cherokee_Laredo_E, 31995, Robbinsville, NJ ,22147,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+950,2020,Jeep,Wrangler_Rubicon, 58995, Saint James, NY ,4471,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.0_L_,Number of Owners,Vehicle Use,1
+951,2018,Jeep,Grand_Cherokee_Limited_Edition, 29400, New York, NY ,38003,Accident Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+952,2019,Jeep,Grand_Cherokee_Laredo_E, 31995, Robbinsville, NJ ,22147,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+953,2018,Jeep,Grand_Cherokee_Limited_Edition, 30561, Robbinsville, NJ ,38253,Accident Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+954,2019,Jeep,Wrangler_Sahara, 42995, Lakewood, NJ ,41580,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+955,2020,Jeep,Wrangler_Rubicon, 51500, Neptune, NJ ,7613,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+956,2018,Jeep,Grand_Cherokee_Limited_Edition, 25924, Hollis, NY ,30033,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+957,2017,Jeep,Grand_Cherokee_Trailhawk, 26495, Elmwood Park, NJ ,77972,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,21
+958,2011,Jeep,Liberty_Sport, 9985, New Windsor, NY ,65001,Accident Reported,SUV,Red_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,24
+959,2018,Jeep,Cherokee_Limited_Edition, 19165, Freeport, NY ,41360,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+960,2018,Jeep,Grand_Cherokee_Limited_Edition, 30999, Jamaica, NY ,33936,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,0
+961,2018,Jeep,Wrangler_Rubicon, 48947, Farmingdale, NY ,23784,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+962,2018,Jeep,Grand_Cherokee_Overland, 36345, Edison, NJ ,41347,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+963,2016,Jeep,Wrangler_Willys_Wheeler, 31995, Lakewood, NJ ,16960,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+964,2019,Jeep,Grand_Cherokee_Limited_Edition, 33900, New York, NY ,19245,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+965,2017,Jeep,Wrangler_Big_Bear, 33386, PARAMUS, NJ ,52244,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+966,2017,Jeep,Grand_Cherokee_Laredo, 25477, Lodi, NJ ,76532,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+967,2019,Jeep,Grand_Cherokee_Upland, 34888, Freehold, NJ ,20901,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+968,2018,Jeep,Wrangler_Willys_Wheeler, 31995, Edison, NJ ,29533,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+969,2018,Jeep,Grand_Cherokee_Trailhawk, 33575, Brooklyn, NY ,22358,Minor Damage,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,4
+970,2013,Jeep,Wrangler_Sport, 27899, Jersey City, NJ ,26853,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+971,2015,Jeep,Wrangler, 27995, Uniondale, NY ,80260,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,10
+972,2018,Jeep,Renegade_Trailhawk, 24499, Eatontown, NJ ,22958,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+973,2019,Jeep,Grand_Cherokee_Altitude, 36495, Fairfield, CT ,17825,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+974,2020,Jeep,Gladiator_Mojave, 59995, Rockaway, NJ ,4445,No Accident or Damage Reported,Pickup,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,1
+975,2008,Jeep,Grand_Cherokee_Laredo, 4650, Little Ferry, NJ ,160918,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.7_L_,3+ Owners,Multiple Use,14
+976,2019,Jeep,Cherokee_Latitude_Plus, 22000, Nanuet, NY ,59376,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,9
+977,2018,Jeep,Grand_Cherokee_Laredo_E, 30810, Ocean, NJ ,27560,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+978,2019,Jeep,Cherokee_Limited_Edition, 29810, Ocean, NJ ,26121,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+979,2018,Jeep,Grand_Cherokee_Altitude, 32995, Bay Shore, NY ,35733,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+980,2018,Jeep,Wrangler_Sport_S, 39978, Butler, NJ ,35381,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+981,2020,Jeep,Gladiator_Rubicon, 52988, Eatontown, NJ ,18361,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,4
+982,2018,Jeep,Grand_Cherokee_Laredo_E, 30810, Ocean, NJ ,35108,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+983,2017,Jeep,Wrangler_Sport, 35947, Butler, NJ ,27101,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+984,2019,Jeep,Grand_Cherokee_Laredo_E, 33969, Butler, NJ ,36397,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+985,2019,Jeep,Grand_Cherokee_Laredo_E, 33979, Butler, NJ ,30825,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+986,2019,Jeep,Cherokee_Limited_Edition, 29829, Butler, NJ ,35028,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,3
+987,2019,Jeep,Grand_Cherokee_Limited_Edition, 37163, Butler, NJ ,26707,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+988,2013,Jeep,Wrangler_Sport, 27000, Flemington, NJ ,12005,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+989,2018,Jeep,Wrangler_Rubicon, 49995, Brooklyn, NY ,20264,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+990,2021,Jeep,Wrangler_Sport, 33845, Westbury, NY ,9632,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+991,2017,Jeep,Wrangler_Sahara, 31999, Woodbridge, NJ ,43284,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,3
+992,2011,Jeep,Grand_Cherokee_Overland, 16000, Norwalk, CT ,92347,No Accident or Damage Reported,SUV,Gray_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,39
+993,2017,Jeep,Wrangler_Rubicon, 33400, New York, NY ,26618,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+994,2018,Jeep,Grand_Cherokee_Limited_Edition, 29995, Robbinsville, NJ ,35854,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+995,2017,Jeep,Grand_Cherokee_Limited_Edition, 27991, Bohemia, NY ,50840,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+996,2019,Jeep,Cherokee_Limited_Edition, 21950, Bronx, NY ,38063,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,4
+997,2019,Jeep,Cherokee_Limited_Edition, 24990, Brooklyn, NY ,17129,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,6
+998,2020,Jeep,Cherokee_Limited_Edition, 26950, Woodside, NY ,7942,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,2
+999,2018,Jeep,Wrangler_Sport, 37900, Nanuet, NY ,36150,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+1000,2017,Jeep,Grand_Cherokee_Limited_Edition, 23869, New York, NY ,77301,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,7
+1001,2018,Jeep,Wrangler_Sahara, 36888, Bayside, NY ,38609,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+1002,2018,Jeep,Compass_Limited_Edition, 20120, Syosset, NY ,20485,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+1003,2018,Jeep,Wrangler_Altitude, 38995, Croton On Hudson, NY ,26715,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+1004,2020,Jeep,Grand_Cherokee_Summit, 54167, East Brunswick, NJ ,5015,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Vehicle Use,3
+1005,2018,Jeep,Grand_Cherokee_Laredo, 31188, Oakhurst, NJ ,31295,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,9
+1006,2014,Jeep,Compass_Latitude, 10995, Saint James, NY ,73524,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+1007,2017,Jeep,Wrangler_Sport, 29490, Freehold, NJ ,53037,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,12
+1008,2018,Jeep,Compass_Limited_Edition, 20590, Massapequa Park, NY ,35229,Accident Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+1009,2018,Jeep,Compass_Altitude_Edition, 19980, Freeport, NY ,34265,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+1010,2020,Jeep,Wrangler_Sport, 37990, New York, NY,5434,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+1011,2019,Jeep,Grand_Cherokee_Upland, 32900, New York, NY ,28423,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+1012,2015,Jeep,Grand_Cherokee_Limited_Edition, 19105, FAIR LAWN, NJ ,68922,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,24
+1013,2020,Jeep,Grand_Cherokee_Limited_Edition, 39555, Oakhurst, NJ ,14687,Minor Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+1014,2013,Jeep,Wrangler_Sahara, 18990, Sayreville, NJ ,169638,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+1015,2017,Jeep,Renegade_Sport, 18997, FAIR LAWN, NJ ,12540,No Accident or Damage Reported,SUV,Orange_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Vehicle Use,2
+1016,2017,Jeep,Patriot_Sport, 11995, Plainfield, NJ ,74338,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,4
+1017,2014,Jeep,Cherokee_Latitude, 15492, Haskell, NJ ,66808,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,15
+1018,2019,Jeep,Cherokee_Limited_Edition, 27000, Nanuet, NY ,40939,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,12
+1019,2017,Jeep,Compass_Trailhawk, 21524, West Caldwell, NJ ,71485,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,17
+1020,2018,Jeep,Compass_Limited_Edition, 26369, Flemington, NJ ,20592,Accident Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+1021,2018,Jeep,Wrangler_Sahara, 42888, Bayside, NY ,38218,Accident/Minor Damage,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+1022,2017,Jeep,Grand_Cherokee_Limited_Edition, 29990, Shrewsbury, NJ ,28297,Accident Reported,SUV,Brown_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,10
+1023,2016,Jeep,Grand_Cherokee_Laredo, 21918, Greenvale, NY ,55731,Minor Damage,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+1024,2016,Jeep,Wrangler_Sport, 27995, Inwood, NY ,77615,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,11
+1025,2014,Jeep,Grand_Cherokee_Laredo, 10999, S Hackensack, NJ ,169546,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,10
+1026,2019,Jeep,Grand_Cherokee_Altitude, 26998, South Hackensack, NJ ,31749,Minor Damage,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+1027,2014,Jeep,Grand_Cherokee_Altitude, 18995, Roslyn Heights, NY ,77430,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,9
+1028,2016,Jeep,Renegade_Limited, 15950, Woodside, NY ,57218,Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+1029,2016,Jeep,Grand_Cherokee_Limited_Edition, 23995, Freeport, NY ,77555,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+1030,2015,Jeep,Grand_Cherokee_Altitude, 20395, Roslyn Heights, NY ,78324,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,11
+1031,2018,Jeep,Grand_Cherokee_Altitude, 29667, Hempstead, NY ,31470,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+1032,2019,Jeep,Grand_Cherokee_Altitude, 34788, Summit, NJ ,53717,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+1033,2018,Jeep,Grand_Cherokee_Limited_Edition, 31444, Summit, NJ ,41899,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+1034,2019,Jeep,Cherokee_Limited_Edition, 28977, Summit, NJ ,29936,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,6
+1035,2019,Jeep,Cherokee_Limited_Edition, 28977, Summit, NJ ,27796,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,7
+1036,2019,Jeep,Cherokee_Limited_Edition, 26888, Summit, NJ ,45939,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+1037,2019,Jeep,Cherokee_Trailhawk_Elite, 30888, Summit, NJ ,40000,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,2
+1038,2019,Jeep,Grand_Cherokee_Summit, 41000, Summit, NJ ,47986,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+1039,2018,Jeep,Wrangler_Sahara, 43995, Croton On Hudson, NY ,47051,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+1040,2018,Jeep,Wrangler_Sport, 37995, Brooklyn, NY ,12766,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+1041,2020,Jeep,Compass_Trailhawk, 29991, East Brunswick, NJ ,3005,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Vehicle Use,2
+1042,2014,Jeep,Grand_Cherokee_Summit, 27491, Bohemia, NY ,76692,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,25
+1043,2015,Jeep,Grand_Cherokee_Altitude, 18995, Bronx, NY ,0,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,7
+1044,2013,Jeep,Wrangler_Sport, 23400, White Plains, NY ,87462,Accident Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+1045,2014,Jeep,Patriot_Sport, 9995, Saint James, NY ,50818,Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,19
+1046,2018,Jeep,Grand_Cherokee_Limited_Edition, 32100, Jersey City, NJ ,22285,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+1047,2009,Jeep,Wrangler_X, 15495, Hasbrouck Heights, NJ ,103898,Accident Reported,SUV,Green_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,2
+1048,2018,Jeep,Grand_Cherokee_Limited_Edition, 30666, Centereach, NY ,26837,Accident/Minor Damage,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+1049,2015,Jeep,Cherokee_Latitude, 14970, Little Ferry, NJ ,88052,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,2-Owner,Personal Use,9
+1050,2019,Jeep,Cherokee_Limited_Edition, 23999, Jamaica, NY ,38151,Accident Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+1051,2015,Jeep,Cherokee_Latitude, 14970, Little Ferry, NJ ,88052,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,2-Owner,Personal Use,9
+1052,2018,Jeep,Grand_Cherokee_Limited_Edition, 30666, Centereach, NY ,26837,Accident/Minor Damage,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+1053,2018,Jeep,Grand_Cherokee_Laredo, 25495, Great Neck, NY ,41151,Accident Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+1054,2018,Jeep,Grand_Cherokee_Limited_Edition, 27309, Irvington, NJ ,43787,Accident/Minor Damage,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+1055,2019,Jeep,Compass_Trailhawk, 21259, Irvington, NJ ,54039,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Rental Use,1
+1056,2019,Jeep,Grand_Cherokee_Limited_Edition_X, 40000, Bronx, NY ,15031,Accident Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+1057,2018,Jeep,Wrangler_Rubicon, 44995, Little Ferry, NJ ,18581,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+1058,2015,Jeep,Wrangler_Sport, 23995, Highland Park, NJ ,92479,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,19
+1059,2019,Jeep,Grand_Cherokee_High_Altitude, 40995, Brooklyn, NY ,11187,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+1060,2018,Jeep,Compass_Limited_Edition, 26989, Freehold, NJ ,28627,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+1061,2015,Jeep,Wrangler_Sahara, 30900, Freehold, NJ ,86041,Accident Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+1062,2014,Jeep,Grand_Cherokee_Limited_Edition, 20595, Hackettstown, NJ ,79224,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,19
+1063,2020,Jeep,Grand_Cherokee_Altitude, 38900, Bronx, NY ,21063,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+1064,2018,Jeep,Compass_Limited_Edition, 24295, Brooklyn, NY ,24487,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+1065,2018,Jeep,Wrangler_Sport_S, 35999, Eatontown, NJ ,44331,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,14
+1066,2019,Jeep,Grand_Cherokee_Altitude, 35997, Keyport, NJ ,28131,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+1067,2018,Jeep,Grand_Cherokee_Limited_Edition, 22995, Jersey City, NJ ,83849,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,16
+1068,2017,Jeep,Grand_Cherokee_Laredo, 26300, New York, NY ,28758,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+1069,2018,Jeep,Grand_Cherokee_Limited_Edition, 29995, Ramsey, NJ ,50308,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+1070,2016,Jeep,Wrangler_Sport, 31995, Lakewood, NJ ,60099,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,13
+1071,2019,Jeep,Cherokee_Overland, 28995, Ramsey, NJ ,44767,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,8
+1072,2010,Jeep,Wrangler_Sahara, 19995, Asbury Park, NJ ,94870,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,27
+1073,2020,Jeep,Grand_Cherokee_Laredo_E, 34459, Mount Kisco, NY ,22494,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+1074,2019,Jeep,Cherokee_Latitude_Plus, 26589, Robbinsville, NJ ,21892,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+1075,2020,Jeep,Grand_Cherokee_Laredo_E, 34459, Mount Kisco, NY ,22494,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+1076,2017,Jeep,Renegade_Latitude, 20689, Freehold, NJ ,38738,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+1077,2019,Jeep,Cherokee_Limited_Edition, 28745, Lakewood, NJ ,19444,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,3
+1078,2018,Jeep,Wrangler_Sahara, 46400, New York, NY ,14332,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+1079,2018,Jeep,Grand_Cherokee_Laredo_E, 28888, Freehold, NJ ,36380,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+1080,2019,Jeep,Cherokee_Limited_Edition, 27995, Lakewood, NJ ,28658,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,1
+1081,2020,Jeep,Grand_Cherokee_Laredo, 32900, New York, NY ,21484,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+1082,2019,Jeep,Cherokee_Limited_Edition, 26777, Lodi, NJ ,27964,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,2
+1083,2019,Jeep,Compass_Altitude_Edition, 26195, Robbinsville, NJ ,37871,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,15
+1084,2018,Jeep,Grand_Cherokee_Limited_Edition, 33488, Green Brook, NJ ,21300,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+1085,2020,Jeep,Wrangler_Sport, 36495, Lakewood, NJ ,10150,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+1086,2019,Jeep,Cherokee_Limited_Edition, 30997, Robbinsville, NJ ,1158,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,4
+1087,2018,Jeep,Grand_Cherokee_Limited_Edition, 33995, Lakewood, NJ ,20015,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+1088,2019,Jeep,Cherokee_Limited_Edition, 28995, West Nyack, NY ,23889,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,9
+1089,2016,Jeep,Cherokee_Limited_Edition, 16995, West Nyack, NY ,115972,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+1090,2017,Jeep,Renegade_Sport, 16900, Avenel, NJ ,85089,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+1091,2018,Jeep,Wrangler_Sport_S, 37990, Newark, NJ,32064,No Accident or Damage Reported,SUV,Orange_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+1092,2014,Jeep,Compass_Latitude, 11274, Bridgewater, NJ ,105097,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,16
+1093,2019,Jeep,Cherokee_Limited_Edition, 27995, Rockaway, NJ ,39142,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,8
+1094,2016,Jeep,Cherokee_Latitude, 14444, Irvington, NJ ,108631,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,8
+1095,2020,Jeep,Grand_Cherokee_Trailhawk, 38991, Little Falls, NJ ,24099,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,7
+1096,2016,Jeep,Compass_Latitude, 15788, Saint James, NY ,71085,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,12
+1097,2016,Jeep,Patriot_Sport, 14495, Huntington Station, NY ,73854,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,13
+1098,2015,Jeep,Wrangler_Sport, 25349, Old Bridge, NJ ,88750,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,23
+1099,2012,Jeep,Wrangler_Sahara, 19599, Sussex, NJ ,164610,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
