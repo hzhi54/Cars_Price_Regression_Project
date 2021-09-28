@@ -1,0 +1,1101 @@
+,Year,Brand,Model,Cost,City,State,Mileage,Accident,Body,Engine,Owners,Usefor,Services
+0,2020,Kia,Telluride_EX, 43720, Green Bay, WI ,45159,No Accident or Damage Reported,SUV,Green_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,10
+1,2020,Kia,Soul_S, 18500, Forsyth, GA ,24460,No Accident or Damage Reported,Wagon,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+2,2021,Kia,Seltos_EX, 27500, Norwalk, OH ,17530,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+3,2017,Kia,Sportage_LX, 19992, Santa Fe, NM ,27607,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+4,2020,Kia,Forte_LXS, 18877, Clearwater, FL ,12060,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+5,2020,Kia,Optima_LX, 19390, Vacaville, CA ,42242,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+6,2020,Kia,Forte_GT-Line, 19998, Deland, FL ,44332,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+7,2018,Kia,Stinger_Base, 27988, Ventura, CA ,30606,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+8,2013,Kia,Optima_EX, 11000, Tracy, CA ,119451,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,17
+9,2018,Kia,Stinger_Base, 28974, The Dalles, OR ,19152,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+10,2017,Kia,Sorento_LX, 21484, Joplin, MO ,32644,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+11,2019,Kia,Niro_LX, 21400, Fairfax, VA ,25444,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,7
+12,2019,Kia,Forte_S, 17299, Bohemia, NY ,20127,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+13,2018,Kia,Optima_EX, 14999, Goose Creek, SC ,112682,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,21
+14,2019,Kia,Optima_S, 20627, Bohemia, NY ,11986,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+15,2018,Kia,Sorento_LX, 22999, Stuart, FL ,24909,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+16,2019,Kia,Optima_LX, 19878, Clearwater, FL ,27564,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+17,2020,Kia,Forte_GT-Line, 22777, Paso Robles, CA ,16483,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+18,2019,Kia,Sportage_LX, 21698, South Yarmouth, MA ,29706,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+19,2019,Kia,Sorento_EX, 30591, Harlingen, TX ,14577,No Accident or Damage Reported,SUV,Brown_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,5
+20,2019,Kia,Optima_S, 19593, Lansing, MI ,69871,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+21,2019,Kia,Sorento_LX, 25995, Leesburg, FL ,14164,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+22,2020,Kia,Telluride_S, 44688, Kingwood, TX ,18630,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,5
+23,2020,Kia,Soul_GT-Line, 19459, Harrisonburg, VA ,18056,No Accident or Damage Reported,Wagon,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+24,2017,Kia,Niro_FE, 14988, Deland, FL ,86252,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,21
+25,2016,Kia,Cadenza_Premium, 19995, Saint James, NY ,40290,No Accident or Damage Reported,Sedan,6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,8
+26,2019,Kia,Soul+, 18900, Hackettstown, NJ ,19069,No Accident or Damage Reported,Wagon,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+27,2019,Kia,Sorento_LX, 23900, West Nyack, NY ,21581,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+28,2019,Kia,Sorento_LX, 26000, Neptune, NJ ,31001,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+29,2018,Kia,Optima_LX, 18400, Stamford, CT ,32924,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+30,2018,Kia,Optima_EX, 19900, Stamford, CT ,31006,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+31,2018,Kia,Sportage_LX, 21400, Bridgewater, NJ ,18589,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+32,2018,Kia,Sportage_SX_Turbo, 26880, Brooklyn, NY ,14707,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+33,2018,Kia,Soul_Base, 15800, Hackettstown, NJ ,48713,No Accident or Damage Reported,Wagon,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,8
+34,2019,Kia,Sedona_EX, 29989, Sayville, NY ,22471,No Accident or Damage Reported,Minivan,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,5
+35,2020,Kia,Soul_LX, 19700, Hackettstown, NJ ,1489,No Accident or Damage Reported,Wagon,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+36,2018,Kia,Optima_LX, 18900, Bridgewater, NJ ,29218,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+37,2020,Kia,Soul_LX, 17991, Totowa, NJ ,16012,No Accident or Damage Reported,Wagon,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+38,2019,Kia,Niro_LX, 21974, Princeton, NJ ,13700,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,4
+39,2019,Kia,Stinger_GT2, 40965, Bohemia, NY ,15052,Accident Reported,Sedan,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,8
+40,2019,Kia,Forte_LXS, 18900, Bridgewater, NJ ,30021,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+41,2016,Kia,Optima_LX, 15550, Freehold, NJ ,53855,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,13
+42,2020,Kia,Forte_FE, 17995, Denville, NJ ,9211,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+43,2018,Kia,Optima_LX, 17800, Bridgewater, NJ ,40526,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+44,2019,Kia,Sorento_EX, 27999, Jersey City, NJ ,36696,No Accident or Damage Reported,SUV,Brown_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,4
+45,2020,Kia,Forte_LXS, 18752, East Brunswick, NJ ,23596,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+46,2019,Kia,Sorento_LX, 23651, Bohemia, NY ,16777,Minor Damage,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+47,2018,Kia,Soul+, 18495, Hackettstown, NJ ,27843,No Accident or Damage Reported,Wagon,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+48,2018,Kia,Forte_LX, 13388, Saint James, NY ,67311,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+49,2019,Kia,Sportage_SX_Turbo, 27900, Hackettstown, NJ ,30003,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+50,2019,Kia,Sportage_SX_Turbo, 27900, Hackettstown, NJ ,30003,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+51,2018,Kia,Forte_LX, 13388, Saint James, NY ,67311,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+52,2020,Kia,Soul_LX, 19500, Hackettstown, NJ ,24845,No Accident or Damage Reported,Wagon,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+53,2019,Kia,Optima_EX, 17878, Irvington, NJ ,58714,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,11
+54,2018,Kia,Sportage_EX, 21500, West Nyack, NY ,51090,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+55,2017,Kia,Forte_LX, 14995, Denville, NJ ,36697,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+56,2018,Kia,Sportage_LX, 18500, Hackettstown, NJ ,61614,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+57,2020,Kia,Sportage_LX, 23709, Freehold, NJ ,12112,No Accident or Damage Reported,SUV,Burgundy_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+58,2016,Kia,Optima_EX, 14500, Morristown, NJ ,103658,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+59,2017,Kia,Forte_EX, 15970, Ramsey, NJ ,21069,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+60,2019,Kia,Optima_SX, 23699, Ramsey, NJ ,30917,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+61,2019,Kia,Sportage_LX, 21900, Bridgewater, NJ ,32341,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+62,2020,Kia,K900_Luxury, 47995, Parsippany, NJ ,11023,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,7
+63,2018,Kia,Sportage_EX, 21998, COLONIA, NJ ,52086,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+64,2017,Kia,Cadenza_Limited, 24995, Yonkers, NY ,41115,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,13
+65,2019,Kia,Sportage_EX, 23975, FAIR LAWN, NJ ,17626,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+66,2019,Kia,Forte_S, 19704, Freehold, NJ ,18287,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+67,2018,Kia,Niro_LX, 19763, Great Neck, NY ,26624,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,9
+68,2019,Kia,Sportage_EX, 24500, Stamford, CT ,33700,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+69,2019,Kia,Sorento_LX, 22328, East Meadow, NY ,28515,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+70,2019,Kia,Sportage_LX, 21295, FAIR LAWN, NJ ,7874,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+71,2019,Kia,Sorento_LX, 25382, East Meadow, NY ,38233,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,3
+72,2019,Kia,Sorento_EX, 28575, Great Neck, NY ,34406,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,4
+73,2019,Kia,Sportage_LX, 21137, Ramsey, NJ ,35050,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+74,2020,Kia,Soul_GT-Line, 16995, South Hackensack, NJ ,49570,No Accident or Damage Reported,Wagon,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+75,2019,Kia,Sportage_LX, 21137, Ramsey, NJ ,35050,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+76,2018,Kia,Sportage_EX, 20595, Belmar, NJ ,75607,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+77,2020,Kia,Soul_GT-Line, 19364, Bronx, NY ,13374,Minor Damage,Wagon,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+78,2019,Kia,Soul_Base, 17352, Lakewood, NJ ,27745,Accident/Minor Damage,Wagon,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,9
+79,2018,Kia,Sportage_EX, 23400, Bridgewater, NJ ,47030,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+80,2018,Kia,Sportage_LX, 19300, Hackettstown, NJ ,53044,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,6
+81,2019,Kia,Forte_LXS, 17000, Bronx, NY ,14420,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+82,2013,Kia,Optima_LX, 10995, Bay Shore, NY ,68388,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,16
+83,2018,Kia,Sorento_EX, 23000, Englewood, NJ ,31686,Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+84,2018,Kia,Sportage_EX, 18783, Hempstead, NY ,66483,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+85,2019,Kia,Sorento_L, 24700, FAIR LAWN, NJ ,16583,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+86,2018,Kia,Optima_LX, 15655, Elizabeth, NJ ,125302,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+87,2020,Kia,Forte_GT, 20990, Bronx, NY ,9217,No Accident or Damage Reported,Sedan,Orange_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,2
+88,2020,Kia,Optima_SE, 21543, Freehold, NJ ,8275,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+89,2019,Kia,Sportage_LX, 20288, Freehold, NJ ,13387,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+90,2019,Kia,Sportage_EX, 22522, Freehold, NJ ,31208,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+91,2019,Kia,Soul+, 16000, White Plains, NY ,54202,No Accident or Damage Reported,Wagon,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+92,2019,Kia,Sorento_EX, 31897, Freehold, NJ ,22411,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,6
+93,2020,Kia,Optima_S, 22835, Freehold, NJ ,28603,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+94,2019,Kia,Sorento_LX, 24683, Clifton, NJ ,31287,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+95,2019,Kia,Sportage_EX, 22834, East Meadow, NY ,23273,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+96,2018,Kia,Optima_LX, 18125, East Meadow, NY ,38840,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+97,2020,Kia,Optima_LX, 19995, Edison, NJ ,19806,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+98,2019,Kia,Sportage_LX, 19795, Jersey City, NJ ,8617,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+99,2018,Kia,Optima_EX, 20838, Ramsey, NJ ,35685,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+100,2019,Kia,Sorento_LX, 24999, Yonkers, NY ,37667,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,9
+101,2019,Kia,Sportage_EX, 23500, Jersey City, NJ ,5359,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+102,2020,Kia,Forte_LXS, 19899, FAIR LAWN, NJ ,6983,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+103,2019,Kia,Sportage_LX, 21000, FAIR LAWN, NJ ,23939,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+104,2018,Kia,Stinger_Base, 27967, Ramsey, NJ ,17451,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+105,2019,Kia,Optima_S, 20944, Englewood, NJ ,18955,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+106,2019,Kia,Sportage_EX, 25000, Bronx, NY ,5868,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+107,2018,Kia,Sorento_L, 18995, Bay Shore, NY ,43680,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+108,2019,Kia,Sorento_LX, 24995, Denville, NJ ,33606,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+109,2019,Kia,Sorento_EX, 30299, Bronx, NY ,17852,Minor Damage,SUV,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,3
+110,2019,Kia,Forte_EX, 17699, Jamaica, NY ,31324,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+111,2015,Kia,Sportage_LX, 11964, Wantagh, NY ,98272,Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,21
+112,2019,Kia,Sorento_EX, 29995, Rockaway, NJ ,28667,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,11
+113,2018,Kia,Sportage_LX, 18804, Fair Lawn, NJ ,56143,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,9
+114,2018,Kia,Optima_SX, 23900, Hackettstown, NJ ,30085,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+115,2019,Kia,Sorento_LX, 22900, Lakewood, NJ ,33280,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+116,2019,Kia,Optima_LX, 20995, North Brunswick, NJ ,16139,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+117,2019,Kia,Forte_LXS, 17133, East Meadow, NY ,11687,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+118,2018,Kia,Sorento_LX, 19995, Commack, NY ,36363,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+119,2018,Kia,Forte_LX, 15900, Hackettstown, NJ ,24417,Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+120,2019,Kia,Sorento_LX, 24499, Flemington, NJ ,33671,Accident/Minor Damage,SUV,Brown_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+121,2019,Kia,Forte_LXS, 19919, Freehold, NJ ,8227,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+122,2020,Kia,Telluride_S, 44849, Freehold, NJ ,23665,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,7
+123,2018,Kia,Optima_EX, 23870, Freehold, NJ ,14281,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+124,2020,Kia,Telluride_EX, 44635, Freehold, NJ ,35437,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,7
+125,2020,Kia,Telluride_EX, 44635, Freehold, NJ ,35437,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,7
+126,2018,Kia,Sedona_SX_Limited, 32500, Jersey City, NJ ,23433,No Accident or Damage Reported,Minivan,Bronze_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,3
+127,2019,Kia,Sorento_LX, 24995, Yonkers, NY ,29971,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+128,2017,Kia,Sportage_LX, 19995, Denville, NJ ,42422,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+129,2017,Kia,Sorento_LX, 19998, COLONIA, NJ ,41533,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+130,2017,Kia,Sorento_LX, 21959, Avenel, NJ ,32036,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+131,2018,Kia,Sportage_EX, 18998, Woodside, NY ,29258,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+132,2014,Kia,Sorento_SX_Limited, 14725, Keyport, NJ ,103058,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,23
+133,2018,Kia,Stinger_GT2, 38595, Nanuet, NY ,20358,No Accident or Damage Reported,Sedan,Red_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,9
+134,2018,Kia,Optima_EX, 18500, Bronx, NY ,23619,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+135,2020,Kia,Soul_LX, 18997, FAIR LAWN, NJ ,12509,No Accident or Damage Reported,Wagon,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+136,2019,Kia,Forte_LXS, 16995, Jamaica, NY ,19645,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+137,2018,Kia,Sportage_EX, 22815, FAIR LAWN, NJ ,18783,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+138,2015,Kia,Soul_Base, 8995, Highland Park, NJ ,126229,No Accident or Damage Reported,Wagon,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,8
+139,2021,Kia,Forte_GT-Line, 23888, Bronx, NY ,3041,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+140,2019,Kia,Sorento_SX, 32569, East Meadow, NY ,8966,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,6
+141,2019,Kia,Sorento_LX, 24762, East Meadow, NY ,8394,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+142,2017,Kia,Sorento_LX, 20995, North Brunswick, NJ ,49853,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+143,2018,Kia,Optima_S, 19495, Hackettstown, NJ ,28720,Accident Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+144,2016,Kia,Forte_LX, 12700, Hackettstown, NJ ,69126,Minor Damage,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,12
+145,2016,Kia,Sportage_LX, 16900, Hackettstown, NJ ,64985,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,24
+146,2018,Kia,Optima_EX, 18900, Hackettstown, NJ ,50609,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+147,2017,Kia,Optima_EX, 18161, Saint James, NY ,48301,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,1
+148,2019,Kia,Optima_EX, 24900, Hackettstown, NJ ,13256,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,2
+149,2018,Kia,Niro_LX, 18995, Ramsey, NJ ,45550,Minor Damage,SUV,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,12
+150,2018,Kia,Sportage_SX_Turbo, 24500, West Nyack, NY ,36483,Accident Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+151,2018,Kia,Sportage_LX, 16000, Newark, NJ ,111180,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Vehicle Use,16
+152,2018,Kia,Sportage_LX, 19995, Denville, NJ ,43185,Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+153,2019,Kia,Sorento_LX, 25995, North Brunswick, NJ ,27143,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+154,2018,Kia,Stinger_Base, 29995, North Brunswick, NJ ,21199,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+155,2018,Kia,Forte_LX, 15995, North Brunswick, NJ ,56596,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+156,2018,Kia,Forte_LX, 16995, North Brunswick, NJ ,33186,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+157,2018,Kia,Optima_LX, 18495, South Amboy, NJ ,46825,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+158,2015,Kia,Optima_EX, 15871, Ramsey, NJ ,54698,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+159,2019,Kia,Sportage_SX_Turbo, 29700, Hackettstown, NJ ,22710,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+160,2019,Kia,Sportage_EX, 24400, Stamford, CT ,27290,Accident/Minor Damage,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+161,2015,Kia,Optima_EX, 10495, Red Bank, NJ ,164263,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,21
+162,2019,Kia,Sportage_SX_Turbo, 28995, Denville, NJ ,23400,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+163,2018,Kia,Optima_LX, 18495, Denville, NJ ,44662,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+164,2020,Kia,Forte_LXS, 20995, Denville, NJ ,11517,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+165,2018,Kia,Sedona_LX, 24400, Bridgewater, NJ ,43791,No Accident or Damage Reported,Minivan,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,1
+166,2019,Kia,Sorento_LX, 25995, Denville, NJ ,29803,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+167,2020,Kia,Soul_LX, 19795, Yonkers, NY ,5863,No Accident or Damage Reported,Wagon,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+168,2018,Kia,Stinger_GT2, 36490, Valley Stream, NY ,38397,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,5
+169,2019,Kia,Sportage_LX, 20648, Brooklyn, NY ,18271,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+170,2019,Kia,Cadenza_Premium, 23995, Wall Township, NJ ,12870,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,3
+171,2019,Kia,Sportage_EX, 19999, Woodside, NY ,22878,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+172,2019,Kia,Sportage_LX, 21999, Rutherford, NJ ,21880,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+173,2018,Kia,Sedona_EX, 23442, Mahwah, NJ ,65000,Accident/Minor Damage,Minivan,Red_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,14
+174,2020,Kia,Soul_EX, 20139, Ramsey, NJ ,24915,No Accident or Damage Reported,Wagon,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+175,2019,Kia,Sportage_EX, 24375, Ramsey, NJ ,32706,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+176,2013,Kia,Rio_SX, 6999, North Plainfield, NJ ,134389,No Accident or Damage Reported,Hatchback,Red_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,8
+177,2020,Kia,Telluride_SX, 46999, Newark, NJ,36463,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,0
+178,2017,Kia,Sorento_EX, 21500, Bronx, NY ,75479,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,21
+179,2019,Kia,Sorento_LX, 23777, Eatontown, NJ ,21877,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+180,2019,Kia,Sportage_LX, 20250, Bronx, NY ,23717,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+181,2020,Kia,Forte_LXS, 20994, Neptune, NJ ,15340,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+182,2020,Kia,Telluride_S, 44499, Neptune, NJ ,26295,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,6
+183,2020,Kia,Telluride_S, 43900, Neptune, NJ ,34973,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,7
+184,2020,Kia,Stinger_GT2, 46762, Freehold, NJ ,23475,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,8
+185,2020,Kia,Sportage_LX, 19990, Huntington, NY ,23335,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+186,2018,Kia,Optima_EX, 18632, Lynbrook, NY ,29660,Major Damage,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+187,2019,Kia,Sportage_SX_Turbo, 24999, Huntington, NY ,38173,No Accident or Damage Reported,SUV,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+188,2015,Kia,Forte_LX, 9888, EATONTOWN, NJ ,102113,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,13
+189,2018,Kia,Sorento_EX, 26600, Stamford, CT ,30500,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,2
+190,2018,Kia,Sportage_EX, 22900, Stamford, CT ,34316,Minor Damage,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+191,2019,Kia,Optima_SX, 23990, Valley Stream, NY ,25509,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+192,2018,Kia,Stinger_Premium, 27995, Wall Township, NJ ,30342,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+193,2019,Kia,Sportage_EX, 21999, Irvington, NJ ,59514,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+194,2020,Kia,Forte_FE, 19900, Neptune, NJ ,17291,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+195,2018,Kia,Optima_EX, 19995, Saint James, NY ,48990,No Accident or Damage Reported,Sedan,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+196,2019,Kia,Sportage_EX, 24900, Hackettstown, NJ ,39894,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+197,2016,Kia,Sorento_EX, 21995, Saint James, NY ,36297,No Accident or Damage Reported,SUV,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,18
+198,2020,Kia,Sportage_LX, 23900, Hackettstown, NJ ,31570,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+199,2019,Kia,Sportage_LX, 22495, Hackettstown, NJ ,33333,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+200,2019,Kia,Sportage_LX, 21900, Hackettstown, NJ ,42245,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+201,2019,Kia,Niro_LX, 21900, Jersey City, NJ ,15767,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,3
+202,2019,Kia,Sportage_LX, 20995, Saint James, NY ,45878,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+203,2019,Kia,Sportage_LX, 20995, Saint James, NY ,45322,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+204,2019,Kia,Sportage_SX_Turbo, 27995, Saint James, NY ,20238,No Accident or Damage Reported,SUV,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+205,2019,Kia,Sorento_LX, 24495, Saint James, NY ,44593,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+206,2019,Kia,Sportage_LX, 21595, Saint James, NY ,32728,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+207,2019,Kia,Sportage_LX, 21595, Saint James, NY ,29956,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+208,2017,Kia,Sedona_LX, 25900, Hackettstown, NJ ,27591,No Accident or Damage Reported,Minivan,Brown_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,4
+209,2019,Kia,Sorento_LX, 25700, Hackettstown, NJ ,29892,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+210,2019,Kia,Sportage_EX, 24995, Saint James, NY ,35888,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+211,2019,Kia,Sorento_EX, 26995, Brooklyn, NY ,27369,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,4
+212,2020,Kia,Optima_LX, 21995, Denville, NJ ,20855,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+213,2018,Kia,Optima_S, 20000, Lakewood, NJ ,33696,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,7
+214,2019,Kia,Sorento_LX, 28307, Freehold, NJ ,22040,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+215,2019,Kia,Sportage_LX, 20849, Ramsey, NJ ,39136,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+216,2020,Kia,Soul_LX, 19595, Denville, NJ ,14681,No Accident or Damage Reported,Wagon,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+217,2019,Kia,Sorento_EX, 30156, Ramsey, NJ ,31423,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,0
+218,2017,Kia,Forte_LX, 10900, Bronx, NY ,92881,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,38
+219,2018,Kia,Optima_LX, 19395, Totowa, NJ ,9444,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+220,2016,Kia,Sorento_LX, 17995, North Brunswick, NJ ,37318,Accident/Minor Damage,SUV,Silver_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,10
+221,2016,Kia,Sorento_SX, 17595, Elizabeth, NJ ,101414,Accident Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,20
+222,2018,Kia,Optima_LX, 17500, Lakewood, NJ ,53275,Accident/Minor Damage,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Lease Use,11
+223,2019,Kia,Rio_S, 17497, Yonkers, NY ,2739,Accident Reported,Hatchback,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,10
+224,2019,Kia,Forte_LXS, 17500, FAIR LAWN, NJ ,31095,Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+225,2016,Kia,Sedona_LX, 16750, Morristown, NJ ,78493,Accident/Minor Damage,Minivan,Gray_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,14
+226,2018,Kia,Sportage_LX, 18995, Lakewood, NJ ,44779,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+227,2019,Kia,Sportage_LX, 18760, Massapequa Park, NY ,34713,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+228,2021,Kia,Telluride_EX, 45995, Wall Township, NJ ,8459,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,5
+229,2019,Kia,Forte_LXS, 18700, Hackettstown, NJ ,27517,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+230,2019,Kia,Sorento_LX, 26763, Freehold, NJ ,24183,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+231,2021,Kia,Stinger_GT2, 48835, Riverdale, NJ ,1491,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.3_L_,Number of Owners,Vehicle Use,4
+232,2019,Kia,Sportage_LX, 21459, Avenel, NJ ,24203,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+233,2018,Kia,Sportage_LX, 18888, Huntington, NY ,34477,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+234,2019,Kia,Sportage_LX, 19166, Brooklyn, NY ,29859,Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+235,2021,Kia,K5_GT-Line, 30995, Yonkers, NY ,11177,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,3
+236,2019,Kia,Soul_Base, 15885, Colonia, NJ ,44022,No Accident or Damage Reported,Wagon,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Corporate Use,4
+237,2018,Kia,Optima_LX, 17690, Watchung, NJ ,26800,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+238,2016,Kia,Sportage_LX, 15495, Rahway, NJ ,33125,Minor Damage,SUV,Blue_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,16
+239,2012,Kia,Soul, 5499, Garfield, NJ ,157450,No Accident or Damage Reported,Wagon,Green_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,23
+240,2013,Kia,Optima_LX, 7995, East Rutherford, NJ ,118250,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,7
+241,2018,Kia,Sorento_EX, 26643, Great Neck, NY ,16145,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,3
+242,2019,Kia,Forte_LXS, 18435, East Meadow, NY ,26475,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+243,2019,Kia,Sportage_LX, 20999, Jersey City, NJ ,22254,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+244,2019,Kia,Soul_Base, 17455, Ramsey, NJ ,35300,No Accident or Damage Reported,Wagon,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,4
+245,2019,Kia,Sportage_EX, 25782, Saint James, NY ,21591,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+246,2020,Kia,Soul_LX, 18995, Totowa, NJ ,10932,No Accident or Damage Reported,Wagon,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+247,2017,Kia,Niro_FE, 18995, Sussex, NJ ,59553,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Lease Use,11
+248,2016,Kia,Soul_Base, 11288, Green Brook, NJ ,81490,No Accident or Damage Reported,Wagon,White_Engine:_4_Cyl_1.6_L_,3+ Owners,Personal Use,9
+249,2019,Kia,Optima_LX, 18204, FAIR LAWN, NJ ,7347,Accident Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+250,2016,Kia,Optima_EX, 12195, Ramsey, NJ ,130125,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+251,2019,Kia,Optima_LX, 19795, FAIR LAWN, NJ ,28060,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+252,2019,Kia,Sportage_EX, 20395, Woodside, NY ,30698,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+253,2019,Kia,Sportage_SX_Turbo, 29400, Bridgewater, NJ ,23325,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+254,2019,Kia,Sportage_SX_Turbo, 28400, Bridgewater, NJ ,35286,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+255,2019,Kia,Optima_LX, 20400, Bridgewater, NJ ,46199,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+256,2019,Kia,Sportage_LX, 20948, Nutley, NJ ,49029,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+257,2020,Kia,Sportage_SX_Turbo, 29689, Bronx, NY ,17182,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,Number of Owners,Vehicle Use,1
+258,2019,Kia,Forte_LXS, 18550, Red Bank, NJ ,28688,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+259,2019,Kia,Sorento_LX, 19989, Jamaica, NY ,29219,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+260,2020,Kia,Forte_GT-Line, 19799, Lakewood, NJ ,23232,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+261,2018,Kia,Optima_LX, 13900, Jersey City, NJ ,38927,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+262,2019,Kia,Sorento_SX, 30800, Valley Stream, NY ,22687,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,2
+263,2019,Kia,Optima_LX, 17990, Valley Stream, NY ,34293,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+264,2018,Kia,Optima_LX, 14352, Woodside, NY ,25554,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+265,2014,Kia,Sorento_LX, 13995, Edison, NJ ,97716,No Accident or Damage Reported,SUV,Burgundy_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,36
+266,2020,Kia,Telluride_LX, 35995, Wall Township, NJ ,18247,Manufacturer Buyback,SUV,Red_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,10
+267,2019,Kia,Optima_SX, 22395, Copiague, NY ,27619,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+268,2020,Kia,Telluride_EX, 39900, West Nyack, NY ,14002,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.8_L_,2-Owner,Multiple Use,5
+269,2019,Kia,Forte_LXS, 17999, Jamaica, NY ,27591,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+270,2019,Kia,Forte_LXS, 17995, Keyport, NJ ,35750,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+271,2019,Kia,Forte_LXS, 17486, Orangeburg, NY ,35021,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+272,2020,Kia,Telluride_SX, 45990, Brooklyn, NY ,26604,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,3
+273,2020,Kia,Optima_LX, 18900, Nanuet, NY ,37421,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Rental Use,1
+274,2021,Kia,Soul_LX, 21264, East Meadow, NY ,8450,No Accident or Damage Reported,Wagon,Orange_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+275,2021,Kia,Soul_LX, 21264, East Meadow, NY ,8450,No Accident or Damage Reported,Wagon,Orange_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+276,2018,Kia,Optima_LX, 19136, East Meadow, NY ,29180,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+277,2019,Kia,Sorento_LX, 25857, East Meadow, NY ,22326,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+278,2020,Kia,Soul_S, 19999, Jersey City, NJ ,8642,No Accident or Damage Reported,Wagon,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+279,2014,Kia,Rio_LX, 8450, North Middletown, NJ ,97022,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,2
+280,2018,Kia,Optima_S, 19495, Edison, NJ ,26739,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+281,2020,Kia,Telluride_S, 42925, East Brunswick, NJ ,31111,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,2
+282,2020,Kia,Telluride_S, 43337, Ramsey, NJ ,33668,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,4
+283,2019,Kia,Optima_S, 22127, Ramsey, NJ ,30537,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+284,2019,Kia,Sorento_LX, 24200, Bronx, NY ,23016,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+285,2020,Kia,Telluride_EX, 44500, Bronx, NY ,12344,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,7
+286,2018,Kia,Optima_LX, 17897, Englewood, NJ ,33314,Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+287,2021,Kia,K5_GT, 33988, Englewood, NJ ,6407,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Vehicle Use,0
+288,2013,Kia,Optima_LX, 8999, Passaic, NJ ,94800,No Accident or Damage Reported,Sedan,Burgundy_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,27
+289,2016,Kia,Optima_LX, 14499, Bay Shore, NY ,55211,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,21
+290,2017,Kia,Optima_EX, 18500, Jersey City, NJ ,30087,Accident Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+291,2021,Kia,Forte_GT-Line, 23284, Yonkers, NY ,8644,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+292,2017,Kia,Optima_LX, 16997, FAIR LAWN, NJ ,24331,Accident Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+293,2019,Kia,Sportage_LX, 20394, FAIR LAWN, NJ ,18826,Accident Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+294,2020,Kia,Forte_GT, 22999, Flemington, NJ ,19341,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.6_L_,3+ Owners,Personal Use,3
+295,2021,Kia,Telluride_S, 45995, West Nyack, NY ,12030,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,6
+296,2019,Kia,Forte_LXS, 18088, Englewood, NJ ,32745,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+297,2019,Kia,Sportage_SX_Turbo, 27997, FAIR LAWN, NJ ,24503,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+298,2021,Kia,Sorento_SX_Prestige, 43900, Neptune, NJ ,7500,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+299,2020,Kia,Stinger_GT1, 42625, Clifton, NJ ,13836,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,2
+300,2017,Kia,Sportage_LX, 16900, Hackettstown, NJ ,89882,Accident Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Lease Use,12
+301,2015,Kia,Sorento_SX, 15995, Rahway, NJ ,77531,Accident/Minor Damage,SUV,Silver_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,17
+302,2012,Kia,Forte_EX, 6999, Mine Hill, NJ ,122330,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,1
+303,2019,Kia,Optima_LX, 20995, North Brunswick, NJ ,31879,Accident/Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+304,2017,Kia,Sorento_LX, 20995, North Brunswick, NJ ,46388,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+305,2018,Kia,Stinger_Premium, 29999, Huntington, NY ,46556,No Accident or Damage Reported,Sedan,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+306,2015,Kia,Sorento_LX, 14555, Huntington, NY ,91555,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+307,2019,Kia,Sorento_LX, 20555, Irvington, NJ ,49691,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Rental Use,0
+308,2018,Kia,Sedona_LX, 24500, Lakewood, NJ ,43328,No Accident or Damage Reported,Minivan,Black_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,9
+309,2017,Kia,Optima_EX, 18900, Jersey City, NJ ,42056,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,14
+310,2018,Kia,Stinger_Premium, 25981, Avenel, NJ ,79104,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+311,2019,Kia,Forte_S, 18900, Hackettstown, NJ ,35991,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+312,2019,Kia,Sportage_LX, 22995, North Brunswick, NJ ,38592,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+313,2019,Kia,Sorento_LX, 25900, Hackettstown, NJ ,26566,Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+314,2019,Kia,Sorento_LX, 25398, Lakewood, NJ ,19005,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+315,2017,Kia,Sorento_LX, 20595, Saint James, NY ,56038,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,2-Owner,Personal Use,20
+316,2019,Kia,Sportage_LX, 22726, Freehold, NJ ,20974,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+317,2015,Kia,Optima_SX, 15500, Summit, NJ ,59947,Accident/Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,14
+318,2019,Kia,Forte_LXS, 20486, Freehold, NJ ,17796,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+319,2018,Kia,Optima_LX, 20863, Freehold, NJ ,35764,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+320,2019,Kia,Sportage_LX, 23093, Freehold, NJ ,26101,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+321,2018,Kia,Optima_LX, 21405, Freehold, NJ ,19027,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+322,2019,Kia,Optima_LX, 22146, Freehold, NJ ,28166,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+323,2019,Kia,Sorento_LX, 21888, Butler, NJ ,30219,Accident Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+324,2021,Kia,Seltos_SX, 25995, Wall Township, NJ ,23122,Branded Title,SUV,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,9
+325,2011,Kia,Sorento_LX, 6995, Butler, NJ ,161114,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,16
+326,2021,Kia,Forte_GT-Line, 23995, Woodside, NY ,8177,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+327,2019,Kia,Sportage_LX, 22995, Denville, NJ ,22895,Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+328,2015,Kia,Forte_EX, 9495, Edison, NJ ,139814,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,14
+329,2019,Kia,Forte_LXS, 18791, Smithtown, NY ,29247,No Accident or Damage Reported,Sedan,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+330,2019,Kia,Stinger_Base, 31995, Denville, NJ ,26651,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+331,2018,Kia,Optima_LX, 18900, Bridgewater, NJ ,29049,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,1
+332,2016,Kia,Rio_LX, 12995, Sussex, NJ ,45765,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,5
+333,2018,Kia,Optima_LX, 17000, Bronx, NY ,29529,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+334,2015,Kia,Sorento_LX, 11300, Bronx, NY ,97393,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,11
+335,2021,Kia,Telluride_SX, 54500, Englewood, NJ ,4610,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Corporate Use,1
+336,2018,Kia,Niro_LX, 18888, Huntington, NY ,53930,No Accident or Damage Reported,SUV,4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,5
+337,2019,Kia,Sorento_LX, 26015, Clifton, NJ ,20747,Accident Reported,SUV,Brown_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+338,2020,Kia,Optima_S, 22000, Bronx, NY ,14210,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+339,2018,Kia,Stinger_Premium, 31499, Newark, NJ,12669,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+340,2019,Kia,Sportage_LX, 24500, Neptune, NJ ,18017,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+341,2011,Kia,Sorento_LX, 7499, S Hackensack, NJ ,135297,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,13
+342,2019,Kia,Soul_Base, 16788, Brooklyn, NY ,32194,No Accident or Damage Reported,Wagon,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,5
+343,2018,Kia,Sorento_LX, 22488, Green Brook, NJ ,66135,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,13
+344,2020,Kia,Telluride_EX, 49058, FAIR LAWN, NJ ,15841,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,3
+345,2018,Kia,Sorento_EX, 27884, Blauvelt, NY ,44086,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,6
+346,2019,Kia,Optima_LX, 19997, FAIR LAWN, NJ ,24661,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+347,2018,Kia,Sportage_EX, 23995, West Nyack, NY ,38397,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+348,2018,Kia,Sedona_LX, 25800, Bridgewater, NJ ,30380,Minor Damage,Minivan,Black_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,10
+349,2017,Kia,Optima_LX, 16998, West Babylon, NY ,38684,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+350,2017,Kia,Sportage_LX, 18621, Mountain Lakes, NJ ,39285,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,1
+351,2017,Kia,Sedona_LX, 21999, Freehold, NJ ,51816,No Accident or Damage Reported,Minivan,Brown_Engine:_6_Cyl_3.3_L_,2-Owner,Multiple Use,10
+352,2020,Kia,Soul_S, 17995, Wall Township, NJ ,10416,Branded Title,Wagon,Yellow_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+353,2018,Kia,Sedona_LX, 25939, Nutley, NJ ,20992,Minor Damage,Minivan,Black_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,8
+354,2019,Kia,Sportage_LX, 22995, Bronx, NY ,33414,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,13
+355,2018,Kia,Optima_SX, 26995, Bronx, NY ,18386,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+356,2016,Kia,Optima_EX, 18800, Jersey City, NJ ,16680,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,5
+357,2020,Kia,Sportage_LX, 23495, Elmwood Park, NJ ,6006,No Accident or Damage Reported,SUV,Bronze_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+358,2017,Kia,Sorento_LX, 17995, North Brunswick, NJ ,85518,Minor Damage,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+359,2017,Kia,Sorento_LX, 19995, Pt Pleasant, NJ ,61095,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,9
+360,2018,Kia,Sportage_LX, 19995, Woodside, NY ,20239,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+361,2018,Kia,Sportage_EX, 24400, North Plainfield, NJ ,36142,Accident Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+362,2018,Kia,Sportage_LX, 15999, Woodside, NY ,40415,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+363,2018,Kia,Sorento_EX, 26900, Hackettstown, NJ ,29461,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+364,2020,Kia,Telluride_SX, 49800, Hackettstown, NJ ,29819,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,7
+365,2019,Kia,Stinger_GT1, 38900, Hackettstown, NJ ,28902,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,7
+366,2019,Kia,Forte_S, 18800, Hackettstown, NJ ,25857,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+367,2015,Kia,Forte_EX, 8995, North Middletown, NJ ,103828,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,19
+368,2019,Kia,Sorento_LX, 23995, North Brunswick, NJ ,43835,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+369,2019,Kia,Sportage_LX, 21995, North Brunswick, NJ ,35787,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+370,2019,Kia,Sportage_LX, 22995, North Brunswick, NJ ,20105,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+371,2019,Kia,Forte_S, 20995, North Brunswick, NJ ,12261,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+372,2019,Kia,Optima_S, 22995, North Brunswick, NJ ,31238,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+373,2019,Kia,Sorento_LX, 27959, Avenel, NJ ,25930,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,5
+374,2017,Kia,Optima_EX, 17495, Red Bank, NJ ,84422,No Accident or Damage Reported,Sedan,Burgundy_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+375,2020,Kia,Forte_LXS, 20900, Jersey City, NJ ,6725,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+376,2019,Kia,Optima_LX, 20100, Jersey City, NJ ,30191,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+377,2015,Kia,Sorento_LX, 14945, Flemington, NJ ,114949,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,3
+378,2019,Kia,Sportage_LX, 22400, North Plainfield, NJ ,36262,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+379,2018,Kia,Optima_LX, 20200, Jersey City, NJ ,17875,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+380,2018,Kia,Optima_EX, 20995, Denville, NJ ,55569,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,14
+381,2019,Kia,Optima_LX, 21995, Denville, NJ ,26157,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+382,2015,Kia,Rio_EX, 9495, East Windsor, NJ ,89230,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.6_L_,3+ Owners,Personal Use,15
+383,2007,Kia,Sedona_EX, 7995, Highland Park, NJ ,32873,Accident/Minor Damage,Minivan,Blue_Engine:_6_Cyl_3.8_L_,2-Owner,Personal Use,24
+384,2020,Kia,Telluride_S, 41550, Brooklyn, NY ,19150,No Accident or Damage Reported,SUV,Green_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,0
+385,2019,Kia,Sorento_EX, 28672, Ramsey, NJ ,43485,Damage Reported,SUV,Brown_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,0
+386,2019,Kia,Sorento_LX, 23995, Yonkers, NY ,45482,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+387,2015,Kia,Sportage_LX, 16597, Keyport, NJ ,25438,Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+388,2019,Kia,Forte_FE, 16985, Paterson, NJ ,41062,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+389,2014,Kia,Optima_EX, 14978, Westbury, NY ,47596,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,21
+390,2019,Kia,Optima_LX, 20800, Bridgewater, NJ ,28986,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+391,2019,Kia,Sportage_LX, 20700, Bronx, NY ,33385,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,14
+392,2018,Kia,Optima_S, 18995, Saint James, NY ,0,No Accident or Damage Reported,Sedan,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+393,2018,Kia,Optima_LX, 20999, Nutley, NJ ,13919,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+394,2014,Kia,Cadenza_Premium, 12988, Green Brook, NJ ,111400,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,8
+395,2019,Kia,Forte_LXS, 20500, Neptune, NJ ,12426,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+396,2018,Kia,Optima_LX, 21500, Neptune, NJ ,21146,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+397,2020,Kia,Sportage_SX_Turbo, 29900, Neptune, NJ ,30128,No Accident or Damage Reported,SUV,Burgundy_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+398,2010,Kia,Sportage_LX, 6799, West Milford, NJ ,112088,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_2.7_L_,3+ Owners,Multiple Use,10
+399,2017,Kia,Sorento_LX, 16997, FAIR LAWN, NJ ,88409,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,13
+400,2018,Kia,Sorento_EX, 22296, Butler, NJ ,58730,Accident/Minor Damage,SUV,Red_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,5
+401,2006,Kia,Sorento_LX, 4999, Brooklyn, NY ,108448,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,11
+402,2019,Kia,Sedona_EX, 26995, Wall Township, NJ ,25210,Branded Title,Minivan,Red_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,17
+403,2018,Kia,Sorento_L, 14995, Wall Township, NJ ,87151,Accident Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+404,2018,Kia,Forte_LX, 16400, Bridgewater, NJ ,34339,Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+405,2018,Kia,Rio_S, 14555, Huntington, NY ,27408,Accident/Minor Damage,Hatchback,4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,5
+406,2013,Kia,Optima_LX, 7995, Nyack, NY ,151014,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,24
+407,2016,Kia,Optima_LX, 16695, Great Neck, NY ,28775,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,4
+408,2017,Kia,Sorento_LX, 21495, Wharton, NJ ,65003,No Accident or Damage Reported,SUV,Burgundy_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,9
+409,2019,Kia,Sorento_EX, 27888, Huntington, NY ,37592,No Accident or Damage Reported,SUV,6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,8
+410,2017,Kia,Soul_Base, 15900, Jersey City, NJ ,38536,No Accident or Damage Reported,Wagon,Green_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,8
+411,2019,Kia,Sportage_EX, 24900, Stamford, CT ,19923,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+412,2019,Kia,Forte_LXS, 13995, Robbinsville, NJ ,96897,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Rental Use,2
+413,2016,Kia,Optima_LX, 16900, Verona, NJ ,34378,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+414,2020,Kia,Soul_EX, 16995, Wall Township, NJ ,34976,Branded Title,Wagon,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+415,2019,Kia,Sportage_LX, 23995, Wharton, NJ ,23875,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+416,2018,Kia,Optima_EX, 21995, Saint James, NY ,34759,No Accident or Damage Reported,Sedan,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+417,2011,Kia,Sportage_EX, 8995, Brooklyn, NY ,94771,Accident Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,18
+418,2012,Kia,Rio_EX, 6789, Union, NJ ,75263,Accident Reported,Hatchback,Silver_Engine:_4_Cyl_1.6_L_,3+ Owners,Personal Use,12
+419,2016,Kia,Forte_LX, 10788, Saint James, NY ,92531,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Multiple Use,4
+420,2019,Kia,Sportage_LX, 22995, Saint James, NY ,26678,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+421,2018,Kia,Sportage_EX, 24995, Saint James, NY ,29718,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+422,2019,Kia,Sportage_LX, 23495, Saint James, NY ,20368,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+423,2011,Kia,Optima_SX, 6995, Union, NJ ,167067,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,30
+424,2019,Kia,Sportage_LX, 22995, Saint James, NY ,28152,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+425,2019,Kia,Sportage_LX, 22995, Saint James, NY ,26678,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+426,2015,Kia,Optima_LX, 12700, Hackettstown, NJ ,95763,No Accident or Damage Reported,Sedan,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,19
+427,2020,Kia,Sportage_LX, 24595, Saint James, NY ,29827,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+428,2018,Kia,Sportage_EX, 24995, Saint James, NY ,29718,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+429,2019,Kia,Sorento_LX, 25995, Point Pleasant Boro, NJ ,36696,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+430,2019,Kia,Sportage_EX, 27995, Denville, NJ ,29828,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+431,2019,Kia,Sportage_LX, 22995, Denville, NJ ,31461,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+432,2018,Kia,Sorento_EX, 27995, Denville, NJ ,55956,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,6
+433,2019,Kia,Soul+, 21995, Denville, NJ ,7848,No Accident or Damage Reported,Wagon,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+434,2019,Kia,Forte_LXS, 20995, Denville, NJ ,15761,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+435,2018,Kia,Sportage_LX, 20995, Denville, NJ ,37842,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+436,2019,Kia,Sorento_L, 21919, Riverdale, NJ ,52815,Accident Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+437,2018,Kia,Optima_LX, 14995, Totowa, NJ ,58651,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+438,2018,Kia,Sorento_LX, 20495, Edison, NJ ,55235,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,9
+439,2013,Kia,Sorento_LX, 9999, Flemington, NJ ,130571,Minor Damage,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,18
+440,2018,Kia,Forte_LX, 16445, Ramsey, NJ ,40488,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+441,2018,Kia,Sportage_EX, 22855, Bronx, NY ,27065,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,Number of Owners,Lease Use,4
+442,2015,Kia,Sportage_LX, 13587, Hempstead, NY ,65742,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,3+ Owners,Multiple Use,7
+443,2014,Kia,Sorento_SX, 9595, Brooklyn, NY ,142549,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.3_L_,3+ Owners,Multiple Use,33
+444,2019,Kia,Sorento_LX, 24999, Newark, NJ,28966,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+445,2016,Kia,Soul+, 15250, Morristown, NJ ,44396,Accident/Minor Damage,Wagon,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,7
+446,2020,Kia,Sorento_S, 29999, Newark, NJ,22590,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,3
+447,2016,Kia,Sportage_EX, 16000, FAIR LAWN, NJ ,61599,Accident Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,10
+448,2019,Kia,Sorento_SX, 33400, Bridgewater, NJ ,37629,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,4
+449,2018,Kia,Rio_LX, 14995, Hackettstown, NJ ,52713,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.6_L_,2-Owner,Multiple Use,8
+450,2012,Kia,Sorento_LX, 7880, East Brunswick, NJ ,118844,Accident Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,15
+451,2020,Kia,Telluride_SX, 49995, Wall Township, NJ ,10900,Branded Title,SUV,Green_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,7
+452,2013,Kia,Rio_EX, 5995, Brooklyn, NY ,67727,Accident Reported,Hatchback,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,1
+453,2018,Kia,Optima_SX, 23400, Monmouth Junction, NJ ,36574,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+454,2009,Kia,Optima_LX, 3999, S Hackensack, NJ ,171766,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,26
+455,2020,Kia,Sorento_EX, 29995, Wall Township, NJ ,9574,Branded Title,SUV,Blue_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,6
+456,2006,Kia,Sorento_EX, 5999, S Hackensack, NJ ,80824,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,1
+457,2016,Kia,Sorento_EX, 19500, Old Bridge, NJ ,75290,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,11
+458,2020,Kia,Soul_GT-Line_Turbo, 21495, Wall Township, NJ ,27130,Branded Title,Wagon,Blue_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,9
+459,2020,Kia,Niro_EV_EX, 29995, Wall Township, NJ ,1294,Branded Title,SUV,Red_Engine:_Electric__,CARFAX 1-Owner,Personal Use,2
+460,2016,Kia,Sorento_LX, 13995, Brooklyn, NY ,105674,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+461,2012,Kia,Soul+, 5987, Lake Hopatcong, NJ ,138868,No Accident or Damage Reported,Wagon,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,35
+462,2017,Kia,Forte_LX, 12222, Huntington, NY ,71600,No Accident or Damage Reported,Sedan,4_Cyl_2.0_L_,3+ Owners,Multiple Use,2
+463,2018,Kia,Optima_SX, 22900, Wayne, NJ ,38195,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,3
+464,2020,Kia,Rio_S, 15900, Hillside, NJ ,39638,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,2
+465,2016,Kia,Rio_EX, 11500, FAIR LAWN, NJ ,36149,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,13
+466,2019,Kia,Sportage_EX, 25259, Avenel, NJ ,30336,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+467,2019,Kia,Sportage_LX, 21333, Huntington, NY ,17787,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+468,2020,Kia,Sorento_LX, 20999, Woodside, NY ,47543,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Rental Use,0
+469,2015,Kia,Optima_SXL, 14980, Freeport, NY ,45635,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,8
+470,2017,Kia,Forte_S, 16495, South Amboy, NJ ,47224,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+471,2019,Kia,Sportage_LX, 21995, Wharton, NJ ,37510,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+472,2020,Kia,Optima_LX, 20795, Freehold, NJ ,17116,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Corporate Use,4
+473,2017,Kia,Sorento_LX, 22675, Freehold, NJ ,33298,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,7
+474,2013,Kia,Sportage_EX, 12995, Saint James, NY ,95631,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,2-Owner,Personal Use,17
+475,2016,Kia,Sportage_LX, 15395, Cranbury, NJ ,40697,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,9
+476,2019,Kia,Forte_LXS, 18376, East Meadow, NY ,22809,Minor Damage,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+477,2018,Kia,Sorento_EX, 28428, East Meadow, NY ,18965,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,2
+478,2019,Kia,Sorento_SX, 29995, Jamaica, NY ,36725,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,6
+479,2019,Kia,Sorento_L, 21995, Jamaica, NY ,29132,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+480,2019,Kia,Sportage_LX, 19999, Jersey City, NJ ,35846,Minor Damage,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+481,2019,Kia,Sorento_LX, 21887, Great Neck, NY ,39728,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+482,2012,Kia,Forte_EX, 5588, Saint James, NY ,136787,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,4
+483,2019,Kia,Stinger_GT, 29950, Woodside, NY ,18759,Accident Reported,Sedan,White_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,3
+484,2019,Kia,Sportage_LX, 19997, FAIR LAWN, NJ ,28306,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+485,2009,Kia,Spectra_EX, 4487, Paterson, NJ ,123061,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,8
+486,2018,Kia,Sorento_LX, 24498, South Plainfield, NJ ,33964,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+487,2015,Kia,Soul_Base, 8995, Bay Shore, NY ,105237,Accident/Minor Damage,Wagon,White_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,8
+488,2021,Kia,Soul_LX, 16995, Wall Township, NJ ,17583,Branded Title,Wagon,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+489,2020,Kia,Optima_LX, 15777, Linden, NJ ,51148,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Rental Use,1
+490,2016,Kia,Sportage_LX, 14995, South Amboy, NJ ,92884,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,3+ Owners,Multiple Use,2
+491,2019,Kia,Stinger_GT2, 41899, Ramsey, NJ ,37534,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,1
+492,2019,Kia,Sorento_LX, 22394, Union, NJ ,75359,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+493,2018,Kia,Optima_LX, 18894, Union, NJ ,64115,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+494,2019,Kia,Sportage_SX_Turbo, 29400, Bridgewater, NJ ,37895,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+495,2019,Kia,Sportage_EX, 28400, Bridgewater, NJ ,16393,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+496,2016,Kia,Optima_LX, 15495, Huntington Station, NY ,53222,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+497,2021,Kia,Seltos_SX, 29000, Monmouth Junction, NJ ,19222,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,5
+498,2018,Kia,Sportage_LX, 20997, FAIR LAWN, NJ ,26618,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Lease Use,10
+499,2012,Kia,Sorento_SX, 9995, Union, NJ ,136331,No Accident or Damage Reported,SUV,Burgundy_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,35
+500,2020,Kia,Sorento_LX, 19981, Woodside, NY ,54024,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Rental Use,1
+501,2018,Kia,Soul_Base, 13990, Valley Stream, NY ,53211,No Accident or Damage Reported,Wagon,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,11
+502,2018,Kia,Optima_LX, 15900, Freehold, NJ ,61808,Accident Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,8
+503,2019,Kia,Sportage_LX, 23358, Freehold, NJ ,33863,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+504,2018,Kia,Optima_LX, 21449, Freehold, NJ ,8606,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+505,2016,Kia,Forte_LX, 9495, Brooklyn, NY ,84548,Minor Damage,Sedan,Black_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,12
+506,2019,Kia,Sorento_LX, 25995, North Brunswick, NJ ,46371,Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+507,2020,Kia,Sportage_LX, 25705, Freehold, NJ ,16944,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+508,2009,Kia,Optima_EX, 4495, Brooklyn, NY ,73000,Branded Title,Sedan,Blue_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,2
+509,2018,Kia,Forte_LX, 16500, Bronx, NY ,38716,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+510,2018,Kia,Stinger_Premium, 31495, Kenvil, NJ ,39345,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+511,2018,Kia,Sportage_EX, 19995, South Hackensack, NJ ,77843,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+512,2020,Kia,Sportage_LX, 23998, West Babylon, NY ,18386,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+513,2014,Kia,Soul+, 11985, Hasbrouck Heights, NJ ,76627,No Accident or Damage Reported,Wagon,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+514,2018,Kia,Optima_SX, 24994, Ramsey, NJ ,40291,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+515,2018,Kia,Forte_LX, 15000, Bronx, NY ,26400,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+516,2019,Kia,Optima_SX, 28241, Monmouth Junction, NJ ,13822,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,5
+517,2012,Kia,Sorento_LX, 6999, Lakewood, NJ ,92210,Accident Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,4
+518,2016,Kia,Soul_Base, 11900, Lafayette, NJ ,91839,Accident/Minor Damage,Wagon,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,3
+519,2019,Kia,Forte_LXS, 19560, Yonkers, NY ,20356,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+520,2019,Kia,Sorento_LX, 24000, FAIR LAWN, NJ ,33546,Accident/Minor Damage,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+521,2018,Kia,Forte_S, 18745, Lakewood, NJ ,7708,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+522,2019,Kia,Optima_EX, 25000, Jersey City, NJ ,4832,Damage Reported,Sedan,Red_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,3
+523,2019,Kia,Rio_S, 15497, FAIR LAWN, NJ ,14092,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,5
+524,2018,Kia,Optima_Premium, 18785, FAIR LAWN, NJ ,44992,Accident/Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+525,2016,Kia,Sorento_LX, 15804, North Brunswick, NJ ,104999,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,13
+526,2018,Kia,Optima_LX, 17795, Ramsey, NJ ,40164,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+527,2018,Kia,Sportage_LX, 20997, FAIR LAWN, NJ ,14276,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+528,2019,Kia,Sportage_LX, 20997, FAIR LAWN, NJ ,16779,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+529,2019,Kia,Forte_LXS, 19900, Neptune, NJ ,29752,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+530,2016,Kia,Sportage_EX, 18900, Kearny, NJ ,79633,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,4
+531,2014,Kia,Sorento_LX, 9990, Hasbrouck Heights, NJ ,130223,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+532,2012,Kia,Sorento_EX, 7995, Union, NJ ,159952,No Accident or Damage Reported,SUV,Green_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,16
+533,2016,Kia,Forte_LX, 10995, Commack, NY ,71750,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Multiple Use,10
+534,2015,Kia,Optima_LX, 10580, Brick, NJ ,119455,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,18
+535,2018,Kia,Sorento_SX, 29135, Hackettstown, NJ ,55805,Minor Damage,SUV,Silver_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Lease Use,13
+536,2018,Kia,Sportage_LX, 16895, Elmwood Park, NJ ,49638,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,1
+537,2018,Kia,Sportage_SX_Turbo, 34985, Merrick, NY ,10739,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+538,2018,Kia,Sportage_LX, 18495, Elmwood Park, NJ ,40422,Minor Damage,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+539,2019,Kia,Sorento_SX, 31900, Stamford, CT ,30029,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Corporate Use,3
+540,2019,Kia,Forte_LXS, 17290, Brooklyn, NY ,21955,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+541,2018,Kia,Sorento_EX, 26700, Hackettstown, NJ ,46221,Accident/Minor Damage,SUV,Red_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Lease Use,6
+542,2019,Kia,Forte_S, 19874, Brooklyn, NY ,21018,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+543,2019,Kia,Sorento_LX, 23995, North Brunswick, NJ ,45548,Minor Damage,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+544,2018,Kia,Sportage_LX, 20995, North Brunswick, NJ ,41794,Minor Damage,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+545,2019,Kia,Sportage_LX, 22995, North Brunswick, NJ ,16053,Accident Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+546,2016,Kia,Sorento_LX, 9998, West Babylon, NY ,106676,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,16
+547,2016,Kia,Forte_EX, 13995, South Amboy, NJ ,61711,Accident/Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+548,2019,Kia,Sportage_LX, 23800, Hackettstown, NJ ,20602,Accident Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+549,2019,Kia,Sorento_SX, 29495, Yonkers, NY ,51980,Damage Reported,SUV,Silver_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,7
+550,2018,Kia,Forte5_LX, 17786, Freehold, NJ ,26238,No Accident or Damage Reported,Hatchback,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+551,2019,Kia,Forte_LXS, 21309, Freehold, NJ ,16663,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+552,2019,Kia,Sportage_LX, 24088, Freehold, NJ ,34989,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+553,2015,Kia,Sedona_EX, 13495, Newark, NJ ,122087,No Accident or Damage Reported,Minivan,Brown_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,13
+554,2015,Kia,Soul_Base, 9995, East Rutherford, NJ ,47176,Accident Reported,Wagon,Brown_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,2
+555,2018,Kia,Sedona_SX_Limited, 32900, Jersey City, NJ ,32266,No Accident or Damage Reported,Minivan,Silver_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,2
+556,2013,Kia,Soul, 7995, Edison, NJ ,115845,Damage Reported,Wagon,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,26
+557,2018,Kia,Sedona_SX_Limited, 35595, Saint James, NY ,37064,No Accident or Damage Reported,Minivan,6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,3
+558,2019,Kia,Sorento_LX, 22821, Freehold, NJ ,34586,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+559,2016,Kia,Sportage_LX, 14000, Bronx, NY ,86792,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,25
+560,2019,Kia,Optima_LX, 19000, Bronx, NY ,28219,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+561,2016,Kia,Optima_EX, 17699, Ramsey, NJ ,52810,Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+562,2015,Kia,Optima_LX, 15999, Eatontown, NJ ,14127,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,5
+563,2020,Kia,Telluride_S, 40700, Bronx, NY ,27035,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,7
+564,2019,Kia,Sportage_LX, 23199, Nutley, NJ ,20714,Accident/Minor Damage,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+565,2020,Kia,Telluride_S, 44959, Avenel, NJ ,23439,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,4
+566,2019,Kia,Optima_EX, 25989, Freehold, NJ ,32126,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,10
+567,2019,Kia,Sorento_SX, 32595, Saint James, NY ,0,No Accident or Damage Reported,SUV,6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,8
+568,2013,Kia,Soul, 6499, S Hackensack, NJ ,104613,Accident Reported,Wagon,Green_Engine:_4_Cyl_1.6_L_,3+ Owners,Personal Use,6
+569,2015,Kia,Optima_EX, 12980, Bronx, NY ,76690,Minor Damage,Sedan,Burgundy_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,6
+570,2019,Kia,Sorento_LX, 26991, Nutley, NJ ,18474,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+571,2020,Kia,Sportage_LX, 22999, Nutley, NJ ,57955,No Accident or Damage Reported,SUV,Burgundy_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+572,2019,Kia,Soul_Soul!, 21649, FAIR LAWN, NJ ,13032,No Accident or Damage Reported,Wagon,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,4
+573,2019,Kia,Sportage_LX, 21500, FAIR LAWN, NJ ,21617,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+574,2016,Kia,Sorento_EX, 17980, Huntington, NY ,76256,Accident/Minor Damage,SUV,6_Cyl_3.3_L_,2-Owner,Personal Use,28
+575,2018,Kia,Optima_LX, 15999, Huntington, NY ,61634,No Accident or Damage Reported,Sedan,4_Cyl_2.4_L_,3+ Owners,Multiple Use,6
+576,2019,Kia,Soul_Soul!, 21649, FAIR LAWN, NJ ,13032,No Accident or Damage Reported,Wagon,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,4
+577,2018,Kia,Sorento_LX, 24995, Lakewood, NJ ,33225,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+578,2019,Kia,Forte_LXS, 18495, Lakewood, NJ ,45259,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+579,2019,Kia,Sorento_LX, 24900, Stamford, CT ,20305,Very Minor Damage,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+580,2019,Kia,Sorento_L, 25995, Garwood, NJ ,9468,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+581,2017,Kia,Sportage_LX, 16000, Old Bridge, NJ ,68912,Accident/Minor Damage,SUV,Bronze_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,13
+582,2019,Kia,Sportage_LX, 18990, Forest Hills, NY ,56304,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,3+ Owners,Multiple Use,2
+583,2014,Kia,Optima_LX, 10987, Irvington, NJ ,101243,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+584,2016,Kia,Optima_LX, 16495, Saint James, NY ,40295,Minor Damage,Sedan,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,14
+585,2018,Kia,Optima_LX, 20200, Jersey City, NJ ,16217,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,5
+586,2019,Kia,Sorento_LX, 23995, Saint James, NY ,48364,Accident/Minor Damage,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+587,2015,Kia,Optima_EX, 15995, Highland Park, NJ ,70627,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,12
+588,2019,Kia,Optima_S, 21599, Ramsey, NJ ,26955,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+589,2018,Kia,Optima_EX, 21400, Jersey City, NJ ,26943,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+590,2019,Kia,Niro_LX, 22495, Paramus, NJ ,16199,Damage Reported,SUV,Blue_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,3
+591,2019,Kia,Sportage_LX, 21900, Hackettstown, NJ ,49252,Accident Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+592,2015,Kia,Sportage_LX, 15995, Greenvale, NY ,47636,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+593,2019,Kia,Forte_LXS, 18900, Hackettstown, NJ ,31110,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+594,2018,Kia,Sedona_EX, 29900, Hackettstown, NJ ,27109,No Accident or Damage Reported,Minivan,Brown_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,5
+595,2015,Kia,Forte_LX, 9989, Passaic, NJ ,76200,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,5
+596,2015,Kia,Sportage_LX, 10995, Hasbrouck Heights, NJ ,102366,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,14
+597,2018,Kia,Soul_Base, 16995, Denville, NJ ,56753,No Accident or Damage Reported,Wagon,Gray_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,7
+598,2019,Kia,Sorento_EX, 34995, North Brunswick, NJ ,16375,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,5
+599,2018,Kia,Optima_LX, 20995, Denville, NJ ,20700,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+600,2019,Kia,Sorento_EX, 34995, North Brunswick, NJ ,16375,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,5
+601,2016,Kia,Soul_Base, 13456, Huntington, NY ,73861,No Accident or Damage Reported,Wagon,4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,10
+602,2018,Kia,Optima_SX, 25995, Saint James, NY ,25880,No Accident or Damage Reported,Sedan,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+603,2019,Kia,Sorento_LX, 28900, Jersey City, NJ ,25675,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+604,2019,Kia,Sorento_LX, 28000, Jersey City, NJ ,25660,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+605,2019,Kia,Sorento_LX, 29200, Jersey City, NJ ,23363,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+606,2017,Kia,Forte_LX, 15772, Brooklyn, NY ,23626,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+607,2004,Kia,Sorento_LX, 6495, Linden, NJ ,81462,No Accident or Damage Reported,SUV,Gold_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,3
+608,2019,Kia,Optima_LX, 22888, Oakhurst, NJ ,25142,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+609,2012,Kia,Sorento_LX, 9300, Newark, NJ ,96228,Accident/Minor Damage,SUV,Red_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,0
+610,2019,Kia,Sorento_LX, 21995, Jamaica, NY ,29104,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+611,2019,Kia,Forte_LXS, 20995, Yonkers, NY ,4320,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+612,2019,Kia,Sorento_LX, 21995, Yonkers, NY ,88802,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+613,2017,Kia,Cadenza_Premium, 17995, Hackettstown, NJ ,86385,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,26
+614,2019,Kia,Optima, 25995, Sussex, NJ ,4575,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+615,2018,Kia,Sorento_EX, 27400, Bridgewater, NJ ,21406,Accident Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+616,2018,Kia,Optima_SX, 25595, Saint James, NY ,0,No Accident or Damage Reported,Sedan,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+617,2019,Kia,Optima_EX, 24991, Smithtown, NY ,0,No Accident or Damage Reported,Sedan,4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,6
+618,2021,Kia,Sportage_LX, 21995, Freeport, NY ,5156,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Rental Use,0
+619,2015,Kia,Optima_LX, 10990, Valley Stream, NY ,39664,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,11
+620,2019,Kia,Sportage_LX, 22595, Edison, NJ ,23450,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+621,2020,Kia,Forte_GT, 23999, Newark, NJ,7961,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,3
+622,2016,Kia,Sorento_EX, 16286, Union, NJ ,101948,Accident Reported,SUV,Blue_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,15
+623,2015,Kia,Sorento_LX, 13495, Stamford, CT ,71365,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,18
+624,2019,Kia,Sorento_LX, 26978, Nutley, NJ ,50140,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+625,2019,Kia,Sportage_LX, 23896, Nutley, NJ ,15886,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+626,2019,Kia,Sportage_LX, 22968, Nutley, NJ ,43782,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+627,2018,Kia,Sorento_L, 25773, Nutley, NJ ,26111,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+628,2018,Kia,Forte_LX, 17041, Nutley, NJ ,51612,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+629,2018,Kia,Optima_LX, 21995, Nutley, NJ ,11045,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+630,2018,Kia,Sportage_EX, 26779, Clifton, NJ ,35750,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+631,2019,Kia,Sportage_EX, 27276, Clifton, NJ ,31826,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+632,2020,Kia,Stinger_GT, 34995, Wall Township, NJ ,8022,Branded Title,Sedan,Blue_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,6
+633,2019,Kia,Sorento_LX, 24100, Monmouth Junction, NJ ,40101,Accident Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+634,2018,Kia,Sportage_LX, 17989, Westbury, NY ,48805,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,3+ Owners,Multiple Use,4
+635,2017,Kia,Optima_LX, 10995, Brooklyn, NY ,103107,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,3+ Owners,Multiple Use,0
+636,2017,Kia,Sedona_EX, 24960, Avenel, NJ ,47435,Accident Reported,Minivan,Silver_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,11
+637,2019,Kia,Forte_EX, 21459, Avenel, NJ ,17996,Damage Reported,Sedan,Orange_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+638,2016,Kia,Sorento_SX_Limited, 18888, Huntington, NY ,84939,No Accident or Damage Reported,SUV,6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,16
+639,2019,Kia,Sorento_LX, 24999, Huntington, NY ,27317,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+640,2013,Kia,Soul_Base, 8395, East Rutherford, NJ ,110622,No Accident or Damage Reported,Wagon,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,15
+641,2019,Kia,Forte_LXS, 18499, Stamford, CT ,34073,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+642,2019,Kia,Optima_SX, 30995, Garwood, NJ ,13676,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+643,2021,Kia,Sportage_LX, 27995, Garwood, NJ ,6606,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+644,2019,Kia,Sportage_LX, 25495, Garwood, NJ ,25631,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+645,2020,Kia,Forte_LXS, 23495, Garwood, NJ ,11331,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+646,2019,Kia,Sorento_EX, 33140, Monmouth Junction, NJ ,8402,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,2
+647,2013,Kia,Optima_EX, 14995, Saint James, NY ,63692,No Accident or Damage Reported,Sedan,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+648,2019,Kia,Sportage_LX, 21999, Jersey City, NJ ,22643,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,Number of Owners,Vehicle Use,2
+649,2017,Kia,Optima_LX, 19995, Saint James, NY ,22956,No Accident or Damage Reported,Sedan,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+650,2017,Kia,Optima_LX, 19995, Saint James, NY ,22956,No Accident or Damage Reported,Sedan,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+651,2019,Kia,Sportage_LX, 21999, Jersey City, NJ ,22643,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,Number of Owners,Vehicle Use,2
+652,2019,Kia,Sorento_LX, 28500, Jersey City, NJ ,31538,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+653,2019,Kia,Sedona_LX, 37995, Saint James, NY ,5787,No Accident or Damage Reported,Minivan,6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,1
+654,2019,Kia,Optima_LX, 21791, Smithtown, NY ,28073,No Accident or Damage Reported,Sedan,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+655,2020,Kia,Sorento_LX, 29200, Jersey City, NJ ,20273,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+656,2019,Kia,Sportage_EX, 26800, Jersey City, NJ ,26908,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+657,2020,Kia,Forte_LXS, 19900, Jersey City, NJ ,36845,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+658,2019,Kia,Sorento_LX, 30200, Jersey City, NJ ,15334,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,1
+659,2019,Kia,Sportage_LX, 23995, Saint James, NY ,18408,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+660,2018,Kia,Niro_LX, 18996, Saint James, NY ,48880,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,1
+661,2019,Kia,Soul_Base, 18595, Saint James, NY ,33648,No Accident or Damage Reported,Wagon,4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,7
+662,2021,Kia,Sportage_EX, 30809, West Caldwell, NJ ,11536,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+663,2018,Kia,Forte_LX, 17995, Saint James, NY ,6573,No Accident or Damage Reported,Sedan,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+664,2020,Kia,Sorento_LX, 29991, Smithtown, NY ,28058,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+665,2018,Kia,Rio_S, 13207, Jersey City, NJ ,61527,Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,7
+666,2020,Kia,Telluride_LX, 37495, Wantagh, NY ,42143,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,6
+667,2015,Kia,Soul_Base, 5695, Brooklyn, NY ,123919,No Accident or Damage Reported,Wagon,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Rental Use,2
+668,2017,Kia,Sportage_SX_Turbo, 24499, Newark, NJ,34075,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,Number of Owners,Personal Use,5
+669,2018,Kia,Forte_LX, 9995, Brooklyn, NY ,74195,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,0
+670,2015,Kia,Sorento_SX_Limited, 22200, Lyndhurst, NJ ,59945,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,4
+671,2017,Kia,Rio_LX, 15590, Pleasantville, NY,42363,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Vehicle Use,14
+672,2018,Kia,Optima_LX, 17888, Jersey City, NJ ,35000,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+673,2020,Kia,Sportage_LX, 23006, Jersey City, NJ ,20350,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+674,2011,Kia,Sorento_LX, 7599, Englewood, NJ ,122443,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,34
+675,2018,Kia,Optima_EX, 23400, Bridgewater, NJ ,14047,Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+676,2019,Kia,Sportage_EX, 23400, Bridgewater, NJ ,44929,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+677,2015,Kia,Optima_EX, 16300, Hackettstown, NJ ,54175,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,6
+678,2020,Kia,Optima_LX, 16923, Irvington, NJ ,54040,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Rental Use,0
+679,2020,Kia,Soul_EX_Designer, 19995, Wall Township, NJ ,9079,Branded Title,Wagon,Yellow_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+680,2020,Kia,Telluride_EX, 44995, Wall Township, NJ ,9986,Branded Title,SUV,Green_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,2
+681,2013,Kia,Sorento_LX, 9999, S Hackensack, NJ ,111984,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,20
+682,2020,Kia,Sorento_L, 23995, Wall Township, NJ ,2930,Branded Title,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+683,2019,Kia,Sportage_EX, 22990, Freeport, NY ,27286,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+684,2020,Kia,Soul_X-Line, 19995, Wall Township, NJ ,9976,Branded Title,Wagon,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+685,2020,Kia,Soul_GT-Line, 19995, Wall Township, NJ ,8102,Branded Title,Wagon,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+686,2019,Kia,Sportage_EX, 23990, Freeport, NY ,25648,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+687,2016,Kia,Soul_Base, 12495, Wall Township, NJ ,48191,Branded Title,Wagon,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,12
+688,2011,Kia,Optima_LX, 6200, Paterson, NJ ,136004,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,18
+689,2012,Kia,Sportage_EX, 7599, Sussex, NJ ,168482,Accident Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,31
+690,2008,Kia,Rondo, 3995, Jersey City, NJ ,154501,No Accident or Damage Reported,Wagon,Gold_Engine:_6_Cyl_2.7_L_,3+ Owners,Multiple Use,9
+691,2016,Kia,Sorento_LX, 11900, Rahway, NJ ,101620,Accident Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,20
+692,2016,Kia,Forte_LX, 12455, Rockaway, NJ ,71608,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,7
+693,2016,Kia,Sedona_LX, 14995, Highland Park, NJ ,119565,Accident/Minor Damage,Minivan,Burgundy_Engine:_6_Cyl_3.3_L_,2-Owner,Multiple Use,12
+694,2018,Kia,Niro_EX, 23180, FAIR LAWN, NJ ,33654,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,0
+695,2016,Kia,Soul+, 11990, Brooklyn, NY ,74789,No Accident or Damage Reported,Wagon,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,8
+696,2018,Kia,Optima_EX, 23959, Avenel, NJ ,13569,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+697,2020,Kia,Soul_X-Line, 19995, Huntington, NY ,31044,No Accident or Damage Reported,Wagon,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+698,2019,Kia,Optima_LX, 21959, Avenel, NJ ,18568,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+699,2018,Kia,Sportage_LX, 20777, Huntington, NY ,41191,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+700,2018,Kia,Optima_EX, 23959, Avenel, NJ ,16262,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+701,2019,Kia,Sportage_EX, 24959, Avenel, NJ ,44077,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+702,2019,Kia,Sorento_LX, 26959, Avenel, NJ ,20185,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+703,2021,Kia,Telluride_SX, 54959, Avenel, NJ ,22662,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,4
+704,2018,Kia,Optima_LX, 19999, Huntington, NY ,33842,No Accident or Damage Reported,Sedan,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+705,2007,Kia,Sedona_LX, 6250, Edison, NJ ,105944,No Accident or Damage Reported,Minivan,Red_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,6
+706,2014,Kia,Soul_Base, 14590, New York, NY,67605,No Accident or Damage Reported,Wagon,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,12
+707,2012,Kia,Sorento_LX, 9695, Morristown, NJ ,121407,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+708,2018,Kia,Sportage_EX, 26499, Wharton, NJ ,30883,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+709,2019,Kia,Optima_LX, 22980, Richmond Hill, NY ,3429,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+710,2014,Kia,Sorento_LX, 6999, Keyport, NJ ,179013,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,53
+711,2016,Kia,Optima_LX, 15495, Nanuet, NY ,78408,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,16
+712,2019,Kia,Sportage_EX, 23876, East Meadow, NY ,36029,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+713,2020,Kia,Sorento_LX, 27902, East Meadow, NY ,5268,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+714,2020,Kia,Sportage_LX, 25220, Ramsey, NJ ,13393,Accident/Minor Damage,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+715,2020,Kia,Soul_LX, 18888, Jersey City, NJ ,13232,No Accident or Damage Reported,Wagon,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+716,2017,Kia,Soul_EV_EV+, 18990, Pleasantville, NY,15816,No Accident or Damage Reported,Wagon,White_Engine:_Electric__,2-Owner,Personal Use,2
+717,2018,Kia,Soul+, 14999, Eatontown, NJ ,77301,Accident Reported,Wagon,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,1
+718,2019,Kia,Sportage_LX, 19835, Jersey City, NJ ,64003,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+719,2011,Kia,Sorento_LX, 8995, East Rutherford, NJ ,131625,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+720,2011,Kia,Sportage_EX, 13789, Union, NJ ,103056,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,16
+721,2014,Kia,Optima_EX, 11995, Wayne, NJ ,87594,Accident Reported,Sedan,Burgundy_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,19
+722,2016,Kia,Optima_LX, 18195, Netcong, NJ ,39495,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+723,2010,Kia,Soul+, 4995, Hasbrouck Heights, NJ ,177761,No Accident or Damage Reported,Wagon,Red_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,34
+724,2015,Kia,Forte_EX, 10495, Bridgewater, NJ ,108021,Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+725,2020,Kia,Soul_GT-Line_Turbo, 29400, Bridgewater, NJ ,15520,No Accident or Damage Reported,Wagon,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,2
+726,2020,Kia,Soul_GT-Line_Turbo, 26800, Bridgewater, NJ ,47495,No Accident or Damage Reported,Wagon,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,11
+727,2020,Kia,Sedona_LX, 33689, Bronx, NY ,19590,No Accident or Damage Reported,Minivan,Black_Engine:_6_Cyl_3.3_L_,Number of Owners,Vehicle Use,1
+728,2018,Kia,Sportage_LX, 24995, Green Brook, NJ ,29567,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+729,2013,Kia,Forte_EX, 4900, Hillside, NJ ,101000,Accident Reported,Hatchback,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,3
+730,2017,Kia,Sportage_EX, 21565, Monmouth Junction, NJ ,46649,No Accident or Damage Reported,SUV,Bronze_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+731,2015,Kia,Optima_EX, 12900, Avenel, NJ ,110153,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+732,2017,Kia,Optima_EX, 20896, Huntington, NY ,27251,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+733,2019,Kia,Sorento_SX, 32999, North Plainfield, NJ ,33833,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,8
+734,2021,Kia,K5_GT-Line, 31900, North Plainfield, NJ ,3518,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,2
+735,2015,Kia,Sorento_LX, 16995, West Nyack, NY ,54058,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+736,2011,Kia,Sorento_EX, Call for Price, Irvington, NJ ,138952,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,21
+737,2018,Kia,Stinger_GT1, 34495, Yonkers, NY ,30406,Damage Reported,Sedan,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,4
+738,2013,Kia,Rio_LX, 8825, Hasbrouck Heights, NJ ,40951,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,10
+739,2019,Kia,Sportage_LX, 19997, Yonkers, NY ,20774,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+740,2018,Kia,Forte_LX, 16386, Orangeburg, NY ,25744,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,8
+741,2015,Kia,Forte_EX, 9495, Great Neck, NY ,81684,Accident Reported,Coupe,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,2
+742,2019,Kia,Stinger_Base, 32808, Freehold, NJ ,17859,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+743,2019,Kia,Sportage_LX, 22990, Freehold, NJ ,38427,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+744,2019,Kia,Sorento_LX, 27710, Freehold, NJ ,29983,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+745,2018,Kia,Sorento_L, 18969, East Brunswick, NJ ,73117,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+746,2017,Kia,Sportage_LX, 19922, Springfield, NJ ,35046,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,10
+747,2015,Kia,Soul_Base, 11995, Saint James, NY ,96004,No Accident or Damage Reported,Wagon,4_Cyl_1.6_L_,3+ Owners,Personal Use,6
+748,2019,Kia,Optima, 18995, Saint James, NY ,0,No Accident or Damage Reported,Sedan,4_Cyl_2.4_L_,3+ Owners,Multiple Use,2
+749,2020,Kia,Sorento_LX, 25614, Centereach, NY ,15010,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Rental Use,2
+750,2019,Kia,Sorento_EX, 26500, Bronx, NY ,37198,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,4
+751,2019,Kia,Sorento_EX, 27500, Bronx, NY ,35169,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,9
+752,2018,Kia,Forte_LX, 18955, Hempstead, NY ,11725,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+753,2012,Kia,Soul_Base, 6865, Amityville, NY ,80792,No Accident or Damage Reported,Wagon,Green_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,5
+754,2017,Kia,Forte_LX, 13799, Jamaica, NY ,57723,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,4
+755,2019,Kia,Optima, 22995, Sussex, NJ ,34060,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+756,2017,Kia,Forte_LX, 12800, Eatontown, NJ ,108309,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,11
+757,2017,Kia,Soul_Base, 18990, Pleasantville, NY,17753,No Accident or Damage Reported,Wagon,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,3
+758,2011,Kia,Soul_Sport, 11495, Staten Island, NY ,56335,No Accident or Damage Reported,Wagon,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,23
+759,2018,Kia,Optima_LX, 16500, Bronx, NY ,39226,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+760,2014,Kia,Cadenza_Premium, 17990, Pleasantville, NY,65618,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,22
+761,2019,Kia,Forte_S, 21990, Pleasantville, NY,6369,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+762,2011,Kia,Sorento_LX, 10350, Stamford, CT ,83285,No Accident or Damage Reported,SUV,Brown_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,27
+763,2019,Kia,Forte_LXS, 19495, Yonkers, NY ,15992,Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+764,2019,Kia,Forte_FE, 14988, Elmont, NY ,43270,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+765,2018,Kia,Forte_LX, 17495, Lakewood, NJ ,31791,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+766,2020,Kia,Stinger_GT-Line, 35997, FAIR LAWN, NJ ,9370,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+767,2020,Kia,Telluride_EX, 42995, Wall Township, NJ ,9067,Manufacturer Buyback,SUV,Red_Engine:_6_Cyl_3.8_L_,2-Owner,Personal Use,0
+768,2019,Kia,Forte_S, 19539, Englewood, NJ ,28655,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+769,2012,Kia,Sorento_LX, 7199, S Hackensack, NJ ,149365,Accident Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,22
+770,2015,Kia,Soul+, 7499, S Hackensack, NJ ,143777,No Accident or Damage Reported,Wagon,Green_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,26
+771,2020,Kia,Telluride_S, 42881, Avenel, NJ ,23536,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,4
+772,2017,Kia,Forte_S, 15990, Jamaica, NY ,33413,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,5
+773,2004,Kia,Sedona_EX, 3999, Brooklyn, NY ,70000,Accident Reported,Minivan,Green_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,28
+774,2019,Kia,Soul_Base, 19995, Denville, NJ ,12232,No Accident or Damage Reported,Wagon,Gray_Engine:_4_Cyl_1.6_L_,2-Owner,Multiple Use,7
+775,2020,Kia,Sorento_LX, 23990, Huntington, NY ,32735,No Accident or Damage Reported,SUV,6_Cyl_3.3_L_,CARFAX 1-Owner,Rental Use,1
+776,2018,Kia,Soul_Base, 17961, Avenel, NJ ,34316,Minor Damage,Wagon,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,7
+777,2021,Kia,K5_LXS, 23995, Great Neck, NY ,10146,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,1
+778,2013,Kia,Optima_EX, 12671, Flemington, NJ ,108070,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,9
+779,2011,Kia,Sorento_LX, 12995, Lodi, NJ ,96255,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,1
+780,2017,Kia,Sedona_LX, 19897, Syosset, NY ,51058,Accident/Minor Damage,Minivan,White_Engine:_6_Cyl_3.3_L_,2-Owner,Multiple Use,2
+781,2019,Kia,Forte_S, 20129, Brooklyn, NY ,13570,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+782,2019,Kia,Sorento_EX, 29995, Yonkers, NY ,24711,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,2
+783,2019,Kia,Optima_S, 18900, Hillside, NJ ,19753,Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,1
+784,2017,Kia,Soul+, 12295, Lake Hopatcong, NJ ,88224,Accident Reported,Wagon,White_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,5
+785,2020,Kia,Sorento_LX, 22237, Irvington, NJ ,55288,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Rental Use,1
+786,2018,Kia,Sportage_EX, 24995, Totowa, NJ ,21232,Accident Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+787,2018,Kia,Optima_LX, 20102, Nutley, NJ ,56805,Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+788,2018,Kia,Optima_LX, 20999, Nutley, NJ ,35120,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+789,2019,Kia,Sportage_LX, 23499, Nutley, NJ ,33385,Accident Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+790,2019,Kia,Sportage_LX, 22999, Nutley, NJ ,43768,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,6
+791,2018,Kia,Sportage_LX, 22999, Nutley, NJ ,33385,Accident Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+792,2019,Kia,Sportage_LX, 23929, Nutley, NJ ,32368,Accident/Minor Damage,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+793,2019,Kia,Sportage_LX, 23868, Nutley, NJ ,40258,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+794,2017,Kia,Sportage_LX, 20916, Nutley, NJ ,48276,Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+795,2019,Kia,Forte_S, 19455, Huntington, NY ,32458,No Accident or Damage Reported,Sedan,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+796,2019,Kia,Optima_LX, 21959, Avenel, NJ ,31958,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+797,2012,Kia,Sportage_LX, 10895, Newton, NJ ,92555,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,14
+798,2019,Kia,Sportage_EX, 23271, Clifton, NJ ,56422,No Accident or Damage Reported,SUV,Bronze_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+799,2015,Kia,Sorento_EX, 10000, FAIR LAWN, NJ ,119023,Accident Reported,SUV,Black_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,14
+800,2020,Kia,Soul_LX, 17995, Wall Township, NJ ,9821,Branded Title,Wagon,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,6
+801,2014,Kia,Sorento_LX, 10995, Cranbury, NJ ,127101,Minor Damage,SUV,Black_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,36
+802,2020,Kia,Optima_LX, 22900, Bridgewater, NJ ,13239,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,2
+803,2019,Kia,Optima_LX, 21400, Bridgewater, NJ ,12112,Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+804,2019,Kia,Niro_Touring, 29495, Lakewood, NJ ,6208,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,3
+805,2020,Kia,Sportage_LX, 25888, PARAMUS, NJ ,9146,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+806,2019,Kia,Sportage_LX, 22997, FAIR LAWN, NJ ,36953,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+807,2018,Kia,Sorento_EX, 29995, Lakewood, NJ ,43606,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,5
+808,2019,Kia,Sorento_LX, 23997, FAIR LAWN, NJ ,41878,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+809,2013,Kia,Sorento_EX, 12795, Ramsey, NJ ,112916,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+810,2019,Kia,Optima_LX, 22590, Newark, NJ,16325,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+811,2019,Kia,Sportage_LX, 24983, North Brunswick, NJ ,16246,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+812,2018,Kia,Forte_EX, 18990, Newark, NJ,51338,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+813,2019,Kia,Optima_LX, 22995, West Nyack, NY ,31883,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+814,2010,Kia,Forte_EX, 10990, Newark, NJ,81920,No Accident or Damage Reported,Sedan,Brown_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+815,2020,Kia,Optima_EX_Premium, 28990, Newark, NJ,4575,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,1
+816,2017,Kia,Forte_LX, 15495, South Amboy, NJ ,27389,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,10
+817,2012,Kia,Sorento_LX, 9995, Branchville, NJ ,98815,Minor Damage,SUV,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,15
+818,2016,Kia,Optima_LX, 13450, Lindenhurst, NY ,93827,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,23
+819,2008,Kia,Sorento_EX, 7999, S Hackensack, NJ ,90276,Accident Reported,SUV,Black_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,6
+820,2013,Kia,Sorento_LX, 11700, Stamford, CT ,103002,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,22
+821,2017,Kia,Sorento_LX, 18990, Forest Hills, NY ,69970,Accident Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,12
+822,2020,Kia,Optima_LX, 20595, Saint James, NY ,35318,No Accident or Damage Reported,Sedan,4_Cyl_2.4_L_,CARFAX 1-Owner,Rental Use,5
+823,2020,Kia,Optima_LX, 20595, Saint James, NY ,32684,No Accident or Damage Reported,Sedan,4_Cyl_2.4_L_,CARFAX 1-Owner,Rental Use,3
+824,2014,Kia,Soul+, 9200, Hazlet, NJ ,90223,Accident Reported,Wagon,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,18
+825,2019,Kia,Sportage_LX, 21985, Huntington, NY ,29905,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+826,2019,Kia,Sorento_LX, 29200, Jersey City, NJ ,16142,Accident/Minor Damage,SUV,Brown_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+827,2015,Kia,Sportage_LX, 17294, Fair Lawn, NJ ,30969,No Accident or Damage Reported,SUV,Green_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,1
+828,2019,Kia,Optima, 21595, Saint James, NY ,30797,No Accident or Damage Reported,Sedan,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+829,2016,Kia,Soul+, 18500, Jersey City, NJ ,6794,Minor Damage,Wagon,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+830,2020,Kia,Optima_S, 24777, Huntington, NY ,8677,Accident Reported,Sedan,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+831,2019,Kia,Stinger_Premium, 34700, Hackettstown, NJ ,36546,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+832,2006,Kia,Sorento_EX, 4490, South Amboy, NJ ,123834,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,3+ Owners,Multiple Use,5
+833,2020,Kia,Sorento_LX, 26900, Jersey City, NJ ,63606,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Rental Use,4
+834,2018,Kia,Forte5_LX, 17200, Jersey City, NJ ,45653,Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+835,2018,Kia,Sorento_EX, 29900, Jersey City, NJ ,37035,Minor Damage,SUV,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,3
+836,2019,Kia,Sorento, 33991, Hackensack, NJ ,36243,No Accident or Damage Reported,SUV,6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,10
+837,2019,Kia,Optima_LX, 21995, Saint James, NY ,27145,Accident/No Damage,Sedan,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+838,2018,Kia,Optima_LX, 17995, Jamaica, NY ,16320,Minor Damage,Sedan,Red_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,2
+839,2015,Kia,Optima_LX, 13997, West Caldwell, NJ ,66920,Accident/Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,16
+840,2020,Kia,Forte, 20995, Saint James, NY ,4531,No Accident or Damage Reported,Sedan,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+841,2011,Kia,Sorento_LX, 9300, Newark, NJ ,119591,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,16
+842,2018,Kia,Sorento_EX, 28995, Denville, NJ ,51741,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,6
+843,2018,Kia,Optima_LX, 21959, Avenel, NJ ,20123,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+844,2018,Kia,Sorento_LX, 22995, Brooklyn, NY ,32873,Major Damage,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+845,2017,Kia,Forte5_LX, 16500, Lyndhurst, NJ ,27400,Accident/Minor Damage,Hatchback,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,4
+846,2020,Kia,Sportage_S_Premium, 28995, Yonkers, NY ,29048,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+847,2013,Kia,Sorento_EX, 13995, New York, NY ,84921,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,4
+848,2003,Kia,Sedona_EX, 4499, East Windsor, NJ ,139573,No Accident or Damage Reported,Minivan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+849,2016,Kia,Soul_Base, 10990, Valley Stream, NY ,78877,No Accident or Damage Reported,Wagon,Silver_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,12
+850,2011,Kia,Optima_EX, 12495, West Babylon, NY ,60203,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,22
+851,2016,Kia,Soul+, 15495, Newton, NJ ,43284,Accident Reported,Wagon,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+852,2018,Kia,Forte, 13995, Brooklyn, NY ,81669,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,4
+853,2011,Kia,Sorento_LX, 8999, Commack, NY ,106262,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,15
+854,2018,Kia,Sportage_EX, 19980, Freeport, NY ,36307,Accident/Minor Damage,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+855,2019,Kia,Optima_LX, 21995, Keyport, NJ ,25883,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+856,2015,Kia,Sorento_LX, 11950, Woodside, NY ,71184,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,12
+857,2019,Kia,Optima_LX, 19290, Lakewood, NJ ,50113,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,7
+858,2019,Kia,Optima_LX, 15990, Freeport, NY ,51922,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Commercial Use,1
+859,2020,Kia,Sorento_LX, 23495, Linden, NJ ,50573,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Rental Use,0
+860,2019,Kia,Sportage_SX_Turbo, 26789, Huntington, NY ,30841,Accident Reported,SUV,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+861,2020,Kia,Sorento_LX, 22141, Irvington, NJ ,51691,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Rental Use,0
+862,2014,Kia,Optima_LX, 11959, Avenel, NJ ,86690,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,26
+863,2017,Kia,Soul+, 12900, Atlantic Highlands, NJ ,79345,Minor Damage,Wagon,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,0
+864,2012,Kia,Sportage_EX, 13500, Elmhurst, NY ,97516,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,20
+865,2016,Kia,Optima_EX, 18990, New York, NY,58168,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,8
+866,2019,Kia,Sportage_LX, 21985, Yonkers, NY ,42006,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+867,2014,Kia,Optima_SX, 13995, Brooklyn, NY ,74770,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,12
+868,2018,Kia,Optima_LX, 22459, Avenel, NJ ,18441,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,1
+869,2019,Kia,Forte_S, 21959, Avenel, NJ ,26951,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+870,2015,Kia,Forte_LX, 12990, Forest Hills, NY ,25277,Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,2
+871,2017,Kia,Forte_LX, 11888, Butler, NJ ,42689,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+872,2010,Kia,Sportage_LX, 8595, Nanuet, NY ,119262,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_2.7_L_,CARFAX 1-Owner,Personal Use,21
+873,2019,Kia,Optima_LX, Call for Price, Hackettstown, NJ ,42080,No Accident or Damage Reported,Sedan,Purple_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+874,2016,Kia,Sorento_LX, 17995, Freehold, NJ ,59170,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,8
+875,2021,Kia,Seltos_SX_Turbo, 28899, Lakewood, NJ ,3196,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,1
+876,2014,Kia,Soul_Base, 8900, Atlantic Highlands, NJ ,86625,Accident/Minor Damage,Wagon,White_Engine:_4_Cyl_1.6_L_,3+ Owners,Multiple Use,26
+877,2005,Kia,Amanti_Base, 5997, Brooklyn, NY ,88106,No Accident or Damage Reported,Sedan,Beige_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,37
+878,2017,Kia,Niro_FE, 17105, Yonkers, NY ,94032,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,19
+879,2012,Kia,Sorento_LX, 9995, Yonkers, NY ,107943,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,25
+880,2019,Kia,Optima_LX, 19798, New York, NY ,37552,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Rental Use,8
+881,2019,Kia,Sportage_LX, 16735, FAIR LAWN, NJ ,68732,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Corporate Use,8
+882,2016,Kia,Soul_Base, 17995, Green Brook, NJ ,21537,No Accident or Damage Reported,Wagon,White_Engine:_4_Cyl_1.6_L_,3+ Owners,Personal Use,10
+883,2018,Kia,Sportage_LX, 16481, Avenel, NJ ,39456,Minor Damage,SUV,Brown_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,9
+884,2015,Kia,Sorento_EX, 14995, Commack, NY ,112164,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,10
+885,2019,Kia,Sorento_LX, 19495, Elmwood Park, NJ ,73924,Accident/No Damage,SUV,Red_Engine:_6_Cyl_3.3_L_,2-Owner,Multiple Use,1
+886,2021,Kia,Stinger_GT, 37995, Wall Township, NJ ,2968,Branded Title,Sedan,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,2
+887,2015,Kia,Forte_LX, 14995, Howell, NJ ,82761,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,3+ Owners,Multiple Use,2
+888,2011,Kia,Soul_Base, 6995, Lafayette, NJ ,94734,No Accident or Damage Reported,Wagon,Black_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,25
+889,2014,Kia,Sorento_SX_Limited, 16995, Jamaica, NY ,80455,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.3_L_,3+ Owners,Personal Use,6
+890,2018,Kia,Sorento_SX, 24395, Elmwood Park, NJ ,61980,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,7
+891,2018,Kia,Sorento_LX, 27500, Howell, NJ ,22375,Accident Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+892,2019,Kia,Optima_S, 24959, Avenel, NJ ,16253,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+893,2018,Kia,Forte_LX, 18888, Huntington, NY ,14617,No Accident or Damage Reported,Sedan,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+894,2018,Kia,Optima_S, 22959, Avenel, NJ ,19301,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+895,2018,Kia,Optima_LX, 22959, Avenel, NJ ,26342,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+896,2019,Kia,Sportage_EX, 25959, Avenel, NJ ,36964,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+897,2018,Kia,Optima_LX, 20999, Huntington, NY ,23569,No Accident or Damage Reported,Sedan,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+898,2019,Kia,Sportage_LX, 24959, Avenel, NJ ,20207,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+899,2019,Kia,Sportage_LX, 25555, Huntington, NY ,12524,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+900,2018,Kia,Niro_LX, 21999, Huntington, NY ,36369,No Accident or Damage Reported,SUV,4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,3
+901,2019,Kia,Sportage_EX, 28888, Huntington, NY ,42939,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+902,2019,Kia,Sportage_LX, 26345, Huntington, NY ,12441,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+903,2019,Kia,Sportage_LX, 25459, Avenel, NJ ,10532,No Accident or Damage Reported,SUV,Bronze_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+904,2019,Kia,Sportage_LX, 22959, Avenel, NJ ,37406,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+905,2020,Kia,Optima_S, 26555, Huntington, NY ,2612,No Accident or Damage Reported,Sedan,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+906,2019,Kia,Optima_LX, 21888, Huntington, NY ,20278,No Accident or Damage Reported,Sedan,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+907,2019,Kia,Optima_S, 24222, Huntington, NY ,29654,No Accident or Damage Reported,Sedan,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+908,2013,Kia,Optima_SX, Call for Price, Irvington, NJ ,130926,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,34
+909,2019,Kia,Sportage_LX, Call for Price, Wharton, NJ ,49197,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+910,2019,Kia,Sportage_LX, 22560, Brooklyn, NY ,24020,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+911,2012,Kia,Sportage_LX, 9995, Highland Park, NJ ,104833,Accident Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,5
+912,2014,Kia,Cadenza_Premium, 14495, Paramus, NJ ,77106,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,25
+913,2020,Kia,Forte_LXS, 19956, East Meadow, NY ,18693,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+914,2014,Kia,Optima_LX, 11975, Roselle, NJ ,133219,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,14
+915,2019,Kia,Optima_LX, 19857, Union, NJ ,44755,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Rental Use,8
+916,2020,Kia,Forte_LXS, 19984, South Plainfield, NJ ,51307,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Rental Use,1
+917,2014,Kia,Sportage_LX, 14995, East Rutherford, NJ ,70540,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,12
+918,2014,Kia,Sorento_SX, 18990, Pleasantville, NY,100910,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,12
+919,2019,Kia,Sportage_EX, 28000, Shrewsbury, NJ ,14348,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+920,2014,Kia,Sorento_LX, 14988, Edison, NJ ,55565,Minor Damage,SUV,Red_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,16
+921,2018,Kia,Sportage_LX, 20995, Lakewood, NJ ,35948,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,3+ Owners,Multiple Use,5
+922,2019,Kia,Sportage_SX_Turbo, 25990, Bronx, NY ,30039,Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+923,2014,Kia,Optima_LX, 9990, Roselle Park, NJ ,99413,Minor Damage,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,24
+924,2017,Kia,Forte_S, 10865, Amityville, NY ,62525,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+925,2015,Kia,Sorento_LX, 9995, Union, NJ ,107394,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,7
+926,2016,Kia,Forte_LX, 12900, Nanuet, NY ,70811,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,3+ Owners,Multiple Use,8
+927,2012,Kia,Soul_Soul!, 7997, Shrewsbury, NJ ,136452,No Accident or Damage Reported,Wagon,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,32
+928,2018,Kia,Optima_LX, 19995, Brooklyn, NY ,80933,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+929,2019,Kia,Sorento_SX, 33925, Yonkers, NY ,28376,Accident/Minor Damage,SUV,Silver_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Corporate Use,8
+930,2019,Kia,Forte_LXS, 20124, Freehold, NJ ,34565,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+931,2016,Kia,Soul_Base, 13635, Ocean, NJ ,88474,Accident/Minor Damage,Wagon,Black_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,8
+932,2019,Kia,Sorento_EX, 28888, Jamaica, NY ,33657,Damage Reported,SUV,Black_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,3
+933,2019,Kia,Forte_S, 14985, Freeport, NY ,39156,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,5
+934,2020,Kia,Optima_S, 22975, Roselle, NJ ,8982,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Rental Use,0
+935,2018,Kia,Optima_S, 19997, FAIR LAWN, NJ ,17039,Accident/Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+936,2014,Kia,Soul_Soul!, 13250, Freehold, NJ ,92976,Accident Reported,Wagon,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+937,2014,Kia,Soul_Soul!, 18495, Red Bank, NJ ,26792,No Accident or Damage Reported,Wagon,Yellow_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+938,2019,Kia,Sportage_EX, 22560, FAIR LAWN, NJ ,47942,Accident/Minor Damage,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,14
+939,2017,Kia,Forte_LX, 13900, Jersey City, NJ ,93258,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+940,2018,Kia,Sorento_SX, 29900, Jersey City, NJ ,40576,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,8
+941,2013,Kia,Optima_LX, 16590, Newark, NJ,38785,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,11
+942,2011,Kia,Soul, 7995, Belleville, NJ ,99603,No Accident or Damage Reported,Wagon,Gray_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,19
+943,2013,Kia,Optima_EX, 15990, Newark, NJ,64741,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,7
+944,2018,Kia,Stinger_Base, 26959, Avenel, NJ ,33140,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+945,2015,Kia,Sorento_LX, 11995, Wall Township, NJ ,108910,Branded Title,SUV,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,31
+946,2012,Kia,Soul, 6499, S Hackensack, NJ ,104263,Accident Reported,Wagon,Black_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,20
+947,2011,Kia,Soul_Sport, 9790, Elmhurst, NY ,89626,Accident Reported,Wagon,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,18
+948,2016,Kia,Optima_SX, 23995, South Amboy, NJ ,31635,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,11
+949,2020,Kia,Sorento_LX, 26995, Wall Township, NJ ,23307,Branded Title,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+950,2014,Kia,Optima_EX, 12995, Point Pleasant Boro, NJ ,121773,Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,16
+951,2020,Kia,Optima_S, 22922, Springfield, NJ ,22133,Accident Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,4
+952,2020,Kia,Sorento_LX, 26900, Jersey City, NJ ,50855,Accident Reported,SUV,Red_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Rental Use,1
+953,2020,Kia,Sorento_LX, 28200, Jersey City, NJ ,37886,Damage Reported,SUV,Silver_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Rental Use,2
+954,2018,Kia,Soul+, 16995, Hackensack, NJ ,70200,No Accident or Damage Reported,Wagon,4_Cyl_2.0_L_,2-Owner,Multiple Use,11
+955,2018,Kia,Sorento_LX, 20995, Jamaica, NY ,43765,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.3_L_,2-Owner,Multiple Use,2
+956,2018,Kia,Forte_LX, 15300, Rahway, NJ ,45587,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,4
+957,2020,Kia,Forte_LXS, 17495, Great Neck, NY ,7889,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+958,2019,Kia,Optima_S, 25874, Union, NJ ,16535,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+959,2012,Kia,Soul, 12995, Saint James, NY ,72651,No Accident or Damage Reported,Wagon,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+960,2020,Kia,Stinger_GT, 39757, Brooklyn, NY ,7079,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,1
+961,2013,Kia,Sorento_LX, 7995, Asbury Park, NJ ,150580,Accident Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,20
+962,2019,Kia,Optima_LX, 17990, Forest Hills, NY ,63140,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Rental Use,0
+963,2018,Kia,Sportage_LX, Call for Price, Woodside, NY ,36246,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,13
+964,2017,Kia,Cadenza_Premium, Call for Price, Woodside, NY ,9573,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.3_L_,3+ Owners,Personal Use,14
+965,2018,Kia,Optima_EX, Call for Price, North Plainfield, NJ ,20844,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+966,2019,Kia,Optima_S, Call for Price, Smithtown, NY ,21073,No Accident or Damage Reported,Sedan,4_Cyl_2.4_L_,CARFAX 1-Owner,Corporate Use,9
+967,2020,Kia,Forte_LXS, 20995, Yonkers, NY ,11444,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+968,2016,Kia,Sorento_LX, Call for Price, Jersey City, NJ ,87535,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,21
+969,2018,Kia,Forte_LX, Call for Price, Sussex, NJ ,27484,Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+970,2019,Kia,Optima_S, 20214, Brooklyn, NY ,28132,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+971,2020,Kia,Sportage_LX, 23999, Nutley, NJ ,17522,No Accident or Damage Reported,SUV,Burgundy_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+972,2012,Kia,Soul, 8995, Union, NJ ,78135,Accident/Minor Damage,Wagon,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,17
+973,2015,Kia,Sorento_LX, 13595, North Plainfield, NJ ,106207,Accident Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,15
+974,2014,Kia,Optima_LX, 10995, North Middletown, NJ ,122621,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,19
+975,2011,Kia,Optima_SX, 8995, Butler, NJ ,115355,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+976,2019,Kia,Forte_LXS, 18999, Lakewood, NJ ,27557,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,9
+977,2019,Kia,Sorento_LX, 24990, New York, NY,41019,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.3_L_,2-Owner,Multiple Use,2
+978,2011,Kia,Sportage_LX, 9995, South Amboy, NJ ,106311,Minor Damage,SUV,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,17
+979,2018,Kia,Sedona_LX, 27959, Avenel, NJ ,20625,No Accident or Damage Reported,Minivan,Silver_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,1
+980,2019,Kia,Sportage_EX, 28995, Garwood, NJ ,34474,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+981,2015,Kia,Optima_LX, 14995, North Middletown, NJ ,49091,Minor Damage,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+982,2018,Kia,Optima_S, Call for Price, Woodside, NY ,14626,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,9
+983,2021,Kia,Seltos_LX, Call for Price, Woodside, NY ,4043,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+984,2019,Kia,Sorento_LX, 26959, Avenel, NJ ,32778,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+985,2019,Kia,Sportage_SX_Turbo, 28300, Jersey City, NJ ,34847,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+986,2017,Kia,Sportage_EX, 23900, Jersey City, NJ ,26250,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+987,2019,Kia,Sportage_EX, 27400, North Plainfield, NJ ,18339,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+988,2019,Kia,Stinger_Base, 36998, Brooklyn, NY ,7119,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+989,2012,Kia,Optima_LX, 6995, Lodi, NJ ,120439,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,18
+990,2019,Kia,Soul_Base, 19959, Avenel, NJ ,18565,Accident Reported,Wagon,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,4
+991,2021,Kia,Forte_GT-Line, 24959, Avenel, NJ ,3701,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+992,2019,Kia,Sportage_LX, Call for Price, West Nyack, NY ,35681,Accident Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+993,2019,Kia,Sportage_SX_Turbo, 29200, Jersey City, NJ ,29869,No Accident or Damage Reported,SUV,Bronze_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+994,2014,Kia,Optima_LX, 12788, Saint James, NY ,78565,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,3+ Owners,Multiple Use,8
+995,2019,Kia,Forte_S, 20032, Brooklyn, NY ,16241,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+996,2017,Kia,Soul+, 16995, Edison, NJ ,41551,No Accident or Damage Reported,Wagon,Gray_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,3
+997,2020,Kia,Sorento_LX, 25959, Union, NJ ,56625,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Rental Use,0
+998,2020,Kia,Optima_SE, 27975, Roselle, NJ ,6874,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Rental Use,0
+999,2017,Kia,Sorento_LX, 18400, North Plainfield, NJ ,52862,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+1000,2019,Kia,Sportage_LX, 21757, Ramsey, NJ ,27042,No Accident or Damage Reported,SUV,Bronze_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+1001,2019,Kia,Optima_LX, Call for Price, Keyport, NJ ,21989,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+1002,2020,Kia,Optima_S, 21995, Wall Township, NJ ,15819,Branded Title,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,9
+1003,2019,Kia,Optima_LX, 17895, Linden, NJ ,52849,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,0
+1004,2008,Kia,Sedona_LX, 4988, Lodi, NJ ,115754,Accident Reported,Minivan,Gray_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,15
+1005,2021,Kia,Telluride_LX, Call for Price, Bronx, NY ,4195,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,2
+1006,2012,Kia,Forte_EX, 7995, North Middletown, NJ ,112787,Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+1007,2013,Kia,Optima_LX, 9995, Butler, NJ ,127775,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,14
+1008,2019,Kia,Optima_LX, 21959, Avenel, NJ ,33168,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+1009,2018,Kia,Optima_LX, 22959, Avenel, NJ ,10201,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+1010,2017,Kia,Optima_LX, 22959, Avenel, NJ ,21559,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,9
+1011,2018,Kia,Niro_LX, 24959, Avenel, NJ ,22993,Minor Damage,SUV,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,6
+1012,2018,Kia,Optima_S, 21959, Avenel, NJ ,18837,Accident Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+1013,2018,Kia,Optima_EX, 21999, Huntington, NY ,37377,Accident Reported,Sedan,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+1014,2018,Kia,Optima_LX, 14008, Elmont, NY ,35018,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+1015,2019,Kia,Optima_LX, 18295, Jamaica, NY ,29800,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,0
+1016,2013,Kia,Rio_EX, Call for Price, Wharton, NJ ,144350,No Accident or Damage Reported,Sedan,Brown_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,10
+1017,2018,Kia,Sportage_EX, 24666, Linden, NJ ,27781,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+1018,2019,Kia,Sportage_LX, 21999, Freehold, NJ ,7093,No Accident or Damage Reported,SUV,Bronze_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+1019,2019,Kia,Optima_EX, 23699, Brooklyn, NY ,34129,Damage Reported,Sedan,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,4
+1020,2020,Kia,Sorento_LX, 24890, Elmwood Park, NJ ,22843,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Rental Use,0
+1021,2017,Kia,Optima_LX, 15635, Jersey City, NJ ,92690,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,3+ Owners,Multiple Use,3
+1022,2014,Kia,Forte_LX, 9995, E Rutherford, NJ ,78334,Accident Reported,Sedan,Red_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,12
+1023,2018,Kia,Optima_LX, 19969, Union, NJ ,57195,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,1
+1024,2019,Kia,Forte_LXS, 19590, Pleasantville, NY,31768,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,1
+1025,2019,Kia,Forte_LXS, 19590, Pleasantville, NY,31768,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,1
+1026,2014,Kia,Sorento_SX, 18495, Yonkers, NY ,63029,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,28
+1027,2010,Kia,Forte_EX, 5000, Bronx, NY ,121099,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,22
+1028,2018,Kia,Soul_Base, 17858, East Meadow, NY ,30901,No Accident or Damage Reported,Wagon,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,3
+1029,2016,Kia,Optima_SX, 24995, Edison, NJ ,24337,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+1030,2014,Kia,Forte_EX, Call for Price, Ramsey, NJ ,89701,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,20
+1031,2018,Kia,Forte_LX, 14999, Jamaica, NY ,70764,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,0
+1032,2013,Kia,Optima_EX, 10900, Lafayette, NJ ,118033,Damage Reported,Sedan,Burgundy_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,17
+1033,2015,Kia,Sorento_SX_Limited, 20495, Jamaica, NY ,63390,Minor Damage,SUV,Gray_Engine:_6_Cyl_3.3_L_,3+ Owners,Personal Use,11
+1034,2014,Kia,Soul+, 10988, Saint James, NY ,99845,No Accident or Damage Reported,Wagon,Yellow_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,17
+1035,2020,Kia,Optima_LX, 20995, Jamaica, NY ,39921,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Rental Use,0
+1036,2013,Kia,Sorento_LX, 10499, S Hackensack, NJ ,100873,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,9
+1037,2011,Kia,Optima_LX, 10995, North Middletown, NJ ,74774,Accident Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,18
+1038,2014,Kia,Soul_Soul!, 11999, North Plainfield, NJ ,96900,No Accident or Damage Reported,Wagon,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,18
+1039,2016,Kia,Sorento_EX, 19995, North Middletown, NJ ,100836,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,11
+1040,2018,Kia,Forte_LX, 11995, Bronx, NY ,39793,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,1
+1041,2017,Kia,Sportage_EX, 18495, Paterson, NJ ,94640,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,15
+1042,2015,Kia,Optima, 11900, Hasbrouck Heights, NJ ,113802,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+1043,2019,Kia,Sorento_L, 22995, Brooklyn, NY ,92334,Minor Damage,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+1044,2020,Kia,Optima_LX, Call for Price, Long Island City, NY ,11681,Major Damage,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+1045,2014,Kia,Cadenza_Premium, 11350, Eatontown, NJ ,91198,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,8
+1046,2019,Kia,Optima_LX, 16480, Eatontown, NJ ,89746,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,1
+1047,2016,Kia,Forte_LX, Call for Price, Paterson, NJ ,95753,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,16
+1048,2015,Kia,Sorento_LX, Call for Price, Little Ferry, NJ ,96990,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,13
+1049,2019,Kia,Optima_LX, 21500, Florham Park, NJ ,30216,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,5
+1050,2018,Kia,Optima_S, 19445, Clifton, NJ ,34448,Accident/Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Lease Use,14
+1051,2018,Kia,Sportage_EX, 23995, Jersey City, NJ ,23502,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+1052,2012,Kia,Optima_LX, 12945, North Brunswick, NJ ,38266,Accident Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,22
+1053,2015,Kia,Soul_Base, 11288, Green Brook, NJ ,87845,Accident/Minor Damage,Wagon,White_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,11
+1054,2018,Kia,Stinger_GT1, 33990, Valley Stream, NY ,28064,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,2
+1055,2021,Kia,Sportage_LX, Call for Price, Woodside, NY ,9500,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+1056,2014,Kia,Sorento_LX, Call for Price, Paterson, NJ ,156930,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,14
+1057,2013,Kia,Soul, Call for Price, Lakewood, NJ ,285101,No Accident or Damage Reported,Wagon,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+1058,2019,Kia,Sportage_EX, Call for Price, Butler, NJ ,37717,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+1059,2019,Kia,Sportage_LX, 17179, Irvington, NJ ,58608,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+1060,2018,Kia,Optima_S, 17800, Bronx, NY ,13209,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+1061,2019,Kia,Sorento_LX, 23000, Bronx, NY ,31730,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+1062,2019,Kia,Sorento_LX, 25352, Clifton, NJ ,32270,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+1063,2018,Kia,Sportage_EX, 19952, Freeport, NY ,24819,Accident/Minor Damage,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+1064,2019,Kia,Forte_LXS, 18546, Brooklyn, NY ,20159,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+1065,2018,Kia,Sportage_LX, 20995, Saint James, NY ,29351,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+1066,2016,Kia,Sorento_LX, 18749, Jamaica, NY ,76271,Accident Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,6
+1067,2014,Kia,Forte_EX, 7999, S Hackensack, NJ ,129132,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,17
+1068,2020,Kia,Sportage_EX, 28997, FAIR LAWN, NJ ,12201,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+1069,2019,Kia,Sorento_EX, 31227, Ramsey, NJ ,23121,No Accident or Damage Reported,SUV,Beige_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,0
+1070,2019,Kia,Optima_LX, 15980, Richmond Hill, NY ,83281,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,1
+1071,2014,Kia,Cadenza_Premium, 19995, Stamford, CT ,49712,Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.3_L_,Number of Owners,Vehicle Use,15
+1072,2013,Kia,Optima_LX, 7499, S Hackensack, NJ ,156079,Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,37
+1073,2018,Kia,Stinger_GT1, 39959, Avenel, NJ ,7220,Accident Reported,Sedan,Silver_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,9
+1074,2015,Kia,Forte5_SX, 16491, Saint James, NY ,43746,No Accident or Damage Reported,Hatchback,4_Cyl_1.6_L_,2-Owner,Personal Use,9
+1075,2019,Kia,Sportage_LX, 23900, Jersey City, NJ ,47507,Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+1076,2015,Kia,Optima_EX, 10999, Jamaica, NY ,71488,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,3
+1077,2015,Kia,Forte5_SX, 16491, Saint James, NY ,43746,No Accident or Damage Reported,Hatchback,4_Cyl_1.6_L_,2-Owner,Personal Use,9
+1078,2019,Kia,Optima_S, Call for Price, Union, NJ ,43315,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,15
+1079,2018,Kia,Sedona_SX, 28568, Englewood, NJ ,27430,No Accident or Damage Reported,Minivan,Blue_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Corporate Use,3
+1080,2020,Kia,Optima_S, Call for Price, Richmond Hill, NY ,31544,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Rental Use,0
+1081,2015,Kia,Optima_LX, 17990, Pleasantville, NY,33368,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,0
+1082,2020,Kia,Forte_LXS, 20990, Pleasantville, NY,16935,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,0
+1083,2020,Kia,Sorento_LX, 27896, Union, NJ ,58969,Minor Damage,SUV,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Rental Use,0
+1084,2015,Kia,Optima_LX, 15590, Pleasantville, NY,78423,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,3+ Owners,Multiple Use,0
+1085,2017,Kia,Forte_LX, Call for Price, North Plainfield, NJ ,0,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+1086,2018,Kia,Optima_LX, 19640, Freehold, NJ ,23442,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+1087,2016,Kia,Optima_LX, 12900, Hillside, NJ ,99936,Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,21
+1088,2018,Kia,Sedona_LX, 22900, North Plainfield, NJ ,53086,No Accident or Damage Reported,Minivan,Gray_Engine:_6_Cyl_3.3_L_,2-Owner,Multiple Use,3
+1089,2008,Kia,Optima_LX, 3495, Butler, NJ ,97278,Major Damage,Sedan,Blue_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,6
+1090,2012,Kia,Soul, 8997, Newfoundland, NJ ,105645,Accident Reported,Wagon,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,16
+1091,2014,Kia,Optima_LX, 11495, Elizabeth, NJ ,118304,Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,8
+1092,2016,Kia,Sorento_LX, Call for Price, Brooklyn, NY ,104700,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,18
+1093,2019,Kia,Sportage_EX, Call for Price, Hackettstown, NJ ,29251,No Accident or Damage Reported,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+1094,2015,Kia,Sorento_EX, Call for Price, Brooklyn, NY ,101243,No Accident or Damage Reported,SUV,Purple_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,8
+1095,2017,Kia,Optima_LX, 18995, Union, NJ ,63714,Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,8
+1096,2016,Kia,Soul+, Call for Price, Jersey City, NJ ,22481,No Accident or Damage Reported,Wagon,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+1097,2019,Kia,Optima_LX, Call for Price, Saint James, NY ,14256,No Accident or Damage Reported,Sedan,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+1098,2019,Kia,Optima_S, Call for Price, Saint James, NY ,16615,No Accident or Damage Reported,Sedan,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+1099,2019,Kia,Sorento_EX, Call for Price, Saint James, NY ,345377,No Accident or Damage Reported,SUV,6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,7

@@ -1,0 +1,1101 @@
+,Year,Brand,Model,Cost,City,State,Mileage,Accident,Body,Engine,Owners,Usefor,Services
+0,2018,Audi,Q7_Premium_Plus, 40988, Clifton, NJ ,35820,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,7
+1,2018,Audi,Q5_Premium_Plus, 34799, Princeton, NJ ,34622,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+2,2016,Audi,A6_Premium_Plus, 21698, Roselle, NJ ,66218,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,9
+3,2018,Audi,A5_Premium_Plus, 34558, PARSIPPANY, NJ ,16045,No Accident or Damage Reported,Coupe,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+4,2018,Audi,Q5_Premium_Plus, 32989, PARSIPPANY, NJ ,40365,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+5,2019,Audi,SQ5_Prestige, 41625, PARSIPPANY, NJ ,76489,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+6,2017,Audi,Q5_Premium_Plus, 21888, Jamaica, NY ,97101,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,19
+7,2018,Audi,S3_Premium_Plus, 36333, Lynbrook, NY ,23514,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+8,2018,Audi,Q5_Prestige, 34694, PARSIPPANY, NJ ,40712,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+9,2019,Audi,S5_Premium, 47683, Flemington, NJ ,30369,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+10,2018,Audi,A4_Premium, 27900, Lyndhurst, NJ ,30264,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+11,2015,Audi,Q3_Premium_Plus, 14995, Ramsey, NJ ,123201,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,23
+12,2018,Audi,Q5_Premium_Plus, 31895, Massapequa, NY ,29172,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+13,2018,Audi,Q5_Premium_Plus, 35000, Paramus, NJ ,13548,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+14,2021,Audi,Q3_Premium_45, 37442, PARSIPPANY, NJ ,7953,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,2
+15,2018,Audi,A5_Premium_Plus, 33988, New York, NY ,33772,No Accident or Damage Reported,Hatchback,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+16,2018,Audi,A4_Premium_Plus, 30298, Edison, NJ ,26630,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+17,2016,Audi,A5_Premium, 23585, Bay Shore, NY ,35301,No Accident or Damage Reported,Coupe,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+18,2018,Audi,Q7_Premium_Plus, 40221, Great Neck, NY ,27390,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+19,2018,Audi,Q7_Premium_Plus, 42988, PARSIPPANY, NJ ,28937,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+20,2018,Audi,A3_Premium, 24777, Freehold, NJ ,21660,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+21,2021,Audi,RS7, 129997, Massapequa, NY ,1738,No Accident or Damage Reported,Hatchback,White_Engine:_8_Cyl_4.0_L_,CARFAX 1-Owner,Personal Use,1
+22,2019,Audi,Q7_Premium, 46736, Wayne, NJ ,24748,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+23,2018,Audi,Q5_Premium_Plus, 33495, New York, NY ,35804,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+24,2019,Audi,A4_Premium_Plus, 33995, New York, NY ,20205,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+25,2019,Audi,SQ5_Premium_Plus, 47995, Edison, NJ ,17756,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+26,2018,Audi,A5_Premium_Plus, 31722, Lynbrook, NY ,28343,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+27,2018,Audi,S4_Premium_Plus, 38599, Jersey City, NJ ,28189,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+28,2017,Audi,A3_Premium, 24500, Jersey City, NJ ,6746,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+29,2013,Audi,A4_Premium_Plus, 14977, Massapequa, NY ,106235,No Accident or Damage Reported,Wagon,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,32
+30,2018,Audi,A4_Premium_Plus, 31995, New York, NY ,13353,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+31,2018,Audi,A3_Premium, 24252, Jamaica, NY ,23766,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+32,2018,Audi,A4_Premium, 27495, Little Ferry, NJ ,22799,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+33,2018,Audi,Q5_Premium_Plus, 38878, Englewood, NJ ,8576,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+34,2018,Audi,Q5_Premium_Plus, 35995, New York, NY ,17343,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+35,2016,Audi,A6_Prestige, 21995, Newark, NJ ,81804,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,26
+36,2019,Audi,S5_Prestige, 53484, Flemington, NJ ,29460,No Accident or Damage Reported,Hatchback,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+37,2015,Audi,Q3_Premium_Plus, 19525, EATONTOWN, NJ ,84927,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,17
+38,2018,Audi,Q5_Premium_Plus, 34222, Maplewood, NJ ,33952,No Accident or Damage Reported,SUV,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+39,2018,Audi,Q3_Premium_Plus, 27995, Massapequa, NY ,13902,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+40,2017,Audi,S7_Premium_Plus, 56988, Westbury, NY ,18800,No Accident or Damage Reported,Hatchback,Black_Engine:_8_Cyl_4.0_L_,CARFAX 1-Owner,Personal Use,9
+41,2018,Audi,Q3_Premium, 26195, Nanuet, NY ,31812,No Accident or Damage Reported,SUV,Green_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+42,2018,Audi,Q5_Premium_Plus, 32997, Freehold, NJ ,53635,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+43,2018,Audi,Q7_Premium_Plus, 42995, New York, NY ,40044,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+44,2018,Audi,A5_Premium_Plus, 33995, Bloomfield, NJ ,25471,No Accident or Damage Reported,Coupe,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+45,2016,Audi,A6_Premium_Plus, 17499, Ramsey, NJ ,118315,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+46,2019,Audi,Q5_Premium_Plus, 37994, Ramsey, NJ ,30734,No Accident or Damage Reported,SUV,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+47,2018,Audi,Q5_Premium_Plus, 37900, Fairfield, CT ,19101,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+48,2018,Audi,Q3_Premium, 29900, Fairfield, CT ,23931,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+49,2018,Audi,Q3_Premium_Plus, 27395, Massapequa, NY ,30307,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+50,2018,Audi,A3_Premium_Plus, 26477, Freehold, NJ ,28425,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+51,2018,Audi,Q5_Premium_Plus, 31000, EATONTOWN, NJ ,55955,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+52,2018,Audi,Q5_Premium, 31995, EATONTOWN, NJ ,35160,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+53,2018,Audi,Q5_Premium_Plus, 34995, New York, NY ,28360,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+54,2018,Audi,A5_Premium_Plus, 36477, Freehold, NJ ,29859,No Accident or Damage Reported,Coupe,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+55,2018,Audi,Q5_Premium_Plus, 34686, Secaucus, NJ ,26124,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+56,2018,Audi,Q7_Premium_Plus, 46268, Englewood, NJ ,22886,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+57,2021,Audi,S6_Prestige, 85488, Englewood, NJ ,2338,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_2.9_L_,CARFAX 1-Owner,Personal Use,2
+58,2017,Audi,Q7_Premium_Plus, 31995, Parsippany, NJ ,71060,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+59,2018,Audi,Q5_Premium_Plus, 35686, Secaucus, NJ ,20846,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+60,2018,Audi,Q5_Premium_Plus, 36495, New York, NY ,15572,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+61,2018,Audi,SQ5_Premium_Plus, 41905, North Brunswick, NJ ,36472,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+62,2008,Audi,A4, 7599, Woodbridge, NJ ,83918,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,14
+63,2018,Audi,A4_Premium_Plus, 31300, Bloomfield, NJ ,23680,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+64,2020,Audi,Q5_Premium_Plus_45_Titanium, 43991, Smithtown, NY ,16656,No Accident or Damage Reported,SUV,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+65,2019,Audi,A8_L, 58888, New York, NY ,24777,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,12
+66,2019,Audi,Q7_Premium_Plus, 52304, Englewood, NJ ,10135,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+67,2019,Audi,A4_Premium_Plus, 33146, Trenton, NJ ,30496,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+68,2018,Audi,A5_Premium_Plus, 33777, Freehold, NJ ,49590,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+69,2018,Audi,Q5_Premium_Plus, 35488, Englewood, NJ ,36706,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+70,2019,Audi,S3_Premium_Plus, 33995, Parsippany, NJ ,43941,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+71,2021,Audi,Q3_Premium_Plus_45, 40990, Secaucus, NJ ,10890,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+72,2019,Audi,S4_Premium_Plus, 48997, Freehold, NJ ,17431,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+73,2018,Audi,Q5_Premium_Plus, 38990, Fairfield, CT ,21388,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+74,2019,Audi,Q5_Premium_Plus, 39495, New York, NY ,24936,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+75,2018,Audi,Q5_Premium_Plus, 38990, Fairfield, CT ,21388,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+76,2018,Audi,A5_Premium_Plus, 34388, Lakewood, NJ ,39801,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+77,2018,Audi,Q5_Premium_Plus, 38900, Fairfield, CT ,14745,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+78,2018,Audi,Q3_Premium_Plus, 26995, Massapequa, NY ,26748,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+79,2018,Audi,A6_Premium, 33688, New York, NY ,20528,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+80,2018,Audi,Q5_Premium_Plus, 38300, Fairfield, CT ,23537,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+81,2016,Audi,A6_Premium_Plus, 21698, Roselle, NJ ,66218,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,9
+82,2018,Audi,Q3_Premium_Plus, 23632, Lynbrook, NY ,20176,Minor Damage,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+83,2020,Audi,RS3, 62995, New York, NY ,13368,No Accident or Damage Reported,Sedan,Green_Engine:_5_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+84,2019,Audi,Q8_Prestige, 59900, Englewood Cliffs, NJ ,50080,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,9
+85,2018,Audi,A3_Premium, 19495, New York, NY ,65975,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+86,2020,Audi,RS_Q8, 137298, Englewood, NJ ,8274,No Accident or Damage Reported,SUV,Silver_Engine:_8_Cyl_4.0_L_,CARFAX 1-Owner,Personal Use,11
+87,2018,Audi,Q5_Premium_Plus, 36991, Harriman, NY ,23925,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+88,2018,Audi,A6_Premium_Plus, 32000, Upper Saddle River, NJ ,20852,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+89,2018,Audi,A4_Premium_Plus, 23995, Valley Stream, NY ,41536,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+90,2021,Audi,RS7, 126595, Brooklyn, NY ,4624,No Accident or Damage Reported,Hatchback,White_Engine:_8_Cyl_4.0_L_,CARFAX 1-Owner,Personal Use,3
+91,2018,Audi,Q5_Premium_Plus, 35888, Englewood, NJ ,34847,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+92,2018,Audi,Q5_Premium_Plus, 33600, Upper Saddle River, NJ ,45845,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+93,2018,Audi,Q5_Premium_Plus, 35648, Englewood, NJ ,35675,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+94,2018,Audi,SQ5_Premium_Plus, 39888, West Islip, NY ,40706,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+95,2018,Audi,Q5_Premium_Plus, 37286, Secaucus, NJ ,10785,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+96,2019,Audi,A6_Premium_Plus, 43990, Great Neck, NY ,23870,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+97,2018,Audi,Q7_Premium_Plus, 39900, Florham Park, NJ ,42069,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+98,2019,Audi,Q7_Premium, 47995, New York, NY ,8587,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+99,2019,Audi,Q8_Premium_Plus, 61988, Green Brook, NJ ,34444,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+100,2018,Audi,Q7_Prestige, 38319, Linden, NJ ,77073,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+101,2019,Audi,Q5_Premium_Plus, 38495, Brooklyn, NY ,24104,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+102,2018,Audi,Q5_Premium_Plus, 34999, Princeton, NJ ,40280,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+103,2018,Audi,Q3_Premium_Plus, 30499, Princeton, NJ ,42564,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+104,2018,Audi,Q5_Premium, 28400, Upper Saddle River, NJ ,49304,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+105,2016,Audi,Q5_Premium_Plus, 18885, Hasbrouck Heights, NJ ,109452,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,8
+106,2016,Audi,A5_Premium_Plus, 29950, Newton, NJ ,34222,No Accident or Damage Reported,Convertible,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+107,2018,Audi,S4_Premium_Plus, 34726, Jamaica, NY ,47677,Accident Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+108,2015,Audi,A4_Premium_Plus, 17898, Lindenhurst, NY ,68262,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,8
+109,2018,Audi,A7_Premium_Plus, 40927, Lynbrook, NY ,47959,No Accident or Damage Reported,Hatchback,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Corporate Use,8
+110,2016,Audi,A6_Premium_Plus, 24987, Morristown, NJ ,79319,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,14
+111,2018,Audi,A4_Premium_Plus, 21990, Great Neck, NY ,105133,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,18
+112,2011,Audi,A5_Premium_Plus, 10444, Hasbrouck Heights, NJ ,134811,No Accident or Damage Reported,Convertible,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,26
+113,2018,Audi,Q7_Premium_Plus, 31490, Jamaica, NY ,72113,Major Damage,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,11
+114,2018,Audi,A4_Premium_Plus, 32900, Nanuet, NY ,24605,No Accident or Damage Reported,Sedan,Green_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+115,2018,Audi,Q7_Premium_Plus, 38684, Flemington, NJ ,41385,Accident Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+116,2018,Audi,S5_Premium_Plus, 43900, Rahway, NJ ,36594,No Accident or Damage Reported,Hatchback,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+117,2018,Audi,Q3_Premium, 30000, Fairfield, CT ,27093,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+118,2018,Audi,Q7_Premium_Plus, 39588, New York, NY ,51243,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+119,2016,Audi,A7_Prestige, 41995, Edison, NJ ,32640,No Accident or Damage Reported,Hatchback,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,12
+120,2018,Audi,A5_Premium_Plus, 33599, Ramsey, NJ ,44501,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+121,2020,Audi,A5_Premium_45, 39449, Huntington Station, NY ,11240,No Accident or Damage Reported,Coupe,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+122,2020,Audi,SQ7_Prestige, 87983, PARAMUS, NJ ,18472,No Accident or Damage Reported,SUV,Gray_Engine:_8_Cyl_4.0_L_,CARFAX 1-Owner,Personal Use,5
+123,2017,Audi,A4_Premium_Plus, 21995, Lindenhurst, NY ,62078,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,15
+124,2018,Audi,Q7_Premium_Plus, 34926, Jamaica, NY ,68705,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+125,2018,Audi,S5_Prestige, 37778, Jamaica, NY ,59833,No Accident or Damage Reported,Hatchback,Black_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,3
+126,2014,Audi,Q7, 18295, West Babylon, NY ,98936,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,7
+127,2019,Audi,Q8_Premium_Plus, 60495, Great Neck, NY ,16340,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,11
+128,2018,Audi,A5_Premium_Plus, 33695, Great Neck, NY ,28292,No Accident or Damage Reported,Hatchback,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+129,2018,Audi,A6_Premium_Plus, 26998, Woodside, NY ,38514,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+130,2016,Audi,Q5_Premium, 14325, EATONTOWN, NJ ,164198,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,25
+131,2017,Audi,A8_L_Sport, 50900, Greenwich, CT ,28596,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.0_L_,CARFAX 1-Owner,Personal Use,5
+132,2018,Audi,Q5_Premium, 28995, Ramsey, NJ ,57929,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,11
+133,2014,Audi,TTS_Prestige, 31995, Ramsey, NJ ,25744,No Accident or Damage Reported,Convertible,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+134,2018,Audi,A4_Premium, 26995, Jamaica, NY ,36071,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+135,2021,Audi,RS6, 134000, EATONTOWN, NJ ,7523,No Accident or Damage Reported,Wagon,Red_Engine:_8_Cyl_4.0_L_,CARFAX 1-Owner,Personal Use,2
+136,2019,Audi,A7_Premium_Plus, 58995, New York, NY ,17737,No Accident or Damage Reported,Hatchback,Brown_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+137,2018,Audi,S4_Premium_Plus, 41995, New York, NY ,28278,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+138,2017,Audi,A3_Premium_Plus, 23577, Freehold, NJ ,39265,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,2
+139,2018,Audi,A6_Premium_Plus, 31449, New York, NY ,38899,Minor Damage,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+140,2018,Audi,Q3_Premium, 28600, Fairfield, CT ,37785,Minor Damage,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+141,2021,Audi,Q5_Premium_Plus_45, 46500, Paramus, NJ ,5750,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Lease Use,2
+142,2018,Audi,Q7_Prestige, 41900, Rahway, NJ ,52816,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,12
+143,2018,Audi,A4_Premium_Plus, 29995, Totowa, NJ ,28798,Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+144,2019,Audi,S4_Premium_Plus, 43999, Bridgewater, NJ ,22641,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,15
+145,2018,Audi,Q5_Premium_Plus, 33495, Great Neck, NY ,29875,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+146,2018,Audi,SQ5_Prestige, 36990, Freeport, NY ,47715,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,11
+147,2015,Audi,A6_Premium_Plus, 18595, Lodi, NJ ,98537,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,15
+148,2018,Audi,A4_Premium_Plus, 33777, Freehold, NJ ,28075,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+149,2021,Audi,Q3_Premium_Plus_45, 41698, Englewood, NJ ,6440,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Lease Use,3
+150,2021,Audi,Q8_Prestige, 79998, COLONIA, NJ ,4236,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,0
+151,2020,Audi,Q5_Premium_Plus_55, 49448, Maplewood, NJ ,6540,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,4
+152,2018,Audi,Q5_Premium_Plus, 29299, Maplewood, NJ ,71992,Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+153,2018,Audi,Q5_Premium_Plus, 34673, Maplewood, NJ ,31676,Accident Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+154,2018,Audi,Q5_Premium_Plus, 36481, Flemington, NJ ,30139,Accident Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+155,2019,Audi,Q5_Premium_Plus, 38264, Eatontown, NJ ,24614,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+156,2015,Audi,A7_Prestige, 31995, Greenwich, CT ,22051,No Accident or Damage Reported,Hatchback,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+157,2021,Audi,S4_Premium_Plus, 57300, Fairfield, CT ,9835,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+158,2017,Audi,A7_Prestige, 34950, Newton, NJ ,63884,Damage Reported,Hatchback,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,13
+159,2020,Audi,A8_L, 83995, Edison, NJ ,8300,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_4.0_L_,CARFAX 1-Owner,Personal Use,2
+160,2018,Audi,A5_Prestige, 32995, Woodside, NY ,16028,No Accident or Damage Reported,Hatchback,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+161,2015,Audi,Q7_Premium, 20995, UNION CITY, NJ ,92950,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,16
+162,2015,Audi,Q5_Premium, 14995, Lynbrook, NY ,100251,Accident/Minor Damage,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,19
+163,2018,Audi,SQ5_Premium_Plus, 35490, Jamaica, NY ,46313,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+164,2018,Audi,A3_Premium, 22895, Elmwood Park, NJ ,45095,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+165,2018,Audi,Q5_Premium_Plus, 28659, Woodside, NY ,43785,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+166,2019,Audi,Q8_Premium_Plus, 66400, Upper Saddle River, NJ ,15574,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+167,2018,Audi,Q7_Premium, 37998, West Islip, NY ,34650,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+168,2018,Audi,Q5_Premium_Plus, 33295, Great Neck, NY ,28106,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+169,2018,Audi,A4_Premium, 30999, Princeton, NJ ,39898,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+170,2018,Audi,A5_Premium_Plus, 29990, Valley Stream, NY ,42220,No Accident or Damage Reported,Coupe,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+171,2018,Audi,Q3_Premium, 29000, Monmouth Junction, NJ ,14159,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+172,2018,Audi,Q7_Premium, 42990, Great Neck, NY ,29744,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+173,2018,Audi,S3_Premium_Plus, 37260, Massapequa Park, NY ,26391,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+174,2015,Audi,Q5_Premium_Plus, 20000, Westport, CT ,70117,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,13
+175,2018,Audi,A3_Premium, 24477, Freehold, NJ ,36475,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+176,2019,Audi,A5_Premium, 37650, Madison, NJ ,19605,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+177,2018,Audi,A4_Premium, 23890, Elmwood Park, NJ ,42504,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+178,2018,Audi,Q5_Premium_Plus, 25990, Great Neck, NY ,53475,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+179,2018,Audi,SQ5_Prestige, 31215, New Windsor, NY ,114730,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Commercial Use,17
+180,2018,Audi,A4_Premium_Plus, 26552, Jamaica, NY ,36920,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+181,2018,Audi,A4_Premium_Plus, 34565, East Hanover, NJ ,26351,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,9
+182,2018,Audi,S5_Premium_Plus, 47898, Upper Saddle River, NJ ,26534,No Accident or Damage Reported,Coupe,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,12
+183,2017,Audi,Q5_Premium_Plus, 26600, Fairfield, CT ,61553,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+184,2019,Audi,A7_Prestige, 66493, Paramus, NJ ,6988,No Accident or Damage Reported,Hatchback,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+185,2020,Audi,A5_Premium, 36995, Commack, NY ,2205,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+186,2018,Audi,Q5_Premium_Plus, 35000, Upper Saddle River, NJ ,30386,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+187,2019,Audi,Q5_Premium, 33122, Maplewood, NJ ,34821,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+188,2018,Audi,Q5_Prestige, 41400, Fairfield, CT ,31140,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+189,2018,Audi,A4_Premium_Plus, 30999, Maplewood, NJ ,45746,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+190,2018,Audi,Q5_Premium_Plus, 36799, Maplewood, NJ ,33949,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+191,2020,Audi,Q5_Premium_Plus_45, 43995, New York, NY ,16573,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+192,2018,Audi,Q7_Premium, 40812, Maplewood, NJ ,15944,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+193,2018,Audi,Q7_Premium_Plus, 42888, Maplewood, NJ ,42764,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+194,2018,Audi,Q7_Premium_Plus, 46000, Paramus, NJ ,16695,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+195,2020,Audi,SQ5_Premium_Plus, 59500, Fairfield, CT ,4850,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+196,2015,Audi,A8_L, 25997, Massapequa, NY ,76230,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,17
+197,2018,Audi,A4_Premium, 27888, North Plainfield, NJ ,50597,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+198,2015,Audi,Q5_Premium, 15888, Greenwich, CT ,117324,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,19
+199,2019,Audi,Q5_Premium, 36686, Secaucus, NJ ,14976,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+200,2017,Audi,Q7_Prestige, 39500, Fairfield, CT ,47814,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,13
+201,2016,Audi,A3_Prestige, 24595, Parsippany, NJ ,29432,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+202,2019,Audi,A3_Premium, 27695, Great Neck, NY ,15639,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,4
+203,2014,Audi,A4_Premium_Plus, 12250, Little Ferry, NJ ,109067,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,11
+204,2013,Audi,A4_Premium_Plus, 11850, Little Ferry, NJ ,98571,Accident/Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,17
+205,2018,Audi,Q7_Premium_Plus, 40988, Clifton, NJ ,35820,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,7
+206,2019,Audi,A5_Premium_Plus, 41980, Brooklyn, NY ,6596,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+207,2018,Audi,Q7_Premium_Plus, 38990, Jamaica, NY ,37913,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+208,2018,Audi,A5_Prestige, 36495, Lakewood, NJ ,36337,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+209,2018,Audi,A4_Premium_Plus, 25889, Hempstead, NY ,53807,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,10
+210,2016,Audi,Q3_Premium_Plus, 21000, Jersey City, NJ ,51933,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,14
+211,2018,Audi,A5_Premium_Plus, 30990, Great Neck, NY ,28000,No Accident or Damage Reported,Coupe,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+212,2018,Audi,Q7_Premium, 38990, Great Neck, NY ,39507,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+213,2018,Audi,A5_Premium, 33495, Great Neck, NY ,13200,No Accident or Damage Reported,Coupe,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+214,2018,Audi,Q5_Premium_Plus, 34990, Great Neck, NY ,12000,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+215,2018,Audi,A5_Prestige, 29500, Somerville, NJ ,60506,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+216,2015,Audi,Q7_Premium_Plus, 21432, Huntington, NY ,88453,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,25
+217,2006,Audi,A4, 6250, Little Ferry, NJ ,70715,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,22
+218,2017,Audi,Q5_Premium_Plus, 21980, Richmond Hill, NY ,69789,Accident Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,8
+219,2013,Audi,S8, 36900, WEST LONG BRANCH, NJ ,69746,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_4.0_L_,2-Owner,Personal Use,12
+220,2018,Audi,A3_Premium, 23451, Little Ferry, NJ ,27177,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,14
+221,2018,Audi,S5_Prestige, 40000, Upper Saddle River, NJ ,50430,No Accident or Damage Reported,Coupe,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,11
+222,2019,Audi,Q5_Premium_Plus, 38695, Great Neck, NY ,12592,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+223,2018,Audi,Q7_Premium_Plus, 36995, Bronx, NY ,47647,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+224,2018,Audi,A4_Premium_Plus, 26990, Jamaica, NY ,44814,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+225,2018,Audi,A4_Premium_Plus, 26990, Jamaica, NY ,44814,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+226,2017,Audi,Q7_Premium_Plus, 29995, Ramsey, NJ ,69802,No Accident or Damage Reported,SUV,4_Cyl_2.0_L_,2-Owner,Multiple Use,14
+227,2018,Audi,A4_Premium, 26800, Upper Saddle River, NJ ,31584,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+228,2011,Audi,A6_Premium_Plus, 6999, Brooklyn, NY ,136236,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,9
+229,2019,Audi,Q5_Premium_Plus, 42232, Englewood, NJ ,9402,Accident Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+230,2018,Audi,Q3_Premium_Plus, 24875, Colonia, NJ ,41935,Minor Damage,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+231,2016,Audi,Q5_Premium_Plus, 22390, Massapequa Park, NY ,53344,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,12
+232,2018,Audi,S6_Premium_Plus, 49197, Great Neck, NY ,28913,Damage Reported,Sedan,White_Engine:_8_Cyl_4.0_L_,CARFAX 1-Owner,Personal Use,9
+233,2018,Audi,S5_Prestige, 37995, Hillside, NJ ,55105,No Accident or Damage Reported,Hatchback,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,10
+234,2014,Audi,Q7_Premium_Plus, 16495, E Rutherford, NJ ,111868,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,2
+235,2018,Audi,S5_Premium_Plus, 48174, PARAMUS, NJ ,15300,No Accident or Damage Reported,Hatchback,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,12
+236,2018,Audi,A3_Premium, 24995, Elizabeth, NJ ,40430,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+237,2016,Audi,Q3_Premium_Plus, 19695, Great Neck, NY ,67214,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,14
+238,2017,Audi,A8_L, 34996, Lynbrook, NY ,52404,Accident/Minor Damage,Sedan,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,5
+239,2018,Audi,Q5_Premium, 34600, Upper Saddle River, NJ ,21265,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+240,2018,Audi,Q5_Premium_Plus, 38196, Englewood, NJ ,14045,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+241,2020,Audi,Q3_Premium_45, 34500, Upper Saddle River, NJ ,18833,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+242,2018,Audi,Q5_Premium_Plus, 32779, New York, NY ,55678,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+243,2018,Audi,Q5_Premium_Plus, 32999, Paramus, NJ ,36529,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+244,2018,Audi,Q5_Premium, 33000, EATONTOWN, NJ ,34742,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+245,2018,Audi,Q5_Premium_Plus, 37600, Fairfield, CT ,31218,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+246,2018,Audi,A4_Premium_Plus, 31455, EATONTOWN, NJ ,39122,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+247,2018,Audi,Q5_Premium_Plus, 38400, Fairfield, CT ,26073,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+248,2019,Audi,SQ5, 55595, EATONTOWN, NJ ,21744,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+249,2018,Audi,Q5_Premium_Plus, 39481, Flemington, NJ ,10390,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+250,2018,Audi,Q5_Premium, 33350, EATONTOWN, NJ ,38742,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+251,2018,Audi,Q5_Premium_Plus, 39481, Flemington, NJ ,10390,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+252,2018,Audi,Q5_Premium_Plus, 38400, Fairfield, CT ,26073,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+253,2018,Audi,A4_Premium_Plus, 31699, Maplewood, NJ ,28930,No Accident or Damage Reported,Sedan,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+254,2018,Audi,Q5_Premium_Plus, 37900, Fairfield, CT ,27696,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+255,2019,Audi,A4_Premium_Plus, 34995, Brooklyn, NY ,18610,Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+256,2020,Audi,Q5_Premium_Plus_45, 36990, Freeport, NY ,11251,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Rental Use,3
+257,2017,Audi,Q7_Premium_Plus, 32999, Jamaica, NY ,47058,Accident Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+258,2018,Audi,A4_Premium_Plus, 33686, Secaucus, NJ ,8991,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+259,2018,Audi,A5_Premium_Plus, 29999, Ramsey, NJ ,46599,Damage Reported,Coupe,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+260,2017,Audi,Q7_Prestige, 38500, Florham Park, NJ ,63188,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,16
+261,2018,Audi,Q5_Premium_Plus, 31495, Great Neck, NY ,34117,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+262,2012,Audi,S5_Prestige, 24495, SADDLE BROOK, NJ ,55869,No Accident or Damage Reported,Coupe,Gray_Engine:_8_Cyl_4.2_L_,3+ Owners,Personal Use,12
+263,2018,Audi,S5_Prestige, 41492, Morristown, NJ ,47149,No Accident or Damage Reported,Hatchback,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,11
+264,2018,Audi,Q5_Premium, 28888, Butler, NJ ,41168,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+265,2013,Audi,Q7, 13999, Little Ferry, NJ ,158595,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,23
+266,2018,Audi,Q5_Premium_Plus, 33999, Freehold, NJ ,54149,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,4
+267,2019,Audi,SQ5, 44990, Great Neck, NY ,44463,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+268,2018,Audi,A4_Premium_Plus, 27998, Amityville, NY ,49514,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+269,2018,Audi,A6_Premium_Plus, 38999, Morristown, NJ ,11597,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+270,2018,Audi,A3_Premium_Plus, 23990, Freeport, NY ,28119,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+271,2016,Audi,A6_Prestige, 19980, Bronx, NY ,98265,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,13
+272,2018,Audi,A5_Prestige, 37800, Fairfield, CT ,24683,No Accident or Damage Reported,Coupe,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,7
+273,2018,Audi,SQ5_Premium_Plus, 40817, Brooklyn, NY ,38029,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,23
+274,2018,Audi,Q5_Prestige, 32795, Rahway, NJ ,48950,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,Number of Owners,Lease Use,4
+275,2018,Audi,Q3_Premium, 30999, Princeton, NJ ,35568,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+276,2015,Audi,Q7_Premium_Plus, 22990, Freehold, NJ ,71882,No Accident or Damage Reported,SUV,Brown_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+277,2016,Audi,A6_Premium_Plus, 23990, Great Neck, NY ,54001,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,16
+278,2018,Audi,Q3_Premium, 28895, Brooklyn, NY ,15106,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+279,2020,Audi,Q3_Premium_45, 36000, Englewood, NJ ,12107,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+280,2016,Audi,A3_Premium, 18970, Little Ferry, NJ ,60847,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,14
+281,2018,Audi,SQ5_Prestige, 36900, Rahway, NJ ,68863,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,2
+282,2018,Audi,S4_Premium_Plus, 37988, Maplewood, NJ ,39140,Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,26
+283,2017,Audi,S7_Premium_Plus, 46980, Forest Hills, NY ,60584,No Accident or Damage Reported,Hatchback,Black_Engine:_8_Cyl_4.0_L_,3+ Owners,Personal Use,0
+284,2018,Audi,Q5_Premium_Plus, 35368, Englewood, NJ ,33129,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+285,2018,Audi,Q5_Premium_Plus, 35288, Englewood, NJ ,41800,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+286,2020,Audi,Q8_Premium_Plus, 68000, Upper Saddle River, NJ ,21248,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+287,2018,Audi,Q3_Premium, 28886, Secaucus, NJ ,25483,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+288,2018,Audi,A4_Premium_Plus, 31686, Secaucus, NJ ,27508,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+289,2018,Audi,A5_Premium_Plus, 34990, East Hanover, NJ ,44850,No Accident or Damage Reported,Hatchback,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+290,2018,Audi,Q5_Premium_Plus, 35500, Upper Saddle River, NJ ,26935,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+291,2019,Audi,Q8_Prestige, 69995, Parsippany, NJ ,17234,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+292,2012,Audi,A6, 13499, Little Ferry, NJ ,107556,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,14
+293,2016,Audi,A6_Premium_Plus, 27997, Morristown, NJ ,37722,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,11
+294,2014,Audi,Q7_Premium_Plus, 15490, Bronx, NY ,115305,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,5
+295,2018,Audi,Q5_Premium_Plus, 33869, East Brunswick, NJ ,35665,Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+296,2018,Audi,Q5_Premium_Plus, 34790, North Brunswick, NJ ,34549,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+297,2013,Audi,S8, 23995, South River, NJ ,126791,No Accident or Damage Reported,Sedan,Silver_Engine:_8_Cyl_4.0_L_,3+ Owners,Personal Use,25
+298,2018,Audi,Q5_Premium_Plus, 35601, Trenton, NJ ,31311,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,11
+299,2018,Audi,A4_Premium_Plus, 29488, Freehold, NJ ,32342,Accident/Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+300,2017,Audi,A6_Premium, 30999, Rutherford, NJ ,28346,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+301,2015,Audi,A4_Premium_Plus, 15298, Hollis, NY ,97766,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+302,2018,Audi,A4_Premium_Plus, 28495, Inwood, NY ,38884,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+303,2019,Audi,Q5_Premium, 36685, Brooklyn, NY ,13458,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+304,2018,Audi,Q3_Premium, 28655, Brooklyn, NY ,20173,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+305,2018,Audi,Q3_Premium, 28495, Lakewood, NJ ,30214,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+306,2015,Audi,RS7_Prestige, 66000, Ramsey, NJ ,32242,No Accident or Damage Reported,Hatchback,White_Engine:_8_Cyl_4.0_L_,3+ Owners,Personal Use,9
+307,2017,Audi,A8_L, 34906, Jersey City, NJ ,66848,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,3+ Owners,Multiple Use,9
+308,2015,Audi,A6_Premium, 17495, Huntington Station, NY ,78666,Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,5
+309,2018,Audi,RS5, 57750, North Plainfield, NJ ,31363,Damage Reported,Coupe,White_Engine:_6_Cyl_2.9_L_,CARFAX 1-Owner,Personal Use,12
+310,2018,Audi,A4_Premium, 21990, Bronx, NY ,39446,Minor Damage,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+311,2015,Audi,Q5_Premium_Plus, 15490, Bronx, NY ,93681,Accident Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+312,2018,Audi,A3_Premium, 22575, Butler, NJ ,29305,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+313,2010,Audi,A5_Premium_Plus, 9750, Newton, NJ ,94129,Branded Title,Coupe,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,47
+314,2014,Audi,A4_Premium, 12990, Brooklyn, NY ,92674,Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,19
+315,2021,Audi,Q5_Premium_45, 46599, Princeton, NJ ,2066,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+316,2018,Audi,SQ5_Prestige, 36995, Rahway, NJ ,61299,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,Number of Owners,Lease Use,4
+317,2007,Audi,A6, 6495, Paterson, NJ ,121742,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.2_L_,2-Owner,Personal Use,19
+318,2018,Audi,A4_Premium_Plus, 27495, Bronx, NY ,40634,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+319,2021,Audi,SQ7_Premium_Plus, 88995, Greenwich, CT ,942,No Accident or Damage Reported,SUV,Gray_Engine:_8_Cyl_4.0_L_,2-Owner,Personal Use,3
+320,2013,Audi,A5_Prestige, 19685, Inwood, NY ,70209,No Accident or Damage Reported,Coupe,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,19
+321,2015,Audi,Q3_Premium_Plus, 12977, Lodi, NJ ,134041,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,19
+322,2016,Audi,Q3_Premium_Plus, 23695, Great Neck, NY ,58185,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,12
+323,2015,Audi,A3_Premium, 13995, Saint James, NY ,77491,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,13
+324,2018,Audi,A4_Premium_Plus, 32495, Great Neck, NY ,53736,No Accident or Damage Reported,Wagon,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+325,2018,Audi,A5_Premium_Plus, 43125, West Islip, NY ,36685,No Accident or Damage Reported,Convertible,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+326,2017,Audi,A4_Prestige, 29900, White Plains, NY ,22581,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,Number of Owners,Commercial Use,3
+327,2018,Audi,Q5_Premium_Plus, 28999, Maplewood, NJ ,69753,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,12
+328,2015,Audi,R8_4.2, 91990, Great Neck, NY ,30800,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_4.2_L_,3+ Owners,Personal Use,17
+329,2016,Audi,Q5_Premium_Plus, 22995, Roslyn Heights, NY ,43551,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,8
+330,2018,Audi,Q5_Premium_Plus, 27495, Valley Stream, NY ,46184,Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+331,2014,Audi,A5_Premium_Plus, 13995, Rahway, NJ ,126738,Accident/Minor Damage,Coupe,Beige_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,24
+332,2015,Audi,Q3_Premium_Plus, 12995, Brooklyn, NY ,126006,Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,18
+333,2021,Audi,A5_Premium, 49888, Englewood, NJ ,8502,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,4
+334,2011,Audi,S5_Prestige, 19995, Commack, NY ,95314,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_4.2_L_,3+ Owners,Personal Use,17
+335,2012,Audi,Q5_Prestige, 13995, Somerville, NJ ,104332,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,3+ Owners,Personal Use,14
+336,2019,Audi,S4_Premium_Plus, 49000, Parsippany, NJ ,24000,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,5
+337,2005,Audi,A4, 6989, Passaic, NJ ,71079,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.2_L_,3+ Owners,Personal Use,26
+338,2014,Audi,A5_Premium_Plus, 21495, New York, NY ,47369,No Accident or Damage Reported,Coupe,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,9
+339,2018,Audi,A5_Premium_Plus, 23395, Jersey City, NJ ,84770,No Accident or Damage Reported,Coupe,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,32
+340,2019,Audi,Q5_Premium, 37480, Fairfield, CT ,19855,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+341,2018,Audi,A3_Premium, 24999, Jamaica, NY ,28282,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+342,2018,Audi,Q5_Premium_Plus, 37899, Maplewood, NJ ,20240,Minor Damage,SUV,Green_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+343,2020,Audi,A5_Premium_Plus, 46405, Brooklyn, NY ,10019,No Accident or Damage Reported,Hatchback,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+344,2017,Audi,Q5_Premium_Plus, 24980, Richmond Hill, NY ,56992,Minor Damage,SUV,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+345,2012,Audi,Q5_Premium, 11980, Bronx, NY ,85135,Accident Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+346,2020,Audi,Q3_Premium_45, 37881, Avenel, NJ ,6149,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+347,2018,Audi,Q3_Premium_Plus, 31999, Lakewood, NJ ,19192,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,3
+348,2017,Audi,Q7_Premium, 32495, Great Neck, NY ,35637,Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+349,2019,Audi,Q5_Premium, 34595, Brooklyn, NY ,21533,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+350,2019,Audi,Q5_Premium, 34595, Brooklyn, NY ,21533,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+351,2017,Audi,A8_L, 36875, Hillside, NJ ,64688,Accident/Minor Damage,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+352,2012,Audi,Q5_Premium_Plus, 14000, Jersey City, NJ ,92236,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.2_L_,3+ Owners,Personal Use,26
+353,2017,Audi,A6_Premium_Plus, 20500, Amityville, NY ,45174,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+354,2018,Audi,A4_Premium, 23759, Woodside, NY ,29835,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+355,2017,Audi,A7_Premium_Plus, 35990, Bronx, NY ,52494,No Accident or Damage Reported,Hatchback,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,2
+356,2018,Audi,S3_Premium_Plus, 39900, White Plains, NY ,34155,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+357,2014,Audi,Q7_Prestige_S-Line, 15995, Lindenhurst, NY ,122001,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,5
+358,2020,Audi,Q5_Premium_45_Titanium, 41799, Maplewood, NJ ,10293,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+359,2018,Audi,Q3_Premium, 29995, Jersey City, NJ ,17111,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+360,2018,Audi,A6_Premium_Plus, 28777, New York, NY ,29907,Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,12
+361,2018,Audi,Q5_Premium_Plus, 33495, New York, NY ,38979,Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,7
+362,2018,Audi,A4_Premium_Plus, 28995, Ridgewood, NY ,25660,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+363,2018,Audi,A6_Premium_Plus, 32595, Massapequa, NY ,28075,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+364,2021,Audi,Q3_Premium_45, 38500, Fairfield, CT ,5774,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,3
+365,2018,Audi,A3_Premium, 25967, Great Neck, NY ,19803,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,16
+366,2012,Audi,Q5, 12795, SADDLE BROOK, NJ ,103211,Accident Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,22
+367,2020,Audi,Q5_Premium_Plus_45, 46200, Upper Saddle River, NJ ,7538,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+368,2020,Audi,A4_Premium_Plus, 45895, Englewood, NJ ,13819,Accident/Minor Damage,Wagon,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+369,2018,Audi,A5_Premium_Plus, 42997, Freehold, NJ ,41717,No Accident or Damage Reported,Convertible,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+370,2018,Audi,Q5_Premium_Plus, 34375, EATONTOWN, NJ ,31354,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+371,2020,Audi,Q5_Premium_Plus_45, 43495, New York, NY ,9342,Minor Damage,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+372,2018,Audi,A4_Premium_Plus_ultra, 32995, Edison, NJ ,22428,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+373,2018,Audi,Q3_Premium_Plus, 31900, Fairfield, CT ,20247,Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+374,2014,Audi,A6_Premium_Plus, 13490, Bronx, NY ,119126,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,13
+375,2018,Audi,Q7_Premium_Plus, 35895, Newark, NJ ,46515,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,6
+376,2014,Audi,A6_Premium_Plus, 13996, Amityville, NY ,83280,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,16
+377,2019,Audi,A4_Premium, 30395, EATONTOWN, NJ ,40133,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+378,2018,Audi,A8_L_Sport, 41995, Long Island City, NY ,54555,Branded Title,Sedan,Blue_Engine:_8_Cyl_4.0_L_,CARFAX 1-Owner,Personal Use,18
+379,2018,Audi,SQ5_Prestige, 32484, Butler, NJ ,94650,Minor Damage,SUV,Red_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,18
+380,2017,Audi,Q7_Prestige, 31985, Paterson, NJ ,86947,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,6
+381,2016,Audi,Q3_Premium_Plus, 21970, Little Ferry, NJ ,47835,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+382,2018,Audi,Q5_Premium_Plus, 33990, Great Neck, NY ,29970,Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+383,2014,Audi,Q5_Premium_Plus, 12980, Bronx, NY ,120144,Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,21
+384,2017,Audi,Q7_Prestige, 34779, Englewood, NJ ,54693,Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,20
+385,2016,Audi,A3_Premium_Plus, 19995, Lakewood, NJ ,48150,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,1
+386,2018,Audi,RS5, 63994, Harriman, NY ,41821,No Accident or Damage Reported,Coupe,Blue_Engine:_6_Cyl_2.9_L_,CARFAX 1-Owner,Personal Use,5
+387,2018,Audi,Q7_Premium, 40495, Great Neck, NY ,37583,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Corporate Use,7
+388,2018,Audi,Q5_Premium_Plus, 34990, Valley Stream, NY ,18889,Accident Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+389,2020,Audi,S8, 112999, Princeton, NJ ,17743,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_4.0_L_,CARFAX 1-Owner,Corporate Use,2
+390,2018,Audi,A4_Premium_Plus, 30995, Wall Township, NJ ,23677,Minor Damage,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+391,2018,Audi,Q5_Premium_Plus, 34995, Wall Township, NJ ,17406,Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+392,2014,Audi,S4_Premium_Plus, 23995, E Rutherford, NJ ,90394,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,21
+393,2018,Audi,Q7_Premium_Plus, 40805, Brooklyn, NY ,30228,Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+394,2014,Audi,S4_Premium_Plus, 19495, Great Neck, NY ,100599,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,20
+395,2019,Audi,S5_Prestige, 53990, Great Neck, NY ,8872,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+396,2017,Audi,A6_Premium, 28999, Huntington, NY ,21376,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+397,2018,Audi,SQ5_Premium_Plus, 43279, Brooklyn, NY ,21626,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,10
+398,2017,Audi,Q5_Premium, 19519, Syosset, NY ,60739,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,11
+399,2021,Audi,Q8_Premium_Plus, 73980, Richmond Hill, NY ,13771,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+400,2018,Audi,A5_Premium_Plus, 34995, Harriman, NY ,28370,No Accident or Damage Reported,Coupe,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,11
+401,2018,Audi,Q5_Premium, 29500, Upper Saddle River, NJ ,47361,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+402,2016,Audi,Q5_Premium_Plus, 18599, Hasbrouck Heights, NJ ,98744,Accident Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,6
+403,2016,Audi,A6_Premium_Plus, 24667, New Windsor, NY ,75256,Accident Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,12
+404,2017,Audi,Q5_Premium_Plus, 28590, Tinton Falls, NJ ,31951,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,15
+405,2019,Audi,A3_Premium, 27400, Rahway, NJ ,40111,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+406,2018,Audi,A5_Premium_Plus, 42775, Manasquan, NJ ,39013,No Accident or Damage Reported,Convertible,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+407,2013,Audi,S6_Prestige, 28995, East Windsor, NJ ,70946,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.0_L_,3+ Owners,Personal Use,18
+408,2017,Audi,A3_Premium, 21495, Darien, CT ,59499,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,12
+409,2018,Audi,S5_Premium_Plus, 43286, Secaucus, NJ ,47445,Accident/Minor Damage,Hatchback,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+410,2018,Audi,S5_Premium_Plus, 46777, Freehold, NJ ,21417,Minor Damage,Coupe,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+411,2014,Audi,A5_Premium, 14990, Great Neck, NY ,108401,Minor Damage,Coupe,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,31
+412,2006,Audi,S4, 7999, Little Ferry, NJ ,128009,Accident Reported,Convertible,Red_Engine:_8_Cyl_4.2_L_,3+ Owners,Personal Use,36
+413,2011,Audi,A4_Premium, 9750, Paterson, NJ ,102876,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,16
+414,2017,Audi,Q7_Prestige, 41800, White Plains, NY ,39549,Minor Damage,SUV,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,12
+415,2018,Audi,A6_Premium_Plus, 31990, Great Neck, NY ,19178,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,12
+416,2014,Audi,A4_Premium_Plus, 13295, Bridgewater, NJ ,119111,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,14
+417,2014,Audi,A4_Premium_Plus, 13855, PARAMUS, NJ ,102688,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,2
+418,2018,Audi,A6_Premium, 36250, EATONTOWN, NJ ,44116,Minor Damage,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+419,2018,Audi,A4_Premium_Plus, 28995, Massapequa, NY ,33637,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+420,2018,Audi,Q5_Premium_Plus, 32981, Flemington, NJ ,57245,Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+421,2018,Audi,A4_Premium, 26995, New York, NY ,44999,Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+422,2018,Audi,Q5_Premium_Plus, 31400, Fairfield, CT ,74173,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Vehicle Use,7
+423,2018,Audi,Q5_Premium, 31995, Massapequa, NY ,21558,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+424,2018,Audi,A5_Premium_Plus, 34995, Massapequa, NY ,36408,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+425,2018,Audi,Q3_Premium, 26995, Massapequa, NY ,28240,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+426,2018,Audi,A5_Premium_Plus, 34995, Massapequa, NY ,36408,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+427,2021,Audi,Q7_Premium, 53995, Massapequa, NY ,16030,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+428,2017,Audi,Q7_Premium_Plus, 31995, Pt Pleasant, NJ ,69989,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,17
+429,2018,Audi,A4_Premium_Plus, 28450, New Windsor, NY ,63666,Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+430,2021,Audi,SQ5_Premium_Plus, 59500, Fairfield, CT ,19500,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+431,2017,Audi,Q5_Premium, 17477, Lodi, NJ ,108488,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,2
+432,2018,Audi,Q7_Premium_Plus, 42350, EATONTOWN, NJ ,31684,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+433,2018,Audi,A5_Premium_Plus, 45400, Summit, NJ ,17246,No Accident or Damage Reported,Convertible,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+434,2019,Audi,S5_Prestige, 57950, Greenwich, CT ,18304,No Accident or Damage Reported,Hatchback,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+435,2018,Audi,Q7_Premium_Plus, 42490, Fairfield, CT ,44346,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+436,2018,Audi,A4_Premium, 33990, Fairfield, CT ,16125,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+437,2012,Audi,A4_Premium_Plus, 7991, Paterson, NJ ,148534,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,14
+438,2021,Audi,Q3_Premium_45, 34862, Freehold, NJ ,9248,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+439,2019,Audi,Q7_Premium, 46995, New York, NY ,14725,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+440,2014,Audi,A4_Premium, 18450, Paterson, NJ ,61644,Accident Reported,Wagon,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,16
+441,2019,Audi,Q7_Premium, 46686, Secaucus, NJ ,24838,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,8
+442,2017,Audi,A7_Premium_Plus, 38433, Englewood, NJ ,26045,Accident Reported,Hatchback,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+443,2018,Audi,Q5_Premium_Plus, 26618, Hollis, NY ,55726,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,11
+444,2018,Audi,Q5_Premium, 25995, Bronx, NY ,71256,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,11
+445,2014,Audi,RS7_Prestige, 53997, Syosset, NY ,47942,No Accident or Damage Reported,Hatchback,Blue_Engine:_8_Cyl_4.0_L_,2-Owner,Personal Use,7
+446,2019,Audi,A6_Premium, 48894, Englewood, NJ ,23560,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+447,2015,Audi,A6_Premium_Plus, 22495, E Rutherford, NJ ,82480,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,20
+448,2019,Audi,SQ5_Premium_Plus, 43995, Wall Township, NJ ,14124,Branded Title,SUV,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+449,2019,Audi,Q5_Premium_Plus, 36995, Wall Township, NJ ,14090,Branded Title,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+450,2019,Audi,Q5_Premium_Plus, 36995, Wall Township, NJ ,14090,Branded Title,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+451,2018,Audi,Q5_Premium, 30995, Wall Township, NJ ,12537,Branded Title,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+452,2018,Audi,A6_Premium_Plus, 29595, Brooklyn, NY ,35955,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+453,2018,Audi,Q5_Premium_Plus, 28990, Somerville, NJ ,66053,Accident/No Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+454,2016,Audi,Q5_Premium, 20990, Great Neck, NY ,81000,Accident Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,22
+455,2018,Audi,A4_Premium_Plus, 26995, Wall Township, NJ ,44615,Major Damage,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+456,2018,Audi,Q3_Premium_Plus, 26998, Hollis, NY ,17956,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+457,2019,Audi,Q5_Premium_Plus, 39995, Wall Township, NJ ,9058,Branded Title,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+458,2009,Audi,A6_Premium_Plus, 6999, Little Ferry, NJ ,140736,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,32
+459,2018,Audi,Q5_Premium, 29774, Butler, NJ ,18959,Accident Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+460,2018,Audi,Q7_Prestige, 35885, Paterson, NJ ,83193,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Commercial Use,1
+461,2019,Audi,Q8_Premium_Plus, 58900, North Plainfield, NJ ,32287,Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+462,2021,Audi,Q3_Premium_Plus_45, 42999, Princeton, NJ ,6400,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Lease Use,1
+463,2019,Audi,Q8_Premium, 58995, Wall Township, NJ ,7643,Branded Title,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+464,2015,Audi,A5_Premium_Plus, 24298, Englewood, NJ ,72199,No Accident or Damage Reported,Convertible,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,19
+465,2015,Audi,S3_Prestige, 23990, Elmwood Park, NJ ,73644,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,17
+466,2017,Audi,Q3_Prestige, 29745, Lakewood, NJ ,16402,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,3
+467,2018,Audi,SQ5_Prestige, 44999, Maplewood, NJ ,50217,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+468,2018,Audi,Q3_Premium, 24997, Massapequa, NY ,23880,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+469,2015,Audi,A3_Premium_Plus, 16995, PARAMUS, NJ ,88677,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,18
+470,2018,Audi,A5_Premium_Plus, 35895, Brooklyn, NY ,9855,Accident Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+471,2018,Audi,Q5_Premium_Plus, 30990, Great Neck, NY ,53099,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+472,2018,Audi,S5_Premium_Plus, 44990, Great Neck, NY ,38202,No Accident or Damage Reported,Hatchback,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,13
+473,2018,Audi,A6_Premium, 34495, Great Neck, NY ,9521,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+474,2018,Audi,Q5_Premium_Plus, 33495, Great Neck, NY ,37575,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+475,2018,Audi,A7_Premium_Plus, 47995, Brooklyn, NY ,24479,No Accident or Damage Reported,Hatchback,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+476,2013,Audi,A8, 27995, Great Neck, NY ,61465,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_4.0_L_,Number of Owners,Lease Use,14
+477,2003,Audi,RS6, 13995, Uniondale, NY ,127980,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_4.2_L_,3+ Owners,Personal Use,37
+478,2019,Audi,A3_Premium_Plus, 31046, Upper Saddle River, NJ ,32440,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+479,2010,Audi,A5_Prestige, 13995, SADDLE BROOK, NJ ,81723,Accident Reported,Coupe,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,16
+480,2017,Audi,Q3_Premium_Plus, 26995, Pt Pleasant, NJ ,0,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,12
+481,2012,Audi,A4_Premium_Plus, 9950, Paterson, NJ ,138639,Accident Reported,Wagon,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,22
+482,2017,Audi,A4_Prestige, 25581, Avenel, NJ ,50667,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,14
+483,2018,Audi,S4_Premium_Plus, 36895, Bronx, NY ,51226,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,3
+484,2017,Audi,A4_Premium_Plus, 23517, Syosset, NY ,50999,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,14
+485,2016,Audi,S3_Premium_Plus, 25990, Freeport, NY ,45937,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+486,2018,Audi,Q7_Premium_Plus, 42297, Freehold, NJ ,41096,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,2
+487,2018,Audi,A5_Premium_Plus, 35686, Secaucus, NJ ,31357,Accident/Minor Damage,Coupe,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+488,2018,Audi,A5_Premium_Plus, 32900, Upper Saddle River, NJ ,43725,Minor Damage,Hatchback,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+489,2018,Audi,Q5_Premium_Plus, 37688, Englewood, NJ ,19431,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+490,2018,Audi,Q5_Premium_Plus, 35468, Englewood, NJ ,38110,Accident/Minor Damage,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+491,2020,Audi,Q3_Premium_45, 36288, Englewood, NJ ,14400,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+492,2014,Audi,A8_L, 27000, Norwalk, CT ,86262,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_4.0_L_,2-Owner,Personal Use,13
+493,2008,Audi,A4_Special_Edition, 7489, Passaic, NJ ,70101,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,28
+494,2019,Audi,Q8_Premium, 61500, Upper Saddle River, NJ ,26455,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+495,2018,Audi,Q3_Premium, 30997, Freehold, NJ ,37705,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+496,2021,Audi,Q3_Premium_45, 38198, Englewood, NJ ,4833,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,2
+497,2018,Audi,SQ5_Prestige, 47500, Fairfield, CT ,45218,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,11
+498,2018,Audi,A6_Premium_Plus, 35800, Fairfield, CT ,36724,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+499,2020,Audi,Q5_Premium_45_Titanium, 46385, EATONTOWN, NJ ,6047,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+500,2018,Audi,A6_Sport, 38900, Fairfield, CT ,18240,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+501,2020,Audi,Q5_Premium_Plus_45_Titanium, 47981, Flemington, NJ ,15030,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+502,2018,Audi,Q7_Prestige, 54981, Flemington, NJ ,28693,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+503,2017,Audi,Q7_Premium_Plus, 31399, Maplewood, NJ ,86304,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,18
+504,2016,Audi,Q5_Premium_Plus, 22119, Linden, NJ ,63515,Minor Damage,SUV,White_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,3
+505,2012,Audi,A6_Premium_Plus, 9991, Paterson, NJ ,141023,No Accident or Damage Reported,Sedan,Beige_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,22
+506,2017,Audi,Q3_Premium_Plus, 25245, Lakewood, NJ ,58458,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,3
+507,2018,Audi,A6_Premium_Plus, 27990, Bronx, NY ,48477,No Accident or Damage Reported,Sedan,Brown_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,17
+508,2018,Audi,Q7_Premium_Plus, 42218, Brooklyn, NY ,28563,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+509,2018,Audi,A4_Premium_Plus, 28899, Bronx, NY ,42493,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+510,2012,Audi,A4_Premium, 8598, Bridgewater, NJ ,154117,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,20
+511,2018,Audi,S7_Premium_Plus, 47500, Syosset, NY ,39642,Branded Title,Hatchback,White_Engine:_8_Cyl_4.0_L_,2-Owner,Personal Use,6
+512,2013,Audi,A6_Premium_Plus, 11990, Brick, NJ ,128659,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,18
+513,2018,Audi,Q5_Premium, 31990, Great Neck, NY ,28102,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+514,2018,Audi,Q7_Premium, 43990, Great Neck, NY ,25677,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+515,2019,Audi,Q5_Premium, 33845, Brooklyn, NY ,33562,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+516,2018,Audi,A6_Premium, 29498, Butler, NJ ,40214,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+517,2019,Audi,A3_Prestige, 34995, Wall Township, NJ ,13603,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+518,2021,Audi,Q7_Premium_Plus, 62899, Princeton, NJ ,9483,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,2
+519,2018,Audi,Q5_Premium_Plus, 32995, Lodi, NJ ,30458,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+520,2018,Audi,A4_Premium_Plus, 33107, Englewood, NJ ,15209,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+521,2018,Audi,S5_Prestige, 45951, PARSIPPANY, NJ ,45527,Minor Damage,Hatchback,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+522,2018,Audi,Q7_Premium_Plus, 34900, Amityville, NY ,68924,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+523,2018,Audi,Q5_Prestige, 32995, Rahway, NJ ,45613,Accident Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,1
+524,2014,Audi,S8, 36995, Roslyn Heights, NY ,59222,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.0_L_,3+ Owners,Personal Use,11
+525,2018,Audi,S5_Premium_Plus, 43981, Avenel, NJ ,27594,No Accident or Damage Reported,Hatchback,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,4
+526,2018,Audi,A4_Premium, 32799, Princeton, NJ ,33114,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+527,2018,Audi,A4_Premium_Plus, 28995, Bronx, NY ,24160,Minor Damage,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+528,2018,Audi,A5_Premium_Plus, 27251, Syosset, NY ,52066,No Accident or Damage Reported,Hatchback,Green_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,1
+529,2015,Audi,Q5_Premium_Plus, 15800, Syosset, NY ,80264,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,18
+530,2017,Audi,A8_L, 37969, Englewood, NJ ,50320,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,8
+531,2013,Audi,A4_Premium, 10995, Morristown, NJ ,140510,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,16
+532,2019,Audi,Q5_Premium_Plus, 41695, Great Neck, NY ,16632,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,0
+533,2016,Audi,Q3_Premium_Plus, 24500, Kearny, NJ ,72160,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+534,2018,Audi,Q7_Premium_Plus, 33888, Butler, NJ ,56508,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,15
+535,2017,Audi,Q5_Premium, 18970, Little Ferry, NJ ,95168,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,15
+536,2018,Audi,SQ5_Premium_Plus, 41245, Bronx, NY ,40316,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+537,2018,Audi,A3_Premium, 25495, Bronx, NY ,25465,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+538,2017,Audi,A7_Premium_Plus, 32998, Amityville, NY ,47024,No Accident or Damage Reported,Hatchback,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,18
+539,2018,Audi,S3_Premium_Plus, 38500, Nanuet, NY ,32313,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+540,2017,Audi,Q5_Premium_Plus, 25340, Jamaica, NY ,41139,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,9
+541,2013,Audi,A8_L, 17800, Brooklyn, NY ,73503,Minor Damage,Sedan,Black_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,6
+542,2018,Audi,R8_5.2_Plus, 162546, PARAMUS, NJ ,18299,No Accident or Damage Reported,Coupe,Red_Engine:_10_Cyl_5.2_L_,2-Owner,Personal Use,10
+543,2019,Audi,A4_Premium, 30560, Shrewsbury, NJ ,22408,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,8
+544,2018,Audi,Q5_Premium_Plus, 34686, Secaucus, NJ ,44861,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+545,2018,Audi,SQ5_Premium_Plus, 44686, Secaucus, NJ ,20326,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+546,2019,Audi,Q8_Premium, 59995, Parsippany, NJ ,33967,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+547,2018,Audi,Q3_Premium, 23100, Paramus, NJ ,70889,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,8
+548,2016,Audi,Q5_Premium_Plus, 23899, Maplewood, NJ ,56571,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,17
+549,2018,Audi,A4_Premium, 28542, Carlstadt, NJ ,17143,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+550,2018,Audi,A4_Premium, 28542, Carlstadt, NJ ,17143,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+551,2018,Audi,Q5_Premium, 32488, Green Brook, NJ ,29251,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+552,2014,Audi,Q5_Premium_Plus, 15995, Bronx, NY ,107101,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,9
+553,2018,Audi,A4_Premium_Plus, 33800, West Hempstead, NY ,27039,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+554,2018,Audi,SQ5_Prestige, 37990, Forest Hills, NY ,64166,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,11
+555,2011,Audi,A5_Premium_Plus, 15900, Hasbrouck Heights, NJ ,71930,No Accident or Damage Reported,Coupe,Brown_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+556,2017,Audi,A3_Premium_Plus, 21894, Haskell, NJ ,68809,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+557,2020,Audi,Q3_Premium_Plus_45, 39341, Brooklyn, NY ,15487,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+558,2018,Audi,A5_Premium_Plus, 43898, Edison, NJ ,35051,No Accident or Damage Reported,Convertible,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+559,2015,Audi,Q3, 14199, Sussex, NJ ,135891,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,5
+560,2019,Audi,RS5, 74495, Great Neck, NY ,3608,Accident Reported,Hatchback,Red_Engine:_6_Cyl_2.9_L_,CARFAX 1-Owner,Personal Use,2
+561,2014,Audi,A6_Premium_Plus, 13595, Brooklyn, NY ,111393,Minor Damage,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+562,2021,Audi,SQ8_Premium_Plus, 101499, Ramsey, NJ ,7791,No Accident or Damage Reported,SUV,Blue_Engine:_8_Cyl_4.0_L_,CARFAX 1-Owner,Personal Use,5
+563,2016,Audi,S3_Premium_Plus, 29995, Somerville, NJ ,49236,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,9
+564,2016,Audi,Q5_Premium_Plus, 20990, Valley Stream, NY ,62169,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,13
+565,2019,Audi,A4_Premium, 34599, Princeton, NJ ,42728,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+566,2018,Audi,SQ5_Premium_Plus, 47999, Princeton, NJ ,47983,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+567,2018,Audi,Q7_Premium_Plus, 47599, Princeton, NJ ,33728,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+568,2009,Audi,S5, 14995, Somerset, NJ ,119000,No Accident or Damage Reported,Coupe,White_Engine:_8_Cyl_4.2_L_,3+ Owners,Personal Use,21
+569,2012,Audi,A7_Prestige, 19312, Linden, NJ ,105258,Minor Damage,Hatchback,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,9
+570,2014,Audi,A4_Premium_Plus, 21000, Westport, CT ,29025,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,15
+571,2015,Audi,Q3_Premium_Plus, 21995, Lakewood, NJ ,58009,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,12
+572,2021,Audi,A8_L, 90225, Englewood, NJ ,9521,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_4.0_L_,CARFAX 1-Owner,Corporate Use,6
+573,2018,Audi,Q3_Premium_Plus, 27818, Jamaica, NY ,30710,Accident Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+574,2020,Audi,Q8_Prestige, 75820, Mount Kisco, NY ,16408,Accident Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+575,2017,Audi,Q3_Prestige, 26949, New York, NY ,23451,Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,6
+576,2015,Audi,Q7_Prestige_S-Line, 21550, Paterson, NJ ,108603,Minor Damage,SUV,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,15
+577,2014,Audi,A6_Premium_Plus, 13950, Paterson, NJ ,128968,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,38
+578,2006,Audi,TT, 7995, Butler, NJ ,117133,Accident Reported,Coupe,Silver_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,30
+579,2012,Audi,A3_Premium, 6299, S Hackensack, NJ ,168013,Accident Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,27
+580,2008,Audi,A4, 6295, Hasbrouck Heights, NJ ,115477,Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,34
+581,2021,Audi,Q5_Premium_Plus_45, 46500, Paramus, NJ ,8117,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Lease Use,2
+582,2016,Audi,Q3_Premium_Plus, 24995, New York, NY ,53810,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,14
+583,2017,Audi,Q3_Premium, 23931, New York, NY ,51159,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,8
+584,2018,Audi,Q5_Premium_Plus, 33495, Great Neck, NY ,25020,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+585,2018,Audi,Q3_Premium_Plus, 24840, Massapequa Park, NY ,47504,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,7
+586,2013,Audi,A6_Premium_Plus, 13499, Union, NJ ,106711,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+587,2017,Audi,Q7_Premium_Plus, 34900, Nanuet, NY ,67936,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+588,2018,Audi,S5_Prestige, 39152, Jamaica, NY ,58507,No Accident or Damage Reported,Hatchback,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Vehicle Use,2
+589,2005,Audi,A6, 8995, E Rutherford, NJ ,99845,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_4.2_L_,2-Owner,Personal Use,17
+590,2014,Audi,A6_Premium_Plus, 16144, Jersey City, NJ ,98132,Accident Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,17
+591,2018,Audi,RS5, 67900, Upper Saddle River, NJ ,21383,No Accident or Damage Reported,Coupe,Red_Engine:_6_Cyl_2.9_L_,2-Owner,Multiple Use,14
+592,2015,Audi,S5_Premium_Plus, 35950, Elmont, NY ,36591,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+593,2018,Audi,Q7_Premium_Plus, 36881, Woodside, NY ,37454,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+594,2018,Audi,Q5_Premium_Plus, 29899, Jamaica, NY ,65708,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+595,2019,Audi,Q7_Premium, 41995, Great Neck, NY ,40927,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+596,2017,Audi,RS3, 57900, Kearny, NJ ,37381,Accident/Minor Damage,Sedan,Gray_Engine:_5_Cyl_2.5_L_,3+ Owners,Personal Use,15
+597,2016,Audi,Q5_Premium, 14950, Amityville, NY ,76705,Accident Reported,SUV,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,12
+598,2019,Audi,A3_Premium, 31500, Florham Park, NJ ,15461,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+599,2016,Audi,A6_Premium_Plus, 18995, Garfield, NJ ,63650,Major Damage,Sedan,Blue_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,13
+600,2014,Audi,A6_Premium_Plus, 15495, Brooklyn, NY ,99276,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,1
+601,2018,Audi,A5_Premium_Plus, 46835, Englewood, NJ ,23600,No Accident or Damage Reported,Convertible,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,16
+602,2014,Audi,S4_Premium_Plus, 15990, Great Neck, NY ,131475,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,43
+603,2017,Audi,Q7_Premium_Plus, 26999, Inwood, NY ,93894,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,3+ Owners,Multiple Use,3
+604,2020,Audi,Q5_Premium_45, 42199, Maplewood, NJ ,6309,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,2
+605,2012,Audi,A4_Premium_Plus, 7995, Somerset, NJ ,151750,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,22
+606,2014,Audi,S5_Premium_Plus, 33590, New York, NY,36531,No Accident or Damage Reported,Coupe,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+607,2015,Audi,A3_Premium, 17990, Great Neck, NY ,73800,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,27
+608,2018,Audi,Q3_Premium, 28954, Brooklyn, NY ,25179,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+609,2018,Audi,RS5, 74595, Paramus, NJ ,6790,No Accident or Damage Reported,Coupe,Green_Engine:_6_Cyl_2.9_L_,CARFAX 1-Owner,Personal Use,7
+610,2019,Audi,Q5_Premium_Plus, 39995, West Nyack, NY ,33955,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+611,2018,Audi,A4_Premium_Plus, 34995, West Nyack, NY ,19213,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+612,2015,Audi,Q5_Premium_Plus, 16999, Jamaica, NY ,84917,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,16
+613,2015,Audi,A3_Premium, 15095, Elizabeth, NJ ,72518,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,20
+614,2020,Audi,A6_Premium_Plus, 45995, Wall Township, NJ ,1125,Branded Title,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+615,2018,Audi,S6_Premium_Plus, 46490, Massapequa Park, NY ,25887,Minor Damage,Sedan,White_Engine:_8_Cyl_4.0_L_,2-Owner,Personal Use,17
+616,2021,Audi,RS_Q8, 145500, Huntington, NY ,5556,No Accident or Damage Reported,SUV,8_Cyl_4.0_L_,CARFAX 1-Owner,Corporate Use,1
+617,2019,Audi,A8_L, 59477, Freehold, NJ ,33093,No Accident or Damage Reported,Sedan,Red_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Corporate Use,2
+618,2016,Audi,A4_Premium, 21990, Pleasantville, NY,60950,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,13
+619,2018,Audi,A5_Premium_Plus, 44975, Oyster Bay, NY ,25137,No Accident or Damage Reported,Convertible,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+620,2019,Audi,Q7_Premium_SE, 35965, Hillside, NJ ,84101,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,3
+621,2017,Audi,A6_Premium_Plus, 28900, North Plainfield, NJ ,58267,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,21
+622,2018,Audi,S5_Prestige, 41950, Bronx, NY ,30400,Accident/Minor Damage,Hatchback,Gray_Engine:_6_Cyl_3.0_L_,Number of Owners,Personal Use,1
+623,2018,Audi,S4_Prestige, 42995, Wall Township, NJ ,9208,Branded Title,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+624,2015,Audi,Q3_Premium_Plus, 18655, Haskell, NJ ,86581,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+625,2013,Audi,A4_Premium_Plus, 15787, Lake Hopatcong, NJ ,43924,Major Damage,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,16
+626,2018,Audi,Q5_Premium_Plus, 37495, Great Neck, NY ,6013,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+627,2018,Audi,A6_Premium_Plus, 29990, Freeport, NY ,33109,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+628,2013,Audi,A4_Premium_Plus, 13899, Lakewood, NJ ,91522,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,20
+629,2018,Audi,A4_Premium_Plus, 23495, Bronx, NY ,73519,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,10
+630,2020,Audi,RS_Q8, 138299, Freeport, NY ,11810,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_4.0_L_,3+ Owners,Personal Use,5
+631,2015,Audi,A8_L, 33995, Roslyn Heights, NY ,43615,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.0_L_,CARFAX 1-Owner,Personal Use,0
+632,2018,Audi,S4_Premium_Plus, 38900, Summit, NJ ,42700,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,13
+633,2018,Audi,RS5, 65989, Brooklyn, NY ,14255,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_2.9_L_,CARFAX 1-Owner,Personal Use,5
+634,2017,Audi,Q3_Premium_Plus, 23295, Great Neck, NY ,35250,Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+635,2020,Audi,A3_Premium, 31995, Westbury, NY ,2526,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+636,2015,Audi,A8_L, 24838, Jersey City, NJ ,92607,Minor Damage,Sedan,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,22
+637,2018,Audi,Q7_Prestige, 55981, Flemington, NJ ,17981,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+638,2008,Audi,A4, 7999, Mine Hill, NJ ,141037,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,23
+639,2017,Audi,Q7_Prestige, 45695, Great Neck, NY ,29230,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,10
+640,2018,Audi,A4_Premium, 27988, Eatontown, NJ ,54021,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+641,2017,Audi,A6_Premium_Plus, 25995, South Hackensack, NJ ,59184,Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,1
+642,2021,Audi,Q3_Premium_Plus_45, 39732, Englewood, NJ ,6058,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Lease Use,2
+643,2018,Audi,Q5_Premium_Plus, 33595, New York, NY ,30358,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+644,2017,Audi,A4_Premium_Plus, 23998, Syosset, NY ,39377,Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,11
+645,2010,Audi,Q5_Premium, 11799, West Milford, NJ ,116654,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,13
+646,2016,Audi,A4_Premium_Plus, 19999, Maplewood, NJ ,90797,Accident Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,23
+647,2018,Audi,Q3_Premium, 28886, Secaucus, NJ ,18230,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,4
+648,2016,Audi,A3_Premium, 21995, Asbury Park, NJ ,45048,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,14
+649,2014,Audi,A6_Prestige, 20990, Fairfield, CT ,81165,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,12
+650,2019,Audi,S4_Premium, 43499, Newark, NJ,27985,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,2
+651,2018,Audi,SQ5_Premium_Plus, 36450, Bronx, NY ,45374,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.0_L_,Number of Owners,Commercial Use,11
+652,2019,Audi,A8_L, 61999, Watchung, NJ ,19388,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+653,2018,Audi,A4_Premium_Plus, 31995, Syosset, NY ,47941,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+654,2016,Audi,Q3_Premium_Plus, 20990, Great Neck, NY ,59761,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,16
+655,2018,Audi,S5_Premium_Plus, 47886, Secaucus, NJ ,47675,No Accident or Damage Reported,Convertible,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,16
+656,2014,Audi,A4_Premium, 14241, Jersey City, NJ ,90778,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,10
+657,2018,Audi,A4_Premium, 29694, West Islip, NY ,24227,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+658,2019,Audi,S4_Premium, 44777, Freehold, NJ ,28066,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,0
+659,2018,Audi,Q5_Premium_Plus, 30900, Atlantic Highlands, NJ ,33253,Accident Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,5
+660,2018,Audi,Q7_Premium_Plus, 42850, EATONTOWN, NJ ,32220,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,8
+661,2019,Audi,A4, 45200, Fairfield, CT ,10212,No Accident or Damage Reported,Wagon,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,5
+662,2017,Audi,Q5_Premium, 28885, EATONTOWN, NJ ,33075,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,12
+663,2016,Audi,S3_Premium_Plus, 28970, Little Ferry, NJ ,41262,Accident Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,11
+664,2016,Audi,A6_Premium_Plus, 30999, Newark, NJ,28600,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,7
+665,2016,Audi,A6_Premium_Plus, 23998, Amityville, NY ,61300,Minor Damage,Sedan,Silver_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,24
+666,2015,Audi,A8_L, 33995, Greenwich, CT ,55646,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.0_L_,CARFAX 1-Owner,Personal Use,6
+667,2010,Audi,S4_Premium_Plus, 16995, Commack, NY ,92455,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,36
+668,2017,Audi,A7_Premium_Plus, 40598, Brooklyn, NY ,40997,No Accident or Damage Reported,Hatchback,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,12
+669,2017,Audi,A4_Premium_Plus, 25726, Elizabeth, NJ ,54999,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,14
+670,2018,Audi,S5_Premium_Plus, 56300, Fairfield, CT ,23885,No Accident or Damage Reported,Convertible,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+671,2019,Audi,A8_L, 64900, Fairfield, CT ,32133,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+672,2012,Audi,A4_Premium_Plus, 11795, Huntington Station, NY ,106985,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+673,2013,Audi,Q5_Premium, 16995, Clifton, NJ ,101901,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,18
+674,2018,Audi,Q5_Premium_Plus, 31695, Great Neck, NY ,41035,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,17
+675,2018,Audi,A4_Premium, 25995, Brooklyn, NY ,37148,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+676,2018,Audi,Q5_Premium_Plus, 33990, Great Neck, NY ,29430,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+677,2018,Audi,A5_Premium, 33990, Great Neck, NY ,32083,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,11
+678,2013,Audi,S7_Prestige, 28990, Hasbrouck Heights, NJ ,81255,No Accident or Damage Reported,Hatchback,Black_Engine:_8_Cyl_4.0_L_,3+ Owners,Personal Use,10
+679,2014,Audi,A4_Premium, 16495, Brooklyn, NY ,43864,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,23
+680,2018,Audi,A6_Sport, 30990, Great Neck, NY ,35753,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+681,2018,Audi,Q7_Premium, 43990, Great Neck, NY ,23691,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+682,2021,Audi,Q3_Premium_45, 39999, Princeton, NJ ,7278,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,2
+683,2020,Audi,S3_Premium, 42990, Great Neck, NY ,6512,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+684,2018,Audi,Q5_Premium, 32495, Great Neck, NY ,29995,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+685,2018,Audi,Q3_Premium_Plus, 29990, Great Neck, NY ,13707,Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+686,2018,Audi,Q3_Premium_Plus, 30495, Great Neck, NY ,10833,Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+687,2018,Audi,A4_Premium_Plus, 31990, Great Neck, NY ,16490,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+688,2018,Audi,S3_Premium_Plus, 37295, Morristown, NJ ,58810,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,15
+689,2012,Audi,A6_Prestige, 15895, Keyport, NJ ,97500,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,12
+690,2014,Audi,Q7_Premium_Plus, 18995, Morristown, NJ ,116215,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,17
+691,2020,Audi,Q3_Prestige_45, 45262, Avenel, NJ ,8584,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+692,2018,Audi,A4_Premium_Plus, 19400, Syosset, NY ,71517,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,4
+693,2017,Audi,Q7_Premium_Plus, 30840, Jersey City, NJ ,96987,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+694,2018,Audi,Q7_Premium_Plus, 39990, Forest Hills, NY ,37423,Accident Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+695,2018,Audi,A4_Premium_Plus, 41999, Princeton, NJ ,29213,No Accident or Damage Reported,Wagon,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,7
+696,2009,Audi,A5, 10995, Manalapan, NJ ,125526,Accident Reported,Coupe,Silver_Engine:_6_Cyl_3.2_L_,3+ Owners,Personal Use,37
+697,2010,Audi,A5_Premium_Plus, 9880, Somerville, NJ ,163281,Minor Damage,Coupe,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,18
+698,2012,Audi,S4, 16995, SADDLE BROOK, NJ ,127907,Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,39
+699,2012,Audi,Q7, 12490, Hasbrouck Heights, NJ ,119950,Accident Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,14
+700,2012,Audi,Q7, 12490, Hasbrouck Heights, NJ ,119950,Accident Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,14
+701,2016,Audi,A4_Premium, 18997, Elizabeth, NJ ,60019,Accident Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,16
+702,2011,Audi,A5_Premium, 10999, Paterson, NJ ,111406,Accident/Minor Damage,Coupe,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,19
+703,2013,Audi,A5_Premium_Plus, 12499, Paterson, NJ ,142088,Minor Damage,Convertible,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,29
+704,2018,Audi,Q7_Premium_Plus, 40995, South Hackensack, NJ ,34949,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,7
+705,2017,Audi,A6_Premium, 27850, Franklin Square, NY ,36031,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,3
+706,2018,Audi,Q3_Premium_Plus, 28995, Jamaica, NY ,34392,Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+707,2018,Audi,A4_Premium_Plus, 31628, Englewood, NJ ,35360,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+708,2020,Audi,Q3_Premium_45, 36000, Upper Saddle River, NJ ,21485,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,4
+709,2018,Audi,A5_Premium_Plus, 34777, Freehold, NJ ,43772,No Accident or Damage Reported,Coupe,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+710,2012,Audi,A4_Premium, 8995, Butler, NJ ,135054,Major Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,23
+711,2018,Audi,A6_Premium_Plus, 36995, Harriman, NY ,31932,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,9
+712,2017,Audi,A4_Premium_Plus, 31999, Morristown, NJ ,35786,Accident/Minor Damage,Wagon,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,17
+713,2016,Audi,A3_Premium, 21999, Newark, NJ,53343,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,9
+714,2018,Audi,Q7_Prestige, 30696, Linden, NJ ,85444,Minor Damage,SUV,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,11
+715,2018,Audi,Q3_Premium_Plus, 29900, Fairfield, CT ,37224,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+716,2018,Audi,A4_Premium_Plus, 28999, Paramus, NJ ,42440,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,13
+717,2018,Audi,S5_Premium_Plus, 43000, Princeton, NJ ,46132,No Accident or Damage Reported,Coupe,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,10
+718,2018,Audi,Q3_Premium, 28200, Upper Saddle River, NJ ,31406,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+719,2017,Audi,Q5_Premium, 23900, Lyndhurst, NJ ,76737,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,8
+720,2019,Audi,SQ5, 53600, Fair Lawn, NJ ,18946,Accident Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+721,2017,Audi,Q5_Premium_Plus, 30995, Freeport, NY ,55246,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+722,2018,Audi,Q3_Premium_Plus, 29555, EATONTOWN, NJ ,48101,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+723,2013,Audi,Q7_Premium_Plus, 16477, Lodi, NJ ,104017,Accident Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,17
+724,2014,Audi,Q5_Premium, 20195, Netcong, NJ ,77799,No Accident or Damage Reported,SUV,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+725,2018,Audi,Q3_Premium, 29999, Bayside, NY ,34150,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+726,2014,Audi,A6_Prestige, 17990, Brick, NJ ,101137,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,23
+727,2017,Audi,S3_Premium_Plus, 34485, Somerville, NJ ,41221,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,15
+728,2020,Audi,Q7_Premium, 56000, Englewood, NJ ,17328,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+729,2013,Audi,A4_Premium_Plus, 10499, Little Ferry, NJ ,102782,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,22
+730,2013,Audi,A4_Premium_Plus, 11999, Union, NJ ,121497,No Accident or Damage Reported,Wagon,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,28
+731,2018,Audi,A4_Premium, 28695, Great Neck, NY ,18019,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+732,2017,Audi,A6_Premium, 23990, Freeport, NY ,25184,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+733,2018,Audi,S4_Premium_Plus, 44999, Bridgewater, NJ ,10845,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,6
+734,2018,Audi,Q5_Premium_Plus, 31990, Great Neck, NY ,41009,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+735,2018,Audi,Q5_Premium_Plus, 32495, Great Neck, NY ,43858,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+736,2018,Audi,A5_Premium_Plus, 36475, Hillside, NJ ,10860,Accident Reported,Hatchback,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+737,2004,Audi,A6_S-Line, 5500, Paterson, NJ ,116795,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_2.7_L_,2-Owner,Personal Use,33
+738,2016,Audi,Q3_Premium_Plus, 22990, Great Neck, NY ,59672,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,21
+739,2018,Audi,A4_Premium_Plus, 30990, Great Neck, NY ,22039,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+740,2018,Audi,A3_Premium_Plus, 23495, Woodside, NY ,30505,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+741,2018,Audi,Q5_Premium_Plus, 32990, Great Neck, NY ,40570,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+742,2018,Audi,Q5_Premium_Plus, 32995, Brooklyn, NY ,29001,No Accident or Damage Reported,SUV,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+743,2018,Audi,A4_Premium_Plus, 30994, Brooklyn, NY ,20420,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+744,2017,Audi,Q5_Premium, 27598, Watchung, NJ ,45797,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,11
+745,2019,Audi,S4_Premium_Plus, 43995, Wall Township, NJ ,21863,Branded Title,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,13
+746,2018,Audi,A5_Premium_Plus, 32990, Great Neck, NY ,31736,No Accident or Damage Reported,Coupe,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+747,2018,Audi,S5_Premium_Plus, 42990, Great Neck, NY ,45577,No Accident or Damage Reported,Hatchback,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Commercial Use,5
+748,2018,Audi,Q3_Premium_Plus, 29495, Great Neck, NY ,22219,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+749,2020,Audi,A6_Premium_Plus, 45995, Wall Township, NJ ,6213,Branded Title,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+750,2018,Audi,Q7_Premium_Plus, 36818, Amityville, NY ,59088,Minor Damage,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+751,2012,Audi,S5_Prestige, 24999, Lakewood, NJ ,63896,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_4.2_L_,3+ Owners,Personal Use,12
+752,2018,Audi,Q5_Premium_Plus, 28980, Freeport, NY ,60892,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,20
+753,2011,Audi,A4_Prestige, 11999, Paterson, NJ ,78995,Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,18
+754,2017,Audi,S7_Premium_Plus, 54998, Brooklyn, NY ,37289,No Accident or Damage Reported,Hatchback,Gray_Engine:_8_Cyl_4.0_L_,CARFAX 1-Owner,Personal Use,18
+755,2015,Audi,Q5_Premium_Plus, 17100, Newark, NJ ,74450,Accident Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,12
+756,2019,Audi,A7_Prestige, 64875, EATONTOWN, NJ ,27726,No Accident or Damage Reported,Hatchback,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+757,2020,Audi,S5_Premium_Plus, 61395, Brooklyn, NY ,9663,No Accident or Damage Reported,Hatchback,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+758,2018,Audi,A5_Premium, 38990, Great Neck, NY ,34322,No Accident or Damage Reported,Convertible,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+759,2018,Audi,SQ5_Premium_Plus, 41900, Summit, NJ ,49591,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,12
+760,2019,Audi,Q8_Premium_Plus, 65895, Brooklyn, NY ,15484,Accident Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,12
+761,2019,Audi,A8_L, 60990, Great Neck, NY ,21796,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+762,2021,Audi,A4_Premium_45, 42599, Princeton, NJ ,7188,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,2
+763,2014,Audi,Q7_Premium, 19977, Shrewsbury, NJ ,169891,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,21
+764,2018,Audi,A5_Premium, 32999, Brooklyn, NY ,31002,Minor Damage,Hatchback,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+765,2019,Audi,Q7_Premium, 48799, Maplewood, NJ ,19157,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+766,2017,Audi,A8_L, 36812, Brooklyn, NY ,75000,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,9
+767,2014,Audi,A4_Premium, 12970, Little Ferry, NJ ,91110,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,9
+768,2018,Audi,Q5_Premium_Plus, 30981, Long Island City, NY ,57765,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+769,2018,Audi,A4_Premium_Plus, 28990, New York, NY,54213,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+770,2018,Audi,A5_Premium_Plus, 36891, Long Island City, NY ,33162,No Accident or Damage Reported,Hatchback,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+771,2017,Audi,Q5_Premium_Plus, 34195, Great Neck, NY ,36270,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+772,2012,Audi,Q5_Premium, 16500, Elmhurst, NY ,98415,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+773,2018,Audi,A3_Premium, 28590, New York, NY,18658,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+774,2010,Audi,Q5_Premium_Plus, 12495, SADDLE BROOK, NJ ,98167,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.2_L_,2-Owner,Personal Use,21
+775,2018,Audi,S4_Premium_Plus, 38700, Bloomfield, NJ ,38362,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,2
+776,2016,Audi,S5_Premium_Plus, 24865, Hillside, NJ ,104775,Accident/Minor Damage,Coupe,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Vehicle Use,11
+777,2004,Audi,A4, 6991, Bohemia, NY ,92514,No Accident or Damage Reported,Wagon,Gray_Engine:_4_Cyl_1.8_L_,3+ Owners,Multiple Use,20
+778,2017,Audi,A3_Premium_Plus, 31988, Eatontown, NJ ,31943,No Accident or Damage Reported,Convertible,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,9
+779,2017,Audi,Q7_Premium_Plus, 31595, Bronx, NY ,67889,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,8
+780,2008,Audi,A4, 5000, Sussex, NJ ,103327,Branded Title,Wagon,Silver_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,11
+781,2017,Audi,A4_Premium, 25292, Long Island City, NY ,30259,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+782,2014,Audi,A4_Premium, 15900, Hazlet, NJ ,68782,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,11
+783,2019,Audi,A6_Premium_Plus, 46993, Harriman, NY ,38072,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+784,2014,Audi,Q5_Premium_Plus, 16495, Yonkers, NY ,102627,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,17
+785,2008,Audi,A4, 5999, Paterson, NJ ,124034,Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,13
+786,2018,Audi,A4_Premium_Plus, 31788, Englewood, NJ ,27303,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+787,2018,Audi,A5_Prestige, 36990, Pleasantville, NY,43997,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,1
+788,2018,Audi,A6_Premium_Plus, 36900, Upper Saddle River, NJ ,17879,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+789,2014,Audi,A6_Prestige, 25995, East Windsor, NJ ,75542,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,16
+790,2018,Audi,Q3_Premium, 24965, Amityville, NY ,36432,No Accident or Damage Reported,SUV,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+791,2021,Audi,Q7_Premium_Plus, 69986, Secaucus, NJ ,5591,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+792,2018,Audi,SQ5_Premium_Plus, 44686, Secaucus, NJ ,32549,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+793,2017,Audi,A6_Premium_Plus, 33990, Great Neck, NY ,44251,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+794,2018,Audi,SQ5_Premium_Plus, 44995, New York, NY ,28815,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+795,2015,Audi,Q7_Premium_Plus, 24495, Lindenhurst, NY ,76299,Accident Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,12
+796,2018,Audi,Q7_Prestige, 50052, Brooklyn, NY ,16188,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,11
+797,2019,Audi,A8_L, 64800, Fairfield, CT ,27396,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+798,2018,Audi,A4_Premium, 33899, Maplewood, NJ ,10520,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+799,2018,Audi,S5_Premium_Plus, 50755, EATONTOWN, NJ ,41378,No Accident or Damage Reported,Convertible,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+800,2018,Audi,S5_Premium_Plus, 50755, EATONTOWN, NJ ,41378,No Accident or Damage Reported,Convertible,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+801,2019,Audi,Q5_Premium, 41900, Fairfield, CT ,22730,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+802,2018,Audi,Q7_Premium_Plus, 47799, Maplewood, NJ ,34794,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+803,2019,Audi,Q8_Premium_Plus, 69900, Fairfield, CT ,24697,No Accident or Damage Reported,SUV,Orange_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+804,2017,Audi,A8_L_Sport, 39490, Bronx, NY ,60286,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.0_L_,2-Owner,Personal Use,11
+805,2019,Audi,SQ5_Premium_Plus, 51399, Maplewood, NJ ,29503,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+806,2017,Audi,A4_Prestige, 26990, Bronx, NY ,47694,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,11
+807,2012,Audi,A5_Premium_Plus, 18995, Neptune, NJ ,52550,Accident Reported,Coupe,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,12
+808,2018,Audi,A4_Premium, 31900, Fairfield, CT ,37971,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+809,2020,Audi,Q7_Premium_Plus, 65900, Fairfield, CT ,6219,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+810,2019,Audi,Q7_Premium, 45495, Great Neck, NY ,8271,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+811,2018,Audi,SQ5_Premium_Plus, 38850, PARAMUS, NJ ,59884,Accident Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+812,2013,Audi,A7_Premium_Plus, 22995, West Nyack, NY ,100675,No Accident or Damage Reported,Hatchback,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,24
+813,2018,Audi,Q3_Premium, 26995, Bronx, NY ,34193,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+814,2002,Audi,TT, 10900, Brooklyn, NY ,93212,Minor Damage,Convertible,Silver_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,23
+815,2018,Audi,RS5, 65995, Wall Township, NJ ,5689,Branded Title,Coupe,Gray_Engine:_6_Cyl_2.9_L_,2-Owner,Personal Use,6
+816,2012,Audi,R8_5.2, 112995, Greenwich, CT ,11960,No Accident or Damage Reported,Convertible,Black_Engine:_10_Cyl_5.2_L_,CARFAX 1-Owner,Personal Use,12
+817,2013,Audi,S6_Prestige, 23895, Lindenhurst, NY ,83284,Accident Reported,Sedan,Black_Engine:_8_Cyl_4.0_L_,2-Owner,Personal Use,9
+818,2020,Audi,Q5_Premium_55, 51570, Brooklyn, NY ,7967,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,7
+819,2019,Audi,A6_Premium_Plus, 51699, Princeton, NJ ,34605,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Corporate Use,4
+820,2010,Audi,A4_Premium_Plus, 6995, Butler, NJ ,112123,Minor Damage,Wagon,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,23
+821,2019,Audi,Q8_Premium_Plus, 63900, Summit, NJ ,37575,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+822,2018,Audi,A3_Premium, 26995, West Nyack, NY ,31713,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+823,2018,Audi,S5_Prestige, 45099, Englewood, NJ ,24185,Damage Reported,Hatchback,Silver_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,7
+824,2018,Audi,A3_Premium, 26990, Great Neck, NY ,10568,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+825,2018,Audi,S3_Premium_Plus, 41880, Somerville, NJ ,19695,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+826,2018,Audi,A3_Premium, 26995, West Nyack, NY ,31713,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+827,2018,Audi,A4_Premium_Plus, 26263, Great Neck, NY ,34677,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,6
+828,2018,Audi,A4_Premium_Plus, 31995, West Nyack, NY ,38857,Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+829,2018,Audi,Q5_Premium, 33495, Great Neck, NY ,28926,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+830,2018,Audi,SQ5_Prestige, 51699, Princeton, NJ ,14849,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Corporate Use,17
+831,2017,Audi,A4_Premium, 26990, Newark, NJ,31952,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,10
+832,2019,Audi,A4_Premium, 35999, Princeton, NJ ,4086,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+833,2018,Audi,Q5_Premium_Plus, 36999, Princeton, NJ ,37385,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+834,2021,Audi,RS7, 145900, Freeport, NY ,3023,No Accident or Damage Reported,Hatchback,White_Engine:_8_Cyl_4.0_L_,CARFAX 1-Owner,Personal Use,1
+835,2015,Audi,Q5_Premium_Plus, 24277, Freehold, NJ ,53760,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,10
+836,2013,Audi,Q7_Premium_Plus, 17995, Neptune, NJ ,118452,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,15
+837,2019,Audi,Q8_Premium_Plus, 67895, Brooklyn, NY ,29433,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+838,2018,Audi,Q5_Premium_Plus, 27295, Bronx, NY ,81425,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+839,2018,Audi,A6, 32990, Great Neck, NY ,40099,Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+840,2018,Audi,A6_Premium, 32990, Great Neck, NY ,21631,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+841,2017,Audi,Q7_Premium_Plus, 29125, Syosset, NY ,71559,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+842,2017,Audi,S5, 39975, Oyster Bay, NY ,43151,No Accident or Damage Reported,Convertible,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,10
+843,2011,Audi,Q7_Premium_Plus, 16895, Elmhurst, NY ,72145,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,12
+844,2014,Audi,A4_Premium_Plus, 15995, Brooklyn, NY ,91668,Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,5
+845,2018,Audi,A5_Premium, 32400, Nanuet, NY ,48303,Accident Reported,Hatchback,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,13
+846,2014,Audi,Q7_Premium, 18990, Great Neck, NY ,93029,Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,13
+847,2019,Audi,Q5_Premium, 39895, Harriman, NY ,16340,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+848,2019,Audi,SQ5_Premium_Plus, 51488, Englewood, NJ ,33348,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+849,2018,Audi,Q7_Prestige, 46686, Secaucus, NJ ,45942,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+850,2018,Audi,Q5_Premium, 36488, Englewood, NJ ,30588,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+851,2019,Audi,Q7_Premium_Plus, 47686, Secaucus, NJ ,40762,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+852,2016,Audi,S3_Prestige, 35999, Eatontown, NJ ,20711,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,7
+853,2021,Audi,Q7_Prestige, 81686, Secaucus, NJ ,4338,No Accident or Damage Reported,SUV,Beige_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+854,2016,Audi,A3_Premium_Plus, 28990, Pleasantville, NY,8824,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+855,2018,Audi,Q5_Premium_Plus, 38789, Union, NJ ,35620,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+856,2019,Audi,A8_L, 56800, Brooklyn, NY ,55135,No Accident or Damage Reported,Sedan,Red_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Corporate Use,10
+857,2013,Audi,Q5_Premium, 17400, Stamford, CT ,81337,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,23
+858,2018,Audi,A5_Premium_Plus, 42995, Brooklyn, NY ,9260,Damage Reported,Convertible,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+859,2018,Audi,A6_Premium, 28149, Brooklyn, NY ,52792,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+860,2017,Audi,S6_Premium_Plus, 45995, South River, NJ ,34388,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_4.0_L_,2-Owner,Personal Use,11
+861,2018,Audi,Q5_Premium, 34458, Brooklyn, NY ,22379,Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+862,2018,Audi,A5_Premium_Plus, 43500, Nyack, NY ,27785,Accident/Minor Damage,Convertible,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+863,2016,Audi,A5_Premium, 25995, Lakewood, NJ ,49514,No Accident or Damage Reported,Coupe,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,9
+864,2008,Audi,A6, 8900, Lodi, NJ ,115915,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.2_L_,2-Owner,Personal Use,12
+865,2015,Audi,A3_Premium_Plus, 10995, Lakewood, NJ ,106117,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,20
+866,2014,Audi,Q7_Premium, 12995, Brooklyn, NY ,136036,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,11
+867,2017,Audi,Q3_Premium, 22974, Huntington, NY ,59186,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,Number of Owners,Vehicle Use,0
+868,2020,Audi,A8_L, 77813, Brooklyn, NY ,16466,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+869,2020,Audi,A8_L, 78412, Brooklyn, NY ,9629,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+870,2014,Audi,A7_Prestige, 29885, EATONTOWN, NJ ,75661,No Accident or Damage Reported,Hatchback,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,19
+871,2015,Audi,Q5, 19995, East Windsor, NJ ,92039,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+872,2015,Audi,A3_Premium, 14800, East Hanover, NJ ,79420,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,24
+873,2012,Audi,Q5_Premium, 15987, Lake Hopatcong, NJ ,71253,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,17
+874,2018,Audi,Q5_Premium_Plus, 29950, Elmwood Park, NJ ,55580,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,19
+875,2018,Audi,Q5_Premium_Plus, 39995, Great Neck, NY ,48159,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+876,2013,Audi,TT_Premium_Plus, 20477, Madison, NJ ,110866,No Accident or Damage Reported,Convertible,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,31
+877,2018,Audi,A5_Premium_Plus, 45000, Croton On Hudson, NY ,15792,No Accident or Damage Reported,Convertible,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,7
+878,2011,Audi,A5_Premium_Plus, 10995, Yonkers, NY ,95180,Accident Reported,Coupe,Blue_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,15
+879,2018,Audi,Q7_Premium, 40686, Secaucus, NJ ,31448,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,12
+880,2016,Audi,A4_Premium_Plus, 23950, Elmont, NY ,76833,Accident Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,16
+881,2013,Audi,S7_Prestige, 33395, Brooklyn, NY ,61504,Accident/Minor Damage,Hatchback,Black_Engine:_8_Cyl_4.0_L_,2-Owner,Personal Use,36
+882,2014,Audi,A4_Premium_Plus, 14490, Paterson, NJ ,81205,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,12
+883,2019,Audi,Q8_Premium_Plus, 61495, Great Neck, NY ,64015,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,12
+884,2018,Audi,A6_Premium_Plus, 27888, Elmont, NY ,45373,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+885,2018,Audi,Q3_Premium_Plus, 27886, Secaucus, NJ ,37239,Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,9
+886,2015,Audi,A4_Prestige, 20500, EATONTOWN, NJ ,94337,Accident/Minor Damage,Wagon,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,22
+887,2014,Audi,A4_Premium_Plus, 18700, Fairfield, CT ,65009,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,18
+888,2020,Audi,Q3_Premium_45, 34450, Forest Hills, NY ,9384,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Rental Use,2
+889,2018,Audi,Q5_Premium_Plus, 32990, Great Neck, NY ,31684,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+890,2013,Audi,Q7_Premium_Plus, 13900, Plainfield, NJ ,122157,Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,21
+891,2015,Audi,Q7_Premium_Plus, 16995, Brooklyn, NY ,121148,Accident Reported,SUV,White_Engine:_6_Cyl_3.0_L_,3+ Owners,Multiple Use,10
+892,2019,Audi,A6_Premium_Plus, 44995, Brooklyn, NY ,20070,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+893,2017,Audi,Q5_Premium, 25800, Upper Saddle River, NJ ,48256,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,12
+894,2012,Audi,Q5_Premium, 14995, E Rutherford, NJ ,86780,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,12
+895,2019,Audi,A6_Premium_Plus, 42995, Edison, NJ ,49667,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,9
+896,2019,Audi,A6_Premium, 42495, Wall Township, NJ ,3963,Branded Title,Sedan,White_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,3
+897,2012,Audi,A4_Premium, 12995, Ramsey, NJ ,70890,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+898,2012,Audi,A7_Premium, 18450, Paterson, NJ ,111471,Minor Damage,Hatchback,Red_Engine:_6_Cyl_3.0_L_,3+ Owners,Multiple Use,31
+899,2015,Audi,A7_Prestige, 21495, Red Bank, NJ ,149858,Minor Damage,Hatchback,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,26
+900,2012,Audi,A7_Premium, 18450, Paterson, NJ ,111471,Minor Damage,Hatchback,Red_Engine:_6_Cyl_3.0_L_,3+ Owners,Multiple Use,31
+901,2015,Audi,A6_Premium, 19597, Lake Hopatcong, NJ ,70582,Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,8
+902,2019,Audi,Q8_Premium, 62495, Parsippany, NJ ,26700,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,13
+903,2018,Audi,S5_Premium_Plus, 39900, North Plainfield, NJ ,56711,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.0_L_,Number of Owners,Lease Use,18
+904,2018,Audi,Q5_Premium_Plus, 34990, Great Neck, NY ,21086,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,4
+905,2017,Audi,A6_Premium, 20990, Great Neck, NY ,83738,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,8
+906,2015,Audi,Q7_Premium, 25697, Lake Hopatcong, NJ ,48024,Minor Damage,SUV,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,12
+907,2015,Audi,Q7_Premium_Plus, 22000, Monmouth Junction, NJ ,88411,Accident Reported,SUV,6_Cyl_3.0_L_,3+ Owners,Personal Use,12
+908,2014,Audi,A6_Premium_Plus, 16900, Brooklyn, NY ,124328,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,31
+909,2018,Audi,RS3, 56988, Edison, NJ ,32983,No Accident or Damage Reported,Sedan,White_Engine:_5_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,18
+910,2010,Audi,A5_Premium_Plus, 11495, Great Neck, NY ,93000,No Accident or Damage Reported,Convertible,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,14
+911,2018,Audi,Q7_Premium, 46148, Brooklyn, NY ,34262,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+912,2018,Audi,S3_Premium_Plus, 41498, Floral Park, NY ,25249,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+913,2018,Audi,Q5_Premium, 37995, Brooklyn, NY ,24000,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+914,2019,Audi,A7_Premium_Plus, 64125, Brooklyn, NY ,16495,No Accident or Damage Reported,Hatchback,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+915,2021,Audi,Q8_Premium, 72388, Englewood, NJ ,7325,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Lease Use,2
+916,2019,Audi,A3_Premium, 26500, West Nyack, NY ,38636,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+917,2013,Audi,A5_Prestige, 23481, Linden, NJ ,75316,No Accident or Damage Reported,Coupe,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+918,2018,Audi,Q3_Premium_Plus, 28295, Great Neck, NY ,21787,Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+919,2018,Audi,Q5_Premium_Plus, 32990, Great Neck, NY ,39935,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,9
+920,2013,Audi,Q5, 13987, Irvington, NJ ,109740,Accident Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,12
+921,2014,Audi,A4_Premium_Plus, 14995, North Middletown, NJ ,100718,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,14
+922,2017,Audi,Q5_Premium_Plus, 23495, Paterson, NJ ,82417,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,14
+923,2015,Audi,Q7_Premium_Plus, 23895, Newton, NJ ,72643,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,41
+924,2017,Audi,Q5_Premium, 27990, Great Neck, NY ,26428,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,8
+925,2018,Audi,S5_Premium_Plus, 42990, Great Neck, NY ,22859,No Accident or Damage Reported,Coupe,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+926,2016,Audi,A5_Premium_Plus, 27499, Princeton, NJ ,78512,No Accident or Damage Reported,Convertible,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,13
+927,2014,Audi,Q7_Prestige_S-Line, 22540, Jersey City, NJ ,101337,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,22
+928,2021,Audi,Q5_Premium_Plus_45, 44450, Forest Hills, NY ,10018,Accident Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Rental Use,1
+929,2013,Audi,Q5_Premium_Plus, 16995, Morristown, NJ ,133991,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,26
+930,2015,Audi,A3_Premium_Plus, 12995, Jamaica, NY ,102900,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,6
+931,2015,Audi,A3_Premium_Plus, 21995, Amityville, NY ,61037,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,15
+932,2018,Audi,A5_Premium_Plus, 32995, Rahway, NJ ,47849,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,Number of Owners,Personal Use,1
+933,2020,Audi,Q5_Premium_Plus_55, 47895, Rahway, NJ ,22104,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,1
+934,2018,Audi,Q5_Premium_Plus, 32400, Rahway, NJ ,36268,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,13
+935,2018,Audi,TT_RS, 61900, Rahway, NJ ,23421,No Accident or Damage Reported,Coupe,Gray_Engine:_5_Cyl_2.5_L_,3+ Owners,Personal Use,8
+936,2015,Audi,Q5_Premium_Plus, 19795, Ramsey, NJ ,86977,No Accident or Damage Reported,SUV,4_Cyl_2.0_L_,2-Owner,Personal Use,10
+937,2004,Audi,A6_2.7T, 6995, Neptune, NJ ,114036,No Accident or Damage Reported,Wagon,Black_Engine:_6_Cyl_2.7_L_,2-Owner,Multiple Use,30
+938,2016,Audi,A4_Premium, 17324, Jersey City, NJ ,90719,Accident/Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,8
+939,2021,Audi,Q5_Premium_45, 45490, Fairfield, CT ,6808,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,2
+940,2015,Audi,A6_Prestige, 23995, New York, NY ,79327,Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,22
+941,2015,Audi,A4_Premium_Plus, 19995, Belmar, NJ ,69183,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,15
+942,2014,Audi,Q5_Premium, 15995, New York, NY ,91921,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,7
+943,2013,Audi,Q7_Prestige_S-Line, 18900, Rahway, NJ ,102961,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,14
+944,2019,Audi,A8_L, 58995, New York, NY ,40615,Accident/No Damage,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Corporate Use,18
+945,2016,Audi,Q5_Premium_Plus, 23990, Great Neck, NY ,29287,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+946,2016,Audi,A4_Premium_Plus, 20981, Flemington, NJ ,72550,Accident Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+947,2015,Audi,Q5_Prestige, 19995, UNION CITY, NJ ,100118,Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Commercial Use,14
+948,2018,Audi,S7_Premium_Plus, 66000, Fairfield, CT ,9145,No Accident or Damage Reported,Hatchback,Gray_Engine:_8_Cyl_4.0_L_,2-Owner,Personal Use,9
+949,2015,Audi,A4_Premium_Plus, 19295, Tenafly, NJ ,64069,Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+950,2011,Audi,A4_Premium_Plus, 14200, Fairfield, CT ,83418,Minor Damage,Wagon,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+951,2015,Audi,Q5_Premium_Plus, 15495, Jersey City, NJ ,119911,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,4
+952,2015,Audi,A3_Premium, 17318, Jersey City, NJ ,60083,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,11
+953,2015,Audi,A3_Premium, 15995, Nanuet, NY ,80510,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,9
+954,2013,Audi,A4_Premium, 15870, E Rutherford, NJ ,73422,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,13
+955,2018,Audi,A3_Premium_Plus, 18995, Rahway, NJ ,106238,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+956,2015,Audi,A3_Premium, 25495, Red Bank, NJ ,48340,No Accident or Damage Reported,Convertible,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+957,2017,Audi,S7_Prestige, 48990, Valley Stream, NY ,46041,Minor Damage,Hatchback,Blue_Engine:_8_Cyl_4.0_L_,CARFAX 1-Owner,Corporate Use,9
+958,2011,Audi,A4_Premium, 15999, Bridgewater, NJ ,37206,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+959,2018,Audi,Q5_Premium_Plus, 31990, Great Neck, NY ,30223,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+960,2018,Audi,S5_Premium_Plus, 50459, EATONTOWN, NJ ,31909,Minor Damage,Convertible,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+961,2020,Audi,R8_5.2, 197995, Bronx, NY ,1108,No Accident or Damage Reported,Coupe,Gray_Engine:_10_Cyl_5.2_L_,CARFAX 1-Owner,Personal Use,3
+962,2015,Audi,A4, 16985, Massapequa, NY ,85241,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,13
+963,2018,Audi,S5_Premium_Plus, 49989, New York, NY ,21534,Damage Reported,Convertible,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,13
+964,2014,Audi,A8, 27495, Great Neck, NY ,65963,Minor Damage,Sedan,Gray_Engine:_8_Cyl_4.0_L_,CARFAX 1-Owner,Personal Use,28
+965,2016,Audi,A3_Premium, 18999, Lakewood, NJ ,75319,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,8
+966,2018,Audi,A3_Premium, 25240, Mount Kisco, NY ,17369,Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,2
+967,2004,Audi,S4, 9900, Brooklyn, NY ,109835,Accident/Minor Damage,Sedan,Blue_Engine:_8_Cyl_4.2_L_,2-Owner,Personal Use,18
+968,2017,Audi,A4_Premium, 23548, Huntington, NY ,60678,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+969,2014,Audi,A4_Premium_Plus, 15777, Amityville, NY ,64260,Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,17
+970,2018,Audi,A4_Premium_Plus, 29495, Great Neck, NY ,28894,Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+971,2019,Audi,Q7_Premium_Plus, 50495, Edison, NJ ,26150,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+972,2018,Audi,A3_Premium, 28995, Totowa, NJ ,20763,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+973,2015,Audi,A4_Premium_Plus, 18900, PARAMUS, NJ ,70828,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+974,2018,Audi,A3_Premium, 24990, West Babylon, NY ,62336,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,4
+975,2018,Audi,A5_Premium_Plus, 39550, Rochelle Park, NJ ,30586,Damage Reported,Convertible,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+976,2013,Audi,Q7_Premium_Plus, 16495, Brooklyn, NY ,103200,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,11
+977,2011,Audi,Q5_Premium_Plus, 12995, Commack, NY ,100130,Accident Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,17
+978,2020,Audi,Q5_Premium_Plus_45, 43995, Wall Township, NJ ,9273,Branded Title,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+979,2014,Audi,Q5_Premium_Plus, 13995, North Middletown, NJ ,138951,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,7
+980,2018,Audi,Q7_Premium, 42990, Great Neck, NY ,31629,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+981,2018,Audi,Q3_Premium_Plus, 30990, Great Neck, NY ,11411,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+982,2018,Audi,Q7_Premium_Plus, 43995, Wall Township, NJ ,26030,Branded Title,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+983,2016,Audi,Q3_Premium_Plus, 25990, Great Neck, NY ,48327,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+984,2014,Audi,S4_Premium_Plus, 23990, Elmwood Park, NJ ,78511,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,3+ Owners,Multiple Use,5
+985,2019,Audi,A6_Premium_Plus, 43765, Hillside, NJ ,37142,Accident/Minor Damage,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+986,2015,Audi,Q5_Premium_Plus, 18995, Bronx, NY ,104625,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,14
+987,2018,Audi,Q5_Premium, 32490, Valley Stream, NY ,26019,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+988,2014,Audi,A6_Prestige, 18975, Hillside, NJ ,92290,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,23
+989,2016,Audi,Q5_Premium_Plus, 23995, Bronx, NY ,93325,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,19
+990,2018,Audi,S5_Premium_Plus, 41495, Great Neck, NY ,23706,No Accident or Damage Reported,Hatchback,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+991,2018,Audi,S3_Premium_Plus, Call for Price, Freehold, NJ ,21539,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+992,2018,Audi,A4_Premium_Plus, 27995, Paramus, NJ ,49988,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,16
+993,2013,Audi,A4_Premium, Call for Price, Irvington, NJ ,105215,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,17
+994,2012,Audi,Q5_Premium_Plus, 13499, S Hackensack, NJ ,136684,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,21
+995,2018,Audi,A3_Premium_Plus, 31990, Great Neck, NY ,12965,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+996,2015,Audi,A3_Premium_Plus, 16986, Butler, NJ ,80277,No Accident or Damage Reported,Sedan,4_Cyl_2.0_L_,2-Owner,Personal Use,15
+997,2019,Audi,A8_L, 59495, Great Neck, NY ,45115,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+998,2018,Audi,A6_Premium_Plus, 27888, Elmont, NY ,35840,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+999,2016,Audi,S8_Plus, 59999, Brooklyn, NY ,54298,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.0_L_,2-Owner,Personal Use,19
+1000,2018,Audi,A4_Premium, 28990, Forest Hills, NY ,37993,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+1001,2009,Audi,A4_Premium_Plus, 7995, Butler, NJ ,124912,Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,14
+1002,2018,Audi,Q5_Premium, 31686, Secaucus, NJ ,42946,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,7
+1003,2015,Audi,A3_Premium, 19991, Harriman, NY ,24790,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,6
+1004,2018,Audi,A5_Premium_Plus, 35477, Freehold, NJ ,43906,Minor Damage,Hatchback,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+1005,2013,Audi,A5_Premium_Plus, 20500, Upper Saddle River, NJ ,44686,No Accident or Damage Reported,Coupe,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,19
+1006,2015,Audi,Q5_Premium, 17782, Jersey City, NJ ,95711,Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+1007,2019,Audi,Q7_Premium, 48997, Freehold, NJ ,28751,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+1008,2015,Audi,A6_Premium_Plus, 18304, Kenvil, NJ ,80918,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+1009,2019,Audi,SQ5_Premium_Plus, 54248, Englewood, NJ ,7968,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+1010,2013,Audi,S7_Prestige, 39990, Pleasantville, NY,36894,No Accident or Damage Reported,Hatchback,Black_Engine:_8_Cyl_4.0_L_,2-Owner,Personal Use,16
+1011,2014,Audi,Q5_Premium_Plus, 22990, Pleasantville, NY,84100,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,5
+1012,2021,Audi,Q5_Premium_45, 45400, Fairfield, CT ,8209,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,4
+1013,2016,Audi,A3_Premium_Plus, 22867, Morristown, NJ ,96121,Accident/Minor Damage,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+1014,2021,Audi,A4_Premium_Plus_45, 46000, Fairfield, CT ,9005,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,3
+1015,2002,Audi,A4, 7999, Morristown, NJ ,90164,No Accident or Damage Reported,Wagon,Beige_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,21
+1016,2020,Audi,SQ8_Prestige, 109777, Freehold, NJ ,5799,No Accident or Damage Reported,SUV,Blue_Engine:_8_Cyl_4.0_L_,CARFAX 1-Owner,Personal Use,0
+1017,2016,Audi,Q5_Premium_Plus, 22742, Carlstadt, NJ ,76198,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,14
+1018,2012,Audi,A8_L, 20995, Bayonne, NJ ,116865,Minor Damage,Sedan,Blue_Engine:_8_Cyl_4.2_L_,3+ Owners,Personal Use,30
+1019,2018,Audi,SQ5_Premium_Plus, 42895, Rahway, NJ ,25822,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,Number of Owners,Lease Use,10
+1020,2015,Audi,A4_Premium_Plus, 16495, Elizabeth, NJ ,104434,Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,2
+1021,2018,Audi,A5_Premium_Plus, 38495, Great Neck, NY ,48536,Accident Reported,Convertible,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,19
+1022,2013,Audi,A6_Prestige, 18975, Hillside, NJ ,76647,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,14
+1023,2019,Audi,A4_Premium, 30495, Great Neck, NY ,29326,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+1024,2017,Audi,S6_Premium_Plus, 48998, Edison, NJ ,48056,Accident Reported,Sedan,Black_Engine:_8_Cyl_4.0_L_,2-Owner,Personal Use,18
+1025,2009,Audi,A4_Special_Edition, 11995, Bronx, NY ,43411,No Accident or Damage Reported,Convertible,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+1026,2017,Audi,S6_Premium_Plus, 48998, Edison, NJ ,48056,Accident Reported,Sedan,Black_Engine:_8_Cyl_4.0_L_,2-Owner,Personal Use,18
+1027,2018,Audi,A5_Premium, 32990, Great Neck, NY ,47227,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+1028,2018,Audi,A4_Premium, 30990, Great Neck, NY ,13913,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+1029,2018,Audi,A4_Premium_Plus, 29495, Great Neck, NY ,25381,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+1030,2018,Audi,Q5_Premium_Plus, 33495, Great Neck, NY ,38481,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+1031,2018,Audi,Q7_Premium, 43495, Great Neck, NY ,28386,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+1032,2018,Audi,Q5_Premium_Plus, 34990, Great Neck, NY ,29117,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+1033,2018,Audi,S5_Premium_Plus, 42990, Great Neck, NY ,44709,No Accident or Damage Reported,Hatchback,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+1034,2018,Audi,A3_Premium, 27900, Summit, NJ ,9493,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+1035,2015,Audi,Q5_Premium_Plus, 23983, East Meadow, NY ,63375,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,9
+1036,2018,Audi,S4_Premium_Plus, 47995, Syosset, NY ,29864,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+1037,2018,Audi,Q7_Prestige, 54683, PARAMUS, NJ ,20394,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,11
+1038,2021,Audi,A6_Premium_Plus_Sport, 56495, Great Neck, NY ,6145,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+1039,2018,Audi,S3_Premium_Plus, 42580, Somerville, NJ ,18846,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+1040,2018,Audi,A4_Premium_Plus, 25889, Elmont, NY ,45132,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+1041,2014,Audi,S4_Premium_Plus, 29999, Morristown, NJ ,61048,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+1042,2018,Audi,A3_Premium_Plus, 22890, Great Neck, NY ,47707,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+1043,2015,Audi,Q5_Premium, 15987, Morristown, NJ ,133764,Accident/Minor Damage,SUV,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,22
+1044,2010,Audi,Q5_Premium_Plus, 12400, Stamford, CT ,93821,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.2_L_,3+ Owners,Multiple Use,13
+1045,2014,Audi,A7_Premium, Call for Price, Long Island City, NY ,61220,No Accident or Damage Reported,Hatchback,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,11
+1046,2018,Audi,Q7_Premium_Plus, 42450, Forest Hills, NY ,31305,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,3+ Owners,Multiple Use,0
+1047,2018,Audi,A5_Premium, 34991, Bohemia, NY ,32262,Accident/Minor Damage,Coupe,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+1048,2018,Audi,RS7_performance, 84995, Rahway, NJ ,37110,No Accident or Damage Reported,Hatchback,Blue_Engine:_8_Cyl_4.0_L_,2-Owner,Multiple Use,2
+1049,2018,Audi,A3_Premium_Plus, 25395, Bronx, NY ,48884,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,19
+1050,2018,Audi,SQ5_Premium_Plus, 43200, Bloomfield, NJ ,29451,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,9
+1051,2007,Audi,S4, 18995, Hasbrouck Heights, NJ ,63179,No Accident or Damage Reported,Convertible,Gray_Engine:_8_Cyl_4.2_L_,3+ Owners,Personal Use,17
+1052,2018,Audi,Q3_Premium, 27995, Long Island City, NY ,23361,Branded Title,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+1053,2018,Audi,Q3_Premium, 26686, Secaucus, NJ ,54588,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+1054,2013,Audi,Q5_Premium_Plus, 13500, Bronx, NY ,98897,Accident Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,26
+1055,2019,Audi,A8_L, 68888, Long Island City, NY ,1114,Branded Title,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+1056,2018,Audi,Q5_Premium, 35228, Englewood, NJ ,37378,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+1057,2017,Audi,Q7_Premium_Plus, 36995, Jamaica, NY ,58955,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,10
+1058,2015,Audi,A3_Premium_Plus, 21000, Fair Lawn, NJ ,40400,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,11
+1059,2018,Audi,Q5_Premium, 30900, Upper Saddle River, NJ ,64785,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,5
+1060,2018,Audi,Q3_Premium, 26000, Upper Saddle River, NJ ,61767,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Rental Use,5
+1061,2013,Audi,A4_Premium_Plus, 13900, Lodi, NJ ,115244,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,17
+1062,2017,Audi,Q3_Premium_Plus, 22867, Jersey City, NJ ,89996,Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+1063,2018,Audi,Q5_Premium_Plus, 37777, Freehold, NJ ,32407,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+1064,2018,Audi,A4_Premium_Plus, 34477, Freehold, NJ ,30012,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+1065,2019,Audi,A4_Premium, 29997, Freehold, NJ ,36944,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+1066,2018,Audi,Q5_Premium_Plus, 36488, Englewood, NJ ,26413,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+1067,2018,Audi,A4_Premium_Plus, 33288, Englewood, NJ ,24191,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+1068,2018,Audi,A5_Premium, 39477, Freehold, NJ ,48944,No Accident or Damage Reported,Convertible,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+1069,2020,Audi,Q5_Premium_Plus_45, 47000, Upper Saddle River, NJ ,16733,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+1070,2019,Audi,Q7_Prestige, 53589, New York, NY ,24062,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+1071,2018,Audi,A4_Premium_Plus, 30599, Maplewood, NJ ,29925,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+1072,2018,Audi,Q5_Prestige, 39995, New York, NY ,20925,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+1073,2018,Audi,Q5_Premium_Plus, 28495, Huntington Station, NY ,73378,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,5
+1074,2010,Audi,A4_Premium, 9542, Carlstadt, NJ ,84360,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,17
+1075,2018,Audi,A3_Premium, 24695, New York, NY ,24345,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+1076,2019,Audi,Q5_Premium, 32595, Ramsey, NJ ,38126,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,4
+1077,2013,Audi,A5_Premium_Plus, 19493, PARAMUS, NJ ,53703,Minor Damage,Coupe,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,24
+1078,2018,Audi,Q7_Premium_Plus, 44486, Brooklyn, NY ,15650,Accident Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+1079,2012,Audi,Q5_Premium, 14500, Morristown, NJ ,100669,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,16
+1080,2017,Audi,Q7_Premium_Plus, 33254, PARAMUS, NJ ,75766,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,3
+1081,2017,Audi,A3_Premium_Plus, 22995, Lindenhurst, NY ,72877,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,13
+1082,2015,Audi,A4_Premium_Plus, 16816, PARAMUS, NJ ,95458,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,31
+1083,2018,Audi,A3_Premium, 28995, West Nyack, NY ,25516,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+1084,2018,Audi,A4_Premium_Plus, 24995, Great Neck, NY ,46311,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,10
+1085,2013,Audi,TT_RS, 54900, Kearny, NJ ,31786,Accident Reported,Coupe,White_Engine:_5_Cyl_2.5_L_,3+ Owners,Personal Use,13
+1086,2017,Audi,Q7_Premium_Plus, 33990, Great Neck, NY ,46904,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,6
+1087,2016,Audi,RS7_Prestige, 62995, Wall Township, NJ ,34731,Minor Damage,Hatchback,Silver_Engine:_8_Cyl_4.0_L_,3+ Owners,Multiple Use,9
+1088,2012,Audi,A6_Prestige, 13995, Elmhurst, NY ,103781,Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,27
+1089,2018,Audi,A4_Premium_Plus, 31495, Wall Township, NJ ,22354,Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,6
+1090,2005,Audi,A6, 6999, Elizabeth, NJ ,62669,No Accident or Damage Reported,Sedan,6_Cyl_3.2_L_,2-Owner,Personal Use,22
+1091,2019,Audi,A8_L, 59888, Lodi, NJ ,37178,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+1092,2017,Audi,Q7_Premium_Plus, 39900, Summit, NJ ,41289,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+1093,2017,Audi,S3_Prestige, 40995, Wall Township, NJ ,34598,No Accident or Damage Reported,Sedan,Yellow_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+1094,2018,Audi,SQ5_Premium_Plus, 46900, Summit, NJ ,28962,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+1095,2018,Audi,Q5_Premium_Plus, 36900, Summit, NJ ,37367,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+1096,2014,Audi,Q7_Premium_Plus, 20995, Jamaica, NY ,93285,Minor Damage,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,27
+1097,2018,Audi,Q5_Premium_Plus, 29795, Elmont, NY ,35686,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+1098,2018,Audi,A4_Premium_Plus, 31889, Englewood, NJ ,39194,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,20
+1099,2019,Audi,Q8_Prestige, 64900, Syosset, NY ,17730,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,8

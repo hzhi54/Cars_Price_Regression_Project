@@ -1,0 +1,1101 @@
+,Year,Brand,Model,Cost,City,State,Mileage,Accident,Body,Engine,Owners,Usefor,Services
+0,2020,Ram,1500_Big_Horn/Lone_Star, 43995, Garwood, NJ ,11780,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+1,2018,Ram,1500_SLT_Big_Horn, 37995, Jersey City, NJ ,33240,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+2,2020,Ram,1500_SLT, 34888, Long Island City, NY ,18773,Accident/Minor Damage,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,1
+3,2020,Ram,1500_Big_Horn/Lone_Star, 39777, Mahwah, NJ ,10721,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+4,2019,Ram,1500_Big_Horn/Lone_Star, 34795, Rahway, NJ ,24059,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+5,2018,Ram,1500_ST_Express, 29995, Edison, NJ ,31772,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+6,2018,Ram,1500_SLT_Big_Horn, 29995, Edison, NJ ,40290,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+7,2019,Ram,1500_Tradesman_Express, 30810, Ocean, NJ ,26403,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+8,2019,Ram,1500_Tradesman, 33810, Ocean, NJ ,21246,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+9,2019,Ram,1500_Big_Horn/Lone_Star, 39810, Ocean, NJ ,18985,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+10,2019,Ram,1500_Big_Horn/Lone_Star, 41995, Hackensack, NJ ,17264,No Accident or Damage Reported,Pickup,8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+11,2018,Ram,1500_ST_Express, 34553, Butler, NJ ,27352,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+12,2018,Ram,2500_Power_Wagon, 53990, Flemington, NJ ,34943,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,2
+13,2020,Ram,1500_Big_Horn/Lone_Star, 42827, Cedar Knolls, NJ ,9916,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+14,2019,Ram,2500_Limited, 76990, Flemington, NJ ,21483,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Personal Use,3
+15,2019,Ram,1500_Big_Horn/Lone_Star, 40500, Amityville, NY ,37459,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,15
+16,2019,Ram,1500_Tradesman_Express, 24688, Lakewood, NJ ,117255,No Accident or Damage Reported,Pickup,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,12
+17,2020,Ram,1500_Big_Horn/Lone_Star, 45873, East Brunswick, NJ ,29099,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+18,2017,Ram,1500_ST_Express, 32995, Greenvale, NY ,38735,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+19,2019,Ram,1500_Tradesman_Express, 29000, Nanuet, NY ,109639,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+20,2019,Ram,1500_Laramie, 44987, Ringoes, NJ ,44059,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+21,2019,Ram,1500_Laramie_Longhorn, 44995, Keyport, NJ ,62300,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+22,2018,Ram,1500_ST_Express, 29810, Ocean, NJ ,34365,Accident/Minor Damage,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+23,2019,Ram,1500_Big_Horn/Lone_Star, 40980, Jericho, NY ,27318,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+24,2018,Ram,1500_Laramie_Limited, 40223, Greenvale, NY ,48027,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+25,2019,Ram,1500_Big_Horn/Lone_Star, 37995, Edison, NJ ,47730,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+26,2019,Ram,1500_Big_Horn/Lone_Star, 38688, COLONIA, NJ ,14478,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+27,2018,Ram,1500_SLT_Big_Horn, 38888, Wharton, NJ ,32920,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+28,2019,Ram,1500_Big_Horn/Lone_Star, 40995, Wharton, NJ ,40257,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+29,2019,Ram,1500_Tradesman_Express, 32999, Irvington, NJ ,21317,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+30,2020,Ram,1500_Big_Horn/Lone_Star, 45000, Netcong, NJ ,23007,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+31,2017,Ram,2500_SLT_Big_Horn, 43995, Budd Lake, NJ ,53612,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,7
+32,2019,Ram,1500_Big_Horn/Lone_Star, 41501, East Hanover, NJ ,25269,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,11
+33,2018,Ram,1500_ST_Express, 35995, Greenvale, NY ,21678,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+34,2018,Ram,1500_SLT_Big_Horn, 35993, Nanuet, NY ,19321,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+35,2019,Ram,1500_Big_Horn/Lone_Star, 40977, Mahwah, NJ ,35035,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+36,2020,Ram,1500_Big_Horn/Lone_Star, 40399, Ramsey, NJ ,23275,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+37,2019,Ram,1500_Laramie, 45998, Lebanon, NJ ,45935,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,11
+38,2019,Ram,1500_Big_Horn/Lone_Star, 36990, Shrewsbury, NJ ,42474,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+39,2019,Ram,1500_Big_Horn/Lone_Star, 40236, Tenafly, NJ ,34956,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+40,2018,Ram,1500_SLT_Big_Horn, 31995, Edison, NJ ,70538,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+41,2021,Ram,1500_Big_Horn/Lone_Star, 45499, Newark, NJ,2988,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+42,2020,Ram,1500_Big_Horn/Lone_Star, 42188, Upper Saddle River, NJ ,42514,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+43,2019,Ram,1500_Big_Horn/Lone_Star, 38199, Greenvale, NY ,22818,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+44,2019,Ram,1500_Big_Horn/Lone_Star, 39991, Little Falls, NJ ,29501,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+45,2018,Ram,1500_SLT_Big_Horn, 32249, East Brunswick, NJ ,36484,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+46,2019,Ram,1500_Tradesman_Express, 32980, Jericho, NY ,29005,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+47,2018,Ram,1500_Rebel, 38800, South Plainfield, NJ ,33222,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+48,2018,Ram,1500_ST_Express, 31955, Great Neck, NY ,15113,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+49,2019,Ram,1500_Rebel, 39104, Freehold, NJ ,32913,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+50,2019,Ram,1500_Big_Horn/Lone_Star, 39288, Green Brook, NJ ,28361,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+51,2019,Ram,1500_Big_Horn/Lone_Star, 39879, Flemington, NJ ,32071,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+52,2020,Ram,1500_Big_Horn/Lone_Star, 39799, Budd Lake, NJ ,19471,Accident/Minor Damage,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+53,2018,Ram,1500_Laramie, 40499, Wharton, NJ ,28257,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+54,2018,Ram,1500_Laramie, 39995, Wharton, NJ ,44981,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+55,2017,Ram,3500_Laramie_Longhorn, 65998, Green Brook, NJ ,43485,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Personal Use,8
+56,2018,Ram,1500_SLT_Big_Horn, 36424, Farmingdale, NY ,27340,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+57,2019,Ram,1500_Big_Horn/Lone_Star, 34925, Hazlet, NJ ,73563,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,1
+58,2019,Ram,1500_Big_Horn/Lone_Star, 40212, East Brunswick, NJ ,30275,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+59,2018,Ram,1500_SLT_Big_Horn, 37491, East Brunswick, NJ ,26002,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+60,2020,Ram,1500_Laramie, 46995, Westbury, NY ,23878,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+61,2021,Ram,1500_Big_Horn/Lone_Star, 47500, Neptune, NJ ,5254,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+62,2018,Ram,1500_ST_Express, 29980, Jericho, NY ,32677,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+63,2019,Ram,1500_Tradesman_Express, 29918, Greenvale, NY ,40014,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+64,2019,Ram,1500_Big_Horn/Lone_Star, 37991, Little Falls, NJ ,22244,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+65,2019,Ram,1500_Big_Horn/Lone_Star, 40998, Greenvale, NY ,28952,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+66,2018,Ram,1500_ST_Express, 27991, Little Falls, NJ ,41182,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+67,2019,Ram,1500_Big_Horn/Lone_Star, 31995, South Hackensack, NJ ,94590,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,13
+68,2019,Ram,1500_Big_Horn/Lone_Star, 41980, Jericho, NY ,11101,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+69,2019,Ram,1500_Tradesman_Express, 31280, Farmingdale, NY ,20143,No Accident or Damage Reported,Pickup,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+70,2019,Ram,1500_Tradesman_Express, 30995, Brooklyn, NY ,21788,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+71,2018,Ram,1500_SLT_Big_Horn, 38529, Lebanon, NJ ,36759,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+72,2016,Ram,1500_SLT_Big_Horn, 29588, Lakewood, NJ ,76037,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,11
+73,2020,Ram,1500_Big_Horn/Lone_Star, 39995, Edison, NJ ,15374,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+74,2018,Ram,1500_SLT_Big_Horn, 34995, Lebanon, NJ ,39475,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+75,2016,Ram,1500_SLT_Big_Horn, 29588, Lakewood, NJ ,76037,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,11
+76,2021,Ram,ProMaster_1500, 37590, New York, NY,6803,No Accident or Damage Reported,Van,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+77,2017,Ram,1500_SLT, 26900, Hackettstown, NJ ,45964,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,17
+78,2018,Ram,1500_SLT_Big_Horn, 33810, Ocean, NJ ,25857,Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+79,2018,Ram,1500_SLT_Big_Horn, 37495, Robbinsville, NJ ,30924,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+80,2018,Ram,1500_SLT_Big_Horn, 36495, Lakewood, NJ ,21147,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+81,2020,Ram,1500_Laramie, 52990, Butler, NJ ,20223,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+82,2019,Ram,1500_Big_Horn/Lone_Star, 39287, Greenvale, NY ,19526,No Accident or Damage Reported,Pickup,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+83,2018,Ram,1500_SLT_Big_Horn, 37300, Nanuet, NY ,29973,Accident/Minor Damage,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+84,2018,Ram,1500_Laramie, 35664, South Plainfield, NJ ,33531,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,14
+85,2018,Ram,1500_SLT_Big_Horn, 35417, Farmingdale, NY ,38371,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+86,2018,Ram,1500_SLT_Harvest, 31995, Jamaica, NY ,32189,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+87,2019,Ram,1500_Laramie, 45969, South Plainfield, NJ ,36106,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+88,2020,Ram,1500_Big_Horn/Lone_Star, 42995, Sussex, NJ ,15623,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+89,2019,Ram,1500_Big_Horn/Lone_Star, 41480, Jericho, NY ,25768,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+90,2019,Ram,1500_Big_Horn/Lone_Star, 41480, Jericho, NY ,26965,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+91,2019,Ram,1500_Laramie, 45943, Saint James, NY ,23287,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+92,2019,Ram,1500_Big_Horn/Lone_Star, 36925, Hazlet, NJ ,64391,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+93,2019,Ram,1500_Big_Horn/Lone_Star, 33995, Westbury, NY ,47692,No Accident or Damage Reported,Pickup,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+94,2019,Ram,1500_Big_Horn/Lone_Star, 41480, Jericho, NY ,33629,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+95,2019,Ram,1500_Rebel, 45900, Amityville, NY ,19112,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+96,2016,Ram,1500_ST_Express, 28000, Norwalk, CT ,76967,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+97,2019,Ram,1500_Big_Horn/Lone_Star, 40980, Jericho, NY ,29739,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+98,2019,Ram,1500_Tradesman_Express, 31995, Saint James, NY ,26651,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+99,2018,Ram,1500_SLT_Big_Horn, 36580, Jericho, NY ,29758,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+100,2019,Ram,1500_Tradesman_Express, 31995, Saint James, NY ,26651,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+101,2018,Ram,1500_SLT_Big_Horn, 35494, Hackettstown, NJ ,42988,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+102,2019,Ram,1500_Big_Horn/Lone_Star, 38980, Hackettstown, NJ ,14581,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+103,2019,Ram,1500_Tradesman_Express, 31568, Hackettstown, NJ ,30287,No Accident or Damage Reported,Pickup,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+104,2019,Ram,1500_Big_Horn/Lone_Star, 35595, Hackettstown, NJ ,59610,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+105,2019,Ram,1500_Big_Horn/Lone_Star, 40995, Hackettstown, NJ ,31902,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+106,2019,Ram,1500_Big_Horn/Lone_Star, 39900, Florham Park, NJ ,31245,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+107,2019,Ram,1500_Tradesman_Express, 32495, Ramsey, NJ ,34789,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+108,2019,Ram,1500_Tradesman_Express, 30495, Lakewood, NJ ,28470,No Accident or Damage Reported,Pickup,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+109,2019,Ram,1500_Big_Horn/Lone_Star, 39995, Robbinsville, NJ ,23833,No Accident or Damage Reported,Pickup,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+110,2019,Ram,1500_Big_Horn/Lone_Star, 43995, Robbinsville, NJ ,23773,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+111,2018,Ram,1500_SLT_Big_Horn, 35495, Ramsey, NJ ,34792,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+112,2018,Ram,1500_SLT_Big_Horn, 36378, Brooklyn, NY ,33380,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+113,2017,Ram,1500_Sport, 32988, Green Brook, NJ ,84268,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+114,2019,Ram,1500_Big_Horn/Lone_Star, 40288, Green Brook, NJ ,36259,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+115,2020,Ram,1500_Big_Horn/Lone_Star, 44960, Butler, NJ ,16822,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+116,2018,Ram,1500_ST_Express, 30810, Ocean, NJ ,31176,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+117,2021,Ram,1500_Limited, 62991, Butler, NJ ,23018,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+118,2016,Ram,1500_ST_Express, 26990, Ridgefield, CT ,76905,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,13
+119,2019,Ram,1500_Limited, 59995, Rockaway, NJ ,19172,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+120,2019,Ram,1500_Tradesman_Express, 30888, Bayside, NY ,30051,Accident Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+121,2018,Ram,1500_ST_Express, 28480, Jericho, NY ,30401,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+122,2020,Ram,1500_Big_Horn/Lone_Star, 42488, Green Brook, NJ ,8006,No Accident or Damage Reported,Pickup,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+123,2019,Ram,1500_Tradesman, 31980, Jericho, NY ,11692,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,6
+124,2020,Ram,1500_Big_Horn/Lone_Star, 40695, Robbinsville, NJ ,2781,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+125,2019,Ram,1500_Big_Horn/Lone_Star, 37695, Robbinsville, NJ ,31897,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+126,2020,Ram,1500_Big_Horn/Lone_Star, 40695, Robbinsville, NJ ,2781,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+127,2020,Ram,1500_Laramie, 48595, Robbinsville, NJ ,27380,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+128,2021,Ram,1500_Big_Horn/Lone_Star, 39781, Robbinsville, NJ ,8104,No Accident or Damage Reported,Pickup,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+129,2020,Ram,1500_Big_Horn/Lone_Star, 43539, Robbinsville, NJ ,15776,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+130,2018,Ram,1500_SLT_Big_Horn, 36495, Lakewood, NJ ,38324,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+131,2019,Ram,2500_Big_Horn, 47799, Lakewood, NJ ,29756,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Rental Use,2
+132,2018,Ram,1500_SLT_Big_Horn, 33495, North Brunswick, NJ ,39782,Accident/Minor Damage,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+133,2019,Ram,1500_Tradesman_Express, 33488, Lakewood, NJ ,28646,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+134,2018,Ram,1500_ST_Express, 31995, Mahwah, NJ ,23858,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+135,2019,Ram,1500_Laramie, 46864, Madison, NJ ,33974,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+136,2019,Ram,1500_Big_Horn/Lone_Star, 42499, Wharton, NJ ,27926,No Accident or Damage Reported,Pickup,Green_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+137,2019,Ram,1500_Big_Horn/Lone_Star, 39490, Shrewsbury, NJ ,19492,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,6
+138,2019,Ram,2500_Limited, 78500, Freehold, NJ ,27182,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Commercial Use,13
+139,2018,Ram,1500_SLT_Big_Horn, 28995, Roslyn Heights, NY ,64541,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+140,2020,Ram,1500_Rebel, 48995, Wall Township, NJ ,13634,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+141,2019,Ram,1500_Tradesman_Express, 26895, Little Ferry, NJ ,33636,Accident Reported,Pickup,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+142,2020,Ram,1500_Big_Horn/Lone_Star, 40980, Jericho, NY ,14406,Minor Damage,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+143,2018,Ram,1500_SLT_Big_Horn, 37995, Jersey City, NJ ,33240,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+144,2014,Ram,1500_SLT_Big_Horn, 23399, Hollis, NY ,44809,No Accident or Damage Reported,Pickup,Beige_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,20
+145,2019,Ram,1500_Limited, 48995, Totowa, NJ ,34846,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+146,2018,Ram,1500_ST_Express, 32995, Woodbridge, NJ ,23423,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,1
+147,2017,Ram,1500_ST_Tradesman, 29995, Woodbridge, NJ ,36622,No Accident or Damage Reported,Pickup,Green_Engine:_8_Cyl_5.7_L_,Number of Owners,Personal Use,7
+148,2019,Ram,1500_Big_Horn/Lone_Star, 46000, Rockaway, NJ ,6585,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+149,2019,Ram,1500_Big_Horn/Lone_Star, 35980, Richmond Hill, NY ,27570,Accident Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+150,2017,Ram,1500_ST_Express, 27555, Linden, NJ ,54808,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,28
+151,2019,Ram,1500_Laramie, 43991, Little Falls, NJ ,35725,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+152,2020,Ram,1500_Big_Horn/Lone_Star, 43995, Garwood, NJ ,11780,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+153,2015,Ram,1500_Laramie, 24900, Mendham, NJ ,138639,Minor Damage,Pickup,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,5
+154,2019,Ram,1500_Big_Horn/Lone_Star, 39849, Butler, NJ ,31568,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+155,2018,Ram,1500_ST_Express, 31000, Yonkers, NY ,42671,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+156,2019,Ram,1500_SLT_Warlock, 39555, Butler, NJ ,8661,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,8
+157,2019,Ram,1500_Big_Horn/Lone_Star, 37914, Westbury, NY ,26899,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,0
+158,2019,Ram,1500_Laramie, 45700, Nanuet, NY ,42267,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+159,2016,Ram,1500_SLT_Big_Horn, 30600, Nanuet, NY ,73678,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+160,2017,Ram,1500_Laramie, 32991, Bohemia, NY ,82749,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,13
+161,2019,Ram,1500_Tradesman, 32924, Staten Island, NY ,4845,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+162,2021,Ram,1500_Limited, 66990, Flemington, NJ ,13818,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,1
+163,2012,Ram,1500_ST, 15995, Point Pleasant Boro, NJ ,103942,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,12
+164,2018,Ram,1500_ST_Express, 28900, Verona, NJ ,32042,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+165,2018,Ram,2500_Tradesman, 40995, Ramsey, NJ ,49781,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Commercial Use,7
+166,2018,Ram,1500_ST_Express, 28995, Robbinsville, NJ ,23972,Accident Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+167,2019,Ram,1500_Big_Horn/Lone_Star, 36581, Greenvale, NY ,8475,Accident/Minor Damage,Pickup,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+168,2018,Ram,1500_Laramie, 38995, Westbury, NY ,19234,Accident/Minor Damage,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+169,2017,Ram,1500_SLT_Big_Horn, 29995, Linden, NJ ,73540,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,3
+170,2017,Ram,1500_SLT_Big_Horn, 26899, Maplewood, NJ ,108335,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,23
+171,2016,Ram,1500_ST_Tradesman, 24137, Shrewsbury, NJ ,24216,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,8
+172,2019,Ram,1500_SLT_Big_Horn, 37690, Shrewsbury, NJ ,23713,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,4
+173,2018,Ram,1500_SLT_Big_Horn, 35990, Shrewsbury, NJ ,41414,Accident/Minor Damage,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,1
+174,2018,Ram,1500_SLT_Big_Horn, 33490, Hasbrouck Heights, NJ ,37291,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,8
+175,2019,Ram,1500_Tradesman_Express, 29995, Ramsey, NJ ,55830,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+176,2019,Ram,1500_Big_Horn/Lone_Star, 36925, Hazlet, NJ ,16059,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,0
+177,2020,Ram,1500_Big_Horn/Lone_Star, 40900, Hazlet, NJ ,24727,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,0
+178,2019,Ram,2500_Big_Horn, 55991, Little Falls, NJ ,22316,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Rental Use,5
+179,2018,Ram,1500_ST_Express, 32990, Hackettstown, NJ ,37101,Accident Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,14
+180,2019,Ram,1500_SLT_Warlock, 33188, Lakewood, NJ ,37141,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+181,2016,Ram,1500_Laramie, 25495, East Rutherford, NJ ,143214,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+182,2018,Ram,1500_ST_Express, 30588, Lakewood, NJ ,33736,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+183,2017,Ram,1500_Laramie, 36999, Newark, NJ,52800,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+184,2019,Ram,1500_Big_Horn/Lone_Star, 39998, Saint James, NY ,33700,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+185,2018,Ram,2500_Tradesman, 42000, Princeton, NJ ,55509,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,4
+186,2019,Ram,1500_Big_Horn/Lone_Star, 39995, Saint James, NY ,21231,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+187,2015,Ram,3500_Tradesman, 33995, Elmsford, NY ,72557,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_6.4_L_,3+ Owners,Personal Use,16
+188,2020,Ram,1500_Limited, 57995, New Rochelle, NY ,23876,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+189,2020,Ram,1500_Big_Horn/Lone_Star, 45950, Flemington, NJ ,15087,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,7
+190,2020,Ram,1500_Limited, 64912, East Hanover, NJ ,13443,No Accident or Damage Reported,Pickup,Red_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Commercial Use,3
+191,2020,Ram,1500_SLT, 29495, Robbinsville, NJ ,25561,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,1
+192,2019,Ram,1500_Limited, 52990, Green Brook, NJ ,32935,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,4
+193,2017,Ram,1500_SLT, 23900, Avenel, NJ ,138638,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,2
+194,2021,Ram,1500_SLT_Warlock, 37579, Butler, NJ ,6667,No Accident or Damage Reported,Pickup,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+195,2019,Ram,1500_Big_Horn/Lone_Star, 39900, Brick, NJ ,41591,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+196,2019,Ram,1500_Laramie_Longhorn, 46995, Robbinsville, NJ ,53555,Accident Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,29
+197,2019,Ram,1500_Big_Horn/Lone_Star, 42999, Huntington, NY ,29073,No Accident or Damage Reported,Pickup,8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+198,2019,Ram,1500_Tradesman_Express, 33995, Wharton, NJ ,31793,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+199,2018,Ram,1500_SLT_Big_Horn, 37995, Wharton, NJ ,30491,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,13
+200,2019,Ram,1500_Big_Horn/Lone_Star, 37995, Wall Township, NJ ,18063,Accident/Minor Damage,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+201,2015,Ram,1500_ST_Express, 20895, West Babylon, NY ,90176,Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+202,2017,Ram,2500_Power_Wagon, 42995, Rahway, NJ ,60342,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_6.4_L_,Number of Owners,Personal Use,19
+203,2019,Ram,3500_Tradesman, 49500, Nanuet, NY ,20376,Accident Reported,Pickup,Black_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Commercial Use,6
+204,2015,Ram,1500_SLT_Big_Horn, 25199, Copiague, NY ,84175,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,13
+205,2018,Ram,1500_SLT_Big_Horn, 37995, Brooklyn, NY ,34295,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,5
+206,2019,Ram,1500_Big_Horn/Lone_Star, 39925, Hazlet, NJ ,30089,Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,1
+207,2017,Ram,1500_Sport, 33725, Hazlet, NJ ,73418,Major Damage,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+208,2019,Ram,1500_Big_Horn/Lone_Star, 41950, Hazlet, NJ ,17652,Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,1
+209,2018,Ram,1500_ST_Express, 27995, Edison, NJ ,48051,Minor Damage,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+210,2019,Ram,1500_Big_Horn/Lone_Star, 37991, Little Falls, NJ ,50955,Accident Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+211,2019,Ram,1500_Tradesman_Express, 32403, Greenvale, NY ,17725,Accident Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+212,2016,Ram,1500_SLT, 25995, Westbury, NY ,76135,Major Damage,Pickup,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+213,2017,Ram,1500_SLT_Big_Horn, 29995, Hackettstown, NJ ,73638,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,15
+214,2018,Ram,1500_SLT_Big_Horn, 39891, Bedford Hills, NY ,22379,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+215,2021,Ram,1500_Laramie, 54895, Newton, NJ ,9314,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,1
+216,2019,Ram,1500_Big_Horn/Lone_Star, 40995, Saint James, NY ,38525,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+217,2019,Ram,1500_Big_Horn/Lone_Star, 41991, Little Falls, NJ ,24240,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+218,2018,Ram,1500_ST_Express, 30500, Neptune, NJ ,25833,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+219,2018,Ram,1500_SLT_Big_Horn, 39900, Amityville, NY ,26836,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+220,2020,Ram,1500_Big_Horn/Lone_Star, 46995, Sussex, NJ ,16657,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+221,2019,Ram,1500_Laramie, 49000, Woodside, NY ,14553,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+222,2018,Ram,1500_ST_Express, 31900, Amityville, NY ,24840,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+223,2018,Ram,1500_SLT_Big_Horn, 32950, Neptune, NJ ,58959,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+224,2020,Ram,1500_Limited, 59995, Sussex, NJ ,29705,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+225,2018,Ram,1500_ST_Express, 33900, Freehold, NJ ,33407,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,12
+226,2020,Ram,1500_Limited, 65900, Freehold, NJ ,12915,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+227,2021,Ram,1500_Rebel, 58500, Freehold, NJ ,6032,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+228,2019,Ram,1500_Big_Horn/Lone_Star, 40999, Newark, NJ,12335,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+229,2018,Ram,1500_Laramie_Longhorn, 38990, Shrewsbury, NJ ,67010,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+230,2019,Ram,1500_Laramie, 47997, Lebanon, NJ ,20029,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+231,2019,Ram,1500_Big_Horn/Lone_Star, 42688, Lakewood, NJ ,12537,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+232,2019,Ram,1500_Tradesman_Express, 31999, Newark, NJ,43867,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,11
+233,2020,Ram,1500_SLT, 34488, Green Brook, NJ ,20975,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,2
+234,2017,Ram,1500_Rebel, 36995, Robbinsville, NJ ,59930,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,8
+235,2019,Ram,1500_Big_Horn/Lone_Star, 39995, West Nyack, NY ,23762,Accident Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+236,2017,Ram,1500_Laramie, 33488, Valley Stream, NY ,40278,Accident/Minor Damage,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+237,2019,Ram,1500_Big_Horn/Lone_Star, 39988, Green Brook, NJ ,34213,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,1
+238,2018,Ram,1500_SLT_Big_Horn, 34988, Green Brook, NJ ,46625,Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+239,2018,Ram,1500_ST_Express, 29375, Brooklyn, NY ,24969,Minor Damage,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,1
+240,2018,Ram,1500_ST_Express, 28995, Budd Lake, NJ ,38894,No Accident or Damage Reported,Pickup,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+241,2019,Ram,1500_Tradesman_Express, 30788, Butler, NJ ,20892,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+242,2019,Ram,1500_Tradesman_Express, 31569, Butler, NJ ,37158,Accident Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+243,2020,Ram,1500_Big_Horn/Lone_Star, 39880, Somerville, NJ ,15378,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+244,2018,Ram,1500_Rebel, 34995, Somerville, NJ ,105604,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,22
+245,2020,Ram,1500_Rebel, 53998, Watchung, NJ ,11248,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,1
+246,2016,Ram,3500_SLT_Big_Horn, 54995, Cranbury, NJ ,41406,No Accident or Damage Reported,Pickup,Brown_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Personal Use,3
+247,2014,Ram,C/V, 7995, Massapequa, NY ,114351,No Accident or Damage Reported,Minivan,White_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,20
+248,2019,Ram,1500_Laramie, 44990, Green Brook, NJ ,25659,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+249,2016,Ram,1500_SLT_Big_Horn, 25995, Neptune, NJ ,96358,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+250,2018,Ram,2500_Tradesman, 47995, North Plainfield, NJ ,21166,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,8
+251,2019,Ram,1500_Big_Horn/Lone_Star, 38369, Butler, NJ ,55824,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+252,2017,Ram,3500_Tradesman, 37995, Branchville, NJ ,56758,Accident/Minor Damage,Pickup,Gray_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Commercial Use,16
+253,2017,Ram,1500_ST_Express, 28695, Nanuet, NY ,28727,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+254,2017,Ram,1500_ST_Tradesman, 18990, Lake Hopatcong, NJ ,131843,Accident/Minor Damage,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,7
+255,2020,Ram,1500_SLT_Warlock, 38019, Englewood, NJ ,8510,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+256,2017,Ram,1500_ST_Express, 32995, Greenvale, NY ,32715,Minor Damage,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,11
+257,2017,Ram,1500_ST_Express, 29995, Mount Kisco, NY ,59331,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+258,2018,Ram,1500_SLT_Big_Horn, 31809, Jersey City, NJ ,90489,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+259,2019,Ram,1500_Big_Horn/Lone_Star, 39500, Amityville, NY ,29084,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+260,2017,Ram,1500_SLT_Big_Horn, 35900, Amityville, NY ,45159,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+261,2018,Ram,1500_SLT_Big_Horn, 39500, Amityville, NY ,26628,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,12
+262,2018,Ram,1500_SLT_Big_Horn, 38900, Amityville, NY ,40654,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,11
+263,2019,Ram,1500_Limited, 55413, East Brunswick, NJ ,31258,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+264,2019,Ram,1500_Big_Horn/Lone_Star, 41995, Farmingdale, NY ,21380,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+265,2019,Ram,1500_Tradesman_Express, 32900, Amityville, NY ,29787,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+266,2019,Ram,1500_Big_Horn/Lone_Star, 41991, Little Falls, NJ ,17741,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+267,2020,Ram,1500_Laramie, 50980, Jericho, NY ,24645,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+268,2020,Ram,1500_Big_Horn/Lone_Star, 46255, East Brunswick, NJ ,23297,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+269,2019,Ram,1500_Big_Horn/Lone_Star, 43900, Amityville, NY ,28210,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+270,2019,Ram,1500_Big_Horn/Lone_Star, 42900, Amityville, NY ,40025,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+271,2018,Ram,1500_ST_Express, 31000, East Brunswick, NJ ,30120,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+272,2019,Ram,1500_Big_Horn/Lone_Star, 40900, Amityville, NY ,35159,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,15
+273,2019,Ram,1500_Laramie, 46480, Jericho, NY ,24997,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+274,2019,Ram,1500_Big_Horn/Lone_Star, 42410, East Brunswick, NJ ,34719,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+275,2019,Ram,1500_Limited, 55413, East Brunswick, NJ ,31258,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+276,2019,Ram,1500_Big_Horn/Lone_Star, 43900, Amityville, NY ,28210,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+277,2019,Ram,1500_Big_Horn/Lone_Star, 42900, Amityville, NY ,40025,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+278,2019,Ram,1500_Big_Horn/Lone_Star, 41995, Farmingdale, NY ,21380,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+279,2019,Ram,1500_Big_Horn/Lone_Star, 41991, Little Falls, NJ ,17741,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+280,2020,Ram,1500_Laramie, 52895, Hackettstown, NJ ,20880,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+281,2019,Ram,1500_Laramie, 45480, Jericho, NY ,39630,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,15
+282,2020,Ram,1500_Big_Horn/Lone_Star, 42595, Hackettstown, NJ ,9625,No Accident or Damage Reported,Pickup,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+283,2020,Ram,1500_Big_Horn/Lone_Star, 46995, Hackettstown, NJ ,7379,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+284,2019,Ram,1500_Big_Horn/Lone_Star, 42974, Hackettstown, NJ ,22184,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,16
+285,2011,Ram,1500_SLT, 8399, S Hackensack, NJ ,156128,No Accident or Damage Reported,Pickup,Green_Engine:_8_Cyl_4.7_L_,3+ Owners,Personal Use,18
+286,2018,Ram,1500_ST_Express, 28988, Valley Stream, NY ,20701,Accident Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+287,2013,Ram,1500_Laramie_Longhorn, 27995, Keyport, NJ ,78126,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,13
+288,2019,Ram,1500_Big_Horn/Lone_Star, 38495, Ramsey, NJ ,49821,Accident Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,1
+289,2019,Ram,1500_Tradesman, 26980, Jericho, NY ,12765,Accident/No Damage,Pickup,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,5
+290,2018,Ram,1500_ST_Express, 29595, Robbinsville, NJ ,58858,Minor Damage,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+291,2018,Ram,ProMaster_City_Tradesman, 19988, Green Brook, NJ ,63445,No Accident or Damage Reported,Minivan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Commercial Use,14
+292,2019,Ram,1500_Big_Horn/Lone_Star, 38995, Robbinsville, NJ ,14695,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,10
+293,2021,Ram,1500_SLT_Warlock, 40495, Robbinsville, NJ ,783,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,4
+294,2014,Ram,1500_SLT_Big_Horn, 30495, Mount Kisco, NY ,35381,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,3
+295,2019,Ram,1500_Big_Horn/Lone_Star, 40794, Robbinsville, NJ ,29200,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,2
+296,2019,Ram,1500_Big_Horn/Lone_Star, 38995, Brooklyn, NY ,14424,Minor Damage,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+297,2018,Ram,1500_ST_Express, 28988, Green Brook, NJ ,35854,Accident Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+298,2019,Ram,1500_Tradesman_Express, 27988, Valley Stream, NY ,29401,Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+299,2019,Ram,2500_Big_Horn, 51995, Robbinsville, NJ ,56353,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Rental Use,2
+300,2019,Ram,1500_Big_Horn/Lone_Star, 37990, Forest Hills, NY ,17558,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,4
+301,2018,Ram,1500_SLT_Big_Horn, 34995, Woodbridge, NJ ,29815,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,5
+302,2019,Ram,1500_Big_Horn/Lone_Star, 40990, Green Brook, NJ ,33585,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,1
+303,2018,Ram,1500_ST_Express, 33990, Green Brook, NJ ,14869,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+304,2015,Ram,1500_SLT_Big_Horn, 28495, Ramsey, NJ ,33206,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,13
+305,2018,Ram,1500_Rebel, 40995, Wall Township, NJ ,34389,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+306,2014,Ram,C/V, 4900, Newark, NJ ,241361,No Accident or Damage Reported,Minivan,White_Engine:_6_Cyl_3.6_L_,2-Owner,Commercial Use,3
+307,2015,Ram,2500_Power_Wagon, 35757, Morristown, NJ ,74734,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Commercial Use,11
+308,2014,Ram,1500_ST_Tradesman, 14499, Union, NJ ,136401,Accident Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+309,2019,Ram,1500_Tradesman_Express, 34810, Ocean, NJ ,22045,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+310,2018,Ram,1500_ST_Express, 33988, Butler, NJ ,15149,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+311,2018,Ram,1500_ST_Express, 34958, Butler, NJ ,29262,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+312,2018,Ram,1500_ST, 27995, Robbinsville, NJ ,68949,Major Damage,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,25
+313,2018,Ram,1500_ST_Express, 32988, Butler, NJ ,18789,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+314,2019,Ram,1500_Big_Horn/Lone_Star, 42949, Butler, NJ ,40955,No Accident or Damage Reported,Pickup,Brown_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+315,2018,Ram,1500_ST_Express, 32698, Butler, NJ ,26197,No Accident or Damage Reported,Pickup,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+316,2020,Ram,1500_Laramie, 53920, Butler, NJ ,14014,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+317,2019,Ram,1500_Tradesman_Express, 34979, Butler, NJ ,17075,No Accident or Damage Reported,Pickup,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+318,2021,Ram,ProMaster_1500, 44000, Nanuet, NY ,11873,No Accident or Damage Reported,Van,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,3
+319,2018,Ram,1500_Sport_Night, 39888, Eatontown, NJ ,29773,Accident Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+320,2018,Ram,1500_ST_Express, 31000, Nanuet, NY ,46088,Accident Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+321,2020,Ram,2500_Power_Wagon, 66850, Somerville, NJ ,18277,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,10
+322,2019,Ram,1500_Big_Horn/Lone_Star, 40900, Norwalk, CT ,41322,Accident/Minor Damage,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+323,2016,Ram,ProMaster_City_Tradesman, 14995, Point Pleasant Boro, NJ ,143625,No Accident or Damage Reported,Minivan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Commercial Use,26
+324,2019,Ram,1500_Tradesman, 39000, Nanuet, NY ,7332,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,4
+325,2014,Ram,2500_Laramie_Longhorn_Limited_Edition, 31495, Edison, NJ ,111799,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_6.4_L_,2-Owner,Commercial Use,18
+326,2011,Ram,Dakota_ST, 13000, Sussex, NJ ,50317,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_4.7_L_,CARFAX 1-Owner,Government Use,1
+327,2018,Ram,1500_SLT, 24495, Commack, NY ,76574,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,16
+328,2015,Ram,1500_SLT, 26995, Somerset, NJ ,76450,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,12
+329,2016,Ram,1500_SLT_Outdoorsman, 27991, Little Falls, NJ ,76240,Accident/Minor Damage,Pickup,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,17
+330,2020,Ram,1500_Laramie, 53658, Madison, NJ ,18733,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+331,2016,Ram,1500_Laramie, 32900, Englewood Cliffs, NJ ,48256,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.0_L_,3+ Owners,Vehicle Use,11
+332,2019,Ram,1500_Big_Horn/Lone_Star, 37035, Greenvale, NY ,29648,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,9
+333,2018,Ram,3500_Tradesman, 44226, Greenvale, NY ,25754,Minor Damage,Pickup,Gray_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Commercial Use,12
+334,2020,Ram,1500_SLT, 32788, Lakewood, NJ ,14611,Damage Reported,Pickup,8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,2
+335,2019,Ram,1500_Big_Horn/Lone_Star, 38900, Bronx, NY ,30551,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,2
+336,2019,Ram,1500_Laramie, 48990, Shrewsbury, NJ ,24070,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+337,2018,Ram,2500_Power_Wagon, 59995, Butler, NJ ,8143,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Commercial Use,1
+338,2012,Ram,2500_Laramie, 41999, Ramsey, NJ ,90400,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_6.7_L_,3+ Owners,Personal Use,25
+339,2014,Ram,2500_Tradesman, 28900, Freehold, NJ ,122386,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,8
+340,2019,Ram,1500_Laramie, 46990, Shrewsbury, NJ ,13464,Accident/Minor Damage,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,13
+341,2017,Ram,1500_SLT_Big_Horn, 32995, Woodbridge, NJ ,45826,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Vehicle Use,8
+342,2019,Ram,1500_Limited, 55829, PARAMUS, NJ ,31478,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+343,2018,Ram,1500_ST_Express, 31495, Lakewood, NJ ,23020,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+344,2017,Ram,1500_Rebel, 38988, Green Brook, NJ ,50625,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+345,2021,Ram,1500_Rebel, 56995, Sussex, NJ ,17553,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,4
+346,2018,Ram,1500_ST_Tradesman, 33999, West Milford, NJ ,32159,No Accident or Damage Reported,Pickup,Burgundy_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,17
+347,2019,Ram,1500_Big_Horn/Lone_Star, 36488, Green Brook, NJ ,27236,No Accident or Damage Reported,Pickup,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+348,2018,Ram,1500_SLT_Big_Horn, 36495, Lakewood, NJ ,39799,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+349,2018,Ram,1500_ST_Express, 29995, Branchville, NJ ,66156,Minor Damage,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,16
+350,2012,Ram,1500_ST, 19495, Huntington Station, NY ,92044,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,7
+351,2017,Ram,ProMaster_City_Tradesman, 15495, Jersey City, NJ ,95434,No Accident or Damage Reported,Minivan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Commercial Use,7
+352,2017,Ram,1500_ST_Tradesman, 16995, Newark, NJ ,156769,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+353,2019,Ram,1500_Big_Horn/Lone_Star, 39995, Wharton, NJ ,45572,Accident Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+354,2019,Ram,1500_Tradesman_Express, 36995, Rockaway, NJ ,30182,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+355,2016,Ram,1500_ST_Express, 26922, Springfield, NJ ,50774,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,8
+356,2017,Ram,1500_SLT_Big_Horn, 32283, West Caldwell, NJ ,62919,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,1
+357,2019,Ram,1500_Big_Horn/Lone_Star, 40493, Bohemia, NY ,47845,Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+358,2019,Ram,1500_Rebel, 46470, Lakewood, NJ ,38663,Minor Damage,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+359,2018,Ram,1500_Laramie, 35900, Nanuet, NY ,42387,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,7
+360,2019,Ram,1500_Laramie, 42895, Amityville, NY ,65708,Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+361,2019,Ram,1500_Big_Horn/Lone_Star, 40000, Nanuet, NY ,11631,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+362,2019,Ram,1500_Big_Horn/Lone_Star, 40995, Wharton, NJ ,41746,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,19
+363,2019,Ram,1500_Limited, 57583, Englewood, NJ ,18693,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+364,2019,Ram,1500_Rebel, 48886, Englewood, NJ ,18214,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+365,2017,Ram,ProMaster_1500, 17995, Hackettstown, NJ ,127057,Accident Reported,Van,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,11
+366,2018,Ram,1500_ST_Express, 29995, Woodbridge, NJ ,36403,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,3
+367,2020,Ram,1500_SLT, 34495, Great Neck, NY ,18176,Accident Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,2
+368,2019,Ram,1500_Laramie, 45995, Wharton, NJ ,43041,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+369,2020,Ram,1500_SLT, 32988, Lakewood, NJ ,24190,Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,1
+370,2019,Ram,1500_Limited, 47995, Wall Township, NJ ,33542,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,3
+371,2020,Ram,2500_Laramie_Longhorn, 78928, Saint James, NY ,9122,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_6.7_L_,Number of Owners,Vehicle Use,2
+372,2019,Ram,1500_Rebel, 38985, Colonia, NJ ,54442,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,0
+373,2019,Ram,1500_Big_Horn/Lone_Star, 41900, Freehold, NJ ,26799,Minor Damage,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,13
+374,2019,Ram,1500_Laramie, 45495, Great Neck, NY ,32135,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+375,2017,Ram,1500_ST_Express, 30988, Lakewood, NJ ,24884,No Accident or Damage Reported,Pickup,8_Cyl_5.7_L_,CARFAX 1-Owner,Lease Use,1
+376,2019,Ram,1500_Tradesman_Express, 30988, Lakewood, NJ ,25317,Accident Reported,Pickup,6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+377,2020,Ram,1500_Big_Horn/Lone_Star, 40690, Shrewsbury, NJ ,18117,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+378,2019,Ram,2500_Laramie, 59000, Summit, NJ ,31446,Accident Reported,Pickup,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,3
+379,2019,Ram,1500_Big_Horn/Lone_Star, 37990, Watchung, NJ ,41649,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+380,2017,Ram,1500_ST_Express, 28880, Jericho, NY ,54183,No Accident or Damage Reported,Pickup,Red_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,7
+381,2020,Ram,1500_Limited, 61230, Warwick, NY ,9102,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,6
+382,2020,Ram,1500_Laramie, 52995, Sussex, NJ ,12064,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,4
+383,2018,Ram,1500_ST_Tradesman, 32995, Keyport, NJ ,35396,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+384,2019,Ram,1500_Big_Horn/Lone_Star, 41028, Eatontown, NJ ,38951,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+385,2016,Ram,1500_Rebel, 31995, Roslyn Heights, NY ,67419,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,19
+386,2016,Ram,2500_Tradesman, 39500, Morristown, NJ ,17685,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Commercial Use,6
+387,2016,Ram,1500_SLT_Big_Horn, 18990, Sayreville, NJ ,187868,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,22
+388,2015,Ram,1500_Laramie, 30395, Ramsey, NJ ,55496,Damage Reported,Pickup,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Commercial Use,15
+389,2019,Ram,2500_Power_Wagon, 60788, Lakewood, NJ ,45832,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,9
+390,2014,Ram,1500_Laramie, 30900, Freehold, NJ ,65059,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+391,2018,Ram,1500_SLT_Big_Horn, 33990, Freeport, NY ,15017,Minor Damage,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+392,2020,Ram,1500_Laramie, 39995, Freeport, NY ,21252,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,0
+393,2017,Ram,1500_Rebel, 36485, Somerville, NJ ,84869,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,23
+394,2019,Ram,1500_Big_Horn/Lone_Star, 44995, Rockaway, NJ ,24495,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+395,2018,Ram,1500_SLT_Big_Horn, 34990, New York, NY,39259,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,10
+396,2018,Ram,2500_SLT_Big_Horn, 43995, Wall Township, NJ ,7096,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Commercial Use,6
+397,2019,Ram,1500_Big_Horn/Lone_Star, 42810, Ocean, NJ ,9896,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,6
+398,2019,Ram,1500_Big_Horn/Lone_Star, 36688, Wharton, NJ ,81731,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+399,2018,Ram,1500_Laramie, 41590, New York, NY,42769,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,19
+400,2019,Ram,1500_Big_Horn/Lone_Star, 41495, Wharton, NJ ,43348,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,13
+401,2018,Ram,1500_SLT, 32500, Neptune, NJ ,30509,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,Number of Owners,Commercial Use,5
+402,2018,Ram,1500_Rebel, 43916, Long Island City, NY ,32027,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,11
+403,2014,Ram,1500_SLT_Big_Horn, 22724, New Windsor, NY ,111061,Accident/Minor Damage,Pickup,Red_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,16
+404,2020,Ram,1500_SLT, 36991, Little Falls, NJ ,15536,Odometer Rollback,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,10
+405,2019,Ram,1500_Laramie, 45900, Nanuet, NY ,46355,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+406,2018,Ram,ProMaster_City_Tradesman, 16995, UNION CITY, NJ ,93077,Accident Reported,Minivan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Commercial Use,11
+407,2018,Ram,2500_SLT, 39999, West Islip, NY ,45799,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,4
+408,2016,Ram,1500_Laramie, 30895, Parsippany, NJ ,77197,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,17
+409,2020,Ram,1500_Rebel, 43895, Colonia, NJ ,44940,Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,1
+410,2017,Ram,1500_SLT_Big_Horn, 29995, Hackettstown, NJ ,72424,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Commercial Use,14
+411,2011,Ram,Dakota_Bighorn/Lonestar, 8495, South Hackensack, NJ ,125258,Accident/Minor Damage,Pickup,Red_Engine:_6_Cyl_3.7_L_,3+ Owners,Multiple Use,13
+412,2015,Ram,ProMaster_2500, 30000, Newark, NJ ,89090,No Accident or Damage Reported,Van,White_Engine:_4_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,13
+413,2019,Ram,1500_Tradesman_Express, 31995, Dover, NJ ,41962,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+414,2018,Ram,1500_ST_Express, 30900, Amityville, NY ,27084,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Corporate Use,10
+415,2019,Ram,1500_Tradesman_Express, 32995, Hackettstown, NJ ,33408,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+416,2016,Ram,1500_Sport, 30991, Little Falls, NJ ,65951,Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,18
+417,2019,Ram,1500_Laramie, 47900, Freehold, NJ ,29383,Minor Damage,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+418,2019,Ram,1500_Tradesman_Express, 32788, Lakewood, NJ ,24642,Accident Reported,Pickup,6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+419,2017,Ram,1500_SLT_Big_Horn, 37981, Bridgewater, NJ ,35365,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,15
+420,2019,Ram,1500_Laramie, 45900, White Plains, NY ,39150,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+421,2021,Ram,1500_Rebel, 60995, Robbinsville, NJ ,8478,No Accident or Damage Reported,Pickup,Red_Engine:_6_Cyl_3.0_L_,Number of Owners,Commercial Use,1
+422,2019,Ram,1500_Limited, 47495, Huntington Station, NY ,43315,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,9
+423,2018,Ram,1500_ST_Express, 29995, Woodbridge, NJ ,42817,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,2
+424,2021,Ram,1500_Rebel, 57943, Freeport, NY ,13443,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,1
+425,2018,Ram,1500_SLT_Big_Horn, 34985, Paterson, NJ ,38903,Accident Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+426,2018,Ram,1500_SLT, 31730, PARSIPPANY, NJ ,55143,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,6
+427,2019,Ram,1500_Laramie, 42500, Butler, NJ ,33252,Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+428,2017,Ram,1500_ST, 24795, Paterson, NJ ,73834,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,8
+429,2019,Ram,1500_Big_Horn/Lone_Star, 32995, Wall Township, NJ ,33241,Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+430,2016,Ram,ProMaster_3500, 32600, Nanuet, NY ,9500,No Accident or Damage Reported,Van,White_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,3
+431,2015,Ram,1500_Sport, 26995, South Amboy, NJ ,120666,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,4
+432,2016,Ram,1500_ST_Express, 26795, Newton, NJ ,71898,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,10
+433,2014,Ram,1500_SLT, 25795, West Babylon, NY ,72305,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,3
+434,2019,Ram,1500_Big_Horn/Lone_Star, 37742, Carlstadt, NJ ,45812,Accident Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+435,2019,Ram,1500_Tradesman_Express, 30990, Watchung, NJ ,18005,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+436,2015,Ram,1500_ST_Express, 27413, Mahopac, NY ,83673,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,7
+437,2018,Ram,1500_SLT_Big_Horn, 33942, Carlstadt, NJ ,44758,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,0
+438,2016,Ram,1500_Laramie_Limited, 34490, Mount Kisco, NY ,80888,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+439,2019,Ram,1500_Rebel, 46495, Jersey City, NJ ,20010,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+440,2018,Ram,1500_ST_Express, 30783, Westbury, NY ,55724,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+441,2021,Ram,1500_Limited, 66999, Wharton, NJ ,8636,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+442,2019,Ram,1500_Tradesman_Express, 30225, East Brunswick, NJ ,35237,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+443,2019,Ram,1500_Laramie, 49500, Amityville, NY ,30875,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,9
+444,2019,Ram,1500_Big_Horn/Lone_Star, 42000, Summit, NJ ,35768,Accident/Minor Damage,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+445,2018,Ram,1500_SLT_Big_Horn, 36214, East Brunswick, NJ ,24420,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+446,2018,Ram,1500_ST_Express, 29918, Greenvale, NY ,34292,Accident Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+447,2019,Ram,1500_Limited, 56262, Saint James, NY ,17845,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+448,2019,Ram,1500_Tradesman_Express, 35838, Saint James, NY ,8095,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+449,2019,Ram,1500_Big_Horn/Lone_Star, 37991, Little Falls, NJ ,18513,No Accident or Damage Reported,Pickup,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+450,2021,Ram,1500_Laramie, 60900, Amityville, NY ,4358,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+451,2020,Ram,1500_Laramie, 56000, Norwalk, CT ,12372,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+452,2016,Ram,1500_SLT_Big_Horn, 28985, Hasbrouck Heights, NJ ,78224,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,20
+453,2019,Ram,1500_SLT, 36450, East Hanover, NJ ,37646,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,4
+454,2020,Ram,1500_Laramie, 57995, Woodbridge, NJ ,15946,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,1
+455,2019,Ram,1500_Big_Horn/Lone_Star, 42988, Summit, NJ ,26112,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,12
+456,2017,Ram,1500_Laramie, 37995, Lakewood, NJ ,21293,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,Number of Owners,Vehicle Use,10
+457,2020,Ram,1500_Rebel, 58900, Freehold, NJ ,6445,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+458,2018,Ram,1500_SLT_Big_Horn, 30995, South Amboy, NJ ,38384,Minor Damage,Pickup,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,4
+459,2017,Ram,ProMaster_City_Tradesman_SLT, 16295, East Windsor, NJ ,86188,Accident/Minor Damage,Minivan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Commercial Use,19
+460,2017,Ram,1500_Laramie_Longhorn, 39995, Lakewood, NJ ,39339,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,Number of Owners,Vehicle Use,1
+461,2020,Ram,ProMaster_1500, 32675, Robbinsville, NJ ,34300,Accident Reported,Van,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,4
+462,2018,Ram,1500_SLT_Big_Horn, 36988, Green Brook, NJ ,26050,Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,4
+463,2019,Ram,1500_Big_Horn/Lone_Star, 37900, Freehold, NJ ,40475,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+464,2018,Ram,1500_Laramie, 43998, Lebanon, NJ ,22109,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+465,2019,Ram,3500_Laramie, 73988, Lakewood, NJ ,31204,No Accident or Damage Reported,Pickup,6_Cyl_6.7_L_,CARFAX 1-Owner,Personal Use,10
+466,2021,Ram,1500_Laramie, 59900, Freehold, NJ ,11104,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,1
+467,2019,Ram,1500_SLT_Warlock, 36500, Shrewsbury, NJ ,34206,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+468,2019,Ram,1500_Laramie, 41499, Newark, NJ,70244,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+469,2017,Ram,1500_Laramie, 39995, Woodbridge, NJ ,47199,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,3
+470,2017,Ram,1500_SLT_Big_Horn, 25900, Summit, NJ ,44681,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,10
+471,2014,Ram,1500_ST, 15985, Massapequa, NY ,159977,Accident Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,13
+472,2018,Ram,1500_ST_Express, 35900, Verona, NJ ,22215,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+473,2018,Ram,1500_ST_Express, 32900, Verona, NJ ,21869,No Accident or Damage Reported,Pickup,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+474,2019,Ram,1500_Tradesman_Express, 33969, Butler, NJ ,52039,Accident Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+475,2018,Ram,1500_ST_Express, 35900, Verona, NJ ,22215,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+476,2019,Ram,1500_Tradesman_Express, 33969, Butler, NJ ,52039,Accident Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+477,2020,Ram,1500_Laramie_Longhorn, 59488, Green Brook, NJ ,24315,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,8
+478,2018,Ram,1500_ST_Express, 32750, New Rochelle, NY ,21278,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+479,2019,Ram,1500_Tradesman_Express, 33810, Ocean, NJ ,31491,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,1
+480,2018,Ram,1500_ST_Tradesman, 34995, West Nyack, NY ,21053,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+481,2016,Ram,1500_Laramie, 32677, Lodi, NJ ,65913,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,12
+482,2015,Ram,2500_Laramie, 49490, Green Brook, NJ ,21749,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,9
+483,2015,Ram,2500_SLT, 38995, Neptune, NJ ,72956,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,14
+484,2018,Ram,1500_Laramie, 44998, Butler, NJ ,28447,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+485,2019,Ram,1500_Laramie, 50888, Sussex, NJ ,16389,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,11
+486,2019,Ram,1500_Big_Horn/Lone_Star, 30995, Copiague, NY ,52788,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+487,2016,Ram,1500_Sport, 29635, Freeport, NY ,65517,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,3+ Owners,Vehicle Use,23
+488,2012,Ram,1500_Laramie, 21997, Brick, NJ ,72694,Accident Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+489,2020,Ram,ProMaster_3500, 46991, Little Falls, NJ ,4255,No Accident or Damage Reported,Van,White_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,1
+490,2019,Ram,1500_Tradesman_Express, 35993, Rye, NY ,5413,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+491,2018,Ram,1500_SLT_Big_Horn, 41000, South Plainfield, NJ ,44670,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+492,2018,Ram,1500_SLT_Harvest, 29570, Eatontown, NJ ,60945,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,Number of Owners,Rental Use,10
+493,2018,Ram,1500_SLT_Big_Horn, 38900, Amityville, NY ,39090,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+494,2019,Ram,1500_Tradesman_Express, 35998, Kenvil, NJ ,35144,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+495,2018,Ram,1500_ST_Express, 34062, Greenvale, NY ,24954,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+496,2018,Ram,1500_ST_Express, 32000, East Brunswick, NJ ,26615,No Accident or Damage Reported,Pickup,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+497,2018,Ram,1500_Laramie, 42565, Farmingdale, NY ,33740,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+498,2019,Ram,1500_Big_Horn/Lone_Star, 42877, Summit, NJ ,29959,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+499,2019,Ram,1500_Big_Horn/Lone_Star, 43900, Amityville, NY ,40850,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+500,2018,Ram,1500_ST_Express, 34062, Greenvale, NY ,24954,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+501,2018,Ram,1500_ST_Express, 32000, East Brunswick, NJ ,26615,No Accident or Damage Reported,Pickup,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+502,2018,Ram,1500_Laramie, 42565, Farmingdale, NY ,33740,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+503,2018,Ram,1500_SLT, 30544, Irvington, NJ ,45690,Minor Damage,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,7
+504,2020,Ram,1500_Big_Horn/Lone_Star, 48995, Sussex, NJ ,7483,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+505,2019,Ram,1500_Big_Horn/Lone_Star, 44991, Little Falls, NJ ,26913,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+506,2019,Ram,1500_Limited, 58900, Amityville, NY ,28076,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+507,2018,Ram,1500_ST_Express, 35995, Sussex, NJ ,43230,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+508,2019,Ram,1500_Big_Horn/Lone_Star, 41991, Little Falls, NJ ,21627,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+509,2019,Ram,1500_Tradesman_Express, 39500, Amityville, NY ,11334,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+510,2018,Ram,1500_SLT_Big_Horn, 41000, South Plainfield, NJ ,44670,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+511,2018,Ram,1500_ST_Express, 35590, Pleasantville, NY,20158,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+512,2019,Ram,1500_SLT, 32995, Totowa, NJ ,31934,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,3
+513,2018,Ram,1500_ST_Express, 32995, Sussex, NJ ,46842,No Accident or Damage Reported,Pickup,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+514,2019,Ram,1500_Big_Horn/Lone_Star, 43900, Amityville, NY ,40850,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+515,2018,Ram,2500_Tradesman, 43991, Little Falls, NJ ,27274,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,10
+516,2019,Ram,1500_Laramie, 48795, Hackettstown, NJ ,19629,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+517,2016,Ram,1500_ST_Express, 27994, Hackettstown, NJ ,73010,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+518,2019,Ram,1500_Tradesman_Express, 36999, Fairfield, CT ,14679,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+519,2016,Ram,ProMaster_2500, 28985, Massapequa, NY ,83517,No Accident or Damage Reported,Van,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,17
+520,2021,Ram,1500_Limited, 65912, East Hanover, NJ ,9164,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,3
+521,2013,Ram,1500_SLT_Big_Horn, 25199, Union, NJ ,44137,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+522,2018,Ram,1500_SLT_Big_Horn, 37995, Lakewood, NJ ,33475,No Accident or Damage Reported,Pickup,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,6
+523,2017,Ram,ProMaster_City_Tradesman, 19995, Lakewood, NJ ,67761,Minor Damage,Minivan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+524,2017,Ram,1500_Laramie, 33590, Bronx, NY ,43217,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,11
+525,2019,Ram,1500_Big_Horn/Lone_Star, 38995, Ramsey, NJ ,35962,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,10
+526,2018,Ram,1500_Laramie, 40795, Robbinsville, NJ ,24401,Accident Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+527,2018,Ram,1500_ST_Express, 30745, Lakewood, NJ ,27080,Minor Damage,Pickup,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+528,2018,Ram,1500_SLT_Big_Horn, 35745, Lakewood, NJ ,32699,No Accident or Damage Reported,Pickup,Brown_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,11
+529,2018,Ram,2500_Tradesman, 43997, Newton, NJ ,18111,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,4
+530,2019,Ram,1500_Laramie, 45588, Green Brook, NJ ,36055,Accident/Minor Damage,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+531,2017,Ram,1500_Laramie, 33690, Bronx, NY ,50250,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+532,2019,Ram,1500_Laramie, 48995, Robbinsville, NJ ,21289,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+533,2017,Ram,1500_Rebel, 39988, Green Brook, NJ ,40296,No Accident or Damage Reported,Pickup,Beige_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,13
+534,2019,Ram,1500_Big_Horn/Lone_Star, 43495, Bridgewater, NJ ,8911,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+535,2019,Ram,2500_Tradesman, 55988, Green Brook, NJ ,16695,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Personal Use,7
+536,2020,Ram,1500_Big_Horn/Lone_Star, 44995, Robbinsville, NJ ,20510,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+537,2021,Ram,1500_Limited, 62990, Newark, NJ,14069,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,5
+538,2018,Ram,1500_ST_Express, 30745, Lakewood, NJ ,29428,Accident Reported,Pickup,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+539,2019,Ram,1500_Laramie, 48588, Edison, NJ ,22392,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+540,2019,Ram,1500_Laramie_Longhorn, 49989, North Brunswick, NJ ,37970,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+541,2014,Ram,1500_Laramie_Longhorn, 31995, Ramsey, NJ ,65002,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,20
+542,2015,Ram,ProMaster_City_Tradesman, 17995, Wall Township, NJ ,48312,No Accident or Damage Reported,Minivan,White_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,8
+543,2019,Ram,ProMaster_1500, 28875, Hillside, NJ ,71261,Accident Reported,Van,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Corporate Use,10
+544,2018,Ram,1500_Rebel, 38995, Roslyn Heights, NY ,38210,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,2-Owner,Commercial Use,10
+545,2019,Ram,1500_Tradesman_Express, 32995, Woodbridge, NJ ,25942,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+546,2018,Ram,3500_Laramie, 61995, Rahway, NJ ,55883,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_6.7_L_,Number of Owners,Lease Use,6
+547,2018,Ram,1500_ST_Express, 29995, Woodbridge, NJ ,33498,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,0
+548,2019,Ram,1500_Big_Horn/Lone_Star, 35995, Garwood, NJ ,38226,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,11
+549,2016,Ram,1500_Rebel, 34995, Point Pleasant Boro, NJ ,79363,Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,4
+550,2018,Ram,1500_ST_Express, 32548, Butler, NJ ,31348,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+551,2019,Ram,1500_Big_Horn/Lone_Star, 35995, Garwood, NJ ,38226,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,11
+552,2016,Ram,1500_Rebel, 34995, Point Pleasant Boro, NJ ,79363,Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,4
+553,2019,Ram,2500_Big_Horn, 50881, Avenel, NJ ,63237,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Rental Use,5
+554,2018,Ram,1500_SLT_Big_Horn, 39338, Butler, NJ ,35501,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,14
+555,2019,Ram,1500_SLT_Warlock, 38810, Ocean, NJ ,28660,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+556,2019,Ram,1500_Limited, 59919, Butler, NJ ,34508,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+557,2018,Ram,1500_SLT_Big_Horn, 32985, Yonkers, NY ,26528,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,0
+558,2018,Ram,1500_Laramie_Longhorn, 42900, Nanuet, NY ,43728,Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+559,2020,Ram,1500_Rebel, 57990, Flemington, NJ ,26891,Accident/No Damage,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+560,2020,Ram,1500_Laramie, 42995, Newton, NJ ,16991,Accident Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,2
+561,2017,Ram,ProMaster_City_Tradesman_SLT, 19994, Haskell, NJ ,81484,No Accident or Damage Reported,Minivan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Commercial Use,25
+562,2017,Ram,2500_SLT, 39563, Randolph, NJ ,42842,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,3
+563,2014,Ram,2500_SLT, 34900, Freehold, NJ ,67478,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_6.4_L_,2-Owner,Multiple Use,3
+564,2018,Ram,2500_Power_Wagon, 55595, Glen Cove, NY ,24307,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_6.4_L_,2-Owner,Multiple Use,7
+565,2016,Ram,1500_ST, 29990, Darien, CT ,88244,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,12
+566,2018,Ram,1500_ST_Express, 26990, Freeport, NY ,29807,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+567,2021,Ram,1500_Limited, 61912, East Hanover, NJ ,14022,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,2
+568,2014,Ram,1500_ST_Express, 13995, South Hackensack, NJ ,182826,Accident/Minor Damage,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+569,2018,Ram,1500_Rebel, 45998, Lebanon, NJ ,14275,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+570,2016,Ram,1500_SLT, 29995, Clifton, NJ ,69049,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,25
+571,2018,Ram,1500_ST_Tradesman, 29495, Commack, NY ,43268,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,Number of Owners,Commercial Use,4
+572,2015,Ram,2500_Tradesman, 21990, South Amboy, NJ ,137639,Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,10
+573,2020,Ram,1500_SLT_Warlock, 31988, Valley Stream, NY ,65055,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,Number of Owners,Vehicle Use,0
+574,2015,Ram,ProMaster_City, 9999, S Hackensack, NJ ,213942,No Accident or Damage Reported,Minivan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Commercial Use,21
+575,2019,Ram,1500_Laramie, 47995, Freeport, NY ,37396,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+576,2021,Ram,1500_Big_Horn/Lone_Star, 45995, Freeport, NY ,1606,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+577,2018,Ram,1500_Rebel, 45795, Robbinsville, NJ ,30890,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+578,2018,Ram,1500_ST_Express, 32745, Lakewood, NJ ,15219,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+579,2018,Ram,1500_SLT_Big_Horn, 32990, Newark, NJ,43833,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+580,2016,Ram,2500_SLT, 35995, Keyport, NJ ,62281,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_6.4_L_,2-Owner,Multiple Use,10
+581,2019,Ram,1500_Big_Horn/Lone_Star, 39999, Bridgewater, NJ ,18318,Accident Reported,Pickup,Blue_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,7
+582,2018,Ram,1500_ST_Express, 32995, Rockaway, NJ ,46697,Accident Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+583,2020,Ram,1500_SLT_Warlock, 41995, Rockaway, NJ ,6442,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+584,2017,Ram,1500_ST_Express, 31985, Yonkers, NY ,34802,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Commercial Use,18
+585,2020,Ram,1500_Laramie, 49995, Somerville, NJ ,14155,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,0
+586,2014,Ram,1500_ST_Express, 16900, Hazlet, NJ ,115831,Accident/Minor Damage,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+587,2019,Ram,3500_Laramie, 78900, Amityville, NY ,22942,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_6.7_L_,2-Owner,Personal Use,6
+588,2016,Ram,1500_SLT_Outdoorsman, 32999, Lakewood, NJ ,71503,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,20
+589,2011,Ram,Dakota_ST, 16000, Sussex, NJ ,22208,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_4.7_L_,CARFAX 1-Owner,Government Use,2
+590,2019,Ram,1500_Big_Horn/Lone_Star, 36770, Massapequa Park, NY ,32916,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+591,2015,Ram,1500_SLT_Outdoorsman, 21899, Copiague, NY ,102233,Minor Damage,Pickup,6_Cyl_3.6_L_,2-Owner,Multiple Use,19
+592,2019,Ram,1500_Big_Horn/Lone_Star, 43995, Rockaway, NJ ,27955,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+593,2018,Ram,1500_SLT, 28991, Little Falls, NJ ,62300,Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,1
+594,2020,Ram,1500_SLT_Warlock, 42995, Garwood, NJ ,14414,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+595,2014,Ram,1500_SLT_Big_Horn, 26991, Bohemia, NY ,106198,Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,26
+596,2012,Ram,1500_SLT_Big_Horn, 14995, Point Pleasant Boro, NJ ,177877,Accident Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+597,2017,Ram,2500_SLT, 28995, New Brunswick, NJ ,157168,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,13
+598,2016,Ram,2500_Laramie, 48900, East Hanover, NJ ,88806,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Commercial Use,7
+599,2018,Ram,1500_ST_Express, 31500, Nanuet, NY ,22894,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+600,2018,Ram,1500_SLT_Big_Horn, 38000, Nanuet, NY ,36083,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+601,2013,Ram,1500_Laramie, 29991, Bohemia, NY ,57831,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,14
+602,2016,Ram,2500_Laramie, 48900, East Hanover, NJ ,88806,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Commercial Use,7
+603,2011,Ram,Dakota_Bighorn/Lonestar, 11995, Robbinsville, NJ ,121125,No Accident or Damage Reported,Pickup,Green_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,12
+604,2020,Ram,1500_Laramie, 52998, COLONIA, NJ ,30617,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,3
+605,2020,Ram,1500_SLT, 39800, Bloomfield, NJ ,17084,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,1
+606,2019,Ram,1500_Tradesman, 34995, Woodbridge, NJ ,32638,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,3
+607,2018,Ram,1500_ST_Express, 32900, Freehold, NJ ,50042,Accident/Minor Damage,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+608,2016,Ram,1500_SLT, 25998, Lebanon, NJ ,81710,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,9
+609,2019,Ram,1500_Limited, 52000, Norwalk, CT ,47410,Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,8
+610,2015,Ram,1500_ST_Express, 27900, Freehold, NJ ,82869,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,5
+611,2019,Ram,1500_Laramie, 39990, Great Neck, NY ,74964,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+612,2019,Ram,1500_Tradesman_Express, 34912, East Hanover, NJ ,34897,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+613,2014,Ram,1500_ST_Express, 22795, New Windsor, NY ,102890,No Accident or Damage Reported,Pickup,Blue_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,29
+614,2020,Ram,1500_Limited, 66900, Rahway, NJ ,7771,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,9
+615,2015,Ram,1500_ST_Express, 14999, RINGWOOD, NJ ,214626,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,23
+616,2013,Ram,2500_Tradesman, 20999, S Hackensack, NJ ,84365,No Accident or Damage Reported,Pickup,8_Cyl_5.7_L_,2-Owner,Multiple Use,9
+617,2018,Ram,1500_SLT_Big_Horn, 29995, Wall Township, NJ ,28945,Accident/Minor Damage,Pickup,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,10
+618,2014,Ram,C/V, 9999, East Windsor, NJ ,99950,No Accident or Damage Reported,Minivan,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,18
+619,2017,Ram,1500_SLT_Big_Horn, 38992, Belmar, NJ ,36271,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,14
+620,2015,Ram,ProMaster_City_Tradesman_SLT, 15900, Uniondale, NY ,112529,No Accident or Damage Reported,Minivan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,23
+621,2016,Ram,1500_SLT_Big_Horn, 28988, Edison, NJ ,92522,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,18
+622,2016,Ram,2500_Tradesman, 42995, Asbury Park, NJ ,19075,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+623,2017,Ram,ProMaster_City_Tradesman, 22966, Woodside, NY ,2287,Damage Reported,Minivan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Commercial Use,2
+624,2017,Ram,2500_Tradesman, 37999, Bridgewater, NJ ,69629,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,17
+625,2017,Ram,1500_Sport, 34655, Morristown, NJ ,63418,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,2
+626,2018,Ram,1500_ST_Express, 34275, Lakewood, NJ ,15315,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+627,2019,Ram,1500_Big_Horn/Lone_Star, 44995, Woodbridge, NJ ,6550,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,Number of Owners,Vehicle Use,2
+628,2017,Ram,1500_Sport, 31990, Freeport, NY ,40969,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,Number of Owners,Vehicle Use,0
+629,2019,Ram,1500_Limited, 59399, Wharton, NJ ,28603,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,13
+630,2019,Ram,1500_Big_Horn/Lone_Star, 42995, Rockaway, NJ ,39223,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+631,2019,Ram,1500_Laramie, 49995, Rockaway, NJ ,31701,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+632,2019,Ram,1500_Laramie, 49995, Rockaway, NJ ,37189,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+633,2019,Ram,1500_Big_Horn/Lone_Star, 40999, Bridgewater, NJ ,22330,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,9
+634,2017,Ram,1500_SLT_Big_Horn, 39995, Rockaway, NJ ,17271,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+635,2019,Ram,1500_Big_Horn/Lone_Star, 39763, Morristown, NJ ,35337,Accident Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,14
+636,2019,Ram,1500_Tradesman, 40995, Garwood, NJ ,18532,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+637,2019,Ram,1500_Big_Horn/Lone_Star, 43995, Garwood, NJ ,25104,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+638,2019,Ram,1500_Big_Horn/Lone_Star, 41995, Garwood, NJ ,24939,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+639,2017,Ram,1500_Rebel, 36840, Massapequa Park, NY ,34903,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,3+ Owners,Vehicle Use,2
+640,2020,Ram,1500_Laramie, 52980, Butler, NJ ,23714,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,3
+641,2020,Ram,1500_SLT, 34888, Long Island City, NY ,18773,Accident/Minor Damage,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,1
+642,2019,Ram,1500_Big_Horn/Lone_Star, 41980, Jericho, NY ,32617,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,14
+643,2018,Ram,1500_ST_Express, 32150, Long Island City, NY ,36717,No Accident or Damage Reported,Pickup,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+644,2015,Ram,1500_ST_Express, 26988, Saint James, NY ,71993,Accident Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,5
+645,2018,Ram,2500_SLT, 49998, West Babylon, NY ,69079,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_6.7_L_,2-Owner,Multiple Use,8
+646,2014,Ram,1500_Sport, 35995, Ramsey, NJ ,26705,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,25
+647,2019,Ram,1500_Big_Horn/Lone_Star, 41991, Little Falls, NJ ,20055,Accident/Minor Damage,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+648,2015,Ram,1500_Laramie, 30995, Hackettstown, NJ ,78633,Accident Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,14
+649,2012,Ram,1500_Laramie_Limited, 24995, Manalapan, NJ ,110287,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,32
+650,2012,Ram,1500_Laramie_Limited, 24995, Manalapan, NJ ,110287,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,32
+651,2019,Ram,1500_Laramie, 43995, Edison, NJ ,35518,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,7
+652,2017,Ram,1500_ST_Express, 29995, Massapequa, NY ,65244,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+653,2018,Ram,3500_Laramie, 64588, Lakewood, NJ ,47948,Accident/Minor Damage,Pickup,6_Cyl_6.7_L_,CARFAX 1-Owner,Personal Use,2
+654,2018,Ram,3500_SLT, 49999, Newark, NJ,52056,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_6.7_L_,2-Owner,Personal Use,1
+655,2019,Ram,1500_Tradesman_Express, 32995, Lebanon, NJ ,24770,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+656,2019,Ram,1500_Limited, 50995, Robbinsville, NJ ,34606,Minor Damage,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,8
+657,2019,Ram,1500_Tradesman_Express, 34998, Lebanon, NJ ,5477,No Accident or Damage Reported,Pickup,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+658,2018,Ram,1500_ST_Express, 33995, Lebanon, NJ ,24976,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+659,2019,Ram,2500_Laramie, 69975, Lakewood, NJ ,35424,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Personal Use,2
+660,2018,Ram,ProMaster_3500, 42495, Baldwin, NY ,31275,No Accident or Damage Reported,Van,6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,6
+661,2020,Ram,1500_Laramie, 54999, Sussex, NJ ,14043,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,2
+662,2019,Ram,1500_Laramie_Longhorn, 57991, Little Falls, NJ ,15766,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,5
+663,2020,Ram,1500_Laramie, 51995, Sussex, NJ ,7351,No Accident or Damage Reported,Pickup,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,2
+664,2018,Ram,1500_ST_Tradesman, 28995, Great Neck, NY ,47658,Accident Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,0
+665,2017,Ram,2500_Laramie, 59790, Green Brook, NJ ,37275,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_6.7_L_,2-Owner,Multiple Use,9
+666,2016,Ram,ProMaster_2500, 27900, Uniondale, NY ,95095,No Accident or Damage Reported,Van,White_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,2
+667,2014,Ram,1500_ST_Express, 24988, Saint James, NY ,98710,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,20
+668,2018,Ram,3500_Tradesman, 42490, Freehold, NJ ,34285,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Commercial Use,9
+669,2019,Ram,1500_Limited, 59900, Verona, NJ ,14336,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,1
+670,2018,Ram,1500_ST_Express, 28490, Massapequa Park, NY ,34279,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+671,2016,Ram,1500_SLT, 24499, Little Ferry, NJ ,65626,Branded Title,Pickup,White_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,11
+672,2017,Ram,1500_Rebel, 39995, South River, NJ ,50330,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,9
+673,2014,Ram,1500_SLT_Big_Horn, 25495, Red Bank, NJ ,113548,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,27
+674,2015,Ram,2500_Tradesman, 39995, South River, NJ ,75662,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Commercial Use,10
+675,2018,Ram,1500_SLT_Big_Horn, 32990, West Babylon, NY ,31228,No Accident or Damage Reported,Pickup,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+676,2017,Ram,1500_ST_Express, 30679, Haskell, NJ ,41708,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+677,2017,Ram,1500_SLT_Big_Horn, 36000, Morristown, NJ ,48528,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,18
+678,2017,Ram,ProMaster_1500, 21881, Avenel, NJ ,57949,Accident Reported,Van,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,36
+679,2019,Ram,1500_Rebel, 52995, Woodbridge, NJ ,7980,No Accident or Damage Reported,Pickup,Burgundy_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,6
+680,2016,Ram,1500_Laramie_Limited, 30900, Atlantic Highlands, NJ ,91528,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.0_L_,Number of Owners,Commercial Use,0
+681,2019,Ram,1500_Tradesman, 39995, Woodbridge, NJ ,12982,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,3
+682,2019,Ram,1500_Rebel, 44995, Woodbridge, NJ ,31410,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,7
+683,2019,Ram,1500_Tradesman_Express, 34459, Avenel, NJ ,23100,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+684,2020,Ram,1500_Big_Horn/Lone_Star, 47995, Rockaway, NJ ,12418,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,5
+685,2019,Ram,1500_Laramie, 52995, Wharton, NJ ,23433,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+686,2020,Ram,1500_Laramie, 59975, Flemington, NJ ,13449,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,3
+687,2017,Ram,1500_Laramie, 33990, Watchung, NJ ,71759,Minor Damage,Pickup,Gray_Engine:_6_Cyl_3.0_L_,3+ Owners,Multiple Use,14
+688,2019,Ram,ProMaster_3500, 34995, Butler, NJ ,13577,Branded Title,Van,Blue_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,2
+689,2021,Ram,1500_Big_Horn/Lone_Star, 45995, New Brunswick, NJ ,8014,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Corporate Use,2
+690,2016,Ram,2500_SLT_Big_Horn, 46955, Mendham, NJ ,98444,Accident Reported,Pickup,Gray_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Personal Use,5
+691,2016,Ram,ProMaster_City_Tradesman_SLT, 13995, Roselle, NJ ,155974,Minor Damage,Minivan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Commercial Use,19
+692,2018,Ram,1500_SLT_Big_Horn, 40500, Amityville, NY ,35202,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Corporate Use,8
+693,2012,Ram,1500_ST, 14299, S Hackensack, NJ ,115797,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,22
+694,2019,Ram,1500_Laramie, 48995, Sussex, NJ ,40634,Accident Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+695,2018,Ram,1500_ST_Express, 32457, East Brunswick, NJ ,30568,Minor Damage,Pickup,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+696,2019,Ram,1500_Laramie, 47995, Sussex, NJ ,33935,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,17
+697,2018,Ram,1500_ST_Express, 32991, Little Falls, NJ ,34034,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+698,2019,Ram,1500_Big_Horn/Lone_Star, 46998, COLONIA, NJ ,21346,Accident Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+699,2018,Ram,1500_ST_Express, 34995, Sussex, NJ ,20392,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,10
+700,2018,Ram,1500_ST_Express, 32991, Little Falls, NJ ,34034,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+701,2019,Ram,1500_Big_Horn/Lone_Star, 46998, COLONIA, NJ ,21346,Accident Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+702,2018,Ram,1500_ST_Express, 34995, Sussex, NJ ,20392,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,10
+703,2019,Ram,1500_Laramie, 48995, Sussex, NJ ,40634,Accident Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+704,2019,Ram,1500_Laramie, 47995, Sussex, NJ ,33935,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,17
+705,2018,Ram,1500_ST_Express, 32457, East Brunswick, NJ ,30568,Minor Damage,Pickup,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+706,2016,Ram,1500_SLT_Big_Horn, 31000, Neptune, NJ ,80184,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Corporate Use,11
+707,2017,Ram,1500_Laramie_Longhorn, 41499, Saint James, NY ,46257,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,12
+708,2019,Ram,1500_Laramie, 44529, Saint James, NY ,20393,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+709,2019,Ram,1500_Big_Horn/Lone_Star, 45991, Little Falls, NJ ,27249,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+710,2018,Ram,1500_ST_Express, 31984, South Plainfield, NJ ,6599,Minor Damage,Pickup,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+711,2018,Ram,1500_SLT_Big_Horn, 40995, East Brunswick, NJ ,23596,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+712,2019,Ram,1500_Laramie, 46900, Staten Island, NY ,34085,Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+713,2018,Ram,1500_ST_Express, 32900, Hazlet, NJ ,25784,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,10
+714,2018,Ram,1500_ST_Express, 30921, Saint James, NY ,31745,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+715,2019,Ram,1500_Big_Horn/Lone_Star, 39818, East Brunswick, NJ ,23420,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+716,2015,Ram,3500_Tradesman, 46995, Secaucus, NJ ,95678,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Commercial Use,18
+717,2019,Ram,1500_Limited, 52995, Belmar, NJ ,71702,Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,18
+718,2019,Ram,1500_Laramie, 47991, Little Falls, NJ ,43495,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,16
+719,2020,Ram,1500_SLT_Warlock, 31988, Valley Stream, NY ,65055,Accident Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,2
+720,2019,Ram,1500_Big_Horn/Lone_Star, 34490, Green Brook, NJ ,45835,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,4
+721,2017,Ram,1500_SLT_Big_Horn, 31995, Lakewood, NJ ,58983,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,Number of Owners,Vehicle Use,6
+722,2019,Ram,1500_Big_Horn/Lone_Star, 41995, Huntington Station, NY ,26697,Accident Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,1
+723,2016,Ram,1500_Laramie, 34488, Green Brook, NJ ,60749,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.0_L_,3+ Owners,Multiple Use,16
+724,2019,Ram,1500_Laramie, 49900, Fairfield, CT ,23203,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,12
+725,2015,Ram,1500_SLT_Outdoorsman, 26995, Mount Kisco, NY ,70527,Accident Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,2
+726,2017,Ram,ProMaster_1500, 19899, West Milford, NJ ,165467,No Accident or Damage Reported,Van,White_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,2
+727,2019,Ram,1500_Tradesman_Express, 33597, White Plains, NY ,35711,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+728,2016,Ram,1500_Laramie, 35995, Woodbridge, NJ ,57455,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.0_L_,Number of Owners,Commercial Use,5
+729,2019,Ram,3500_Tradesman, 58990, Green Brook, NJ ,70424,No Accident or Damage Reported,Pickup,Blue_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Commercial Use,15
+730,2018,Ram,1500_Rebel, 42995, Wall Township, NJ ,41643,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,13
+731,2019,Ram,1500_Laramie, 49995, Wall Township, NJ ,18268,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,1
+732,2019,Ram,1500_Big_Horn/Lone_Star, 45900, Verona, NJ ,31334,No Accident or Damage Reported,Pickup,Brown_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+733,2017,Ram,1500_ST_Express, 27777, Butler, NJ ,83404,No Accident or Damage Reported,Pickup,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Corporate Use,5
+734,2019,Ram,1500_Laramie, 43990, Watchung, NJ ,44251,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+735,2019,Ram,1500_Tradesman_Express, 32900, New Rochelle, NY ,23265,No Accident or Damage Reported,Pickup,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+736,2019,Ram,1500_Tradesman_Express, 31900, Verona, NJ ,32367,No Accident or Damage Reported,Pickup,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+737,2019,Ram,1500_Big_Horn/Lone_Star, 41979, Butler, NJ ,10994,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Government Use,5
+738,2019,Ram,1500_Tradesman_Express, 31900, Verona, NJ ,41389,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+739,2016,Ram,1500_SLT_Big_Horn, 24995, North Brunswick, NJ ,113277,Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,12
+740,2019,Ram,1500_Big_Horn/Lone_Star, 42995, Lakewood, NJ ,29484,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,0
+741,2020,Ram,1500_Laramie, 52810, Ocean, NJ ,24423,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+742,2015,Ram,1500_SLT, 21995, Lafayette, NJ ,101660,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+743,2019,Ram,1500_Laramie, 44000, Nanuet, NY ,42282,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,4
+744,2018,Ram,1500_Laramie, 38995, North Brunswick, NJ ,43562,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,5
+745,2020,Ram,1500_Laramie, 54995, Keyport, NJ ,15800,Accident/Minor Damage,Pickup,Black_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,6
+746,2015,Ram,1500_ST_Tradesman, 17995, New Brunswick, NJ ,151312,Accident Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,26
+747,2019,Ram,1500_Laramie, 48995, Amityville, NY ,23155,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,13
+748,2016,Ram,1500_Sport, 33745, Paterson, NJ ,85510,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,8
+749,2016,Ram,1500_Rebel, 39995, UNION CITY, NJ ,37974,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+750,2016,Ram,1500_ST_Express, 32700, Bloomfield, NJ ,44179,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+751,2019,Ram,1500_Laramie_Longhorn, 49991, Little Falls, NJ ,39475,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+752,2019,Ram,1500_Laramie, 52477, Summit, NJ ,17788,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+753,2018,Ram,1500_ST_Express, 37995, Sussex, NJ ,17904,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+754,2019,Ram,1500_SLT_Warlock, 37987, Stamford, CT ,28388,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+755,2019,Ram,1500_Big_Horn/Lone_Star, 45900, Amityville, NY ,45704,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+756,2019,Ram,1500_Tradesman_Express, 38900, Amityville, NY ,16010,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+757,2019,Ram,1500_Laramie, 49998, COLONIA, NJ ,31461,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+758,2019,Ram,1500_Big_Horn/Lone_Star, 38000, Eatontown, NJ ,33583,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,8
+759,2016,Ram,1500_Rebel, 39995, UNION CITY, NJ ,37974,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+760,2019,Ram,1500_Big_Horn/Lone_Star, 47900, Amityville, NY ,28620,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+761,2018,Ram,1500_SLT_Big_Horn, 39900, Amityville, NY ,42341,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+762,2011,Ram,1500_SLT, 14299, S Hackensack, NJ ,122923,Accident/Minor Damage,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+763,2012,Ram,1500_ST, 14900, Plainfield, NJ ,129519,Accident Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,7
+764,2018,Ram,1500_Laramie, 29995, Wall Township, NJ ,92833,Accident Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,8
+765,2018,Ram,1500_ST_Express, 29888, Brooklyn, NY ,38103,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+766,2020,Ram,2500_Big_Horn, 59995, Lakewood, NJ ,51110,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Rental Use,3
+767,2018,Ram,1500_ST_Express, 34977, Massapequa, NY ,35749,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,4
+768,2019,Ram,1500_SLT, 32590, Newark, NJ,69129,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,10
+769,2015,Ram,1500_Laramie, 30995, South Amboy, NJ ,100172,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,23
+770,2013,Ram,1500_Sport, 24895, West Babylon, NY ,126462,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,8
+771,2019,Ram,1500_Big_Horn/Lone_Star, 36990, Newark, NJ,20049,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,1
+772,2019,Ram,1500_Rebel, 50995, Robbinsville, NJ ,2255,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+773,2015,Ram,C/V, 11599, West Milford, NJ ,120093,No Accident or Damage Reported,Minivan,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,1
+774,2019,Ram,1500_Tradesman_Express, Call for Price, West Hempstead, NY ,22689,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+775,2015,Ram,1500_Sport, 32995, Belmar, NJ ,88347,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,18
+776,2020,Ram,1500_Big_Horn/Lone_Star, 34495, Commack, NY ,43647,Minor Damage,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,10
+777,2019,Ram,1500_SLT_Warlock, 39995, Woodbridge, NJ ,17734,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,Number of Owners,Personal Use,5
+778,2015,Ram,1500_Rebel, 35995, Woodbridge, NJ ,48926,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,15
+779,2018,Ram,1500_Sport, 41995, Woodbridge, NJ ,25631,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,13
+780,2014,Ram,1500_ST_Express, 27495, Red Bank, NJ ,70737,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+781,2015,Ram,2500_SLT_Big_Horn, 48990, Green Brook, NJ ,69797,No Accident or Damage Reported,Pickup,Red_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Personal Use,3
+782,2017,Ram,ProMaster_2500, 37950, Woodside, NY ,66255,No Accident or Damage Reported,Van,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,12
+783,2020,Ram,1500_Big_Horn/Lone_Star, 47499, Lakewood, NJ ,29667,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,8
+784,2014,Ram,1500_SLT_Big_Horn, 23995, Commack, NY ,91549,Accident Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,16
+785,2012,Ram,1500_ST_Tradesman, 14495, Lakewood, NJ ,153757,No Accident or Damage Reported,Pickup,Burgundy_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,21
+786,2013,Ram,1500_ST_Tradesman, 13923, Ledgewood, NJ ,160140,Accident Reported,Pickup,6_Cyl_3.6_L_,2-Owner,Personal Use,8
+787,2018,Ram,1500_Sport, 39995, Woodbridge, NJ ,46097,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,Number of Owners,Vehicle Use,0
+788,2014,Ram,1500_ST_Express, 25250, Mount Kisco, NY ,76450,Accident/Minor Damage,Pickup,Silver_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,12
+789,2019,Ram,1500_Big_Horn/Lone_Star, 41000, Nanuet, NY ,38115,Accident Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+790,2014,Ram,1500_Sport, 22800, Rahway, NJ ,152151,Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,26
+791,2019,Ram,1500_Big_Horn/Lone_Star, 36962, Elmsford, NY ,36489,Accident/Minor Damage,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+792,2017,Ram,1500_SLT_Big_Horn, 35997, Long Island City, NY ,35237,Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,5
+793,2016,Ram,1500_SLT_Big_Horn, 29500, Nanuet, NY ,76972,Accident Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,12
+794,2021,Ram,2500_Tradesman, Call for Price, Butler, NJ ,42229,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Personal Use,4
+795,2016,Ram,1500_Sport, 32500, Nanuet, NY ,80341,Very Minor Damage,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+796,2017,Ram,1500_SLT_Big_Horn, 31950, Elmont, NY ,87826,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,21
+797,2020,Ram,1500_Limited, 69912, East Hanover, NJ ,9103,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Commercial Use,3
+798,2019,Ram,1500_Big_Horn/Lone_Star, 46995, Rockaway, NJ ,35106,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,7
+799,2019,Ram,1500_Big_Horn/Lone_Star, 44599, Wharton, NJ ,49567,Accident/Minor Damage,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,22
+800,2019,Ram,1500_Big_Horn/Lone_Star, 44599, Wharton, NJ ,49567,Accident/Minor Damage,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,22
+801,2018,Ram,2500_Laramie, 65459, Englewood, NJ ,19864,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Personal Use,6
+802,2013,Ram,1500_ST_Express, 22995, North Bergen, NJ ,103891,No Accident or Damage Reported,Pickup,Burgundy_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,11
+803,2014,Ram,1500_ST_Tradesman, 25990, West Nyack, NY ,76280,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,10
+804,2017,Ram,ProMaster_2500, 34995, Point Pleasant Boro, NJ ,86977,No Accident or Damage Reported,Van,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,17
+805,2019,Ram,1500_Laramie, 47800, Nanuet, NY ,27886,Accident Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+806,2019,Ram,1500_Tradesman_Express, 34371, Hackettstown, NJ ,23989,Accident/Minor Damage,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,7
+807,2014,Ram,1500_ST_Express, 21900, Freehold, NJ ,123030,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,35
+808,2020,Ram,1500_Big_Horn/Lone_Star, 49912, East Hanover, NJ ,11331,No Accident or Damage Reported,Pickup,Green_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+809,2018,Ram,1500_ST_Express, 35912, East Hanover, NJ ,33453,Accident/Minor Damage,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,14
+810,2020,Ram,1500_SLT, 33488, Lakewood, NJ ,25149,No Accident or Damage Reported,Pickup,8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,0
+811,2014,Ram,1500_Laramie, 24900, Atlantic Highlands, NJ ,109268,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,13
+812,2011,Ram,1500_SLT_Big_Horn, 10750, RINGWOOD, NJ ,175452,Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,1
+813,2014,Ram,1500_ST_Express, 29245, Lakewood, NJ ,46992,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+814,2020,Ram,1500_Limited, 65995, Sussex, NJ ,19776,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,5
+815,2014,Ram,1500_SLT, 26995, Long Branch, NJ ,67624,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,12
+816,2020,Ram,1500_Laramie, Call for Price, Jamaica, NY ,4525,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+817,2019,Ram,1500_Laramie, 41995, Wall Township, NJ ,57253,Accident/Minor Damage,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+818,2015,Ram,1500_Sport, 26995, Inwood, NY ,102371,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,Number of Owners,Vehicle Use,18
+819,2018,Ram,1500_ST_Express, 34900, Verona, NJ ,33536,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,1
+820,2012,Ram,1500, 20995, Point Pleasant Boro, NJ ,102781,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,4
+821,2019,Ram,1500_Laramie, 51689, Sayville, NY ,13810,Accident Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+822,2017,Ram,1500_SLT_Big_Horn, 34899, Saint James, NY ,40993,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,6
+823,2016,Ram,ProMaster_2500, 32995, Point Pleasant Boro, NJ ,131692,No Accident or Damage Reported,Van,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,9
+824,2019,Ram,1500_Big_Horn/Lone_Star, 42996, Saint James, NY ,31723,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,3
+825,2015,Ram,1500_Sport, 35995, North Bergen, NJ ,49430,Minor Damage,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+826,2016,Ram,1500_SLT_Big_Horn, 26495, West Babylon, NY ,84939,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,1
+827,2013,Ram,1500_ST_Express, 22685, Inwood, NY ,78483,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,5
+828,2020,Ram,1500_Big_Horn/Lone_Star, 44865, Saint James, NY ,28405,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,9
+829,2020,Ram,1500_Laramie, 55900, Amityville, NY ,10832,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,Number of Owners,Vehicle Use,4
+830,2018,Ram,5500_Tradesman, 79875, Newton, NJ ,2186,No Accident or Damage Reported,Chassis,White_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Commercial Use,3
+831,2014,Ram,1500_SLT_Outdoorsman, 27995, Freeport, NY ,75777,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,20
+832,2020,Ram,1500_Big_Horn/Lone_Star, Call for Price, East Hanover, NJ ,17204,No Accident or Damage Reported,Pickup,Green_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+833,2016,Ram,2500_Tradesman, 31900, Hazlet, NJ ,105450,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,4
+834,2015,Ram,1500_SLT_Big_Horn, 29900, Bloomfield, NJ ,69961,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,8
+835,2018,Ram,ProMaster_1500, 31981, Avenel, NJ ,39053,No Accident or Damage Reported,Van,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,7
+836,2018,Ram,3500_Tradesman, 55000, Newton, NJ ,13208,No Accident or Damage Reported,Pickup,Red_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Commercial Use,2
+837,2013,Ram,1500_ST_Express, 24100, Warwick, NY ,79670,Minor Damage,Pickup,Red_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,13
+838,2011,Ram,Dakota_Bighorn/Lonestar, 11999, East Windsor, NJ ,188255,Minor Damage,Pickup,Green_Engine:_8_Cyl_4.7_L_,2-Owner,Personal Use,15
+839,2019,Ram,1500_Tradesman_Express, 32998, Edison, NJ ,19266,No Accident or Damage Reported,Pickup,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+840,2018,Ram,1500_ST_Express, 32998, Edison, NJ ,21797,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+841,2014,Ram,1500_ST_Express, 28599, Mine Hill, NJ ,73020,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,21
+842,2019,Ram,1500_SLT_Warlock, 38488, Lakewood, NJ ,8278,No Accident or Damage Reported,Pickup,6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,9
+843,2017,Ram,1500_Sport_Night, 35890, Massapequa Park, NY ,49048,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,4
+844,2017,Ram,1500_Sport, 35890, Massapequa Park, NY ,51453,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,3
+845,2019,Ram,1500_Laramie, 45900, Hillside, NJ ,31315,Major Damage,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,5
+846,2014,Ram,1500_SLT_Big_Horn, 23495, Huntington Station, NY ,88628,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,12
+847,2015,Ram,2500_Tradesman, 34990, South Amboy, NJ ,127100,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_6.7_L_,2-Owner,Commercial Use,3
+848,2018,Ram,ProMaster_1500, 24899, West Milford, NJ ,93332,Accident Reported,Van,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,8
+849,2019,Ram,1500_Tradesman_Express, 32990, West Babylon, NY ,42765,Accident Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+850,2014,Ram,1500_SLT_Big_Horn, 23495, Huntington Station, NY ,88628,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,12
+851,2020,Ram,3500_Big_Horn, 72999, Lodi, NJ ,28559,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_6.7_L_,2-Owner,Personal Use,4
+852,2018,Ram,1500_ST_Express, 34900, Verona, NJ ,40851,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,1
+853,2019,Ram,1500_Tradesman_Express, 31489, Freehold, NJ ,15074,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+854,2019,Ram,1500_Tradesman, 35995, Woodbridge, NJ ,29022,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Vehicle Use,2
+855,2018,Ram,1500_Sport, 32990, Freeport, NY ,46363,Accident Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,0
+856,2017,Ram,1500_ST_Express, 29995, Woodbridge, NJ ,36907,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,Number of Owners,Personal Use,0
+857,2018,Ram,1500_ST_Express, 34900, Verona, NJ ,16259,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,0
+858,2018,Ram,1500_SLT_Big_Horn, 35990, New York, NY,21566,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,4
+859,2016,Ram,1500_Laramie, 40995, Wharton, NJ ,39377,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,16
+860,2016,Ram,1500_Sport, 36995, Branchville, NJ ,57533,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,6
+861,2019,Ram,1500_Laramie, 46995, Butler, NJ ,16131,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,0
+862,2019,Ram,1500_Tradesman, 38494, Princeton, NJ ,13177,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+863,2012,Ram,1500_ST_Express, 9995, South Hackensack, NJ ,198120,Minor Damage,Pickup,Silver_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,28
+864,2020,Ram,3500_Tradesman, 67999, Lodi, NJ ,16865,No Accident or Damage Reported,Chassis,White_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Personal Use,4
+865,2017,Ram,1500_SLT_Big_Horn, 35800, Long Island City, NY ,30458,Accident Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,10
+866,2014,Ram,1500_ST_Tradesman, 25998, Lindenhurst, NY ,69169,Accident Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,11
+867,2012,Ram,1500_SLT, 19995, Manalapan, NJ ,108062,Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,13
+868,2018,Ram,1500_SLT_Big_Horn, 35900, Neptune, NJ ,39733,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,11
+869,2016,Ram,1500_SLT, 30000, Summit, NJ ,52530,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,13
+870,2019,Ram,1500_SLT_Big_Horn, 37995, Saint James, NY ,46763,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,3
+871,2017,Ram,1500_Rebel, 42595, Hackettstown, NJ ,33018,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,3+ Owners,Commercial Use,10
+872,2012,Ram,1500_Sport, 18536, Hackettstown, NJ ,138099,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,11
+873,2016,Ram,1500_ST_Express, 28900, Amityville, NY ,58712,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,6
+874,2012,Ram,1500_SLT, 20995, Manalapan, NJ ,88562,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,5
+875,2018,Ram,1500_SLT_Harvest, 36295, Belmar, NJ ,59573,Accident Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+876,2018,Ram,1500_ST_Tradesman, 32995, Asbury Park, NJ ,54018,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,6
+877,2017,Ram,1500_ST_Express, 29990, Hasbrouck Heights, NJ ,47819,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,5
+878,2013,Ram,1500_ST_Express, 21995, Edison, NJ ,66040,Minor Damage,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,32
+879,2019,Ram,1500_Tradesman_Express, 32900, Freehold, NJ ,31169,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+880,2017,Ram,1500_SLT_Big_Horn, 36998, Lebanon, NJ ,41641,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,13
+881,2019,Ram,3500_SLT, 54995, Sussex, NJ ,1734,No Accident or Damage Reported,Chassis,Brown_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Vehicle Use,1
+882,2019,Ram,1500_Laramie_Longhorn, 52500, Norwalk, CT ,32303,Accident/Minor Damage,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+883,2020,Ram,1500_Rebel, 59900, Amityville, NY ,22246,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,3
+884,2014,Ram,ProMaster_3500, 25595, Ramsey, NJ ,108155,No Accident or Damage Reported,Van,White_Engine:_4_Cyl_3.0_L_,2-Owner,Commercial Use,8
+885,2020,Ram,1500_Big_Horn/Lone_Star, 44780, North Plainfield, NJ ,25618,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+886,2019,Ram,1500_Tradesman, 37995, Woodbridge, NJ ,25761,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,3+ Owners,Vehicle Use,6
+887,2015,Ram,3500_SLT, 39999, South Amboy, NJ ,130747,No Accident or Damage Reported,Chassis,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Commercial Use,12
+888,2013,Ram,5500_Tradesman, 39999, South Amboy, NJ ,159653,No Accident or Damage Reported,Chassis,White_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Commercial Use,24
+889,2015,Ram,1500_ST_Express, 26894, Haskell, NJ ,78709,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,11
+890,2015,Ram,1500_ST_Tradesman, 15499, S Hackensack, NJ ,189407,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,6
+891,2018,Ram,1500_SLT_Big_Horn, 31900, Verona, NJ ,54972,Accident Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+892,2018,Ram,1500_ST, 29985, Paterson, NJ ,86250,Accident/Minor Damage,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+893,2018,Ram,1500_ST_Express, 35900, Verona, NJ ,26960,Accident Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+894,2020,Ram,3500_Big_Horn, 61446, Avenel, NJ ,22417,Accident Reported,Pickup,White_Engine:_6_Cyl_6.7_L_,2-Owner,Multiple Use,1
+895,2019,Ram,1500_Rebel, 45939, Butler, NJ ,29025,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,4
+896,2017,Ram,1500_Sport, 36999, Bridgewater, NJ ,68901,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,19
+897,2017,Ram,1500_ST, 31495, Paterson, NJ ,37286,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,13
+898,2016,Ram,1500_SLT_Big_Horn, 30985, Paterson, NJ ,67170,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,6
+899,2017,Ram,2500_Laramie, 62683, PARAMUS, NJ ,36752,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Rental Use,4
+900,2017,Ram,2500_Laramie, 62683, PARAMUS, NJ ,36752,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Rental Use,4
+901,2019,Ram,1500_Big_Horn/Lone_Star, 39999, Inwood, NY ,41320,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+902,2019,Ram,3500_Tradesman, 59999, Lodi, NJ ,92865,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Personal Use,6
+903,2021,Ram,1500_TRX, 89999, Watchung, NJ ,6353,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Personal Use,4
+904,2018,Ram,1500_ST_Express, 34959, Avenel, NJ ,27679,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+905,2015,Ram,ProMaster_1500, 19942, Carlstadt, NJ ,52267,Accident Reported,Van,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,3
+906,2019,Ram,1500_Big_Horn/Lone_Star, Call for Price, Wharton, NJ ,33305,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,15
+907,2016,Ram,1500_Sport, 42995, Freeport, NY ,46163,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,11
+908,2016,Ram,1500_Rebel, 31995, Freeport, NY ,110127,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,16
+909,2018,Ram,1500_ST_Tradesman, 24995, New Brunswick, NJ ,120606,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,17
+910,2018,Ram,1500_ST_Express, 35589, South Plainfield, NJ ,18345,Accident Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+911,2018,Ram,1500_Rebel, 46900, Amityville, NY ,25877,Accident Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,9
+912,2018,Ram,1500_SLT_Big_Horn, 41884, South Plainfield, NJ ,16670,Accident Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+913,2014,Ram,1500_Laramie, 26900, Hazlet, NJ ,113848,Accident/Minor Damage,Pickup,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+914,2018,Ram,1500_Sport_Night, 46900, Amityville, NY ,31237,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,9
+915,2018,Ram,1500_SLT_Big_Horn, 39884, South Plainfield, NJ ,21898,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+916,2019,Ram,1500_Big_Horn/Lone_Star, 39110, Saint James, NY ,37698,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+917,2019,Ram,1500_Big_Horn/Lone_Star, 47900, Amityville, NY ,30011,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,6
+918,2019,Ram,1500_Big_Horn/Lone_Star, 45000, East Brunswick, NJ ,41455,Accident Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+919,2018,Ram,1500_ST_Tradesman, 34895, Union, NJ ,28091,Accident Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+920,2017,Ram,1500_ST_Express, 34995, Sussex, NJ ,31527,Minor Damage,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+921,2019,Ram,ProMaster_City_Tradesman, 25000, East Brunswick, NJ ,29615,No Accident or Damage Reported,Minivan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Corporate Use,8
+922,2019,Ram,1500_Big_Horn/Lone_Star, 44616, East Brunswick, NJ ,33095,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,3
+923,2016,Ram,1500_Rebel, 38998, New Windsor, NY ,62224,Minor Damage,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,13
+924,2019,Ram,1500_Big_Horn/Lone_Star, 42986, East Brunswick, NJ ,25199,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2
+925,2021,Ram,1500_Big_Horn/Lone_Star, Call for Price, Bedford Hills, NY ,5045,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,1
+926,2017,Ram,2500_Laramie, 58995, Edison, NJ ,40620,Accident/Minor Damage,Pickup,White_Engine:_6_Cyl_6.7_L_,Number of Owners,Vehicle Use,8
+927,2015,Ram,1500_Sport, 28000, Eatontown, NJ ,113903,Accident Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,20
+928,2016,Ram,1500_SLT_Big_Horn, 30488, Green Brook, NJ ,54089,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,3
+929,2014,Ram,1500_SLT_Outdoorsman, 27995, Neptune, NJ ,82300,Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,23
+930,2019,Ram,ProMaster_City_Tradesman_SLT, 18991, South River, NJ ,104906,Accident/Minor Damage,Minivan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Commercial Use,9
+931,2020,Ram,1500_Rebel, 57995, Woodbridge, NJ ,9060,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,Number of Owners,Commercial Use,4
+932,2020,Ram,1500_Rebel, 54995, Woodbridge, NJ ,21875,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,3
+933,2019,Ram,1500_Rebel, 54995, Woodbridge, NJ ,6835,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,3+ Owners,Vehicle Use,2
+934,2019,Ram,1500_Tradesman_Express, 37995, Woodbridge, NJ ,24830,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,Number of Owners,Vehicle Use,2
+935,2019,Ram,1500_Rebel, 49995, Woodbridge, NJ ,16351,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,2-Owner,Vehicle Use,1
+936,2017,Ram,1500_Rebel, 39995, Woodbridge, NJ ,51059,Accident/Minor Damage,Pickup,Beige_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,9
+937,2015,Ram,1500_ST_Express, 28495, Huntington Station, NY ,62687,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,7
+938,2014,Ram,1500_ST_Express, 28795, Neptune, NJ ,71199,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,10
+939,2016,Ram,1500_SLT, 28495, Huntington Station, NY ,93253,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,11
+940,2013,Ram,1500_SLT_Big_Horn, 29000, Morristown, NJ ,36167,Accident Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+941,2012,Ram,C/V, 8899, West Milford, NJ ,153087,No Accident or Damage Reported,Minivan,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Corporate Use,17
+942,2016,Ram,1500_ST_Express, 27495, Lindenhurst, NY ,68528,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,5
+943,2016,Ram,1500_Sport, 38995, Neptune, NJ ,49732,No Accident or Damage Reported,Pickup,Yellow_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,15
+944,2014,Ram,1500_ST_Tradesman, 19599, West Milford, NJ ,133578,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,12
+945,2021,Ram,1500_TRX, 98988, Green Brook, NJ ,2217,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_6.2_L_,2-Owner,Personal Use,1
+946,2020,Ram,ProMaster_3500, 47991, Little Falls, NJ ,3851,No Accident or Damage Reported,Van,White_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,1
+947,2019,Ram,1500_Rebel, 42575, Springfield, NJ ,21943,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,9
+948,2016,Ram,1500_Laramie, 30900, Nanuet, NY ,66408,Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,25
+949,2020,Ram,3500_Tradesman, 69999, Lodi, NJ ,41165,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Personal Use,8
+950,2020,Ram,3500_Tradesman, 69999, Lodi, NJ ,41165,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Personal Use,8
+951,2015,Ram,1500_SLT, 18999, S Hackensack, NJ ,208472,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,17
+952,2019,Ram,1500_Laramie, 53221, Linden, NJ ,15400,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,0
+953,2016,Ram,1500_SLT_Big_Horn, 29998, Upper Saddle River, NJ ,60886,Accident/Minor Damage,Pickup,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,10
+954,2020,Ram,3500_Tradesman, 71799, Lodi, NJ ,13012,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_6.7_L_,2-Owner,Commercial Use,5
+955,2018,Ram,2500_Laramie, 53000, Newton, NJ ,74361,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Commercial Use,12
+956,2018,Ram,1500_ST_Express, 31995, Rockaway, NJ ,22406,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+957,2018,Ram,1500_ST_Express, 33288, Summit, NJ ,47068,Accident Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,1
+958,2017,Ram,ProMaster_2500, 28985, Inwood, NY ,97221,No Accident or Damage Reported,Van,White_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,11
+959,2019,Ram,1500_Laramie, 46995, Jersey City, NJ ,37051,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,3
+960,2018,Ram,1500_SLT, Call for Price, Sussex, NJ ,24408,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,13
+961,2019,Ram,1500_Tradesman, Call for Price, Sussex, NJ ,15660,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+962,2018,Ram,1500_SLT_Big_Horn, Call for Price, Sussex, NJ ,24261,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,7
+963,2015,Ram,1500_SLT_Big_Horn, 27995, South River, NJ ,78851,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,4
+964,2019,Ram,1500_Big_Horn/Lone_Star, Call for Price, Jersey City, NJ ,23011,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,0
+965,2018,Ram,1500_ST_Express, 34499, Lebanon, NJ ,27792,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,6
+966,2021,Ram,1500_TRX, Call for Price, Robbinsville, NJ ,675,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Personal Use,2
+967,2014,Ram,1500_Sport, 29900, Atlantic Highlands, NJ ,69137,Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,Number of Owners,Personal Use,14
+968,2012,Ram,1500_ST, 12599, S Hackensack, NJ ,165502,Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,7
+969,2016,Ram,1500_SLT_Big_Horn, 30000, Nanuet, NY ,89406,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,7
+970,2016,Ram,1500_SLT_Big_Horn, 33100, Nanuet, NY ,44564,Accident Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+971,2013,Ram,1500_SLT_Big_Horn, 24877, Croton On Hudson, NY ,82462,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,15
+972,2018,Ram,3500_Laramie_Longhorn, 65939, Englewood, NJ ,56505,No Accident or Damage Reported,Pickup,Red_Engine:_6_Cyl_6.7_L_,2-Owner,Personal Use,10
+973,2019,Ram,1500_Big_Horn/Lone_Star, 40888, Bayside, NY ,36261,Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+974,2016,Ram,ProMaster_City_Tradesman, 19797, Newton, NJ ,41145,No Accident or Damage Reported,Minivan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,12
+975,2016,Ram,2500_SLT_Big_Horn, 36995, North Bergen, NJ ,90317,Accident/Minor Damage,Pickup,Red_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Commercial Use,6
+976,2019,Ram,1500_Big_Horn/Lone_Star, Call for Price, Rockaway, NJ ,30563,Accident/Minor Damage,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+977,2017,Ram,1500_Laramie, 38500, Rochelle Park, NJ ,19676,Minor Damage,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,2
+978,2017,Ram,2500_Laramie_Longhorn, 46895, Randolph, NJ ,102594,Accident/Minor Damage,Pickup,Gray_Engine:_8_Cyl_6.4_L_,2-Owner,Multiple Use,8
+979,2020,Ram,1500_Big_Horn/Lone_Star, 41995, Edison, NJ ,13526,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,2
+980,2020,Ram,ProMaster_1500, 38900, Englewood Cliffs, NJ ,16369,No Accident or Damage Reported,Van,White_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,4
+981,2011,Ram,1500_Laramie, 19990, Shrewsbury, NJ ,126857,Accident Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,20
+982,2016,Ram,1500_ST_Express, 29895, Freeport, NY ,78131,Accident Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,8
+983,2014,Ram,1500_Sport, 20399, S Hackensack, NJ ,176042,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,Number of Owners,Personal Use,30
+984,2012,Ram,2500_Laramie, 25625, Rockaway, NJ ,130681,Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,17
+985,2019,Ram,2500_Power_Wagon, 62998, COLONIA, NJ ,32876,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_6.4_L_,3+ Owners,Commercial Use,4
+986,2014,Ram,3500_Tradesman, 24900, Brooklyn, NY ,204700,Accident/No Damage,Pickup,White_Engine:_6_Cyl_6.7_L_,3+ Owners,Commercial Use,8
+987,2020,Ram,ProMaster_2500, 37995, Stockholm, NJ ,43033,Accident Reported,Van,White_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,1
+988,2017,Ram,1500_Rebel, 35995, Woodbridge, NJ ,0,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,Number of Owners,Personal Use,0
+989,2016,Ram,4500_SLT, 39999, South Amboy, NJ ,116167,Accident Reported,Chassis,Black_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Commercial Use,7
+990,2012,Ram,3500_SLT, 29999, South Amboy, NJ ,147822,No Accident or Damage Reported,Chassis,White_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,10
+991,2015,Ram,2500_SLT_Big_Horn, 39988, Green Brook, NJ ,129109,Accident Reported,Pickup,Black_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Corporate Use,12
+992,2018,Ram,1500_ST_Express, 31590, Saint James, NY ,13000,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+993,2014,Ram,1500_ST_Tradesman, 19995, North Middletown, NJ ,70881,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,6
+994,2018,Ram,3500_Tradesman, 57900, Hillside, NJ ,6575,Accident/Minor Damage,Pickup,White_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Commercial Use,1
+995,2019,Ram,ProMaster_2500, 35788, Valley Stream, NY ,32146,Accident Reported,Van,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,0
+996,2019,Ram,1500_SLT_Big_Horn, 43895, Merrick, NY ,24793,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,0
+997,2017,Ram,1500_ST_Express, Call for Price, Rockaway, NJ ,70127,Accident/Minor Damage,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,15
+998,2020,Ram,2500_Laramie, 72990, Valley Stream, NY ,14172,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_6.7_L_,2-Owner,Commercial Use,5
+999,2014,Ram,1500_SLT_Big_Horn, 25995, Branchville, NJ ,117245,Accident/Minor Damage,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,25
+1000,2018,Ram,3500_Laramie, Call for Price, Rockaway, NJ ,32478,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Commercial Use,8
+1001,2019,Ram,3500_Tradesman, 63230, Lodi, NJ ,29960,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Commercial Use,5
+1002,2019,Ram,3500_Tradesman, 73999, Lodi, NJ ,1546,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Corporate Use,3
+1003,2012,Ram,1500_ST, 13299, S Hackensack, NJ ,182647,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,4
+1004,2012,Ram,1500_ST, 16299, S Hackensack, NJ ,119391,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,16
+1005,2013,Ram,1500_ST_Tradesman, 17499, S Hackensack, NJ ,154495,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,13
+1006,2019,Ram,1500_Rebel, 43481, Avenel, NJ ,64189,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+1007,2015,Ram,3500_Tradesman, 35751, Saint James, NY ,83327,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_6.4_L_,3+ Owners,Commercial Use,17
+1008,2012,Ram,1500_ST, 14449, Garfield, NJ ,137987,Accident/Minor Damage,Pickup,Red_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,9
+1009,2013,Ram,1500_Sport, 26985, Inwood, NY ,77099,Accident/Minor Damage,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,15
+1010,2019,Ram,1500_Tradesman_Express, 31800, Long Island City, NY ,21368,Branded Title,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,14
+1011,2018,Ram,2500_Laramie, 57732, Flemington, NJ ,4036,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Personal Use,2
+1012,2019,Ram,2500_Power_Wagon, 62998, COLONIA, NJ ,34794,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_6.4_L_,2-Owner,Multiple Use,6
+1013,2018,Ram,1500_ST_Express, 34604, Flemington, NJ ,26487,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,1
+1014,2019,Ram,1500_SLT, 34590, Hasbrouck Heights, NJ ,34947,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,5
+1015,2015,Ram,1500_ST_Express, 25900, Rahway, NJ ,90566,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,8
+1016,2015,Ram,1500_ST_Express, 23488, Lakewood, NJ ,100750,Minor Damage,Pickup,White_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,19
+1017,2012,Ram,1500_Laramie, 26999, Newark, NJ,84653,No Accident or Damage Reported,Pickup,Green_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,8
+1018,2018,Ram,2500_Power_Wagon, 53900, Freehold, NJ ,47141,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_6.4_L_,2-Owner,Personal Use,6
+1019,2019,Ram,1500_Big_Horn/Lone_Star, 44995, Commack, NY ,19956,Accident/Minor Damage,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+1020,2013,Ram,1500_SLT_Big_Horn, 12995, Elizabeth, NJ ,201904,Branded Title,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Corporate Use,9
+1021,2020,Ram,1500_SLT, 38999, South Plainfield, NJ ,25984,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,0
+1022,2013,Ram,3500, 34999, South Amboy, NJ ,140000,No Accident or Damage Reported,Chassis,White_Engine:_8_Cyl_5.7_L_,2-Owner,Commercial Use,6
+1023,2017,Ram,1500_Sport, 38990, Watchung, NJ ,30414,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,Number of Owners,Vehicle Use,8
+1024,2014,Ram,1500_SLT, 13399, S Hackensack, NJ ,154008,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,14
+1025,2014,Ram,1500_SLT, 13399, S Hackensack, NJ ,154008,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,14
+1026,2018,Ram,ProMaster_City_Tradesman, 19900, Rahway, NJ ,62471,Accident Reported,Minivan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Commercial Use,4
+1027,2017,Ram,1500_Sport, 39000, Old Bridge, NJ ,33233,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,Number of Owners,Commercial Use,5
+1028,2017,Ram,1500_Sport, 38795, Lakewood, NJ ,29290,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.7_L_,3+ Owners,Vehicle Use,0
+1029,2017,Ram,1500_Laramie, 36495, Great Neck, NY ,44061,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,7
+1030,2018,Ram,1500_SLT_Big_Horn, 38995, Sussex, NJ ,31524,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+1031,2019,Ram,1500_Tradesman, 21488, Green Brook, NJ ,79761,Accident Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,0
+1032,2018,Ram,1500_ST_Express, 29480, Jericho, NY ,23160,No Accident or Damage Reported,Pickup,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+1033,2015,Ram,2500_Tradesman, 44999, West Milford, NJ ,87338,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_6.7_L_,3+ Owners,Multiple Use,2
+1034,2020,Ram,1500_Laramie, 59995, Woodbridge, NJ ,22457,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.0_L_,Number of Owners,Commercial Use,0
+1035,2014,Ram,1500_ST_Tradesman, 16499, S Hackensack, NJ ,120520,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Vehicle Use,8
+1036,2016,Ram,1500_Sport, 33985, Paterson, NJ ,85455,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,20
+1037,2020,Ram,3500_Tradesman, 65999, Lodi, NJ ,23713,No Accident or Damage Reported,Chassis,White_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Rental Use,4
+1038,2019,Ram,1500_Tradesman_Express, 31900, Verona, NJ ,42381,Accident Reported,Pickup,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+1039,2019,Ram,ProMaster_2500, 37450, Woodside, NY ,29932,Accident/Minor Damage,Van,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,4
+1040,2017,Ram,1500_ST_Express, 33988, Westbury, NY ,29203,Accident Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,1
+1041,2011,Ram,1500_Sport, 11495, South Hackensack, NJ ,189000,No Accident or Damage Reported,Pickup,Burgundy_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,44
+1042,2016,Ram,1500_SLT_Big_Horn, 29795, Hackensack, NJ ,56739,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,9
+1043,2018,Ram,1500_Laramie, 42995, Long Island City, NY ,38332,Branded Title,Pickup,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,8
+1044,2019,Ram,1500_Big_Horn/Lone_Star, 43800, Long Island City, NY ,27877,Branded Title,Pickup,Silver_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,15
+1045,2015,Ram,1500_SLT_Big_Horn, 24900, Hazlet, NJ ,111866,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,3+ Owners,Multiple Use,5
+1046,2019,Ram,3500_Tradesman, 43980, Jericho, NY ,14336,Accident Reported,Chassis,White_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Commercial Use,3
+1047,2020,Ram,ProMaster_City_Tradesman_SLT, 27988, Westbury, NY ,11647,Major Damage,Minivan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Corporate Use,2
+1048,2019,Ram,1500_Big_Horn/Lone_Star, 37995, Saint James, NY ,55304,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,5
+1049,2019,Ram,1500_Rebel, 55888, Long Island City, NY ,15200,Branded Title,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,2
+1050,2014,Ram,1500_SLT_Big_Horn, 26445, Greenvale, NY ,70753,Accident Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,9
+1051,2018,Ram,1500_ST_Express, 30984, South Plainfield, NJ ,43842,Minor Damage,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+1052,2020,Ram,ProMaster_2500, 49995, Elizabeth, NJ ,9239,No Accident or Damage Reported,Van,White_Engine:_6_Cyl_3.6_L_,2-Owner,Commercial Use,2
+1053,2020,Ram,1500_Laramie_Longhorn, Call for Price, Long Island City, NY ,18929,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,3
+1054,2012,Ram,1500_ST, 18985, Elizabeth, NJ ,101030,Accident Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,21
+1055,2021,Ram,1500_TRX, Call for Price, Freeport, NY ,8995,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_6.2_L_,CARFAX 1-Owner,Commercial Use,4
+1056,2019,Ram,3500_Big_Horn, 67999, Lodi, NJ ,47234,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Rental Use,6
+1057,2019,Ram,3500_Tradesman, 65997, Lodi, NJ ,40397,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_6.7_L_,3+ Owners,Personal Use,3
+1058,2018,Ram,2500_Tradesman, 51995, Wall Township, NJ ,37575,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_6.4_L_,3+ Owners,Personal Use,9
+1059,2015,Ram,1500_SLT, 21499, S Hackensack, NJ ,151989,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,9
+1060,2017,Ram,1500_ST_Express, 34500, Bohemia, NY ,29379,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,2
+1061,2014,Ram,1500_ST_Tradesman, 16299, S Hackensack, NJ ,161697,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,21
+1062,2016,Ram,1500_ST_Tradesman, 18999, S Hackensack, NJ ,188806,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Commercial Use,15
+1063,2019,Ram,1500_Laramie_Longhorn, 52900, Verona, NJ ,35873,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,3
+1064,2013,Ram,1500_ST_Tradesman, 15999, S Hackensack, NJ ,142806,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,9
+1065,2013,Ram,2500_Tradesman, 35999, Bridgewater, NJ ,8926,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Commercial Use,8
+1066,2011,Ram,1500_SLT_Big_Horn, 17925, Rockaway, NJ ,139029,Accident Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,10
+1067,2020,Ram,1500_Laramie, 52362, Flemington, NJ ,36579,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,1
+1068,2017,Ram,ProMaster_City_Tradesman, 16900, Atlantic Highlands, NJ ,121174,No Accident or Damage Reported,Minivan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Commercial Use,8
+1069,2016,Ram,1500_Sport, 31900, Atlantic Highlands, NJ ,76508,Accident Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,3+ Owners,Vehicle Use,0
+1070,2019,Ram,5500, 53990, South Amboy, NJ ,51092,No Accident or Damage Reported,Chassis,White_Engine:_6_Cyl_6.7_L_,2-Owner,Vehicle Use,3
+1071,2018,Ram,1500_ST_Express, 29999, Jersey City, NJ ,22333,No Accident or Damage Reported,Pickup,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+1072,2012,Ram,1500_SLT_Big_Horn, 16970, Little Ferry, NJ ,121060,Accident Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,21
+1073,2018,Ram,1500_SLT_Big_Horn, 33688, Brooklyn, NY ,42042,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,4
+1074,2018,Ram,1500_SLT_Big_Horn, 36495, Lakewood, NJ ,24305,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,3
+1075,2020,Ram,1500_SLT, 36996, Saint James, NY ,27372,Accident Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Rental Use,0
+1076,2016,Ram,1500_ST_Express, Call for Price, Long Island City, NY ,62509,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,2-Owner,Personal Use,15
+1077,2018,Ram,1500_ST_Express, 32447, East Brunswick, NJ ,33934,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+1078,2017,Ram,3500_Tradesman, 53900, Englewood Cliffs, NJ ,54969,No Accident or Damage Reported,Pickup,Black_Engine:_6_Cyl_6.7_L_,CARFAX 1-Owner,Personal Use,3
+1079,2014,Ram,1500_Laramie, Call for Price, Bedford Hills, NY ,47494,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,15
+1080,2020,Ram,1500_Laramie, Call for Price, Bedford Hills, NY ,9776,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,8
+1081,2020,Ram,1500_Laramie, 53912, East Hanover, NJ ,13720,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,3
+1082,2018,Ram,1500_ST_Express, 32007, Blauvelt, NY ,41722,Accident Reported,Pickup,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,11
+1083,2013,Ram,1500_SLT_Big_Horn, 24995, South Amboy, NJ ,66696,No Accident or Damage Reported,Pickup,White_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,22
+1084,2014,Ram,1500_ST_Express, 25542, Carlstadt, NJ ,54020,Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.7_L_,3+ Owners,Personal Use,30
+1085,2017,Ram,2500_Tradesman, 41997, Newton, NJ ,41915,Very Minor Damage,Pickup,Silver_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Commercial Use,2
+1086,2015,Ram,1500_Sport, 35995, Lakewood, NJ ,66437,No Accident or Damage Reported,Pickup,Orange_Engine:_8_Cyl_5.7_L_,Number of Owners,Vehicle Use,5
+1087,2014,Ram,ProMaster_2500, 31990, South Amboy, NJ ,118600,Accident Reported,Chassis,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,4
+1088,2017,Ram,1500_ST_Tradesman, 27899, West Milford, NJ ,86804,Accident Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Commercial Use,5
+1089,2019,Ram,1500_Laramie, Call for Price, Inwood, NY ,87066,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,5
+1090,2019,Ram,1500_Tradesman_Express, Call for Price, Freehold, NJ ,22974,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+1091,2018,Ram,2500_Tradesman, 41000, Nanuet, NY ,72803,Accident Reported,Pickup,Red_Engine:_8_Cyl_6.4_L_,CARFAX 1-Owner,Commercial Use,7
+1092,2021,Ram,1500_Big_Horn/Lone_Star, 40880, East Brunswick, NJ ,4332,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+1093,2018,Ram,ProMaster_1500, 28995, Avenel, NJ ,86754,Accident Reported,Van,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,6
+1094,2016,Ram,2500_SLT, 36995, North Bergen, NJ ,73329,Minor Damage,Pickup,White_Engine:_8_Cyl_5.7_L_,2-Owner,Multiple Use,9
+1095,2015,Ram,2500_Tradesman, 33900, Freehold, NJ ,72331,Accident Reported,Pickup,Black_Engine:_8_Cyl_6.4_L_,2-Owner,Commercial Use,9
+1096,2013,Ram,1500_ST_Tradesman, 11599, S Hackensack, NJ ,155256,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,7
+1097,2017,Ram,5500_Laramie, 47999, South Amboy, NJ ,172664,Accident Reported,Chassis,Silver_Engine:_6_Cyl_6.7_L_,2-Owner,Commercial Use,2
+1098,2011,Ram,1500_SLT_Big_Horn, 21995, Asbury Park, NJ ,85487,Accident Reported,Pickup,Silver_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,16
+1099,2021,Ram,1500_Big_Horn/Lone_Star, 53988, Green Brook, NJ ,841,No Accident or Damage Reported,Pickup,Red_Engine:_8_Cyl_5.7_L_,CARFAX 1-Owner,Personal Use,2

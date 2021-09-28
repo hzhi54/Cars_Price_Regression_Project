@@ -1,0 +1,1101 @@
+,Year,Brand,Model,Cost,City,State,Mileage,Accident,Body,Engine,Owners,Usefor,Services
+0,2019,Nissan,Sentra_SV, 17995, Springfield, NJ ,21615,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,4
+1,2018,Nissan,Rogue_SV, 21499, Queens Village, NY ,36939,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+2,2018,Nissan,Murano_Platinum, 30888, Bronx, NY ,17272,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+3,2018,Nissan,Sentra_SR, 16999, Fairfield, CT ,44458,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,11
+4,2018,Nissan,Rogue_SV, 21695, Huntington Station, NY ,19383,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+5,2019,Nissan,Maxima_S, 26995, Keyport, NJ ,23417,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+6,2018,Nissan,Murano_S, 20938, Flemington, NJ ,51330,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+7,2018,Nissan,Rogue_SV, 20995, Freehold, NJ ,34774,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+8,2018,Nissan,Rogue_Sport_SL, 22495, Greenvale, NY ,19728,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+9,2019,Nissan,Altima_Edition_ONE, 22995, Saint James, NY ,39863,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+10,2019,Nissan,Sentra_SV, 16893, Huntington Station, NY ,15168,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,5
+11,2018,Nissan,Altima_S, 17995, Yonkers, NY ,28230,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+12,2018,Nissan,Sentra_SR, 18142, Staten Island, NY ,9007,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,6
+13,2018,Nissan,Altima_S, 14995, Hackensack, NJ ,65778,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,17
+14,2019,Nissan,Sentra_SR, 16495, Yonkers, NY ,10192,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,8
+15,2018,Nissan,Rogue_SL, 21495, Yonkers, NY ,43611,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+16,2018,Nissan,Sentra_SR, 16653, Staten Island, NY ,35172,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,5
+17,2018,Nissan,Sentra_SL, 17547, Saint James, NY ,28588,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,4
+18,2019,Nissan,Rogue_SL, 26888, Sussex, NJ ,15333,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+19,2018,Nissan,Rogue_SV, 20995, Freehold, NJ ,31334,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+20,2019,Nissan,Altima_SV, 21995, Flemington, NJ ,56933,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+21,2018,Nissan,Rogue_SV, 20788, Upper Saddle River, NJ ,33067,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,12
+22,2018,Nissan,Pathfinder_S, 22814, Clifton, NJ ,37768,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+23,2018,Nissan,Sentra_SL, 17011, Huntington Station, NY ,35053,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,11
+24,2018,Nissan,Maxima_SL, 25900, Ozone Park, NY ,20974,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+25,2019,Nissan,Rogue_SV, 22995, Fairfield, CT ,28250,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+26,2016,Nissan,Murano_SV, 19995, Woodbridge, NJ ,54267,No Accident or Damage Reported,SUV,Orange_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+27,2018,Nissan,Rogue_SV, 21995, Fairfield, CT ,34395,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+28,2018,Nissan,Rogue_S, 19995, Freehold, NJ ,30944,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+29,2018,Nissan,Sentra_SR, 15500, Ozone Park, NY ,36051,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,2
+30,2018,Nissan,Rogue_SV, 20500, Ozone Park, NY ,25455,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+31,2019,Nissan,Rogue_Sport_S, 19998, Upper Saddle River, NJ ,17429,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+32,2019,Nissan,Armada_Platinum_Edition, 48000, Newton, NJ ,24734,No Accident or Damage Reported,SUV,8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,6
+33,2018,Nissan,Rogue_S, 20995, Fairfield, CT ,27088,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+34,2019,Nissan,Rogue_SV, 21995, Freehold, NJ ,26104,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+35,2018,Nissan,Rogue_SV, 18995, Brooklyn, NY ,50231,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+36,2018,Nissan,Sentra_SR, 17048, Staten Island, NY ,13914,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,6
+37,2018,Nissan,Rogue_SV, 21995, Greenvale, NY ,19382,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+38,2018,Nissan,Rogue_Sport_S, 19052, Huntington Station, NY ,21656,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+39,2018,Nissan,Rogue_SV, 21444, Huntington Station, NY ,25817,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+40,2018,Nissan,Murano_SV, 25519, Huntington Station, NY ,32337,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+41,2019,Nissan,Pathfinder_SL, 27490, Hasbrouck Heights, NJ ,29928,No Accident or Damage Reported,SUV,Brown_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+42,2018,Nissan,Murano_Platinum, 30888, Bronx, NY ,17272,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+43,2018,Nissan,Murano_SV, 23595, Brooklyn, NY ,29353,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+44,2018,Nissan,Pathfinder_SV, 24900, Ozone Park, NY ,28468,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+45,2018,Nissan,Sentra_SV, 16948, Staten Island, NY ,6142,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,2
+46,2018,Nissan,Rogue_SL, 23890, Brooklyn, NY ,38726,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+47,2020,Nissan,Rogue_Sport_SL, 25900, Ozone Park, NY ,18298,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+48,2019,Nissan,Titan_SV, 39999, Fairfield, CT ,22435,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,7
+49,2018,Nissan,Altima_S, 18599, Fairfield, CT ,21202,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+50,2018,Nissan,Rogue_Sport_S, 18995, Bayside, NY ,24339,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+51,2019,Nissan,Altima_SV, 24888, Sussex, NJ ,16461,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+52,2018,Nissan,Rogue_S, 19995, Ozone Park, NY ,11505,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+53,2018,Nissan,Rogue_SV, 21995, Freehold, NJ ,38804,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+54,2018,Nissan,Rogue_SV, 21995, Freehold, NJ ,24062,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+55,2018,Nissan,Sentra_SV, 16508, Saint James, NY ,12003,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,5
+56,2019,Nissan,Rogue_Sport_S, 19794, Saint James, NY ,35591,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+57,2018,Nissan,Pathfinder_SV, 25671, Saint James, NY ,21056,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+58,2018,Nissan,Rogue_S, 18888, Upper Saddle River, NJ ,34418,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+59,2018,Nissan,Rogue_S, 19490, Hasbrouck Heights, NJ ,12603,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+60,2018,Nissan,Rogue_SV, 17997, Syosset, NY ,40034,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+61,2018,Nissan,Rogue_SL, 21597, Syosset, NY ,38664,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+62,2018,Nissan,Rogue_SV, 18396, Syosset, NY ,44564,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+63,2020,Nissan,Rogue_S, 20990, Brooklyn, NY ,20519,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+64,2019,Nissan,Rogue_SV, 21866, Huntington Station, NY ,35596,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+65,2018,Nissan,Leaf_SL, 16847, Jersey City, NJ ,59419,No Accident or Damage Reported,Hatchback,Black_Engine:_Electric__,CARFAX 1-Owner,Personal Use,7
+66,2018,Nissan,Rogue_SL, 22688, Upper Saddle River, NJ ,25136,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+67,2018,Nissan,Rogue_SV, 21395, Huntington Station, NY ,25201,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+68,2021,Nissan,Sentra_SR, 22806, North Plainfield, NJ ,1829,No Accident or Damage Reported,Sedan,Orange_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+69,2017,Nissan,Maxima_SL, 21980, Wayne, NJ ,54544,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+70,2018,Nissan,Murano_S, 23471, Huntington Station, NY ,26110,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+71,2019,Nissan,Murano_SV, 26180, Huntington Station, NY ,31557,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+72,2019,Nissan,Rogue_SV, 21998, Upper Saddle River, NJ ,35912,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+73,2018,Nissan,Rogue_SV, 19995, Yonkers, NY ,36433,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+74,2019,Nissan,Rogue_Sport_SV, 21723, Huntington Station, NY ,15465,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+75,2018,Nissan,Murano_SL, 27539, Huntington Station, NY ,30662,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+76,2018,Nissan,Murano_S, 23495, Cranbury, NJ ,36860,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+77,2019,Nissan,Rogue_SV, 22262, Huntington Station, NY ,32374,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+78,2018,Nissan,Rogue_S, 20125, Huntington Station, NY ,11206,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+79,2019,Nissan,Altima_S, 18295, Yonkers, NY ,25934,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+80,2018,Nissan,Rogue_SV, 18996, Syosset, NY ,33857,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+81,2018,Nissan,Rogue_SV, 19900, Wilton, CT ,32422,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+82,2018,Nissan,Altima_SR, 18880, Red Bank, NJ ,65172,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+83,2019,Nissan,Altima_S, 18497, Syosset, NY ,33866,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,12
+84,2018,Nissan,Altima_SR, 19252, Port Chester, NY ,35880,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,12
+85,2018,Nissan,Rogue_S, 20641, Staten Island, NY ,22591,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+86,2018,Nissan,Altima_SR, 18495, Yonkers, NY ,28009,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+87,2018,Nissan,Maxima_S, 23888, Bronx, NY ,37914,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+88,2018,Nissan,Rogue_SV, 21131, Saint James, NY ,25431,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+89,2018,Nissan,Murano_SL, 24995, Greenvale, NY ,44817,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+90,2019,Nissan,Murano_S, 24790, Brooklyn, NY ,2362,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+91,2018,Nissan,Murano_SL, 27995, Hempstead, NY ,28126,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+92,2018,Nissan,Pathfinder_S, 22795, Hackensack, NJ ,24926,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+93,2019,Nissan,Rogue_Sport_SV, 21895, Yonkers, NY ,25324,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+94,2019,Nissan,Rogue_SV, 22488, Upper Saddle River, NJ ,32721,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+95,2020,Nissan,Murano_S, 27595, Yonkers, NY ,21387,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+96,2018,Nissan,Rogue_SV, 21649, Saint James, NY ,24305,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+97,2018,Nissan,Rogue_SV, 20888, Upper Saddle River, NJ ,35509,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+98,2019,Nissan,Altima_S, 20495, Hackensack, NJ ,11563,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+99,2018,Nissan,Murano_SL, 26995, Hackensack, NJ ,33339,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+100,2018,Nissan,Rogue_SV, 22969, Flemington, NJ ,17819,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+101,2018,Nissan,Pathfinder_SL, 27998, Upper Saddle River, NJ ,16614,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+102,2018,Nissan,Rogue_SL, 25268, Huntington Station, NY ,16663,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+103,2018,Nissan,Murano_S, 23998, Upper Saddle River, NJ ,15286,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+104,2018,Nissan,Rogue_SV, 21989, Freehold, NJ ,26549,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+105,2021,Nissan,Rogue_SV, 27550, Wilton, CT ,5474,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+106,2018,Nissan,Rogue_SV, 19696, Syosset, NY ,26577,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+107,2019,Nissan,Rogue_SV, 23388, Lakewood, NJ ,28723,No Accident or Damage Reported,SUV,Green_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+108,2018,Nissan,Rogue_SV, 19896, Syosset, NY ,21299,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,12
+109,2018,Nissan,Sentra_SL, 15657, Syosset, NY ,33060,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,10
+110,2018,Nissan,Pathfinder_S, 24500, Bloomfield, NJ ,22427,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+111,2018,Nissan,Rogue_S, 18995, Edison, NJ ,30073,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+112,2019,Nissan,Rogue_Sport_S, 17995, Edison, NJ ,31219,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+113,2019,Nissan,Sentra_SV, 16500, Ozone Park, NY ,5559,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,4
+114,2018,Nissan,Sentra_SV, 14995, Inwood, NY ,15147,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,2
+115,2020,Nissan,Altima_SL, 21850, Jackson Heights, NY ,30643,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.5_L_,2-Owner,Personal Use,3
+116,2018,Nissan,Pathfinder_SV, 24255, Wilton, CT ,33128,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+117,2018,Nissan,Pathfinder_S, 22587, Syosset, NY ,35616,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+118,2019,Nissan,Altima_S, 20360, North Plainfield, NJ ,28502,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+119,2018,Nissan,Rogue_SV, 19995, Linden, NJ ,33643,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+120,2019,Nissan,Rogue_SV, 20490, Hasbrouck Heights, NJ ,27002,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+121,2019,Nissan,Pathfinder_S, 24994, Syosset, NY ,28259,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+122,2018,Nissan,Pathfinder_SV, 24892, North Plainfield, NJ ,28464,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+123,2018,Nissan,Rogue_SV, 19797, Syosset, NY ,11778,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+124,2020,Nissan,Sentra_SR, 22000, Norwalk, CT ,3396,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+125,2020,Nissan,Kicks_S, 18441, Denville, NJ ,22438,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,6
+126,2020,Nissan,Sentra_SR, 22000, Norwalk, CT ,3396,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+127,2019,Nissan,Murano_S, 24995, Woodside, NY ,28445,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+128,2018,Nissan,Sentra_SV, 15858, Staten Island, NY ,21125,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,10
+129,2019,Nissan,Murano_SV, 28595, Yonkers, NY ,7122,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+130,2018,Nissan,Murano_SV, 24000, Ozone Park, NY ,35396,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+131,2018,Nissan,Rogue_SV, 20788, Upper Saddle River, NJ ,22943,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+132,2018,Nissan,Rogue_SV, 20895, Yonkers, NY ,39071,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+133,2018,Nissan,Maxima_S, 22495, Yonkers, NY ,38873,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+134,2018,Nissan,Rogue_SV, 20988, Upper Saddle River, NJ ,26227,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+135,2018,Nissan,Murano_S, 23888, Upper Saddle River, NJ ,35133,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+136,2018,Nissan,Maxima_S, 23495, Yonkers, NY ,28457,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+137,2018,Nissan,Pathfinder, 24444, Staten Island, NY ,18729,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+138,2018,Nissan,Murano_SV, 25716, Staten Island, NY ,23384,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+139,2018,Nissan,Rogue_Sport_SL, 23450, Staten Island, NY ,22338,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+140,2018,Nissan,Rogue_SV, 20495, Pt Pleasant, NJ ,25002,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+141,2018,Nissan,Sentra_SR_Midnight, 17401, Staten Island, NY ,19789,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,4
+142,2019,Nissan,Sentra, 18005, Staten Island, NY ,15196,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,3
+143,2018,Nissan,Pathfinder_SL, 32900, Ozone Park, NY ,13620,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+144,2019,Nissan,Sentra_SV, 16900, Ozone Park, NY ,18823,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,1
+145,2018,Nissan,Rogue_SV, 21962, Saint James, NY ,19321,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+146,2019,Nissan,Rogue_Sport_SV, 21322, Saint James, NY ,33209,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+147,2018,Nissan,Rogue_SL, 23994, Staten Island, NY ,35609,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+148,2019,Nissan,Rogue_SL, 23995, Hempstead, NY ,35095,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+149,2018,Nissan,Rogue_SL, 23995, Greenvale, NY ,19770,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+150,2019,Nissan,Sentra_SV, 16900, Ozone Park, NY ,18823,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,1
+151,2018,Nissan,Altima_S, 17995, Yonkers, NY ,22510,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+152,2019,Nissan,Murano_S, 25998, Upper Saddle River, NJ ,26224,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+153,2018,Nissan,Rogue_Sport_SV, 19791, Saint James, NY ,39331,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+154,2018,Nissan,Murano_SL, 28790, Saint James, NY ,15518,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+155,2018,Nissan,Sentra, 16782, Staten Island, NY ,28205,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,11
+156,2019,Nissan,Rogue_Sport_SV, 21322, Saint James, NY ,33209,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+157,2018,Nissan,Murano_S, 23888, Upper Saddle River, NJ ,35133,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+158,2018,Nissan,Pathfinder, 24444, Staten Island, NY ,18729,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+159,2018,Nissan,Pathfinder_SL, 32900, Ozone Park, NY ,13620,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+160,2019,Nissan,Rogue_SL, 23995, Hempstead, NY ,35095,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+161,2019,Nissan,Rogue_S, 22495, Flemington, NJ ,35206,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+162,2017,Nissan,Rogue_SL, 18748, Brooklyn, NY ,40608,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+163,2018,Nissan,Altima_SR, 16769, Hempstead, NY ,22825,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+164,2020,Nissan,Sentra_S, 19300, Wilton, CT ,552,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+165,2018,Nissan,Maxima_S, 22494, Syosset, NY ,18909,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+166,2018,Nissan,Rogue_SL, 24550, Red Bank, NJ ,28210,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+167,2018,Nissan,Rogue_SV, 18995, Woodbridge, NJ ,38045,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,2-Owner,Personal Use,1
+168,2019,Nissan,Sentra_SV, 16000, Jersey City, NJ ,9981,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,6
+169,2018,Nissan,Rogue_SL, 20464, Wantagh, NY ,34953,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+170,2018,Nissan,Sentra_SV, 14995, Inwood, NY ,39343,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,8
+171,2018,Nissan,Rogue_SV, 19995, Inwood, NY ,27500,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+172,2018,Nissan,Rogue_SL, 23833, Saint James, NY ,33883,No Accident or Damage Reported,SUV,Orange_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+173,2019,Nissan,Pathfinder_SL, 29283, North Plainfield, NJ ,20229,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+174,2018,Nissan,Rogue_SL, 20995, Inwood, NY ,31800,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,17
+175,2018,Nissan,Rogue_SV, 19998, Upper Saddle River, NJ ,46261,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+176,2019,Nissan,Altima_SL, 18632, Hempstead, NY ,33992,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+177,2019,Nissan,Rogue_SV, 21669, Westbury, NY ,28239,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+178,2018,Nissan,Murano_SV, 24350, Hasbrouck Heights, NJ ,27760,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+179,2019,Nissan,Rogue_SL, 27000, Wilton, CT ,9748,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+180,2018,Nissan,Rogue_SV, 18842, Syosset, NY ,31090,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,18
+181,2018,Nissan,Rogue_SL, 21964, Syosset, NY ,27466,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+182,2018,Nissan,Altima_S, 17997, Syosset, NY ,1899,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+183,2018,Nissan,Rogue_SV, 18895, Syosset, NY ,30708,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+184,2019,Nissan,Rogue_Sport_SV, 19990, Hasbrouck Heights, NJ ,37141,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+185,2018,Nissan,Altima_S, 16587, Syosset, NY ,42633,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,14
+186,2019,Nissan,Pathfinder_SL, 27990, Hasbrouck Heights, NJ ,34258,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+187,2018,Nissan,Pathfinder_SV, 21995, Totowa, NJ ,51542,No Accident or Damage Reported,SUV,Green_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+188,2018,Nissan,Rogue_SV, 19596, Syosset, NY ,28141,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+189,2018,Nissan,Rogue_SV, 19956, Syosset, NY ,16483,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+190,2019,Nissan,Maxima_Platinum, 31880, Hempstead, NY ,15106,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+191,2021,Nissan,Rogue_S, 25816, Saint James, NY ,4361,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Commercial Use,3
+192,2018,Nissan,Rogue_SV, 20819, North Plainfield, NJ ,38091,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+193,2018,Nissan,Rogue_SV, 19995, Inwood, NY ,30700,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+194,2019,Nissan,Sentra_SV, 15995, Edison, NJ ,36378,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,9
+195,2020,Nissan,Altima_SR, 23995, Inwood, NY ,13192,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+196,2018,Nissan,Altima_SR_Midnight, 18995, Edison, NJ ,31425,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+197,2019,Nissan,Pathfinder_Platinum, 32995, Edison, NJ ,18909,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+198,2019,Nissan,Armada_SL, 43038, Saint James, NY ,28259,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,10
+199,2018,Nissan,Rogue_S, 17226, Brooklyn, NY ,59520,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+200,2019,Nissan,Armada_SL, 43038, Saint James, NY ,28259,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,10
+201,2019,Nissan,Rogue_SV, 19995, Hempstead, NY ,28421,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+202,2018,Nissan,Rogue_Sport_S, 19880, Red Bank, NJ ,32132,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+203,2018,Nissan,Rogue_SV, 18679, Lynbrook, NY ,32721,No Accident or Damage Reported,SUV,Orange_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+204,2018,Nissan,Altima_SR, 18988, Yonkers, NY ,28140,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+205,2019,Nissan,Murano_S, 23644, Lynbrook, NY ,20304,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+206,2020,Nissan,Altima_S, 20415, Huntington Station, NY ,7606,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Commercial Use,4
+207,2018,Nissan,Pathfinder_SV, 22997, Lodi, NJ ,33726,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+208,2016,Nissan,Pathfinder_SL, 23595, Mount Kisco, NY ,39018,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+209,2017,Nissan,Rogue_SL, 23588, Bronx, NY ,24435,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,12
+210,2018,Nissan,Murano_SL, 29888, Bronx, NY ,15205,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+211,2018,Nissan,Rogue_SV, 22347, Staten Island, NY ,24380,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+212,2018,Nissan,Altima_SR, 17995, Jamaica, NY ,25196,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+213,2018,Nissan,Rogue_SV, 22894, Staten Island, NY ,12504,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+214,2018,Nissan,Rogue, 25096, Staten Island, NY ,31192,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+215,2018,Nissan,Rogue_SV, 19789, Saint James, NY ,46732,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+216,2018,Nissan,Rogue_SV, 20546, Saint James, NY ,37581,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+217,2019,Nissan,Rogue_SV, 22511, Bronx, NY ,24299,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+218,2018,Nissan,Rogue_SV, 20593, Saint James, NY ,37589,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+219,2019,Nissan,Sentra_SV, 15995, Edison, NJ ,46830,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,11
+220,2018,Nissan,Rogue_SV, 21729, Staten Island, NY ,35574,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+221,2018,Nissan,Murano_SL, 25495, Yonkers, NY ,41299,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+222,2018,Nissan,Rogue, 20675, Staten Island, NY ,21428,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+223,2019,Nissan,Rogue_Sport_SV, 22349, Staten Island, NY ,25080,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+224,2018,Nissan,Rogue, 22497, Staten Island, NY ,20779,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+225,2019,Nissan,Rogue_SV, 22511, Bronx, NY ,24299,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+226,2018,Nissan,Murano_SL, 25495, Yonkers, NY ,41299,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+227,2018,Nissan,Rogue_SV, 20593, Saint James, NY ,37589,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+228,2019,Nissan,Sentra_SV, 15995, Edison, NJ ,46830,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,11
+229,2018,Nissan,Rogue_SV, 20695, Yonkers, NY ,27387,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+230,2018,Nissan,Rogue_SV, 21495, Yonkers, NY ,27709,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+231,2019,Nissan,Rogue_S, 20495, Yonkers, NY ,32477,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,12
+232,2018,Nissan,Rogue_SV, 20495, Yonkers, NY ,34487,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+233,2018,Nissan,Rogue_S, 16495, Hackensack, NJ ,50457,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+234,2018,Nissan,Murano_S, 22950, Saint James, NY ,43529,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+235,2018,Nissan,Rogue_S, 18995, Yonkers, NY ,41838,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+236,2018,Nissan,Rogue, 22129, Staten Island, NY ,29142,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+237,2018,Nissan,Rogue_SV, 19495, Yonkers, NY ,37314,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+238,2018,Nissan,Rogue_SV, 19995, Yonkers, NY ,35264,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+239,2019,Nissan,Rogue_SV, 19995, Yonkers, NY ,59868,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,14
+240,2018,Nissan,Rogue_SL, 23488, Upper Saddle River, NJ ,32433,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+241,2018,Nissan,Rogue_SV, 21729, Staten Island, NY ,35574,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+242,2018,Nissan,Rogue_SV, 20900, Ozone Park, NY ,16557,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+243,2018,Nissan,Rogue_SV, 20900, Ozone Park, NY ,30430,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+244,2018,Nissan,Rogue_Sport, 20995, Saint James, NY ,34025,No Accident or Damage Reported,SUV,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+245,2018,Nissan,Rogue_SV, 21295, Yonkers, NY ,33474,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+246,2019,Nissan,Rogue_S, 21995, Freehold, NJ ,31015,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+247,2018,Nissan,Murano, 28573, Staten Island, NY ,23159,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+248,2019,Nissan,Rogue_SV, 21814, Saint James, NY ,42048,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+249,2018,Nissan,Rogue, 21884, Staten Island, NY ,18590,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+250,2019,Nissan,Sentra_SR, 17500, Ozone Park, NY ,10944,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,9
+251,2018,Nissan,Pathfinder, 29092, Staten Island, NY ,28106,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+252,2018,Nissan,Rogue, 21884, Staten Island, NY ,18590,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+253,2019,Nissan,Murano, 26311, Staten Island, NY ,6587,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+254,2018,Nissan,Rogue_SL, 23900, Ozone Park, NY ,33645,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,13
+255,2019,Nissan,Murano, 25720, Staten Island, NY ,23061,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+256,2020,Nissan,Sentra_S, 19778, Upper Saddle River, NJ ,8846,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+257,2018,Nissan,Murano, 28573, Staten Island, NY ,23159,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+258,2018,Nissan,Rogue_SV, 21828, Staten Island, NY ,19742,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+259,2018,Nissan,Rogue_SV, 20995, Greenvale, NY ,36482,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+260,2018,Nissan,Rogue_Sport_SV, 19995, Hempstead, NY ,25499,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+261,2018,Nissan,Rogue_SV, 20995, Greenvale, NY ,36705,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+262,2018,Nissan,Pathfinder_SL, 26900, Ozone Park, NY ,32023,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+263,2018,Nissan,Rogue, 21767, Staten Island, NY ,20985,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+264,2018,Nissan,Rogue_SV, 20900, Ozone Park, NY ,30430,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+265,2018,Nissan,Rogue_SV, 20900, Ozone Park, NY ,16557,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+266,2019,Nissan,Pathfinder_S, 26407, Saint James, NY ,24892,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+267,2018,Nissan,Rogue_SV, 20995, Edison, NJ ,31934,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+268,2018,Nissan,Rogue_SV, 19895, Yonkers, NY ,39313,No Accident or Damage Reported,SUV,Green_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+269,2018,Nissan,Murano_SL, 26387, Flemington, NJ ,50298,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+270,2019,Nissan,Murano, 26249, Staten Island, NY ,13861,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+271,2018,Nissan,Murano_SV, 24080, Saint James, NY ,42620,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+272,2018,Nissan,Rogue_SV, 21325, Saint James, NY ,31008,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,20
+273,2018,Nissan,Rogue_S, 19288, Upper Saddle River, NJ ,28776,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+274,2018,Nissan,Rogue_SV, 20588, Upper Saddle River, NJ ,34300,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+275,2018,Nissan,Rogue_SL, 23998, Upper Saddle River, NJ ,31954,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+276,2018,Nissan,Rogue_SV, 20995, Greenvale, NY ,36482,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+277,2018,Nissan,Pathfinder_SL, 26900, Ozone Park, NY ,32023,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+278,2018,Nissan,Rogue_SV, 20588, Upper Saddle River, NJ ,21539,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+279,2018,Nissan,Pathfinder_S, 22998, Upper Saddle River, NJ ,36178,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+280,2018,Nissan,Rogue, 21767, Staten Island, NY ,20985,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+281,2018,Nissan,Murano_Platinum, 31023, Staten Island, NY ,23608,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+282,2018,Nissan,Murano_S, 23788, Upper Saddle River, NJ ,30965,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+283,2018,Nissan,Rogue_Sport_SV, 19995, Hempstead, NY ,25499,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+284,2018,Nissan,Rogue_SV, 20995, Greenvale, NY ,36705,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+285,2018,Nissan,Rogue_SV, 20495, Hackensack, NJ ,33208,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+286,2019,Nissan,Frontier_SV, 29703, Saint James, NY ,29468,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_4.0_L_,CARFAX 1-Owner,Personal Use,4
+287,2019,Nissan,Sentra_SV, 16495, Hackensack, NJ ,32049,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,5
+288,2019,Nissan,Sentra_SR, 17500, Ozone Park, NY ,10944,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,9
+289,2018,Nissan,Rogue_SV, 20995, Greenvale, NY ,19291,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+290,2018,Nissan,Rogue_SV, 19995, Hempstead, NY ,40193,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+291,2018,Nissan,Rogue_Sport_SV, 19500, Ozone Park, NY ,13362,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+292,2019,Nissan,Murano_S, 26345, Flemington, NJ ,18554,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+293,2018,Nissan,Sentra_SV, 15450, Forest Hills, NY ,14320,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,2
+294,2018,Nissan,Rogue_SV, 19617, Westbury, NY ,21893,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,12
+295,2019,Nissan,Rogue_SV, 19995, Totowa, NJ ,24094,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+296,2018,Nissan,Rogue_SV, 18998, Syosset, NY ,32903,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+297,2018,Nissan,Rogue_SV, 19457, Syosset, NY ,31179,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+298,2019,Nissan,Rogue_Sport_SV, 20990, Hasbrouck Heights, NJ ,25911,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+299,2017,Nissan,Rogue_SL, 21290, Hasbrouck Heights, NJ ,32952,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,14
+300,2018,Nissan,Rogue_SV, 20890, Hasbrouck Heights, NJ ,16947,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+301,2018,Nissan,Rogue_SV, 18998, Syosset, NY ,32903,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+302,2018,Nissan,Rogue_SV, 20590, Hasbrouck Heights, NJ ,14218,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+303,2019,Nissan,Murano_S, 24990, Hasbrouck Heights, NJ ,24680,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+304,2019,Nissan,Rogue_Sport_SV, 20990, Hasbrouck Heights, NJ ,25911,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+305,2018,Nissan,Pathfinder_SL, 28550, Wilton, CT ,33650,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+306,2018,Nissan,Rogue_SL, 20995, Inwood, NY ,43091,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+307,2019,Nissan,Rogue_S, 21900, Wilton, CT ,17338,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+308,2019,Nissan,Sentra_SV, 16397, Syosset, NY ,27524,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,8
+309,2019,Nissan,Rogue_SV, 22996, Syosset, NY ,13225,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+310,2018,Nissan,Rogue_SV, 19796, Syosset, NY ,24199,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+311,2018,Nissan,Pathfinder_SV, 23900, Wilton, CT ,40211,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+312,2020,Nissan,Versa_SR, 16498, Morristown, NJ ,23250,No Accident or Damage Reported,Sedan,Orange_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,5
+313,2018,Nissan,Rogue_SL, 24750, Wilton, CT ,27837,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+314,2019,Nissan,Pathfinder_S, 22890, Hasbrouck Heights, NJ ,37650,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+315,2019,Nissan,Altima_SR, 22997, Syosset, NY ,3369,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+316,2018,Nissan,Rogue_SV, 19597, Syosset, NY ,12966,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+317,2018,Nissan,Rogue_S, 17497, Syosset, NY ,24908,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+318,2018,Nissan,Rogue_SL, 23860, Wilton, CT ,31002,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+319,2018,Nissan,Rogue_SV, 19890, Hasbrouck Heights, NJ ,36309,No Accident or Damage Reported,SUV,Green_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+320,2018,Nissan,Sentra_S, 14995, Wilton, CT ,13377,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,6
+321,2018,Nissan,Pathfinder_SV, 25171, Huntington Station, NY ,36160,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+322,2018,Nissan,Rogue_S, 19006, Port Chester, NY ,33627,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,13
+323,2018,Nissan,Rogue_S, 20550, Port Chester, NY ,26334,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+324,2018,Nissan,Murano_SV, 24499, North Plainfield, NJ ,41593,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+325,2018,Nissan,Murano_S, 22995, Edison, NJ ,33094,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+326,2017,Nissan,Murano_SL, 20457, Union, NJ ,80362,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,19
+327,2018,Nissan,Pathfinder_SL, 29958, Great Neck, NY ,6522,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+328,2019,Nissan,Sentra_SV, 17618, Great Neck, NY ,3193,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,6
+329,2018,Nissan,Rogue_SV, 20995, Edison, NJ ,27154,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+330,2015,Nissan,Frontier_SV, 18495, West Babylon, NY ,88773,No Accident or Damage Reported,Pickup,Red_Engine:_6_Cyl_4.0_L_,CARFAX 1-Owner,Personal Use,5
+331,2020,Nissan,Rogue_S, 21995, Inwood, NY ,10665,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+332,2018,Nissan,Murano_SV, 24499, North Plainfield, NJ ,41593,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+333,2018,Nissan,Rogue_SV, 21014, North Plainfield, NJ ,29427,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+334,2018,Nissan,Pathfinder_S, 22995, Bloomfield, NJ ,31254,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+335,2019,Nissan,Sentra_SV, 14995, Inwood, NY ,42275,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,1
+336,2018,Nissan,Rogue_SV, 19995, Inwood, NY ,14328,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+337,2018,Nissan,Sentra_SV, 14995, Edison, NJ ,33299,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,8
+338,2018,Nissan,Rogue_Sport_SL, 21995, Denville, NJ ,20585,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+339,2018,Nissan,Rogue_SV, 19995, Totowa, NJ ,32045,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,12
+340,2019,Nissan,Murano_S, 24550, Red Bank, NJ ,45164,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+341,2018,Nissan,Murano_SL, 26290, Hasbrouck Heights, NJ ,26927,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+342,2018,Nissan,Rogue_SV, 22550, Red Bank, NJ ,24791,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+343,2018,Nissan,Rogue_SL, 25683, Red Bank, NJ ,21864,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+344,2018,Nissan,Kicks_S, 18880, Red Bank, NJ ,12822,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,3
+345,2018,Nissan,Rogue_SL, 24550, Red Bank, NJ ,37528,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+346,2019,Nissan,Altima_S, 21580, Red Bank, NJ ,46767,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,12
+347,2018,Nissan,Murano_Platinum, 30888, Red Bank, NJ ,26415,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+348,2020,Nissan,Kicks_S, 18995, Bay Shore, NY ,10385,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,4
+349,2018,Nissan,Rogue_S, 18495, Edison, NJ ,31394,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+350,2018,Nissan,Rogue_SL, 25995, Keyport, NJ ,41766,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+351,2019,Nissan,Altima_Platinum, 28995, Keyport, NJ ,31661,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,14
+352,2018,Nissan,Murano_S, 23450, Yonkers, NY ,29398,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+353,2019,Nissan,Rogue_S, 19985, Yonkers, NY ,37874,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+354,2019,Nissan,Frontier_SV, 27994, Westbury, NY ,33780,No Accident or Damage Reported,Pickup,Gray_Engine:_6_Cyl_4.0_L_,CARFAX 1-Owner,Personal Use,3
+355,2019,Nissan,Rogue_SV, 22838, Huntington Station, NY ,24214,Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+356,2019,Nissan,Rogue_Sport_SV, 20612, Westbury, NY ,29700,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+357,2016,Nissan,Rogue_S, 17695, Great Neck, NY ,11535,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+358,2018,Nissan,Rogue_S, 20990, New York, NY,43526,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+359,2018,Nissan,Maxima_SL, 22995, Hackensack, NJ ,33528,Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+360,2019,Nissan,Sentra_SV, 14995, Hempstead, NY ,22516,Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,3
+361,2015,Nissan,Rogue_SV, 17264, Huntington Station, NY ,28647,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+362,2019,Nissan,Pathfinder_SV, 29226, Huntington Station, NY ,15593,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+363,2017,Nissan,Sentra_SV, 12880, Red Bank, NJ ,70776,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,8
+364,2018,Nissan,Rogue_SL, 22548, Brooklyn, NY ,14390,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+365,2016,Nissan,Rogue_SV, 18395, Pt Pleasant, NJ ,43792,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+366,2018,Nissan,Rogue_SV, 18895, Totowa, NJ ,44565,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,15
+367,2018,Nissan,Rogue_Sport_SV, 18900, Ozone Park, NY ,18721,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+368,2018,Nissan,Rogue_SV, 17490, Bronx, NY ,40965,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+369,2018,Nissan,Rogue_SV, 17841, Great Neck, NY ,25013,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+370,2018,Nissan,Altima_SV, 17995, Totowa, NJ ,31712,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+371,2018,Nissan,Rogue_S, 16995, Inwood, NY ,27542,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+372,2020,Nissan,Pathfinder_SL, 30997, Syosset, NY ,16254,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+373,2017,Nissan,Armada_Platinum_Edition, 40943, Blauvelt, NY ,52636,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,20
+374,2018,Nissan,Maxima_SV, 21498, Floral Park, NY ,31352,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+375,2019,Nissan,Versa_SV, 13990, West Nyack, NY ,33336,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Rental Use,1
+376,2018,Nissan,Murano_S, 24999, Fairfield, CT ,20571,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+377,2018,Nissan,Rogue_SV, 19995, Edison, NJ ,42555,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+378,2018,Nissan,Rogue_SV, 19833, Saint James, NY ,43545,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+379,2018,Nissan,Murano_S, 24995, Edison, NJ ,14371,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+380,2018,Nissan,Murano_S, 23295, North Plainfield, NJ ,39767,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+381,2018,Nissan,Rogue_SV, 18995, Inwood, NY ,31570,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+382,2018,Nissan,Rogue_SV, 19995, Inwood, NY ,26430,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+383,2020,Nissan,Rogue_SV, 22995, Inwood, NY ,9040,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+384,2018,Nissan,Altima_SR, 18416, Great Neck, NY ,31087,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+385,2018,Nissan,Maxima_SL, 27117, Great Neck, NY ,227,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+386,2019,Nissan,Rogue_SV, 17995, Irvington, NJ ,107420,No Accident or Damage Reported,SUV,4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+387,2020,Nissan,Murano_S, 28800, Bloomfield, NJ ,9592,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+388,2019,Nissan,Murano_S, 25995, Edison, NJ ,11041,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+389,2018,Nissan,Murano_SV, 24952, North Plainfield, NJ ,30289,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+390,2018,Nissan,Murano_S, 20995, South Hackensack, NJ ,35927,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+391,2018,Nissan,Rogue_SV, 20995, Edison, NJ ,28544,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+392,2018,Nissan,Rogue_SV, 20995, Edison, NJ ,16574,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+393,2018,Nissan,Rogue_SV, 20995, Edison, NJ ,26453,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+394,2018,Nissan,Rogue_SL, 22995, Edison, NJ ,33540,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+395,2018,Nissan,Rogue_SV, 20998, COLONIA, NJ ,43126,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+396,2018,Nissan,Murano_S, 19439, Great Neck, NY ,45961,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+397,2018,Nissan,Rogue_SV, 19795, Edison, NJ ,38882,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+398,2019,Nissan,Rogue_SV, 21995, Denville, NJ ,36696,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+399,2020,Nissan,Rogue_S, 20995, Inwood, NY ,8103,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+400,2019,Nissan,Rogue_SV, 21995, Denville, NJ ,36696,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+401,2018,Nissan,Murano_S, 19998, West Babylon, NY ,30764,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+402,2019,Nissan,Altima_SL, 19998, West Babylon, NY ,31261,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+403,2020,Nissan,Rogue_S, 20995, Inwood, NY ,8103,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+404,2018,Nissan,Rogue_SV, 19995, Inwood, NY ,26498,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+405,2018,Nissan,Rogue_SL, 23495, Denville, NJ ,36357,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,13
+406,2017,Nissan,Rogue_SV, 18495, Denville, NJ ,55160,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+407,2019,Nissan,Murano_S, 25290, Hasbrouck Heights, NJ ,21650,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+408,2019,Nissan,Murano_SV, 27799, Syosset, NY ,12109,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+409,2018,Nissan,Rogue_SL, 23290, Hasbrouck Heights, NJ ,33157,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+410,2018,Nissan,Maxima_SV, 20197, Syosset, NY ,53567,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+411,2018,Nissan,Rogue_SL, 20994, Syosset, NY ,41239,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+412,2018,Nissan,Murano_S, 22589, Syosset, NY ,16439,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+413,2018,Nissan,Rogue_Sport_SV, 20590, Wilton, CT ,22938,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+414,2019,Nissan,Sentra_SV, 16997, Syosset, NY ,11177,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,11
+415,2018,Nissan,Rogue_SV, 21750, Wilton, CT ,31825,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+416,2018,Nissan,Rogue_SV, 20694, Wilton, CT ,33189,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+417,2020,Nissan,Murano_SL, 34500, Wilton, CT ,16613,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+418,2018,Nissan,Murano_SL, 26900, Wilton, CT ,25130,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+419,2019,Nissan,Sentra_SV, 16557, Syosset, NY ,22487,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,8
+420,2019,Nissan,Murano_SL, 27997, Syosset, NY ,46445,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+421,2019,Nissan,Pathfinder_SL, 27795, Massapequa, NY ,30644,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+422,2018,Nissan,Murano_SL, 26490, Hasbrouck Heights, NJ ,27423,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+423,2019,Nissan,Sentra_SR, 17997, Syosset, NY ,26277,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,10
+424,2018,Nissan,Rogue_SV, 21889, Syosset, NY ,20332,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+425,2020,Nissan,Murano_SL, 34500, Wilton, CT ,16613,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+426,2018,Nissan,Murano_SL, 26490, Hasbrouck Heights, NJ ,27423,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+427,2018,Nissan,Rogue_SV, 21750, Wilton, CT ,31825,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+428,2018,Nissan,Rogue_SV, 20694, Wilton, CT ,33189,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+429,2019,Nissan,Sentra_SV, 16557, Syosset, NY ,22487,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,8
+430,2019,Nissan,Murano_SL, 27997, Syosset, NY ,46445,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+431,2018,Nissan,Rogue_SV, 20950, Wilton, CT ,31949,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+432,2018,Nissan,Murano_SL, 28988, Lakewood, NJ ,20986,No Accident or Damage Reported,SUV,6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+433,2019,Nissan,Altima_SV, 20390, Hasbrouck Heights, NJ ,39222,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+434,2019,Nissan,Sentra_SV, 16797, Syosset, NY ,19908,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,6
+435,2020,Nissan,Murano_SL, 33997, Syosset, NY ,14395,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+436,2018,Nissan,Rogue_S, 17296, Syosset, NY ,22420,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+437,2018,Nissan,Rogue_S, 19495, Wilton, CT ,20309,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+438,2018,Nissan,Pathfinder_SL, 26497, Syosset, NY ,43336,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+439,2019,Nissan,Rogue_SV, 19710, Syosset, NY ,33777,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+440,2018,Nissan,Pathfinder_Platinum, 31597, Syosset, NY ,17479,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+441,2018,Nissan,Rogue_Sport_SV, 20590, Wilton, CT ,22938,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+442,2019,Nissan,Murano_S, 25290, Hasbrouck Heights, NJ ,21650,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+443,2019,Nissan,Pathfinder_Platinum, 30990, Hasbrouck Heights, NJ ,23469,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+444,2018,Nissan,Rogue_SL, 23290, Hasbrouck Heights, NJ ,33157,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+445,2018,Nissan,Rogue_SL, 23590, Hasbrouck Heights, NJ ,22271,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+446,2018,Nissan,Rogue_SV, 18989, Syosset, NY ,27484,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+447,2018,Nissan,Rogue_SV, 18896, Syosset, NY ,30668,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+448,2018,Nissan,Rogue_SV, 21000, Wilton, CT ,34024,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+449,2018,Nissan,Rogue_SV, 21554, Port Chester, NY ,28708,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+450,2018,Nissan,Maxima_SL, 23495, Hackensack, NJ ,10416,Accident Reported,Sedan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+451,2016,Nissan,Rogue_SL, 11792, Ramsey, NJ ,143192,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,2-Owner,Personal Use,32
+452,2018,Nissan,Rogue_S, 16994, Syosset, NY ,29858,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,14
+453,2019,Nissan,Altima_SL, 20995, Inwood, NY ,30751,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+454,2019,Nissan,Armada_SV, 39888, East Brunswick, NJ ,16246,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,5
+455,2018,Nissan,Rogue_SV, 17995, Totowa, NJ ,34850,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+456,2018,Nissan,Rogue_Sport_SV, 19880, Red Bank, NJ ,43880,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+457,2018,Nissan,Rogue_SV, 21380, Red Bank, NJ ,36594,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+458,2018,Nissan,Rogue_SV, 21250, Red Bank, NJ ,48054,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+459,2018,Nissan,Rogue_SV, 21880, Red Bank, NJ ,36487,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+460,2018,Nissan,Pathfinder_SL, 29550, Red Bank, NJ ,32185,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+461,2018,Nissan,Rogue_SV, 21680, Red Bank, NJ ,33187,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+462,2018,Nissan,Rogue_Sport_SL, 22880, Red Bank, NJ ,33981,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+463,2018,Nissan,Rogue_SV, 22388, Red Bank, NJ ,21664,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+464,2018,Nissan,Rogue_SV, 20998, Red Bank, NJ ,64694,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+465,2017,Nissan,Rogue_Sport_SV, 18386, Huntington Station, NY ,53147,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,13
+466,2020,Nissan,Altima_S, 18999, North Plainfield, NJ ,7289,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Rental Use,1
+467,2020,Nissan,Altima_S, 18998, North Plainfield, NJ ,6259,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Rental Use,1
+468,2018,Nissan,Rogue_SV, 21661, Huntington Station, NY ,21141,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+469,2020,Nissan,Altima_S, 20459, Huntington Station, NY ,6309,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Commercial Use,3
+470,2020,Nissan,Altima_S, 20467, Huntington Station, NY ,5596,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Commercial Use,4
+471,2018,Nissan,Rogue_SV, 21884, Huntington Station, NY ,18401,Accident/Minor Damage,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+472,2020,Nissan,Altima_S, 20438, Huntington Station, NY ,6723,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Commercial Use,4
+473,2018,Nissan,Murano_SV, 19390, Wantagh, NY ,38457,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+474,2020,Nissan,Versa_SR, 17409, Trenton, NJ ,22912,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,8
+475,2019,Nissan,Rogue_SV, 21464, Syosset, NY ,24120,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+476,2018,Nissan,Maxima_S, 25673, Blauvelt, NY ,8827,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+477,2020,Nissan,Maxima_SR, 30990, Bronx, NY ,32129,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+478,2020,Nissan,Altima_SR, 23990, Bronx, NY ,14633,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+479,2018,Nissan,Rogue_SV, 18000, Blauvelt, NY ,66120,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+480,2019,Nissan,Rogue_Sport_SV, 20198, Huntington Station, NY ,58017,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+481,2018,Nissan,Pathfinder_Platinum, 31928, Huntington Station, NY ,29979,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+482,2019,Nissan,Pathfinder_SL, 30519, Huntington Station, NY ,31373,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+483,2020,Nissan,Rogue_Sport_S, 21671, Westbury, NY ,19233,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+484,2018,Nissan,Rogue_SV, 20981, Westbury, NY ,13263,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+485,2019,Nissan,Murano_S, 25289, Westbury, NY ,18295,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+486,2020,Nissan,Altima_S, 19995, Yonkers, NY ,19997,Accident/Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+487,2018,Nissan,Kicks_SV, 17980, Brooklyn, NY ,19540,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,3
+488,2020,Nissan,Altima_SR, 22995, Bay Shore, NY ,10106,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+489,2018,Nissan,Altima_SR, 17995, Totowa, NJ ,45423,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+490,2018,Nissan,Altima_SR, 16995, Totowa, NJ ,46655,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+491,2020,Nissan,Sentra_SV, 19995, Bay Shore, NY ,4728,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+492,2018,Nissan,Rogue_SV, 18995, Totowa, NJ ,31919,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+493,2020,Nissan,Pathfinder_SL, 30995, Totowa, NJ ,11812,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+494,2017,Nissan,Titan_SV, 28996, Flemington, NJ ,68911,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.6_L_,2-Owner,Personal Use,24
+495,2021,Nissan,Rogue_S, 25652, Saint James, NY ,5778,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Commercial Use,6
+496,2020,Nissan,Altima_SR, 20995, Totowa, NJ ,18225,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,16
+497,2018,Nissan,Rogue_SV, 22081, North Plainfield, NJ ,16722,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+498,2018,Nissan,Pathfinder_SV, 22998, West Babylon, NY ,29100,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,14
+499,2018,Nissan,Rogue_SV, 19995, Inwood, NY ,18338,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+500,2018,Nissan,Pathfinder_SV, 22998, West Babylon, NY ,29100,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,14
+501,2018,Nissan,Rogue_SV, 18995, Inwood, NY ,38498,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+502,2020,Nissan,Murano_SL, 32995, Inwood, NY ,10170,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+503,2018,Nissan,Rogue_Sport_SV, 18995, Inwood, NY ,47018,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+504,2018,Nissan,Sentra_S, 15970, North Plainfield, NJ ,19230,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,5
+505,2018,Nissan,Rogue_SV, 19995, Inwood, NY ,18338,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+506,2018,Nissan,Rogue_S, 19995, Edison, NJ ,20860,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+507,2019,Nissan,Sentra_SV, 15995, Edison, NJ ,33393,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,9
+508,2018,Nissan,Murano_SL, 28995, Inwood, NY ,18767,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+509,2018,Nissan,Rogue_SV, 19995, Inwood, NY ,29541,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+510,2018,Nissan,Rogue_SV, 20995, Inwood, NY ,23149,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+511,2019,Nissan,Rogue_SL, 23995, Hempstead, NY ,14402,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+512,2019,Nissan,Murano_SV, 27995, Edison, NJ ,15482,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+513,2019,Nissan,Rogue_S, 20995, Edison, NJ ,24124,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+514,2016,Nissan,Maxima_SR, 17499, East Brunswick, NJ ,88944,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+515,2019,Nissan,Murano_S, 25895, Edison, NJ ,23676,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+516,2018,Nissan,Sentra_SV, 14995, Edison, NJ ,43441,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,8
+517,2018,Nissan,Rogue_SV, 23995, Sussex, NJ ,19849,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+518,2018,Nissan,Rogue_SV, 17494, Great Neck, NY ,46374,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+519,2018,Nissan,Rogue_SV, 20395, Edison, NJ ,33812,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+520,2019,Nissan,Murano_S, 26495, Edison, NJ ,11711,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+521,2019,Nissan,Murano_S, 22695, Parsippany, NJ ,29260,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+522,2018,Nissan,Rogue_SV, 20995, Edison, NJ ,34522,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+523,2019,Nissan,Rogue_S, 18995, Edison, NJ ,32482,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+524,2018,Nissan,Rogue_Sport_SV, 20695, Edison, NJ ,20257,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+525,2016,Nissan,Maxima_SR, 17499, East Brunswick, NJ ,88944,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+526,2018,Nissan,Sentra_SV, 14995, Edison, NJ ,43441,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,8
+527,2018,Nissan,Rogue_SV, 23995, Sussex, NJ ,19849,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+528,2018,Nissan,Sentra_SV, 13995, Edison, NJ ,36752,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,11
+529,2018,Nissan,Rogue_SV, 19295, Edison, NJ ,49479,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+530,2015,Nissan,Rogue_SV, 8581, Ramsey, NJ ,189394,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,33
+531,2018,Nissan,Murano_Platinum, 22995, Jamaica, NY ,73404,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+532,2018,Nissan,Rogue_SV, 20595, Denville, NJ ,33223,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+533,2018,Nissan,Rogue_SV, 19995, Denville, NJ ,48277,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+534,2018,Nissan,Rogue_SV, 20791, Denville, NJ ,31170,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+535,2018,Nissan,Rogue_SV, 20795, Denville, NJ ,36400,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+536,2019,Nissan,Kicks_SV, 20565, North Plainfield, NJ ,8867,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,8
+537,2018,Nissan,Murano_SL, 29995, Fairfield, CT ,34899,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+538,2019,Nissan,Sentra_SV, 18495, Fairfield, CT ,27927,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,7
+539,2018,Nissan,Sentra_SV, 17495, Fairfield, CT ,17622,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,8
+540,2019,Nissan,Sentra_SL, 20995, Fairfield, CT ,14489,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,6
+541,2018,Nissan,Rogue_SL, 25995, Fairfield, CT ,37249,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+542,2018,Nissan,Murano_S, 25999, Fairfield, CT ,33766,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+543,2018,Nissan,Rogue_SV, 23495, Fairfield, CT ,13739,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+544,2018,Nissan,Rogue_SV, 23495, Fairfield, CT ,32346,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+545,2019,Nissan,Rogue_SL, 16950, Woodside, NY ,40631,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+546,2018,Nissan,Murano_S, 24995, Bayside, NY ,34885,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+547,2015,Nissan,Rogue_SV, 16183, Blauvelt, NY ,42649,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,18
+548,2016,Nissan,Rogue_SV, 15883, East Meadow, NY ,67855,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+549,2015,Nissan,Rogue_SV, 11750, Westport, CT ,111575,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,16
+550,2016,Nissan,Rogue_SV, 15995, Inwood, NY ,41954,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+551,2016,Nissan,Rogue_SV, 15883, East Meadow, NY ,67855,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+552,2018,Nissan,Altima_SR, 17995, Totowa, NJ ,35427,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+553,2018,Nissan,Murano_SL, 27280, Blauvelt, NY ,23738,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+554,2017,Nissan,Rogue_SL, 16900, Bloomfield, NJ ,82177,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+555,2015,Nissan,Rogue_SV, 11750, Westport, CT ,111575,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,16
+556,2018,Nissan,Murano_SL, 26500, Blauvelt, NY ,26290,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+557,2018,Nissan,Pathfinder_S, 21998, Floral Park, NY ,26174,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+558,2018,Nissan,Pathfinder_SL, 28500, Norwalk, CT ,36587,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+559,2018,Nissan,Pathfinder_SV, 25995, Freehold, NJ ,32493,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+560,2018,Nissan,Rogue_S, 20495, Jersey City, NJ ,23484,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,12
+561,2018,Nissan,Rogue_SV, 23995, Keyport, NJ ,26502,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+562,2018,Nissan,Rogue_SL, 26995, Keyport, NJ ,21574,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+563,2018,Nissan,Rogue_S, 20995, Keyport, NJ ,48359,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+564,2018,Nissan,Rogue_SV, 22995, Keyport, NJ ,44805,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+565,2018,Nissan,Rogue_S, 22595, Keyport, NJ ,35035,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+566,2018,Nissan,Rogue_SV, 23495, Keyport, NJ ,33907,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+567,2018,Nissan,Sentra_SV, 14995, Inwood, NY ,30182,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,11
+568,2018,Nissan,Rogue_SL, 24995, Bay Shore, NY ,21357,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+569,2018,Nissan,Pathfinder_SL, 20299, Eatontown, NJ ,86161,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,17
+570,2018,Nissan,Rogue_SV, 20795, Totowa, NJ ,13038,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+571,2018,Nissan,Murano_SV, 21995, Totowa, NJ ,43402,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+572,2018,Nissan,Rogue_S, 18895, Totowa, NJ ,17983,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+573,2019,Nissan,Rogue_SV, 19995, Totowa, NJ ,46485,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+574,2020,Nissan,Altima_SR, 23500, Wilton, CT ,5136,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Lease Use,6
+575,2019,Nissan,Altima_SR, 21279, Freehold, NJ ,20745,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+576,2021,Nissan,Rogue_S, 25002, Huntington Station, NY ,29861,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+577,2019,Nissan,Murano_S, 25477, Huntington Station, NY ,36534,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+578,2018,Nissan,Sentra_SV, 16225, Huntington Station, NY ,33136,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,2
+579,2018,Nissan,Rogue_S, 21211, Woodside, NY ,29628,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+580,2019,Nissan,Rogue_Sport_SV, 23985, Huntington Station, NY ,3239,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+581,2018,Nissan,Murano_SL, 28038, Huntington Station, NY ,30249,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+582,2017,Nissan,Juke_SV, 14750, Little Ferry, NJ ,74181,Accident Reported,SUV,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,7
+583,2021,Nissan,Rogue_Platinum, 38500, Wilton, CT ,6156,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Lease Use,6
+584,2016,Nissan,Altima_SV, 15900, Scarsdale, NY ,25156,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.5_L_,2-Owner,Personal Use,10
+585,2018,Nissan,Rogue_S, 15167, Hempstead, NY ,51453,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+586,2017,Nissan,Sentra_SR, 15600, Ozone Park, NY ,33324,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,9
+587,2018,Nissan,Murano_SV, 24995, Hempstead, NY ,28034,Minor Damage,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+588,2017,Nissan,Pathfinder_SV, 17988, Eatontown, NJ ,91692,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,14
+589,2020,Nissan,Rogue_SV, 24995, Greenvale, NY ,6205,Minor Damage,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+590,2018,Nissan,Pathfinder_S, 20795, Hackensack, NJ ,32810,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+591,2018,Nissan,Rogue_SL, 23395, Yonkers, NY ,30800,Minor Damage,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+592,2018,Nissan,Rogue_Sport_S, 17495, Hackensack, NJ ,39123,Accident Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+593,2021,Nissan,Rogue_S, 26346, Saint James, NY ,3089,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Commercial Use,3
+594,2019,Nissan,Maxima_SL, 26995, Greenvale, NY ,29940,Minor Damage,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+595,2016,Nissan,Murano_SV, 19995, Ramsey, NJ ,44864,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,6
+596,2017,Nissan,Sentra_SV, 14760, Port Chester, NY ,32587,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,2
+597,2018,Nissan,Maxima_SL, 22560, Hollis, NY ,34855,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+598,2017,Nissan,Maxima_SV, 19000, Jersey City, NJ ,53225,Minor Damage,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,14
+599,2019,Nissan,Altima_SV, 23963, Flemington, NJ ,9270,Accident Reported,Sedan,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+600,2018,Nissan,Rogue_S, 18995, Hackensack, NJ ,26944,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,0
+601,2017,Nissan,Sentra_SV, 13158, Jersey City, NJ ,77916,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,3
+602,2018,Nissan,Pathfinder_S, 24888, Bronx, NY ,26686,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+603,2018,Nissan,Rogue, 22571, Staten Island, NY ,19499,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+604,2012,Nissan,Murano_LE, 11991, Flemington, NJ ,87699,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+605,2021,Nissan,Versa_S, 16555, Irvington, NJ ,536,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,2
+606,2017,Nissan,Rogue_SV, 19850, Jackson Heights, NY ,34538,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,12
+607,2017,Nissan,Rogue_Sport_SL, 17887, Butler, NJ ,83450,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+608,2018,Nissan,Rogue_SL, 17990, Freeport, NY ,43314,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+609,2019,Nissan,Altima_SR, 18490, Valley Stream, NY ,34699,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+610,2017,Nissan,Rogue_Sport_SV, 19995, Bayside, NY ,15653,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+611,2018,Nissan,Rogue_S, 20995, Bayside, NY ,23443,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+612,2018,Nissan,Rogue_SL, 24995, Bayside, NY ,17176,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+613,2018,Nissan,Sentra_SL, 17995, Bayside, NY ,28476,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,1
+614,2018,Nissan,Rogue_SL, 24995, Bayside, NY ,21052,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+615,2019,Nissan,Sentra_SV, 16897, Syosset, NY ,18051,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,9
+616,2020,Nissan,Rogue_Sport_S, 21995, Bay Shore, NY ,6351,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+617,2018,Nissan,Rogue_SV, 18995, Totowa, NJ ,28943,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+618,2020,Nissan,Rogue_SV, 23995, Bay Shore, NY ,18904,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+619,2018,Nissan,Rogue_S, 18995, Totowa, NJ ,30961,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+620,2018,Nissan,Rogue_SV, 18995, Totowa, NJ ,44136,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+621,2018,Nissan,Rogue_SL, 23995, Totowa, NJ ,20205,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+622,2018,Nissan,Pathfinder_SL, 26500, Wilton, CT ,40323,Accident/Minor Damage,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+623,2020,Nissan,Rogue_Sport_SV, 21995, Bay Shore, NY ,4245,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+624,2018,Nissan,Murano_S, 22995, Totowa, NJ ,21306,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+625,2018,Nissan,Pathfinder_SL, 26500, Wilton, CT ,40323,Accident/Minor Damage,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+626,2018,Nissan,Murano_S, 22995, Totowa, NJ ,21306,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+627,2018,Nissan,Rogue_SV, 18995, Totowa, NJ ,44136,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+628,2018,Nissan,Rogue_SL, 23995, Totowa, NJ ,20205,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+629,2018,Nissan,Rogue_S, 18995, Totowa, NJ ,30961,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+630,2019,Nissan,Pathfinder_S, 22995, Totowa, NJ ,34780,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+631,2018,Nissan,Rogue_SV, 18995, Totowa, NJ ,19793,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+632,2018,Nissan,Murano_SL, 25995, Totowa, NJ ,29711,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+633,2018,Nissan,Rogue_Sport_SV, 18395, Totowa, NJ ,29966,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+634,2018,Nissan,Rogue_SV, 17995, Totowa, NJ ,50020,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+635,2018,Nissan,Rogue_Sport_SL, 19995, Totowa, NJ ,21130,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+636,2019,Nissan,Murano_S, 21995, Bay Shore, NY ,39148,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+637,2019,Nissan,Sentra_SV, 14995, Bay Shore, NY ,28815,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,1
+638,2018,Nissan,Rogue_S, 15216, Hempstead, NY ,62327,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+639,2018,Nissan,Murano_SV, 25644, Blauvelt, NY ,26698,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+640,2018,Nissan,Rogue_S, 17995, Totowa, NJ ,28980,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+641,2018,Nissan,Maxima_Platinum, 24900, Jersey City, NJ ,26676,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+642,2018,Nissan,Murano_S, 22923, Blauvelt, NY ,47910,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+643,2018,Nissan,Murano_SL, 28224, Blauvelt, NY ,25880,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+644,2018,Nissan,Rogue_SV, 20975, Blauvelt, NY ,34601,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+645,2018,Nissan,Rogue_SL, 22000, Jersey City, NJ ,34526,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+646,2018,Nissan,Murano_SL, 26509, Blauvelt, NY ,27060,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+647,2018,Nissan,Rogue_Sport_SV, 21106, Blauvelt, NY ,22461,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+648,2018,Nissan,Sentra_SV, 15248, Blauvelt, NY ,20612,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,2
+649,2018,Nissan,Rogue_SV, 21357, Brooklyn, NY ,22770,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+650,2016,Nissan,Sentra_SV, 11998, Edison, NJ ,64270,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,17
+651,2018,Nissan,Sentra_SV, 15402, Blauvelt, NY ,31770,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,1
+652,2019,Nissan,Sentra_SV, 17576, Blauvelt, NY ,11383,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,5
+653,2019,Nissan,Sentra_SV, 17551, Blauvelt, NY ,18493,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,1
+654,2018,Nissan,Pathfinder_SL, 26575, Bronx, NY ,38304,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+655,2018,Nissan,Rogue_Sport_SL, 22488, Green Brook, NJ ,35221,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+656,2019,Nissan,Rogue_SV, 25195, Robbinsville, NJ ,31643,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,12
+657,2018,Nissan,Rogue_SV, 23625, Robbinsville, NJ ,28462,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+658,2017,Nissan,Pathfinder_S, 19995, Inwood, NY ,35323,Minor Damage,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+659,2016,Nissan,Altima_SR, 14995, Inwood, NY ,29867,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.5_L_,3+ Owners,Personal Use,15
+660,2019,Nissan,Maxima_S, 25900, Rahway, NJ ,8373,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+661,2010,Nissan,Rogue_S, 5999, Brooklyn, NY ,131691,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,18
+662,2018,Nissan,Rogue, 15999, Woodside, NY ,50237,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+663,2010,Nissan,Altima, 5195, Linden, NJ ,117986,Major Damage,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,29
+664,2018,Nissan,Maxima_S, 26488, East Hanover, NJ ,26767,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+665,2018,Nissan,Rogue_SL, 24295, Yonkers, NY ,12339,Minor Damage,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+666,2019,Nissan,Rogue_S, 21995, Freehold, NJ ,19214,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Corporate Use,1
+667,2018,Nissan,Rogue_S, 18995, Freehold, NJ ,43451,Minor Damage,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+668,2018,Nissan,Rogue_Sport_S, 19995, Freehold, NJ ,17047,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+669,2014,Nissan,Maxima, 12499, Little Ferry, NJ ,73607,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,17
+670,2018,Nissan,Altima_S, 16588, Upper Saddle River, NJ ,44622,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+671,2018,Nissan,Rogue_SV, 20488, Upper Saddle River, NJ ,36456,Minor Damage,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+672,2021,Nissan,Rogue_Sport_SV, 25588, Upper Saddle River, NJ ,5892,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,3
+673,2018,Nissan,Rogue_SV, 20995, Hackensack, NJ ,21471,Minor Damage,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+674,2019,Nissan,Pathfinder_S, 24588, Upper Saddle River, NJ ,39796,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,10
+675,2018,Nissan,Rogue_SL, 22900, Ozone Park, NY ,17410,Accident Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+676,2019,Nissan,Murano_SL, 27995, Ozone Park, NY ,21724,Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+677,2018,Nissan,Rogue_SL, 23900, Ozone Park, NY ,34428,Minor Damage,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+678,2018,Nissan,Titan_PRO-4X, 40722, Springfield, NJ ,15191,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.6_L_,2-Owner,Personal Use,8
+679,2018,Nissan,Rogue_SV, 19995, Yonkers, NY ,33121,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+680,2018,Nissan,Rogue_SV, 20495, Yonkers, NY ,26044,Minor Damage,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+681,2018,Nissan,Rogue_SV, 20495, Yonkers, NY ,38870,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,13
+682,2018,Nissan,Rogue_S, 20995, Ozone Park, NY ,11632,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,2-Owner,Personal Use,5
+683,2018,Nissan,Rogue_SV, 21695, Yonkers, NY ,23686,Minor Damage,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+684,2018,Nissan,Rogue_SV, 21395, Yonkers, NY ,14818,Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+685,2019,Nissan,Murano_S, 23995, Greenvale, NY ,35080,Accident/Minor Damage,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+686,2018,Nissan,Rogue_Sport_S, 19995, Freehold, NJ ,17047,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+687,2018,Nissan,Rogue_SV, 20995, Hackensack, NJ ,21471,Minor Damage,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+688,2018,Nissan,Rogue_Sport_SV, 19495, Yonkers, NY ,27791,Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+689,2018,Nissan,Rogue_S, 16900, Ozone Park, NY ,18836,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,2-Owner,Personal Use,3
+690,2018,Nissan,Rogue_SV, 17995, Hempstead, NY ,18249,Accident Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+691,2019,Nissan,Altima_SL, 19995, Hempstead, NY ,37020,Minor Damage,Sedan,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+692,2019,Nissan,Pathfinder_S, 24588, Upper Saddle River, NJ ,39796,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,10
+693,2018,Nissan,Altima_S, 16588, Upper Saddle River, NJ ,44622,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+694,2018,Nissan,Rogue_SV, 21858, Saint James, NY ,20788,Accident Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+695,2018,Nissan,Rogue_SV, 20488, Upper Saddle River, NJ ,36456,Minor Damage,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+696,2021,Nissan,Rogue_Sport_SV, 25588, Upper Saddle River, NJ ,5878,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Lease Use,4
+697,2018,Nissan,Maxima_S, 23295, Yonkers, NY ,33811,Accident/Minor Damage,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+698,2018,Nissan,Rogue_SV, 19995, Hackensack, NJ ,31673,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+699,2017,Nissan,Sentra_SR, 16000, White Plains, NY ,31597,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,9
+700,2021,Nissan,Rogue_S, 26248, Saint James, NY ,4771,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Commercial Use,3
+701,2018,Nissan,Rogue_SV, 21456, Saint James, NY ,29084,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+702,2018,Nissan,Rogue_S, 16900, Ozone Park, NY ,18836,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,2-Owner,Personal Use,3
+703,2018,Nissan,Rogue_SL, 22995, Hackensack, NJ ,32131,Accident/Minor Damage,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+704,2021,Nissan,Rogue_S, 25994, Saint James, NY ,6223,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Commercial Use,5
+705,2018,Nissan,Murano_SV, 25817, Saint James, NY ,23406,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+706,2018,Nissan,Rogue_SV, 19998, Upper Saddle River, NJ ,29943,Accident Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+707,2021,Nissan,Rogue_S, 26263, Saint James, NY ,3413,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Commercial Use,3
+708,2017,Nissan,Sentra_SR, 16000, White Plains, NY ,31597,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,9
+709,2019,Nissan,Altima_SL, 19995, Hempstead, NY ,37020,Minor Damage,Sedan,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+710,2018,Nissan,Rogue_SV, 19995, Hackensack, NJ ,31673,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+711,2018,Nissan,Rogue_SV, 17995, Hempstead, NY ,18249,Accident Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+712,2018,Nissan,Titan_XD_SV, 30000, Newark, NJ ,100908,Accident Reported,Pickup,Black_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,19
+713,2019,Nissan,Altima_SL, 20990, Hasbrouck Heights, NJ ,46819,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,16
+714,2016,Nissan,Sentra_SR, 13880, East Brunswick, NJ ,61477,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,6
+715,2021,Nissan,Altima_Platinum, 33595, Keyport, NJ ,861,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Corporate Use,3
+716,2018,Nissan,Maxima_S, 22944, Westbury, NY ,19935,Minor Damage,Sedan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+717,2018,Nissan,Rogue_SV, 21773, Blauvelt, NY ,19549,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+718,2018,Nissan,Pathfinder_S, 20942, Carlstadt, NJ ,50603,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+719,2019,Nissan,Altima_SV, 22888, Upper Saddle River, NJ ,24574,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+720,2018,Nissan,Rogue, 23744, Staten Island, NY ,2060,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+721,2019,Nissan,Rogue_SV, 24495, Lawrence Township, NJ ,33215,No Accident or Damage Reported,SUV,Green_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+722,2019,Nissan,Sentra_SR, 17995, Yonkers, NY ,48529,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,9
+723,2018,Nissan,Altima_SR, 20855, North Plainfield, NJ ,16952,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+724,2019,Nissan,Murano_Platinum, 35973, Saint James, NY ,17195,No Accident or Damage Reported,SUV,Brown_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+725,2018,Nissan,Sentra_SV, 16739, Staten Island, NY ,15869,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,4
+726,2018,Nissan,Maxima_SV, 24995, Freehold, NJ ,36750,No Accident or Damage Reported,Sedan,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+727,2019,Nissan,Murano_Platinum, 35973, Saint James, NY ,17195,No Accident or Damage Reported,SUV,Brown_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+728,2018,Nissan,Altima_SR, 20855, North Plainfield, NJ ,16952,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+729,2019,Nissan,Sentra_SR, 17995, Yonkers, NY ,48529,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,9
+730,2018,Nissan,Rogue_SL, 25966, Flemington, NJ ,31846,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+731,2010,Nissan,Xterra, 8399, Little Ferry, NJ ,145377,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_4.0_L_,2-Owner,Personal Use,41
+732,2020,Nissan,Sentra_SV, 20987, Yonkers, NY ,5702,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+733,2019,Nissan,Rogue_SL, 26513, Huntington Station, NY ,20130,Minor Damage,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,15
+734,2019,Nissan,Kicks_S, 18980, Richmond Hill, NY ,17941,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,2
+735,2013,Nissan,Z_370Z, 19250, Linden, NJ ,109632,No Accident or Damage Reported,Coupe,White_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,24
+736,2018,Nissan,Sentra_SV, 14995, Edison, NJ ,20232,Minor Damage,Sedan,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,5
+737,2018,Nissan,Rogue_SL, 21596, Syosset, NY ,32925,Accident/Minor Damage,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+738,2018,Nissan,Rogue_SV, 18580, Syosset, NY ,34929,Accident Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+739,2018,Nissan,Rogue_SV, 17840, Syosset, NY ,44596,Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,13
+740,2015,Nissan,Murano_Platinum, 16500, Wilton, CT ,111346,Minor Damage,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,23
+741,2018,Nissan,Rogue_SV, 19990, Hasbrouck Heights, NJ ,16702,Accident Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+742,2018,Nissan,Rogue_SV, 18897, Syosset, NY ,35913,Minor Damage,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+743,2017,Nissan,Altima_SL, 16750, Wilton, CT ,56893,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.5_L_,2-Owner,Personal Use,14
+744,2014,Nissan,Rogue_SL, 9790, Tinton Falls, NJ ,164359,Accident/Minor Damage,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,25
+745,2019,Nissan,Armada_Platinum_Edition, 50000, Wilton, CT ,19461,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Corporate Use,11
+746,2020,Nissan,Altima_SR, 21270, Massapequa Park, NY ,11780,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+747,2012,Nissan,Rogue_S, 6999, Brooklyn, NY ,137152,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,33
+748,2019,Nissan,Titan_SV, 38500, Old Bridge, NJ ,13539,No Accident or Damage Reported,Pickup,Silver_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,13
+749,2016,Nissan,Sentra_SV, 14019, Huntington Station, NY ,58353,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,12
+750,2012,Nissan,Rogue_S, 6999, Brooklyn, NY ,137152,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,33
+751,2016,Nissan,Rogue_S, 13995, Saint James, NY ,63647,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,19
+752,2016,Nissan,Maxima_Platinum, 20887, Uniondale, NY ,89994,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+753,2018,Nissan,Pathfinder_Platinum, 30994, Butler, NJ ,27457,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+754,2018,Nissan,Rogue_Sport_SV, 18995, Wall Township, NJ ,17732,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+755,2017,Nissan,Rogue_SV, 18745, Brooklyn, NY ,22291,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,2-Owner,Personal Use,7
+756,2017,Nissan,Frontier_SV, 20995, Inwood, NY ,57255,Accident Reported,Pickup,Gray_Engine:_6_Cyl_4.0_L_,CARFAX 1-Owner,Personal Use,8
+757,2019,Nissan,Altima_SL, 22548, North Plainfield, NJ ,35940,Accident/Minor Damage,Sedan,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+758,2018,Nissan,Rogue_SL, 23995, Little Ferry, NJ ,17600,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,0
+759,2018,Nissan,Maxima_S, 22995, Denville, NJ ,23148,Minor Damage,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+760,2020,Nissan,Rogue_S, 21995, Bay Shore, NY ,16195,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+761,2019,Nissan,Altima_S, 19995, Bay Shore, NY ,34108,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+762,2018,Nissan,Rogue_SV, 19756, Syosset, NY ,25940,Minor Damage,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+763,2019,Nissan,Rogue_SV, 23995, Bay Shore, NY ,22052,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+764,2018,Nissan,Rogue_SV, 21995, Bay Shore, NY ,15812,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+765,2018,Nissan,Rogue_SL, 23995, Bay Shore, NY ,32813,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+766,2019,Nissan,Rogue_Sport_S, 18995, Totowa, NJ ,18799,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+767,2019,Nissan,Rogue_SV, 20995, Bay Shore, NY ,39338,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+768,2018,Nissan,Rogue_SV, 21995, Bay Shore, NY ,11896,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+769,2018,Nissan,Rogue_SV, 20795, Totowa, NJ ,13200,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+770,2018,Nissan,Rogue_Sport_SV, 18990, Hasbrouck Heights, NJ ,30962,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,16
+771,2018,Nissan,Sentra_SL, 14996, Butler, NJ ,34396,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,5
+772,2018,Nissan,Rogue_SL, 21995, Bay Shore, NY ,26671,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+773,2018,Nissan,Rogue_SV, 19795, Totowa, NJ ,30070,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+774,2018,Nissan,Rogue_SL, 23995, Bay Shore, NY ,45105,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+775,2018,Nissan,Sentra_SR, 16995, Bay Shore, NY ,38085,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,1
+776,2018,Nissan,Rogue_SV, 20995, Bay Shore, NY ,20569,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+777,2018,Nissan,Pathfinder_S, 24995, Bay Shore, NY ,18929,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+778,2018,Nissan,Rogue_SV, 19695, Totowa, NJ ,27942,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+779,2018,Nissan,Murano_SL, 25995, Bay Shore, NY ,31974,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+780,2019,Nissan,Sentra_SR, 16995, Totowa, NJ ,22931,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,8
+781,2020,Nissan,Rogue_Sport_SV, 21995, Bay Shore, NY ,3857,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+782,2019,Nissan,Rogue_SV, 22995, Totowa, NJ ,12746,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+783,2018,Nissan,Rogue_SV, 18995, Totowa, NJ ,33610,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+784,2018,Nissan,Sentra_SL, 14996, Butler, NJ ,34396,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,5
+785,2018,Nissan,Rogue_SL, 21995, Bay Shore, NY ,26671,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+786,2018,Nissan,Rogue_SV, 19795, Totowa, NJ ,30070,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+787,2018,Nissan,Rogue_SV, 20795, Totowa, NJ ,13200,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+788,2019,Nissan,Rogue_Sport_S, 18995, Totowa, NJ ,18799,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+789,2019,Nissan,Rogue_SV, 20995, Bay Shore, NY ,39338,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+790,2019,Nissan,Rogue_SV, 23995, Bay Shore, NY ,22052,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+791,2018,Nissan,Rogue_SV, 21995, Bay Shore, NY ,15812,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+792,2018,Nissan,Rogue_SL, 23995, Bay Shore, NY ,32813,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+793,2018,Nissan,Rogue_Sport_SV, 18990, Hasbrouck Heights, NJ ,30962,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,16
+794,2018,Nissan,Rogue_SV, 21995, Bay Shore, NY ,11896,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+795,2019,Nissan,Murano_S, 25770, Brooklyn, NY ,14190,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+796,2018,Nissan,Rogue_SV, 19995, Bay Shore, NY ,49964,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+797,2018,Nissan,Rogue_SL, 21995, Bay Shore, NY ,43081,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+798,2018,Nissan,Rogue_SV, 20995, Bay Shore, NY ,35228,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+799,2019,Nissan,Sentra_S, 15995, Bay Shore, NY ,33125,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,10
+800,2018,Nissan,Rogue_S, 19995, Bay Shore, NY ,28845,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+801,2018,Nissan,Rogue_SV, 22995, Bay Shore, NY ,11633,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+802,2018,Nissan,Rogue_SV, 19995, Bay Shore, NY ,49964,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+803,2018,Nissan,Rogue_SL, 21995, Bay Shore, NY ,43081,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+804,2018,Nissan,Rogue_SV, 20995, Bay Shore, NY ,35228,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+805,2018,Nissan,Sentra_SL, 14996, Butler, NJ ,34396,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,5
+806,2018,Nissan,Rogue_SL, 21995, Bay Shore, NY ,26671,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+807,2019,Nissan,Sentra_S, 15995, Bay Shore, NY ,33125,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,10
+808,2019,Nissan,Altima_SV, 18995, Valley Stream, NY ,35954,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+809,2018,Nissan,Rogue_SV, 20995, Bay Shore, NY ,36684,No Accident or Damage Reported,SUV,Green_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+810,2019,Nissan,Rogue_S, 18995, Totowa, NJ ,36101,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+811,2018,Nissan,Rogue_S, 18995, Totowa, NJ ,23434,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+812,2018,Nissan,Sentra_SR, 16995, Bay Shore, NY ,38085,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,1
+813,2018,Nissan,Rogue_SV, 20995, Bay Shore, NY ,20569,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+814,2018,Nissan,Murano_SV, 22895, Totowa, NJ ,35901,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+815,2018,Nissan,Murano_S, 22995, Totowa, NJ ,22205,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+816,2018,Nissan,Altima_SR, 18995, Totowa, NJ ,31994,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+817,2018,Nissan,Rogue_SV, 19995, Totowa, NJ ,24575,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+818,2019,Nissan,Rogue_SV, 21000, Wilton, CT ,45336,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+819,2017,Nissan,Altima_S, 16200, Eatontown, NJ ,46623,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+820,2018,Nissan,Rogue_S, 15681, Woodside, NY ,40314,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+821,2018,Nissan,Rogue_SV, 18995, Totowa, NJ ,33610,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+822,2018,Nissan,Altima_S, 16995, Bay Shore, NY ,34112,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+823,2018,Nissan,Rogue_SV, 18995, Totowa, NJ ,47940,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+824,2018,Nissan,Rogue_SV, 20995, Totowa, NJ ,31756,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+825,2019,Nissan,Sentra_SR, 16995, Bay Shore, NY ,13238,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,7
+826,2018,Nissan,Rogue_SV, 20995, Bay Shore, NY ,18641,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+827,2020,Nissan,Sentra_SV, 21105, Wilton, CT ,5160,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Lease Use,6
+828,2018,Nissan,Murano_SL, 25995, Bay Shore, NY ,31974,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+829,2018,Nissan,Altima_S, 17995, Totowa, NJ ,27034,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,13
+830,2018,Nissan,Pathfinder_S, 24995, Bay Shore, NY ,18929,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+831,2018,Nissan,Rogue_SV, 19695, Totowa, NJ ,27942,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+832,2019,Nissan,Sentra_SR, 16995, Totowa, NJ ,22931,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,8
+833,2019,Nissan,Rogue_SV, 22995, Totowa, NJ ,12746,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+834,2020,Nissan,Rogue_Sport_SV, 21995, Bay Shore, NY ,3857,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+835,2018,Nissan,Rogue_Sport_SV, 19995, Bay Shore, NY ,27701,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+836,2018,Nissan,Rogue_SV, 20995, Totowa, NJ ,25951,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+837,2020,Nissan,Sentra_SV, 20400, Wilton, CT ,9735,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Lease Use,4
+838,2018,Nissan,Rogue_Sport_SV, 19940, Freehold, NJ ,26174,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+839,2018,Nissan,Rogue_SV, 20995, Bay Shore, NY ,30257,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+840,2018,Nissan,Murano_SL, 24995, Bay Shore, NY ,19209,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+841,2020,Nissan,Altima_SR, 23800, Wilton, CT ,9796,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Lease Use,11
+842,2019,Nissan,Kicks_SV, 17995, Bay Shore, NY ,46063,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,5
+843,2019,Nissan,Altima_S, 19995, Bay Shore, NY ,27368,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+844,2018,Nissan,Rogue_SV, 20995, Bay Shore, NY ,40874,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+845,2018,Nissan,Rogue_SV, 20995, Bay Shore, NY ,19686,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+846,2018,Nissan,Rogue_SL, 25995, Fairfield, CT ,32429,Minor Damage,SUV,Green_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+847,2018,Nissan,Altima_S, 19568, Huntington Station, NY ,52080,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+848,2018,Nissan,Titan_PRO-4X, 38994, Cedar Knolls, NJ ,48850,No Accident or Damage Reported,Pickup,Gray_Engine:_8_Cyl_5.6_L_,2-Owner,Multiple Use,3
+849,2018,Nissan,Rogue_SV, 22690, Bronx, NY ,23724,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,14
+850,2018,Nissan,Rogue_SV, 22690, Bronx, NY ,23724,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,14
+851,2018,Nissan,Rogue_SV, 22890, Bronx, NY ,20779,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+852,2016,Nissan,Rogue_SL, 17880, Red Bank, NJ ,75068,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,2-Owner,Personal Use,18
+853,2018,Nissan,Maxima_SL, 20990, Great Neck, NY ,30123,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+854,2019,Nissan,Sentra_SV, 15500, Jersey City, NJ ,15266,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,7
+855,2018,Nissan,Rogue_SV, 20880, Red Bank, NJ ,44989,Minor Damage,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+856,2016,Nissan,Rogue_S, 15995, Branchville, NJ ,82186,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,2-Owner,Personal Use,18
+857,2018,Nissan,Rogue_SV, 18843, Westbury, NY ,38379,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,12
+858,2018,Nissan,Rogue_SL, 20167, Lynbrook, NY ,31265,Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+859,2018,Nissan,Rogue_SV, 18695, Huntington, NY ,33203,No Accident or Damage Reported,SUV,4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+860,2019,Nissan,Sentra_SV, 17995, Edison, NJ ,10182,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,4
+861,2017,Nissan,Titan_SV, 33375, Ramsey, NJ ,32207,No Accident or Damage Reported,Pickup,Blue_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,4
+862,2017,Nissan,Murano_S, 23998, COLONIA, NJ ,19175,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+863,2019,Nissan,Sentra_SV, 16900, Rahway, NJ ,15355,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,6
+864,2019,Nissan,Altima_SR, 21490, Freehold, NJ ,42499,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+865,2019,Nissan,Rogue_Sport_SL, 21995, Bay Shore, NY ,36443,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+866,2019,Nissan,Rogue_SV, 18990, Freeport, NY ,21772,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+867,2019,Nissan,Rogue_S, 18995, Commack, NY ,20587,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+868,2019,Nissan,Murano_S, 24787, Butler, NJ ,12725,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+869,2018,Nissan,Rogue_Sport, 15990, Woodside, NY ,40789,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+870,2019,Nissan,Murano_S, 24888, Butler, NJ ,20313,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+871,2012,Nissan,Frontier_SV, 14495, Cranbury, NJ ,109596,No Accident or Damage Reported,Pickup,Red_Engine:_6_Cyl_4.0_L_,CARFAX 1-Owner,Personal Use,24
+872,2019,Nissan,Murano_SV, 28888, Bronx, NY ,15416,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+873,2020,Nissan,Pathfinder_S, 30488, Bronx, NY ,16821,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+874,2018,Nissan,Rogue_SV, 23288, Bronx, NY ,27909,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+875,2018,Nissan,Rogue_SV, 22888, Bronx, NY ,15070,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+876,2018,Nissan,Murano_S, 25888, Bronx, NY ,27269,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+877,2017,Nissan,Rogue_S, 17700, Budd Lake, NJ ,73226,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+878,2018,Nissan,Sentra_SV, 16800, Hackettstown, NJ ,22750,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,4
+879,2018,Nissan,Rogue_SV, 22995, Freehold, NJ ,35356,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+880,2019,Nissan,Rogue_SV, 23349, Staten Island, NY ,29314,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+881,2018,Nissan,Maxima_Platinum, 29795, Pt Pleasant, NJ ,25424,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+882,2019,Nissan,Rogue_Sport_S, 20700, Hackettstown, NJ ,33531,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+883,2018,Nissan,Rogue_SV, 22065, Bronx, NY ,27721,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+884,2017,Nissan,Rogue_SL, 22995, Ozone Park, NY ,37878,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+885,2019,Nissan,Murano_SL, 31084, Saint James, NY ,36681,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+886,2017,Nissan,Rogue_Sport_SL, 22549, Jersey City, NJ ,36904,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+887,2018,Nissan,Rogue, 21149, Staten Island, NY ,30867,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+888,2019,Nissan,Sentra_SV, 18995, Freehold, NJ ,7657,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,1
+889,2018,Nissan,Sentra_SV, 17111, Staten Island, NY ,13686,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,11
+890,2018,Nissan,Rogue_SV, 22995, Freehold, NJ ,39970,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+891,2018,Nissan,Murano_S, 25995, Freehold, NJ ,28173,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+892,2019,Nissan,Sentra_SV, 18249, Staten Island, NY ,7933,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,4
+893,2018,Nissan,Murano_SL, 29995, Freehold, NJ ,25256,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+894,2018,Nissan,Rogue_Sport_SV, 20995, Jersey City, NJ ,29066,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+895,2018,Nissan,Rogue_Sport_SL, 23900, Ozone Park, NY ,14919,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+896,2018,Nissan,Rogue_SV, 22995, Greenvale, NY ,29249,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+897,2018,Nissan,Rogue_SV, 23995, Freehold, NJ ,18298,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+898,2018,Nissan,Pathfinder_SV, 24895, Yonkers, NY ,35978,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+899,2018,Nissan,Rogue_SL, 25995, Ozone Park, NY ,18089,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+900,2019,Nissan,Rogue_Sport_S, 20700, Hackettstown, NJ ,33531,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+901,2018,Nissan,Rogue_S, 21059, Staten Island, NY ,33627,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+902,2018,Nissan,Rogue_Sport_SV, 20995, Jersey City, NJ ,29066,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+903,2018,Nissan,Rogue_Sport_SL, 23900, Ozone Park, NY ,14919,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+904,2018,Nissan,Rogue_SV, 23995, Freehold, NJ ,19437,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+905,2019,Nissan,Pathfinder, 26997, Staten Island, NY ,35793,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+906,2018,Nissan,Murano_SV, 25995, Jersey City, NJ ,23180,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+907,2018,Nissan,Maxima_SL, 25995, Yonkers, NY ,33619,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+908,2019,Nissan,Altima_SV, 24318, Saint James, NY ,9577,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+909,2018,Nissan,Murano_SL, 29995, Freehold, NJ ,22708,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+910,2018,Nissan,Pathfinder_SV, 26900, Ozone Park, NY ,15349,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+911,2015,Nissan,Altima_SV, 12500, Rockville Centre, NY ,80915,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+912,2019,Nissan,Sentra_SV, 17975, Staten Island, NY ,11314,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,5
+913,2019,Nissan,Altima_SV, 23617, Saint James, NY ,25794,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+914,2021,Nissan,Frontier_SV, 36061, Saint James, NY ,1763,No Accident or Damage Reported,Pickup,White_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,4
+915,2018,Nissan,Rogue_SV, 22995, Freehold, NJ ,30026,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+916,2018,Nissan,Rogue_Sport_SL, 23500, Ozone Park, NY ,31274,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+917,2018,Nissan,Rogue_SV, 23997, Staten Island, NY ,3470,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+918,2018,Nissan,Sentra, 18049, Staten Island, NY ,16805,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,4
+919,2019,Nissan,Murano_S, 26495, Hackensack, NJ ,27579,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+920,2018,Nissan,Rogue_SV, 22995, Saint James, NY ,25378,No Accident or Damage Reported,SUV,4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+921,2019,Nissan,Sentra_S, 17295, Hackensack, NJ ,12963,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,6
+922,2018,Nissan,Rogue_Sport_S, 19500, Ozone Park, NY ,35100,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+923,2018,Nissan,Murano_SL, 29688, North Plainfield, NJ ,24488,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+924,2018,Nissan,Pathfinder, 24703, Staten Island, NY ,37101,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+925,2018,Nissan,Rogue_Sport_S, 19500, Ozone Park, NY ,35100,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+926,2018,Nissan,Rogue_SV, 22995, Saint James, NY ,25378,No Accident or Damage Reported,SUV,4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+927,2019,Nissan,Sentra_S, 17295, Hackensack, NJ ,12963,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,6
+928,2018,Nissan,Murano_S, 25995, Greenvale, NY ,3104,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+929,2018,Nissan,Rogue_Sport_SV, 20595, Hackensack, NJ ,37905,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+930,2015,Nissan,Frontier_SV, 17991, Bohemia, NY ,147600,No Accident or Damage Reported,Pickup,Silver_Engine:_6_Cyl_4.0_L_,CARFAX 1-Owner,Personal Use,7
+931,2018,Nissan,Murano_SL, 28995, Jersey City, NJ ,18096,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+932,2018,Nissan,Rogue_SV, 23995, Flemington, NJ ,17336,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+933,2018,Nissan,Altima_S, 15935, Jamaica, NY ,31600,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+934,2018,Nissan,Altima_SR, 15990, Bronx, NY ,32024,Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+935,2019,Nissan,Sentra_SV, 14995, Linden, NJ ,41283,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Rental Use,2
+936,2017,Nissan,Maxima_SV, 20742, Blauvelt, NY ,47970,Accident/Minor Damage,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+937,2018,Nissan,Maxima_SL, 25063, Westbury, NY ,20593,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,6
+938,2018,Nissan,Murano_SV, 21599, Jersey City, NJ ,21438,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+939,2014,Nissan,Rogue_SV, 10299, Little Ferry, NJ ,112549,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,17
+940,2019,Nissan,Rogue_SV, 19995, Edison, NJ ,35882,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+941,2018,Nissan,Rogue_SL, 23899, Brooklyn, NY ,24894,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,2-Owner,Personal Use,12
+942,2018,Nissan,Rogue_SV, 18995, Edison, NJ ,39334,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+943,2019,Nissan,Kicks_SV, 19441, Denville, NJ ,12192,Minor Damage,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,7
+944,2016,Nissan,Rogue_SV, 11850, Little Ferry, NJ ,126116,Accident/No Damage,SUV,Green_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+945,2016,Nissan,Rogue_SV, 16500, Bronx, NY ,47209,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,2-Owner,Personal Use,8
+946,2019,Nissan,Rogue_Sport_S, 22160, West Nyack, NY ,5897,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+947,2018,Nissan,Rogue_SV, 17550, Wilton, CT ,86339,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+948,2018,Nissan,Pathfinder_S, 23494, Syosset, NY ,26567,Minor Damage,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+949,2018,Nissan,Rogue_SV, 19496, Syosset, NY ,30326,Accident Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+950,2018,Nissan,Rogue_SL, 21494, Syosset, NY ,43047,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Corporate Use,7
+951,2018,Nissan,Rogue_SV, 20900, Wilton, CT ,35598,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+952,2019,Nissan,Murano_S, 25647, Syosset, NY ,25246,Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+953,2018,Nissan,Rogue_SV, 20890, Hasbrouck Heights, NJ ,21215,Accident Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+954,2018,Nissan,Murano_S, 21615, Syosset, NY ,29193,Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+955,2018,Nissan,Rogue_SL, 22497, Syosset, NY ,29171,Accident Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+956,2019,Nissan,Rogue_S, 19995, Edison, NJ ,26040,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+957,2018,Nissan,Rogue_SV, 19990, Hasbrouck Heights, NJ ,33367,Minor Damage,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+958,2018,Nissan,Rogue_S, 19490, Hasbrouck Heights, NJ ,15451,Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+959,2018,Nissan,Rogue_SV, 19995, Edison, NJ ,27380,Minor Damage,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,12
+960,2017,Nissan,Murano_SL, 21600, Wilton, CT ,81224,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,6
+961,2018,Nissan,Rogue_SV, 19469, Syosset, NY ,30828,Accident Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+962,2018,Nissan,Rogue_SL, 23297, Syosset, NY ,20958,Accident Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+963,2018,Nissan,Rogue_SV, 20188, Lakewood, NJ ,33548,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+964,2017,Nissan,Rogue_SV, 18500, Wilton, CT ,45340,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.5_L_,2-Owner,Personal Use,12
+965,2018,Nissan,Murano_Platinum, 26994, Syosset, NY ,34813,Accident Reported,SUV,Brown_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+966,2018,Nissan,Rogue_SV, 20380, Hasbrouck Heights, NJ ,21259,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+967,2018,Nissan,Rogue_SV, 18994, Syosset, NY ,25187,Minor Damage,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+968,2018,Nissan,Rogue_SV, 19656, Syosset, NY ,26970,Minor Damage,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+969,2019,Nissan,Sentra_SV, 16497, Syosset, NY ,25361,Accident Reported,Sedan,Blue_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,7
+970,2018,Nissan,Rogue_SL, 22296, Syosset, NY ,14745,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+971,2018,Nissan,Pathfinder_SV, 23500, Wilton, CT ,46471,Minor Damage,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+972,2018,Nissan,Rogue_SV, 20450, EATONTOWN, NJ ,50228,Minor Damage,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,12
+973,2010,Nissan,Rogue_S, 5800, Elmhurst, NY ,102981,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,3+ Owners,Personal Use,26
+974,2018,Nissan,Rogue_SV, 18842, Syosset, NY ,33945,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+975,2010,Nissan,Rogue_S, 5800, Elmhurst, NY ,102981,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,3+ Owners,Personal Use,26
+976,2018,Nissan,Rogue_SV, 18842, Syosset, NY ,33945,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+977,2018,Nissan,Rogue_SL, 22296, Syosset, NY ,14745,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+978,2018,Nissan,Pathfinder_SV, 23500, Wilton, CT ,46471,Minor Damage,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+979,2018,Nissan,Rogue_S, 18750, Wilton, CT ,36317,Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+980,2018,Nissan,Rogue_SV, 18669, Syosset, NY ,34701,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+981,2020,Nissan,Pathfinder_S, 25990, Hasbrouck Heights, NJ ,19952,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+982,2018,Nissan,Rogue_Sport_SL, 21499, Syosset, NY ,16641,Minor Damage,SUV,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+983,2018,Nissan,Altima_S, 19495, Fairfield, CT ,14221,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+984,2018,Nissan,Rogue_SV, 20995, Butler, NJ ,46876,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+985,2016,Nissan,Pathfinder_SL, 20888, Port Chester, NY ,55129,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+986,2012,Nissan,Sentra_SR, 7999, Tarrytown, NY ,72834,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,17
+987,2018,Nissan,Sentra_SV, 14995, Totowa, NJ ,24258,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,9
+988,2021,Nissan,Rogue_SV, 25995, Bay Shore, NY ,5369,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+989,2018,Nissan,Rogue_SV, 21073, North Plainfield, NJ ,28306,Accident/Minor Damage,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+990,2018,Nissan,Rogue_SL, 21995, Inwood, NY ,25661,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,0
+991,2020,Nissan,Altima_S, 19999, North Plainfield, NJ ,24075,Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+992,2019,Nissan,Murano_SV, 27991, Little Falls, NJ ,10022,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Lease Use,8
+993,2018,Nissan,Rogue_Sport_SL, 20995, Denville, NJ ,51198,Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,21
+994,2018,Nissan,Rogue_SV, 20290, Hasbrouck Heights, NJ ,44046,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+995,2018,Nissan,Rogue_SV, 21990, Hasbrouck Heights, NJ ,14257,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+996,2018,Nissan,Maxima_SV, 23988, Ramsey, NJ ,32555,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+997,2017,Nissan,Rogue_Sport_SV, 20075, Huntington Station, NY ,29724,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+998,2017,Nissan,Versa_Note_S_Plus, 12495, Hackensack, NJ ,17134,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_1.6_L_,2-Owner,Multiple Use,4
+999,2018,Nissan,Rogue_S, 15434, Hempstead, NY ,47586,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Commercial Use,12
+1000,2018,Nissan,Murano_SL, 28180, Bloomfield, NJ ,29754,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+1001,2018,Nissan,Rogue_Sport_SV, 20495, Edison, NJ ,15239,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+1002,2020,Nissan,Titan_PRO-4X, 49400, Bloomfield, NJ ,6288,No Accident or Damage Reported,Pickup,Black_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,4
+1003,2018,Nissan,Rogue_SL, 24995, Edison, NJ ,12713,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+1004,2014,Nissan,Murano_SL, 18792, Mamaroneck, NY ,28197,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,20
+1005,2018,Nissan,Maxima_SL, 28500, Bloomfield, NJ ,11563,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+1006,2018,Nissan,Rogue_S, 19995, Jamaica, NY ,18873,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+1007,2018,Nissan,Rogue_SL, 23695, Edison, NJ ,28945,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+1008,2014,Nissan,Armada_SL, 15997, Garfield, NJ ,139415,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,7
+1009,2018,Nissan,Rogue_SV, 22450, Red Bank, NJ ,10168,Minor Damage,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+1010,2018,Nissan,Rogue_SV, 22280, Red Bank, NJ ,20661,Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+1011,2018,Nissan,Murano_SV, 24880, Red Bank, NJ ,21356,Accident/Minor Damage,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+1012,2012,Nissan,Rogue_SV, 6995, South Hackensack, NJ ,122827,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,3+ Owners,Personal Use,23
+1013,2020,Nissan,Rogue_SV, 24469, Butler, NJ ,1185,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+1014,2011,Nissan,Altima_S, 4999, Brooklyn, NY ,144585,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,20
+1015,2017,Nissan,Rogue_SV, 17167, East Hanover, NJ ,30087,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,2-Owner,Personal Use,3
+1016,2013,Nissan,Murano_S, 9900, Avenel, NJ ,134506,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Rental Use,11
+1017,2018,Nissan,Altima_SR, 15990, Bronx, NY ,44605,Very Minor Damage,Sedan,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+1018,2018,Nissan,Sentra_SV, 12990, Bronx, NY ,25644,Accident Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,4
+1019,2019,Nissan,Sentra_SR, 18880, Red Bank, NJ ,35288,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,4
+1020,2015,Nissan,Rogue_S, 10477, Lodi, NJ ,98866,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,2-Owner,Personal Use,18
+1021,2020,Nissan,Rogue_Sport_SV, 19890, Freeport, NY ,15840,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+1022,2020,Nissan,Rogue_SV, 23888, Butler, NJ ,15992,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+1023,2018,Nissan,Rogue_SL, 20993, Butler, NJ ,43715,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+1024,2018,Nissan,Rogue_Sport_S, 18768, Butler, NJ ,13757,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+1025,2018,Nissan,Rogue_SL, 20993, Butler, NJ ,43715,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+1026,2020,Nissan,Rogue_Sport_SV, 19890, Freeport, NY ,15840,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+1027,2018,Nissan,Rogue_Sport_S, 18768, Butler, NJ ,13757,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+1028,2019,Nissan,Kicks_SV, 18995, Bay Shore, NY ,14643,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,2
+1029,2018,Nissan,Rogue_SV, 18456, Butler, NJ ,36490,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+1030,2021,Nissan,Altima_SV, 18995, Freeport, NY ,13180,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Rental Use,4
+1031,2018,Nissan,Maxima_SL, 25480, Huntington Station, NY ,21689,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+1032,2010,Nissan,Pathfinder_LE, 5999, Little Ferry, NJ ,151774,Minor Damage,SUV,Gray_Engine:_6_Cyl_4.0_L_,3+ Owners,Personal Use,41
+1033,2018,Nissan,Rogue_SV, 18998, Westbury, NY ,19664,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+1034,2018,Nissan,Rogue_SV, 18996, Westbury, NY ,35933,Minor Damage,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+1035,2018,Nissan,Rogue_SV, 18834, Westbury, NY ,44957,Minor Damage,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+1036,2018,Nissan,Murano_S, 21033, Westbury, NY ,30422,Accident Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+1037,2018,Nissan,Rogue_SL, 22898, Westbury, NY ,17943,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+1038,2018,Nissan,Rogue_SV, 19496, Westbury, NY ,16582,Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+1039,2012,Nissan,Xterra, 7997, Brooklyn, NY ,172603,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_4.0_L_,CARFAX 1-Owner,Personal Use,19
+1040,2018,Nissan,Rogue_S, 16994, Syosset, NY ,25330,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+1041,2016,Nissan,Murano_SL, 21459, Avenel, NJ ,71595,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+1042,2017,Nissan,Altima_S, 13000, Jersey City, NJ ,99761,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,19
+1043,2018,Nissan,Rogue_SV, 20259, Avenel, NJ ,35670,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+1044,2018,Nissan,Sentra_SV, 12260, Wantagh, NY ,21228,Accident Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,2
+1045,2018,Nissan,Rogue_SV, 21499, Queens Village, NY ,36939,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+1046,2018,Nissan,Pathfinder_SL, 28800, Bloomfield, NJ ,35912,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+1047,2018,Nissan,Sentra_SV, 15995, Edison, NJ ,32155,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,11
+1048,2018,Nissan,Rogue_SV, 24995, Keyport, NJ ,17916,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+1049,2018,Nissan,Altima_SR, 19495, Yonkers, NY ,36856,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+1050,2019,Nissan,Rogue_SV, 23441, Huntington Station, NY ,20420,Accident/Minor Damage,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+1051,2018,Nissan,Altima_SR, 17987, Irvington, NJ ,53416,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+1052,2019,Nissan,Sentra_SV, 14995, Totowa, NJ ,32608,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Rental Use,6
+1053,2018,Nissan,Rogue_SV, 18455, Syosset, NY ,45857,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+1054,2018,Nissan,Pathfinder_Platinum, 20990, Great Neck, NY ,71123,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,19
+1055,2021,Nissan,Rogue_SV, 27889, Saint James, NY ,3186,Minor Damage,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Commercial Use,3
+1056,2018,Nissan,Rogue_SV, 17790, Great Neck, NY ,28784,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+1057,2019,Nissan,Altima_SR, 18990, Great Neck, NY ,19414,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+1058,2011,Nissan,Sentra_SL, 5991, Flemington, NJ ,98365,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,14
+1059,2019,Nissan,Pathfinder, 23885, Colonia, NJ ,20157,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+1060,2019,Nissan,Rogue_Sport_S, 20000, Rockville Centre, NY ,16979,Accident Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+1061,2018,Nissan,Murano_SV, 21995, Edison, NJ ,57780,Minor Damage,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+1062,2018,Nissan,Rogue_SV, 19995, Edison, NJ ,30522,Accident Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+1063,2018,Nissan,Murano_S, 22900, Bronx, NY ,35221,Minor Damage,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+1064,2018,Nissan,Rogue_SV, 21010, North Plainfield, NJ ,39735,Accident/Minor Damage,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+1065,2019,Nissan,Sentra_SV, 16961, North Plainfield, NJ ,36655,Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,8
+1066,2015,Nissan,GT-R_Black_Edition, 89900, North Plainfield, NJ ,8010,No Accident or Damage Reported,Coupe,Red_Engine:_6_Cyl_3.8_L_,2-Owner,Personal Use,6
+1067,2018,Nissan,Rogue_SL, 21690, Jamaica, NY ,34168,Accident Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+1068,2016,Nissan,Altima, 13595, Paterson, NJ ,67389,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,2-Owner,Personal Use,12
+1069,2017,Nissan,Altima_S, 15995, Yonkers, NY ,30050,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+1070,2018,Nissan,Rogue_SL, 21995, Inwood, NY ,33372,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,2-Owner,Personal Use,10
+1071,2019,Nissan,Rogue_SL, 21995, Saint James, NY ,74945,Damage Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,14
+1072,2018,Nissan,Sentra_SV, 13900, Brooklyn, NY ,28142,Accident Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,2
+1073,2018,Nissan,Altima_SR, 19795, Edison, NJ ,37312,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+1074,2018,Nissan,Rogue_SV, 21995, Edison, NJ ,23600,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+1075,2015,Nissan,Rogue_SV, 11699, Little Ferry, NJ ,106611,Damage Reported,SUV,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,14
+1076,2018,Nissan,Rogue_S, 19995, Edison, NJ ,12835,Accident/Minor Damage,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+1077,2018,Nissan,Rogue_SV, 19995, Inwood, NY ,36200,Damage Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+1078,2018,Nissan,Rogue_SV, 20695, Denville, NJ ,35116,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+1079,2018,Nissan,Pathfinder_SV, 23764, Little Ferry, NJ ,33091,Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+1080,2018,Nissan,Rogue_Sport_SL, 20995, Edison, NJ ,53434,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,15
+1081,2018,Nissan,Rogue_SV, 19995, Edison, NJ ,35904,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+1082,2017,Nissan,Altima_S, 13387, Saint James, NY ,87277,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+1083,2017,Nissan,Maxima_SR, 24425, Bay Shore, NY ,21765,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,7
+1084,2019,Nissan,Rogue_Sport_SV, 21795, Denville, NJ ,22185,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+1085,2020,Nissan,Rogue_SV, 22995, Denville, NJ ,26955,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Rental Use,6
+1086,2018,Nissan,Rogue_Sport, 19998, West Babylon, NY ,31478,Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+1087,2018,Nissan,Rogue_SV, 19995, Edison, NJ ,37525,Accident Reported,SUV,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+1088,2018,Nissan,Rogue_SV, 20995, Inwood, NY ,22068,Minor Damage,SUV,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+1089,2019,Nissan,Sentra_SV, 15795, Edison, NJ ,33879,Accident Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,14
+1090,2018,Nissan,Rogue_SV, 19995, Edison, NJ ,27221,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+1091,2019,Nissan,Sentra_SV, 15995, Inwood, NY ,6652,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,2
+1092,2018,Nissan,Rogue_SV, 20795, Edison, NJ ,32789,Accident/Minor Damage,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+1093,2019,Nissan,Sentra_S, 15785, Colonia, NJ ,40700,Accident Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,3
+1094,2020,Nissan,Altima_S, 24000, Norwalk, CT ,16193,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.5_L_,2-Owner,Personal Use,7
+1095,2015,Nissan,Altima_S, 10495, West Babylon, NY ,103224,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.5_L_,3+ Owners,Personal Use,12
+1096,2018,Nissan,Sentra_SV, 16890, Huntington Station, NY ,22393,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,12
+1097,2016,Nissan,Rogue_S, 15000, Jersey City, NJ ,86910,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,18
+1098,2017,Nissan,Altima_SV, 15990, West Nyack, NY ,38416,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.5_L_,2-Owner,Personal Use,18
+1099,2020,Nissan,Rogue_SL, 24890, Hasbrouck Heights, NJ ,32257,No Accident or Damage Reported,SUV,Green_Engine:_4_Cyl_2.5_L_,2-Owner,Multiple Use,6

@@ -1,0 +1,1251 @@
+,Year,Brand,Model,Cost,City,State,Mileage,Accident,Body,Engine,Owners,Usefor,Services
+0,2019,Hyundai,Veloster_Turbo, 24494, Union, NJ ,35218,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,3
+1,2018,Hyundai,Tucson_SE, 19995, Sussex, NJ ,61519,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+2,2018,Hyundai,Santa_Fe_Sport_2.0T_Ultimate, 24995, East Hanover, NJ ,37486,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+3,2019,Hyundai,Santa_Fe_Ultimate, 29997, Shrewsbury, NJ ,34656,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+4,2018,Hyundai,Sonata_Limited_Edition, 21000, Denville, NJ ,31727,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+5,2019,Hyundai,Santa_Fe_SE, 21900, Nanuet, NY ,44998,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+6,2020,Hyundai,Kona_Limited, 31999, Freehold, NJ ,5792,No Accident or Damage Reported,SUV,Black_Engine:_Electric__,CARFAX 1-Owner,Personal Use,5
+7,2019,Hyundai,Sonata_SEL, 21590, Denville, NJ ,8229,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+8,2019,Hyundai,Santa_Fe_XL_Limited_Edition_Ultimate, 31000, Denville, NJ ,42197,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,12
+9,2019,Hyundai,Sonata_SEL, 17980, Richmond Hill, NY ,44461,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,15
+10,2018,Hyundai,Sonata_Limited_Edition, 16615, Lynbrook, NY ,59029,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,15
+11,2018,Hyundai,Santa_Fe_Sport_2.0T_Ultimate, 25888, Jamaica, NY ,35090,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+12,2019,Hyundai,Kona_Ultimate, 26000, Denville, NJ ,8108,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,10
+13,2019,Hyundai,Santa_Fe_Limited_Edition, 29000, Denville, NJ ,40114,No Accident or Damage Reported,SUV,Bronze_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+14,2018,Hyundai,Sonata_Limited_Edition, 22495, Pt Pleasant, NJ ,33409,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+15,2019,Hyundai,Santa_Fe_Ultimate, 30881, Flemington, NJ ,30352,No Accident or Damage Reported,SUV,Bronze_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+16,2012,Hyundai,Tucson_Limited_Edition, 11000, Denville, NJ ,98606,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,26
+17,2018,Hyundai,Sonata_SEL_Plus, 19000, Denville, NJ ,30571,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,13
+18,2018,Hyundai,Tucson_Limited_Edition, 26000, Denville, NJ ,18669,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,10
+19,2019,Hyundai,Tucson_Sport, 24600, Nanuet, NY ,21926,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+20,2019,Hyundai,Tucson_Value_Edition, 23890, North Plainfield, NJ ,23464,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+21,2018,Hyundai,Elantra_Base, 17000, Denville, NJ ,31730,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+22,2020,Hyundai,Santa_Fe_SE, 28969, Stamford, CT ,2136,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+23,2020,Hyundai,Sonata_SEL_Plus, 26897, Shrewsbury, NJ ,15812,No Accident or Damage Reported,Sedan,Yellow_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,6
+24,2018,Hyundai,Sonata_SEL, 18500, Denville, NJ ,28042,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+25,2020,Hyundai,Veloster, 19995, Huntington Station, NY ,4496,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+26,2018,Hyundai,Tucson_SE, 19999, Mahwah, NJ ,37197,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+27,2018,Hyundai,Tucson_SEL, 20359, Bronx, NY ,27930,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+28,2019,Hyundai,Tucson_Value_Edition, 25000, Denville, NJ ,10831,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+29,2018,Hyundai,Kona_Ultimate, 22500, Denville, NJ ,37581,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,11
+30,2018,Hyundai,Sonata_SEL, 18900, Denville, NJ ,18604,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,13
+31,2019,Hyundai,Tucson_Value_Edition, 23028, Lakewood, NJ ,35418,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+32,2020,Hyundai,Elantra_SE, 17900, Norwalk, CT ,26508,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+33,2019,Hyundai,Kona_SEL, 20555, Linden, NJ ,38479,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+34,2019,Hyundai,Tucson_Sport, 21985, Yonkers, NY ,21169,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+35,2019,Hyundai,Sonata_SE, 17900, Stamford, CT ,32794,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+36,2017,Hyundai,Santa_Fe_Sport, 14900, Jersey City, NJ ,117771,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,8
+37,2018,Hyundai,Sonata_SE, 18000, Denville, NJ ,28773,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+38,2019,Hyundai,Sonata_Sport, 20888, Jersey City, NJ ,19151,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+39,2021,Hyundai,Kona_SE, 21500, Norwalk, CT ,11732,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+40,2019,Hyundai,Sonata_SE, 17995, Jamaica, NY ,17201,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+41,2019,Hyundai,Tucson_Sport, 23534, Flemington, NJ ,46372,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,13
+42,2020,Hyundai,Palisade_SEL, 41328, Bronx, NY ,15779,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,6
+43,2018,Hyundai,Sonata_Limited_Edition, 21500, Denville, NJ ,18225,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+44,2018,Hyundai,Tucson_Limited_Edition, 25980, Wayne, NJ ,11834,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,6
+45,2019,Hyundai,Kona_Limited, 24000, Denville, NJ ,21962,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,6
+46,2018,Hyundai,Sonata_Sport, 20900, Wayne, NJ ,7580,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+47,2018,Hyundai,Kona_SEL, 20380, Brooklyn, NY ,27794,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+48,2016,Hyundai,Santa_Fe_Sport, 17995, Long Branch, NJ ,45555,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+49,2018,Hyundai,Sonata_SEL, 15495, Linden, NJ ,44340,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+50,2018,Hyundai,Tucson_SE, 19995, Sussex, NJ ,61519,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+51,2018,Hyundai,Santa_Fe_Limited_Edition_Ultimate, 29990, Bronx, NY ,14552,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,14
+52,2019,Hyundai,Santa_Fe_XL_Limited_Edition_Ultimate, 32000, Denville, NJ ,30692,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,6
+53,2020,Hyundai,Palisade_Limited, 43990, Ridgefield, CT ,34606,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,5
+54,2018,Hyundai,Sonata_SE, 16288, Bronx, NY ,31453,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+55,2018,Hyundai,Tucson_SE, 20999, Mahwah, NJ ,22783,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+56,2020,Hyundai,Sonata_SE, 19900, West Nyack, NY ,27082,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+57,2016,Hyundai,Sonata_Sport, 13651, Jersey City, NJ ,88205,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+58,2018,Hyundai,Tucson_Limited_Edition, 23346, Lynbrook, NY ,12266,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,4
+59,2021,Hyundai,Santa_Fe_SEL, 29980, Richmond Hill, NY ,5057,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+60,2016,Hyundai,Veloster_Base, 11495, SADDLE BROOK, NJ ,96576,No Accident or Damage Reported,Hatchback,Blue_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,14
+61,2019,Hyundai,Santa_Fe_XL_SE, 23995, Jamaica, NY ,23776,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,2
+62,2018,Hyundai,Sonata_SEL_Plus, 19000, Denville, NJ ,33305,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,14
+63,2019,Hyundai,Tucson_SE, 22999, Flemington, NJ ,27999,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+64,2017,Hyundai,Sonata_Sport, 15604, Centereach, NY ,41872,No Accident or Damage Reported,Sedan,Brown_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+65,2020,Hyundai,Palisade_SEL, 39900, Denville, NJ ,31185,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,7
+66,2019,Hyundai,Santa_Fe_SE, 24688, North Plainfield, NJ ,35201,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+67,2019,Hyundai,Santa_Fe_SE, 24688, North Plainfield, NJ ,33325,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+68,2019,Hyundai,Sonata_Sport, 21500, Denville, NJ ,24583,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+69,2020,Hyundai,Kona_SEL, 23900, Denville, NJ ,8745,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+70,2018,Hyundai,Tucson_SE, 20500, Denville, NJ ,36377,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+71,2018,Hyundai,Tucson_SE, 22000, Denville, NJ ,10401,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+72,2019,Hyundai,Santa_Fe_Limited_Edition, 29500, Denville, NJ ,38239,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+73,2009,Hyundai,Accent_GLS, 4995, Lynbrook, NY ,109015,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,8
+74,2015,Hyundai,Genesis_Base, 22985, Bridgewater, NJ ,39526,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,15
+75,2020,Hyundai,Santa_Fe_SEL, 29500, Upper Saddle River, NJ ,16896,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+76,2020,Hyundai,Elantra_SEL, 17000, Bronx, NY ,42694,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+77,2019,Hyundai,Veloster_Turbo, 23989, Great Neck, NY ,16526,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,3
+78,2018,Hyundai,Ioniq_Limited, 22999, Mahwah, NJ ,11950,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,4
+79,2017,Hyundai,Tucson_SE, 16934, Centereach, NY ,60860,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+80,2018,Hyundai,Santa_Fe_Limited_Edition_Ultimate, 31500, Mount Kisco, NY ,16656,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,5
+81,2017,Hyundai,Tucson_Value_Edition, 20205, Lynbrook, NY ,24029,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,15
+82,2019,Hyundai,Elantra_SE, 15985, Yonkers, NY ,13500,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+83,2018,Hyundai,Tucson_SE, 17744, Lynbrook, NY ,20291,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+84,2018,Hyundai,Santa_Fe_Sport_2.0T, 24599, Wharton, NJ ,40475,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+85,2019,Hyundai,Tucson_Value_Edition, 23498, Edison, NJ ,25719,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+86,2016,Hyundai,Tucson_Sport, 18997, Shrewsbury, NJ ,64505,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,24
+87,2020,Hyundai,Palisade_SEL_Premium, 39798, Edison, NJ ,32276,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,5
+88,2018,Hyundai,Santa_Fe_Sport, 19999, Jersey City, NJ ,20659,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+89,2019,Hyundai,Santa_Fe_SEL, 24992, Centereach, NY ,18240,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+90,2020,Hyundai,Elantra_SE, 17999, Jersey City, NJ ,16072,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+91,2018,Hyundai,Sonata_SE, 15498, Floral Park, NY ,27781,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+92,2020,Hyundai,Elantra_SE, 18900, Hackettstown, NJ ,4501,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+93,2019,Hyundai,Veloster_Premium, 18925, Centereach, NY ,23728,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+94,2017,Hyundai,Tucson_SE, 14690, Tinton Falls, NJ ,121937,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+95,2018,Hyundai,Sonata_SE, 16315, Centereach, NY ,33408,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,16
+96,2020,Hyundai,Elantra_SE, 17699, Centereach, NY ,11042,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+97,2018,Hyundai,Elantra_SE, 14998, Mahwah, NJ ,25949,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,3
+98,2017,Hyundai,Santa_Fe_Sport, 14995, South Hackensack, NJ ,76365,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,11
+99,2020,Hyundai,Elantra_SEL, 15690, Bronx, NY ,96779,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,23
+100,2021,Hyundai,Sonata_SE, 25000, Denville, NJ ,1329,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+101,2016,Hyundai,Tucson_Limited_Edition, 16995, Lafayette, NJ ,102250,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,5
+102,2020,Hyundai,Palisade_SEL_Premium, 39995, Edison, NJ ,15843,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,2
+103,2018,Hyundai,Kona_Limited, 21980, Bronx, NY ,8985,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,1
+104,2014,Hyundai,Santa_Fe_GLS, 10900, Belleville, NJ ,154199,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,13
+105,2018,Hyundai,Santa_Fe_SE, 27777, Shrewsbury, NJ ,24307,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,12
+106,2019,Hyundai,Santa_Fe_SEL, 25997, Shrewsbury, NJ ,39728,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+107,2020,Hyundai,Elantra_Value_Edition, 19050, Centereach, NY ,13128,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+108,2018,Hyundai,Santa_Fe_Sport, 24500, Denville, NJ ,27952,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,14
+109,2018,Hyundai,Tucson_Limited_Edition, 25900, Denville, NJ ,35980,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,13
+110,2017,Hyundai,Santa_Fe_Sport, 17399, Eatontown, NJ ,69819,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,19
+111,2020,Hyundai,Sonata_Limited_Edition, 30880, Brooklyn, NY ,3801,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,9
+112,2019,Hyundai,Santa_Fe_SEL_Plus, 22990, Freeport, NY ,25611,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+113,2019,Hyundai,Veloster_Turbo, 24494, Union, NJ ,35218,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,3
+114,2013,Hyundai,Elantra_GLS, 8995, Freeport, NY ,96978,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,15
+115,2019,Hyundai,Sonata_SE, 17498, Floral Park, NY ,24849,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+116,2019,Hyundai,Sonata_Limited_Edition, 19990, Freeport, NY ,39549,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+117,2018,Hyundai,Tucson_SEL_Plus, 18573, Hempstead, NY ,49328,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+118,2018,Hyundai,Elantra_SEL, 15493, Centereach, NY ,27322,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+119,2019,Hyundai,Santa_Fe_SEL, 26000, Denville, NJ ,31079,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+120,2018,Hyundai,Tucson_SE, 20499, Jersey City, NJ ,26646,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+121,2018,Hyundai,Elantra_Value_Edition, 15924, Centereach, NY ,14913,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+122,2017,Hyundai,Tucson_Sport, 15995, Bay Shore, NY ,64201,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,17
+123,2018,Hyundai,Elantra_SE, 15880, Brooklyn, NY ,17315,Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+124,2019,Hyundai,Kona_Limited, 22997, Shrewsbury, NJ ,41045,No Accident or Damage Reported,SUV,Orange_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,12
+125,2017,Hyundai,Santa_Fe_Sport, 21997, Shrewsbury, NJ ,42143,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+126,2019,Hyundai,Santa_Fe_SE, 24999, Freehold, NJ ,25624,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+127,2019,Hyundai,Kona_Limited, 22997, Shrewsbury, NJ ,41045,No Accident or Damage Reported,SUV,Orange_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,12
+128,2018,Hyundai,Tucson_SE, 19999, Freehold, NJ ,42982,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+129,2019,Hyundai,Kona_Ultimate, 26997, Shrewsbury, NJ ,5073,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,3
+130,2016,Hyundai,Santa_Fe_Sport, 14978, Centereach, NY ,90381,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,26
+131,2018,Hyundai,Santa_Fe_Sport, 20980, Wayne, NJ ,26928,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+132,2019,Hyundai,Santa_Fe_XL_SE, 26000, Denville, NJ ,50571,Accident Reported,SUV,Black_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,11
+133,2017,Hyundai,Santa_Fe_Sport, 17980, Wayne, NJ ,66695,Accident/Minor Damage,SUV,Orange_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+134,2017,Hyundai,Santa_Fe_Sport_2.0T, 19999, Mahwah, NJ ,61701,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+135,2018,Hyundai,Sonata_SEL_Plus, 18000, Denville, NJ ,41327,Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,14
+136,2018,Hyundai,Sonata_SEL, 18000, Denville, NJ ,45238,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+137,2019,Hyundai,Santa_Fe_SE, 18995, Brooklyn, NY ,44179,Accident Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+138,2017,Hyundai,Accent_SE, 9988, Saint James, NY ,71958,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,3
+139,2018,Hyundai,Sonata_SE, 17980, Wayne, NJ ,35320,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+140,2017,Hyundai,Sonata_Sport, 14341, Flemington, NJ ,88292,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,23
+141,2021,Hyundai,Kona_SEL, 22500, Paramus, NJ ,1218,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+142,2019,Hyundai,Tucson_Limited_Edition, 23776, Freehold, NJ ,25701,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+143,2017,Hyundai,Tucson_SE, 16495, Edison, NJ ,69334,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+144,2018,Hyundai,Elantra_SEL, 15938, Centereach, NY ,19002,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+145,2018,Hyundai,Sonata_SEL, 17681, Centereach, NY ,24826,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+146,2019,Hyundai,Elantra_Value_Edition, 16995, Totowa, NJ ,42019,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+147,2018,Hyundai,Sonata_SEL, 19000, Denville, NJ ,27378,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+148,2018,Hyundai,Sonata_Sport, 15725, Bronx, NY ,27342,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+149,2019,Hyundai,Santa_Fe_SE, 20888, West Islip, NY ,33059,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Corporate Use,2
+150,2008,Hyundai,Tiburon_GT_Limited, 5995, South Hackensack, NJ ,116263,No Accident or Damage Reported,Coupe,Red_Engine:_6_Cyl_2.7_L_,2-Owner,Personal Use,23
+151,2016,Hyundai,Sonata, 15450, Morristown, NJ ,55310,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,16
+152,2018,Hyundai,Tucson_SE, 19495, Lodi, NJ ,32886,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+153,2017,Hyundai,Tucson_Sport, 18495, Lodi, NJ ,51355,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,6
+154,2018,Hyundai,Elantra_SE, 14498, Floral Park, NY ,9460,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+155,2019,Hyundai,Santa_Fe_SE, 20995, Commack, NY ,35390,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+156,2018,Hyundai,Elantra_SEL, 14009, Lynbrook, NY ,19859,Accident Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+157,2018,Hyundai,Kona_SE, 20888, Brooklyn, NY ,7600,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+158,2018,Hyundai,Tucson_SE, 19922, Springfield, NJ ,33023,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+159,2016,Hyundai,Elantra, 8250, Little Ferry, NJ ,124781,Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,3
+160,2017,Hyundai,Sonata_Sport, 17500, Denville, NJ ,45551,Accident/Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+161,2018,Hyundai,Tucson_SE, 20500, Denville, NJ ,34093,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+162,2018,Hyundai,Sonata_Limited_Edition, 20991, Flemington, NJ ,16408,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+163,2018,Hyundai,Kona_Limited, 23000, Denville, NJ ,28075,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,2
+164,2017,Hyundai,Tucson_SE, 18000, Denville, NJ ,48699,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,13
+165,2008,Hyundai,Santa_Fe_SE, 5243, Jersey City, NJ ,139079,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.3_L_,3+ Owners,Personal Use,17
+166,2011,Hyundai,Accent_GLS, 4999, Flemington, NJ ,119916,Accident Reported,Sedan,Silver_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,18
+167,2018,Hyundai,Kona_SEL, 21995, Woodside, NY ,15749,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+168,2019,Hyundai,Sonata_SE, 18757, Bronx, NY ,29786,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+169,2019,Hyundai,Santa_Fe_Ultimate, 33000, Denville, NJ ,35157,No Accident or Damage Reported,SUV,Bronze_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+170,2018,Hyundai,Sonata_SEL_Plus, 20000, Denville, NJ ,19281,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+171,2018,Hyundai,Santa_Fe_SE_Ultimate, 29500, Denville, NJ ,45881,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,10
+172,2020,Hyundai,Palisade_SEL_Convenience, 42800, Nanuet, NY ,18236,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,5
+173,2018,Hyundai,Sonata_Limited_Edition, 22000, Denville, NJ ,31896,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,14
+174,2018,Hyundai,Sonata_SE, 19000, Denville, NJ ,16022,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+175,2018,Hyundai,Santa_Fe_SE_Ultimate, 29500, Denville, NJ ,45881,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,10
+176,2019,Hyundai,Santa_Fe_Limited_Edition, 31878, Jamaica, NY ,10061,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+177,2017,Hyundai,Tucson_Limited_Edition, 20795, Totowa, NJ ,36969,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,9
+178,2017,Hyundai,Elantra_SE, 10999, Lakewood, NJ ,123229,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+179,2019,Hyundai,Tucson_Ultimate, 25295, Freeport, NY ,31065,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+180,2020,Hyundai,Santa_Fe_SEL, 28428, Centereach, NY ,15020,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+181,2020,Hyundai,Santa_Fe_SEL, 32995, Sussex, NJ ,17303,No Accident or Damage Reported,SUV,Green_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+182,2018,Hyundai,Sonata_SE, 17999, Mahwah, NJ ,4808,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,1
+183,2020,Hyundai,Tucson_Value_Edition, 21900, Bronx, NY ,9336,Accident Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+184,2018,Hyundai,Santa_Fe_Sport, 19955, Little Ferry, NJ ,40410,Accident Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+185,2018,Hyundai,Tucson_SE, 15894, Union, NJ ,132050,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+186,2014,Hyundai,Santa_Fe_Sport, 9991, Flemington, NJ ,130208,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,28
+187,2018,Hyundai,Elantra_SE, 14252, Jamaica, NY ,26810,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+188,2018,Hyundai,Elantra_SE, 13995, Brooklyn, NY ,27450,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+189,2018,Hyundai,Santa_Fe_SE_Ultimate, 27385, Totowa, NJ ,39177,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,4
+190,2019,Hyundai,Tucson_SE, 21521, Centereach, NY ,27191,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+191,2020,Hyundai,Palisade_SEL_Premium, 42843, Centereach, NY ,15364,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,6
+192,2018,Hyundai,Tucson_SE, 19624, Centereach, NY ,26239,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+193,2019,Hyundai,Sonata_SE, 18778, Centereach, NY ,11542,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+194,2016,Hyundai,Sonata, 14999, Jamaica, NY ,77630,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+195,2019,Hyundai,Ioniq_Limited, 18479, Centereach, NY ,22136,No Accident or Damage Reported,Hatchback,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,4
+196,2020,Hyundai,Elantra_SE, 18934, Centereach, NY ,8891,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+197,2018,Hyundai,Sonata_SEL, 17217, Centereach, NY ,38249,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,20
+198,2016,Hyundai,Tucson_Eco, 15995, North Brunswick, NJ ,77454,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,27
+199,2019,Hyundai,Santa_Fe_SEL, 24999, Freehold, NJ ,41682,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+200,2021,Hyundai,Tucson_Value_Edition, 26933, Tenafly, NJ ,7614,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+201,2017,Hyundai,Elantra_Limited_Edition, 16988, Lakewood, NJ ,33715,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+202,2010,Hyundai,Elantra_GLS, 4999, West Milford, NJ ,177537,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,16
+203,2021,Hyundai,Tucson_SE, 24495, Garwood, NJ ,18210,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+204,2018,Hyundai,Kona_SEL, 18998, Mahwah, NJ ,33137,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+205,2017,Hyundai,Tucson_SE, 19495, Wharton, NJ ,45376,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+206,2019,Hyundai,Tucson_Value_Edition, 23550, Brooklyn, NY ,28054,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+207,2020,Hyundai,Kona_SE, 22888, Jersey City, NJ ,2913,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+208,2020,Hyundai,Elantra_Value_Edition, 19900, Bloomfield, NJ ,11301,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+209,2018,Hyundai,Accent_SE, 14999, Mahwah, NJ ,32417,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,9
+210,2018,Hyundai,Sonata, 16599, Woodside, NY ,29959,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,16
+211,2020,Hyundai,Santa_Fe_SEL, 30267, Monmouth Junction, NJ ,15796,No Accident or Damage Reported,SUV,Orange_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+212,2019,Hyundai,Tucson_SE, 18950, Woodside, NY ,50303,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+213,2015,Hyundai,Sonata_Sport, 11499, Shrewsbury, NJ ,129555,Accident Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,23
+214,2018,Hyundai,Sonata_SE, 16553, Bronx, NY ,48836,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,17
+215,2018,Hyundai,Tucson_SE, 22080, Bronx, NY ,13586,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+216,2018,Hyundai,Sonata_SE, 19000, Denville, NJ ,18091,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+217,2015,Hyundai,Genesis_Base, 16495, Elizabeth, NJ ,128039,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.8_L_,2-Owner,Personal Use,11
+218,2018,Hyundai,Kona_SEL, 22190, Bronx, NY ,7533,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+219,2017,Hyundai,Tucson_Value_Edition, 22488, Eatontown, NJ ,31811,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,9
+220,2020,Hyundai,Kona_Limited, 33995, Pt Pleasant, NJ ,4820,No Accident or Damage Reported,SUV,White_Engine:_Electric__,CARFAX 1-Owner,Personal Use,6
+221,2020,Hyundai,Elantra_Value_Edition, 20600, North Plainfield, NJ ,17408,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+222,2018,Hyundai,Sonata_Eco, 19000, Denville, NJ ,25104,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,10
+223,2015,Hyundai,Santa_Fe_Limited_Edition, 17915, Haskell, NJ ,89800,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,11
+224,2018,Hyundai,Tucson_SE, 17495, Ramsey, NJ ,49140,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+225,2017,Hyundai,Veloster_Value_Edition, 16399, Ramsey, NJ ,14461,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,5
+226,2018,Hyundai,Sonata_SE, 16999, Mahwah, NJ ,25223,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,1
+227,2018,Hyundai,Santa_Fe_Sport, 20999, Jersey City, NJ ,22362,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+228,2018,Hyundai,Sonata_SEL, 16999, Mahwah, NJ ,33416,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,1
+229,2018,Hyundai,Santa_Fe_Sport_2.0T_Ultimate, 25999, Mahwah, NJ ,31198,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,4
+230,2016,Hyundai,Tucson_Limited_Edition, 15900, Amityville, NY ,121236,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,39
+231,2018,Hyundai,Elantra_SE, 14999, Mahwah, NJ ,51885,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,3
+232,2020,Hyundai,Elantra_Value_Edition, 17900, Wilton, CT ,20382,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,3
+233,2018,Hyundai,Elantra_SEL, 13990, Jamaica, NY ,32411,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+234,2018,Hyundai,Tucson_SE, 18595, Denville, NJ ,32246,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+235,2020,Hyundai,Elantra_SE, 18599, Jersey City, NJ ,6858,Accident Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+236,2018,Hyundai,Tucson_SE, 19999, Bayside, NY ,26100,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+237,2019,Hyundai,Santa_Fe_SE, 23999, Bayside, NY ,32377,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+238,2020,Hyundai,Sonata_SE, 21588, Jersey City, NJ ,23773,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+239,2019,Hyundai,Kona_SEL, 21825, Bronx, NY ,22460,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+240,2018,Hyundai,Kona_SE, 20999, Jersey City, NJ ,7814,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+241,2017,Hyundai,Tucson_SE, 17031, Centereach, NY ,61876,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,15
+242,2018,Hyundai,Tucson_Limited_Edition, 28894, Union, NJ ,18970,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,2
+243,2018,Hyundai,Tucson_SEL_Plus, 25494, Union, NJ ,15423,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+244,2018,Hyundai,Elantra_Value_Edition, 15995, Commack, NY ,14041,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+245,2019,Hyundai,Sonata_SEL, 16990, Bronx, NY ,0,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+246,2009,Hyundai,Santa_Fe_Limited_Edition, 7995, Ramsey, NJ ,94193,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,4
+247,2020,Hyundai,Sonata_Limited_Edition, 29788, Edison, NJ ,18352,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,5
+248,2020,Hyundai,Santa_Fe_SEL, 30995, Lodi, NJ ,18701,No Accident or Damage Reported,SUV,Green_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+249,2018,Hyundai,Elantra_SEL, 14980, Freeport, NY ,42634,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+250,2018,Hyundai,Elantra_SEL, 14980, Freeport, NY ,42634,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+251,2018,Hyundai,Santa_Fe_Sport, 23995, Wharton, NJ ,28757,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+252,2020,Hyundai,Santa_Fe_SEL, 33895, Watchung, NJ ,10941,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+253,2018,Hyundai,Tucson_Value_Edition, 21995, Wharton, NJ ,60847,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,16
+254,2018,Hyundai,Kona_SE, 19995, Wharton, NJ ,48605,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+255,2018,Hyundai,Santa_Fe_Limited_Edition_Ultimate, 29995, Bronx, NY ,31339,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,12
+256,2020,Hyundai,Palisade_Limited, 46590, New York, NY,18479,No Accident or Damage Reported,SUV,Burgundy_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,6
+257,2018,Hyundai,Kona_SE, 18999, Mahwah, NJ ,16885,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,1
+258,2020,Hyundai,Sonata_SE, 20217, Centereach, NY ,18345,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+259,2011,Hyundai,Sonata_Limited_Edition, 9995, Greenwich, CT ,39017,Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,15
+260,2019,Hyundai,Tucson_SE, 18395, Elmwood Park, NJ ,37372,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+261,2014,Hyundai,Santa_Fe_Sport, 14500, Ozone Park, NY ,88134,Minor Damage,SUV,Bronze_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,40
+262,2019,Hyundai,Tucson_SE, 19779, Woodside, NY ,13527,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+263,2016,Hyundai,Sonata_Sport, 14511, Haskell, NJ ,64944,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,6
+264,2019,Hyundai,Sonata_SE, 18999, Mahwah, NJ ,34586,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+265,2017,Hyundai,Veloster_Value_Edition, 13995, West Babylon, NY ,69779,Accident Reported,Hatchback,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,9
+266,2017,Hyundai,Sonata_Sport, 16998, Hackettstown, NJ ,64330,Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,17
+267,2016,Hyundai,Sonata_Sport, 15493, Hackettstown, NJ ,54525,Accident Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+268,2010,Hyundai,Elantra_GLS, 4495, South Hackensack, NJ ,115580,Accident Reported,Wagon,Gray_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,10
+269,2019,Hyundai,Tucson_Limited_Edition, 25996, Hempstead, NY ,38463,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+270,2019,Hyundai,Elantra_Value_Edition, 18200, Rockville Centre, NY ,11508,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+271,2019,Hyundai,Sonata_Limited_Edition, 22888, Jersey City, NJ ,14445,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+272,2019,Hyundai,Elantra_SE, 17482, North Plainfield, NJ ,13339,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+273,2017,Hyundai,Elantra_SE, 13827, Jersey City, NJ ,73165,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,16
+274,2007,Hyundai,Tucson_Limited_Edition, 5500, Plainfield, NJ ,76449,Accident Reported,SUV,Silver_Engine:_6_Cyl_2.7_L_,CARFAX 1-Owner,Personal Use,21
+275,2018,Hyundai,Kona_SEL, 21188, Lakewood, NJ ,31292,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+276,2018,Hyundai,Tucson_Limited_Edition, 23990, Ridgefield, CT ,55691,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,22
+277,2018,Hyundai,Kona_Limited, 21930, Saint James, NY ,43168,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,5
+278,2016,Hyundai,Tucson_Limited_Edition, 16995, East Windsor, NJ ,74775,No Accident or Damage Reported,SUV,Burgundy_Engine:_4_Cyl_1.6_L_,3+ Owners,Personal Use,19
+279,2012,Hyundai,Sonata_Base, 6500, Jersey City, NJ ,160000,Accident Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,18
+280,2014,Hyundai,Elantra_SE, 6195, Newark, NJ ,184165,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,6
+281,2019,Hyundai,Veloster_N, 22215, Centereach, NY ,16182,Accident Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+282,2017,Hyundai,Sonata_SE, 11949, Lodi, NJ ,82931,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+283,2020,Hyundai,Kona_SE, 22994, Union, NJ ,30379,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+284,2018,Hyundai,Tucson_SE, 22994, Union, NJ ,30662,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+285,2018,Hyundai,Tucson_Limited_Edition, 25989, Freehold, NJ ,31550,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,11
+286,2017,Hyundai,Tucson_SE, 19995, Bayside, NY ,18295,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+287,2019,Hyundai,Santa_Fe_SE, 23995, Keyport, NJ ,40003,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Corporate Use,7
+288,2018,Hyundai,Elantra_Value_Edition, 15056, Great Neck, NY ,26853,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+289,2014,Hyundai,Veloster_Turbo, 11400, Eatontown, NJ ,99970,No Accident or Damage Reported,Hatchback,Silver_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,9
+290,2019,Hyundai,Ioniq_Limited, 21888, Brooklyn, NY ,26935,No Accident or Damage Reported,Hatchback,Blue_Engine:_4_Cyl_1.6_L_,3+ Owners,Multiple Use,4
+291,2020,Hyundai,Elantra_Value_Edition, 18993, Flemington, NJ ,9336,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+292,2016,Hyundai,Elantra_Base, 10499, S Hackensack, NJ ,108695,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+293,2018,Hyundai,Sonata_SE, 16980, Freeport, NY ,15386,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+294,2020,Hyundai,Santa_Fe_SEL, 29795, Monmouth Junction, NJ ,20544,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+295,2018,Hyundai,Elantra_SE, 14520, Centereach, NY ,27761,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+296,2020,Hyundai,Palisade_SEL_Convenience, 39498, Floral Park, NY ,16606,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,0
+297,2018,Hyundai,Sonata_SEL, 18500, Old Bridge, NJ ,31265,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,13
+298,2020,Hyundai,Elantra_SE, 19000, Monmouth Junction, NJ ,11919,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+299,2021,Hyundai,Sonata_SEL, 29999, Freehold, NJ ,785,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+300,2020,Hyundai,Santa_Fe_SEL, 29795, Monmouth Junction, NJ ,20544,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+301,2018,Hyundai,Elantra_SE, 14520, Centereach, NY ,27761,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+302,2018,Hyundai,Sonata_SE, 16980, Freeport, NY ,15386,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+303,2013,Hyundai,Sonata_Limited_Edition, 9995, Brooklyn, NY ,106472,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,13
+304,2019,Hyundai,Santa_Fe_Ultimate, 32999, Freehold, NJ ,44402,No Accident or Damage Reported,SUV,Brown_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+305,2020,Hyundai,Santa_Fe_SEL, 31500, Jersey City, NJ ,10763,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+306,2019,Hyundai,Santa_Fe_SE, 24000, Denville, NJ ,28316,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,6
+307,2018,Hyundai,Sonata_SE, 15999, Mahwah, NJ ,30533,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,8
+308,2016,Hyundai,Sonata, 9999, Jersey City, NJ ,126108,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,12
+309,2019,Hyundai,Elantra_Value_Edition, 19888, Sussex, NJ ,25672,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+310,2016,Hyundai,Veloster_Base, 12885, Paterson, NJ ,61522,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,11
+311,2014,Hyundai,Elantra_Base, 10000, Monmouth Junction, NJ ,76997,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,9
+312,2018,Hyundai,Sonata_Limited_Edition, 17781, Jamaica, NY ,25554,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+313,2019,Hyundai,Santa_Fe_SE, 25995, Woodside, NY ,6084,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+314,2019,Hyundai,Tucson_SE, 18990, Elmwood Park, NJ ,46316,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+315,2014,Hyundai,Santa_Fe_Sport, 15495, Yonkers, NY ,55112,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,27
+316,2012,Hyundai,Sonata_Limited_Edition, 8995, Cranbury, NJ ,111664,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,19
+317,2019,Hyundai,Elantra_Value_Edition, 17000, Woodside, NY ,46136,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+318,2019,Hyundai,Santa_Fe_SE, 24499, Jersey City, NJ ,29328,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+319,2019,Hyundai,Santa_Fe_Limited_Edition, 29998, Mahwah, NJ ,36295,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+320,2020,Hyundai,Kona_SE, 21888, Jersey City, NJ ,16893,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+321,2019,Hyundai,Santa_Fe_SEL_Plus, 25500, Upper Saddle River, NJ ,32413,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+322,2018,Hyundai,Tucson_SE, 20588, Jersey City, NJ ,24740,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+323,2015,Hyundai,Santa_Fe_Sport, 13988, Saint James, NY ,117950,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,16
+324,2019,Hyundai,Santa_Fe_XL_Limited_Edition_Ultimate, 33495, Hackensack, NJ ,10517,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,2
+325,2018,Hyundai,Sonata_SEL, 18990, Pleasantville, NY,21326,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+326,2021,Hyundai,Palisade_Limited, 47990, Pleasantville, NY,21836,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,5
+327,2019,Hyundai,Sonata, 15999, Woodside, NY ,35705,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+328,2015,Hyundai,Veloster_Turbo, 15570, Massapequa Park, NY ,15817,Accident/Minor Damage,Hatchback,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,2
+329,2017,Hyundai,Elantra_SE, 14990, West Nyack, NY ,39500,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,20
+330,2021,Hyundai,Palisade_Calligraphy, 54235, Yonkers, NY ,20952,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,4
+331,2019,Hyundai,Santa_Fe_XL_SE, 26995, Scarsdale, NY ,27407,Accident Reported,SUV,Black_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,2
+332,2018,Hyundai,Tucson_Sport, 20995, Yonkers, NY ,43052,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+333,2019,Hyundai,Elantra_Value_Edition, 17216, Centereach, NY ,32317,Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+334,2019,Hyundai,Ioniq, 18751, Centereach, NY ,35900,Accident/Minor Damage,Hatchback,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,9
+335,2019,Hyundai,Sonata_SE, 19850, Monmouth Junction, NJ ,12716,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,4
+336,2013,Hyundai,Santa_Fe_Sport, 9995, Bridgewater, NJ ,135372,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,14
+337,2019,Hyundai,Tucson_SEL, 21895, Ramsey, NJ ,59375,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,6
+338,2018,Hyundai,Sonata_Limited_Edition, 18513, Irvington, NJ ,38542,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,14
+339,2018,Hyundai,Elantra_SEL, 16900, Bloomfield, NJ ,6401,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+340,2020,Hyundai,Palisade_SEL_Premium, 42995, Jersey City, NJ ,9244,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,3
+341,2018,Hyundai,Elantra_Value_Edition, 15999, Jamaica, NY ,35232,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+342,2017,Hyundai,Sonata_SE, 15995, Neptune, NJ ,62233,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,19
+343,2012,Hyundai,Santa_Fe_SE, 7199, Sussex, NJ ,166649,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,30
+344,2018,Hyundai,Santa_Fe_Sport_2.0T, 25997, Shrewsbury, NJ ,41946,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+345,2019,Hyundai,Santa_Fe_Limited_Edition, 34999, Freehold, NJ ,18512,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+346,2018,Hyundai,Kona_Limited, 25999, Freehold, NJ ,7219,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,1
+347,2020,Hyundai,Kona_SEL, 24997, Shrewsbury, NJ ,17178,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+348,2017,Hyundai,Santa_Fe_Sport_2.0T_Ultimate, 22997, Shrewsbury, NJ ,87182,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,18
+349,2019,Hyundai,Kona_SEL, 22999, Freehold, NJ ,43732,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+350,2019,Hyundai,Santa_Fe_SEL, 27999, Freehold, NJ ,32575,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+351,2019,Hyundai,Santa_Fe_Limited_Edition, 34999, Freehold, NJ ,18512,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+352,2017,Hyundai,Santa_Fe_Sport_2.0T_Ultimate, 22997, Shrewsbury, NJ ,87182,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,18
+353,2018,Hyundai,Kona_Limited, 25999, Freehold, NJ ,7219,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,1
+354,2019,Hyundai,Kona_SEL, 22999, Freehold, NJ ,43732,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+355,2020,Hyundai,Kona_SEL, 24997, Shrewsbury, NJ ,17178,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+356,2019,Hyundai,Tucson_Value_Edition, 24495, PARAMUS, NJ ,27927,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+357,2013,Hyundai,Tucson_GLS, 12489, West Babylon, NY ,79889,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,21
+358,2019,Hyundai,Sonata_SEL, 23999, Freehold, NJ ,6976,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+359,2019,Hyundai,Sonata_SEL, 21999, Freehold, NJ ,26413,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+360,2019,Hyundai,Tucson_SE, 23999, Freehold, NJ ,22959,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+361,2018,Hyundai,Sonata_SE, 19000, Denville, NJ ,14073,Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+362,2019,Hyundai,Santa_Fe_SEL, 20995, Bronx, NY ,75098,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,16
+363,2018,Hyundai,Santa_Fe_Sport, 21995, Brooklyn, NY ,18641,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+364,2018,Hyundai,Elantra_SE, 14680, North Plainfield, NJ ,43075,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+365,2020,Hyundai,Santa_Fe_SEL, 29900, Wayne, NJ ,23717,Minor Damage,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+366,2018,Hyundai,Elantra_Value_Edition, 13995, Woodside, NY ,47209,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+367,2018,Hyundai,Elantra_SE, 14498, Floral Park, NY ,17955,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+368,2020,Hyundai,Sonata_SEL_Plus, 28888, Brooklyn, NY ,3255,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,2
+369,2019,Hyundai,Veloster, 16995, Wall Township, NJ ,24530,Accident Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+370,2020,Hyundai,Tucson_SEL, 24490, Hasbrouck Heights, NJ ,13985,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+371,2020,Hyundai,Elantra_SE, 18994, Monmouth Junction, NJ ,4115,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,5
+372,2019,Hyundai,Sonata_Limited_Edition, 20222, Linden, NJ ,40637,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+373,2016,Hyundai,Accent_SE, 8899, Edison, NJ ,93590,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.6_L_,2-Owner,Multiple Use,31
+374,2020,Hyundai,Elantra_Value_Edition, 20361, Monmouth Junction, NJ ,8276,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+375,2021,Hyundai,Sonata_SE, 24000, Denville, NJ ,7942,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Corporate Use,15
+376,2018,Hyundai,Sonata_SEL_Plus, 20000, Denville, NJ ,15937,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+377,2016,Hyundai,Elantra_SE, 10995, Lodi, NJ ,63996,Accident Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,16
+378,2017,Hyundai,Tucson_Eco, 14500, Monmouth Junction, NJ ,95809,Accident Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,6
+379,2013,Hyundai,Elantra_GS, 6999, Mine Hill, NJ ,143352,Accident Reported,Coupe,Silver_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,8
+380,2015,Hyundai,Sonata_SE, 12671, Centereach, NY ,79456,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,22
+381,2017,Hyundai,Tucson_Night, 24555, Sussex, NJ ,24434,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,12
+382,2013,Hyundai,Elantra_GLS, 8800, Lynbrook, NY ,80460,Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,9
+383,2018,Hyundai,Tucson_Limited_Edition, 27641, Bronx, NY ,11334,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,8
+384,2018,Hyundai,Santa_Fe_Sport, 24500, Denville, NJ ,27294,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+385,2019,Hyundai,Sonata_SE, 19999, Mahwah, NJ ,11076,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,0
+386,2018,Hyundai,Kona_Ultimate, 21999, Mahwah, NJ ,39239,No Accident or Damage Reported,SUV,4_Cyl_1.6_L_,2-Owner,Personal Use,0
+387,2019,Hyundai,Tucson_SE, 21255, Little Ferry, NJ ,25475,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,3
+388,2018,Hyundai,Tucson_SEL_Plus, 26995, Sussex, NJ ,28617,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+389,2018,Hyundai,Sonata_SEL, 17995, Keyport, NJ ,16131,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+390,2020,Hyundai,Elantra_SEL, 17995, Totowa, NJ ,12133,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,5
+391,2018,Hyundai,Sonata_SE, 15998, Mahwah, NJ ,30232,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,3
+392,2018,Hyundai,Elantra_Sport, 14985, Paterson, NJ ,73897,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.6_L_,3+ Owners,Personal Use,8
+393,2014,Hyundai,Elantra_Limited_Edition, 5995, Butler, NJ ,145317,Accident Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,1
+394,2019,Hyundai,Elantra_SE, 16316, Centereach, NY ,11423,Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+395,2019,Hyundai,Sonata_Limited_Edition, 21042, Freehold, NJ ,42013,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+396,2018,Hyundai,Elantra_SE, 13917, Centereach, NY ,51490,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,16
+397,2019,Hyundai,Kona_Limited, 20848, Centereach, NY ,60988,Accident Reported,SUV,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,15
+398,2017,Hyundai,Elantra, 8750, Little Ferry, NJ ,101709,Major Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+399,2020,Hyundai,Kona_Ultimate, 25995, Wall Township, NJ ,6300,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,5
+400,2015,Hyundai,Sonata_Limited_Edition, 15880, Mamaroneck, NY ,64520,Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,24
+401,2011,Hyundai,Veracruz_GLS, 6995, Wayne, NJ ,122057,Accident Reported,SUV,Blue_Engine:_6_Cyl_3.8_L_,3+ Owners,Personal Use,28
+402,2020,Hyundai,Santa_Fe_SEL, 35989, Freehold, NJ ,11140,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+403,2013,Hyundai,Elantra_GLS, 7845, Ramsey, NJ ,86224,Accident Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,4
+404,2018,Hyundai,Tucson_SE, 19999, Jamaica, NY ,26012,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+405,2020,Hyundai,Sonata_SEL, 25445, Centereach, NY ,14423,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+406,2019,Hyundai,Santa_Fe_Ultimate, 29107, Centereach, NY ,44941,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+407,2018,Hyundai,Santa_Fe_Sport, 22999, Bayside, NY ,30384,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+408,2019,Hyundai,Kona_SE, 20999, Bayside, NY ,8102,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+409,2018,Hyundai,Sonata_SEL_Plus, 18999, Bayside, NY ,5864,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+410,2018,Hyundai,Santa_Fe_Sport_2.0T, 24995, Lakewood, NJ ,28120,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+411,2020,Hyundai,Kona_Limited, 24795, Newton, NJ ,46647,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,9
+412,2018,Hyundai,Santa_Fe_Sport, 22777, Lodi, NJ ,22290,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+413,2017,Hyundai,Tucson, 17295, Linden, NJ ,51754,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+414,2018,Hyundai,Sonata_SE, 18595, Elizabeth, NJ ,26797,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+415,2018,Hyundai,Tucson_Value_Edition, 22888, Brooklyn, NY ,27178,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,1
+416,2018,Hyundai,Sonata_Limited_Edition, 20888, Brooklyn, NY ,20713,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+417,2018,Hyundai,Sonata_SE, 18888, Brooklyn, NY ,6939,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+418,2009,Hyundai,Azera_Limited_Edition, 4999, S Hackensack, NJ ,131922,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.8_L_,2-Owner,Personal Use,28
+419,2021,Hyundai,Palisade_Limited, 47950, Bronx, NY ,2680,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,1
+420,2019,Hyundai,Sonata_SE, 18900, Monmouth Junction, NJ ,14541,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,4
+421,2021,Hyundai,Tucson_Limited_Edition, 34900, Verona, NJ ,3753,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+422,2015,Hyundai,Tucson_Limited_Edition, 12995, Stamford, CT ,113398,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,12
+423,2020,Hyundai,Elantra_SE, 18226, Monmouth Junction, NJ ,17014,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,7
+424,2016,Hyundai,Tucson_Eco, 16998, Huntington, NY ,52671,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,2
+425,2020,Hyundai,Elantra_SE, 18226, Monmouth Junction, NJ ,17014,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,7
+426,2018,Hyundai,Sonata_SE, 15900, Hillside, NJ ,31176,Minor Damage,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+427,2015,Hyundai,Tucson_Limited_Edition, 12995, Stamford, CT ,113398,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,12
+428,2010,Hyundai,Genesis_Base, 9995, Hasbrouck Heights, NJ ,92975,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,12
+429,2016,Hyundai,Tucson_Eco, 16998, Huntington, NY ,52671,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,2
+430,2017,Hyundai,Elantra_Value_Edition, 10900, Belleville, NJ ,126181,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,0
+431,2016,Hyundai,Santa_Fe_Sport, 16990, New York, NY,84777,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,7
+432,2018,Hyundai,Sonata, 15999, Woodside, NY ,12265,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+433,2018,Hyundai,Kona_SE, 11995, Brooklyn, NY ,149490,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+434,2019,Hyundai,Santa_Fe_SEL, 24995, Saint James, NY ,25497,Minor Damage,SUV,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+435,2019,Hyundai,Sonata_SE, 18690, Brooklyn, NY ,23620,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+436,2019,Hyundai,Elantra_Value_Edition, 18285, Brooklyn, NY ,6935,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+437,2018,Hyundai,Sonata_SEL_Plus, 18500, Denville, NJ ,43110,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+438,2018,Hyundai,Santa_Fe_SE, 23469, Brooklyn, NY ,32083,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,2
+439,2018,Hyundai,Tucson_Value_Edition, 17999, Woodside, NY ,30147,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,5
+440,2018,Hyundai,Sonata_SE, 17164, Bronx, NY ,31278,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+441,2018,Hyundai,Elantra_SEL, 15603, Bronx, NY ,39913,Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+442,2018,Hyundai,Elantra_SE, 14843, Centereach, NY ,7520,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+443,2017,Hyundai,Elantra_SE, 14000, Denville, NJ ,67934,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+444,2017,Hyundai,Tucson_SE, 18400, White Plains, NY ,59860,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,8
+445,2020,Hyundai,Venue_SEL, 19000, Denville, NJ ,28669,No Accident or Damage Reported,SUV,Green_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,10
+446,2018,Hyundai,Elantra_SEL, 17000, Denville, NJ ,15284,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+447,2019,Hyundai,Ioniq_Limited, 24000, Denville, NJ ,12776,No Accident or Damage Reported,Hatchback,White_Engine:_Electric__,CARFAX 1-Owner,Personal Use,8
+448,2018,Hyundai,Elantra_SEL, 16000, Denville, NJ ,35989,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+449,2016,Hyundai,Veloster_Turbo, 19595, Belmar, NJ ,12443,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,3
+450,2013,Hyundai,Veloster_Turbo, 11350, Little Ferry, NJ ,59701,Accident Reported,Hatchback,Red_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,26
+451,2019,Hyundai,Elantra_Value_Edition, 19900, Wayne, NJ ,13881,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+452,2020,Hyundai,Elantra_Value_Edition, 14995, Brooklyn, NY ,16675,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Rental Use,1
+453,2018,Hyundai,Sonata_Limited_Edition, 18995, Yonkers, NY ,37669,Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Corporate Use,6
+454,2016,Hyundai,Elantra_SE, 12821, Saint James, NY ,57706,No Accident or Damage Reported,Sedan,Bronze_Engine:_4_Cyl_1.8_L_,2-Owner,Multiple Use,12
+455,2016,Hyundai,Santa_Fe_Limited_Edition, 23998, Perth Amboy, NJ ,81911,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,8
+456,2017,Hyundai,Sonata_Limited_Edition, 22770, North Plainfield, NJ ,11640,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,14
+457,2020,Hyundai,Elantra_SEL, 17995, Copiague, NY ,4180,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Rental Use,0
+458,2013,Hyundai,Veloster, 8500, Paterson, NJ ,91990,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_1.6_L_,3+ Owners,Personal Use,10
+459,2019,Hyundai,Kona_SEL, 22995, Lyndhurst, NJ ,16132,Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+460,2018,Hyundai,Santa_Fe_Sport, 22999, Mahwah, NJ ,15244,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,0
+461,2018,Hyundai,Tucson_SE, 17495, Jamaica, NY ,24451,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+462,2017,Hyundai,Santa_Fe_SE_Ultimate, 23985, Paterson, NJ ,71922,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,18
+463,2016,Hyundai,Tucson_SE, 17865, Haskell, NJ ,57966,No Accident or Damage Reported,SUV,Orange_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,21
+464,2019,Hyundai,Sonata_SEL, 17000, Monmouth Junction, NJ ,85832,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+465,2018,Hyundai,Elantra_Sport, 18994, Haskell, NJ ,29282,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,12
+466,2018,Hyundai,Elantra_Limited_Edition, 19995, Sussex, NJ ,29734,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+467,2018,Hyundai,Tucson_SEL_Plus, 25995, Sussex, NJ ,35405,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+468,2018,Hyundai,Elantra_SE, 17512, Sussex, NJ ,38936,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+469,2018,Hyundai,Santa_Fe_Sport, 22998, Mahwah, NJ ,41412,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,3
+470,2018,Hyundai,Elantra_Value_Edition, 17635, Sea Girt, NJ ,39822,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+471,2019,Hyundai,Veloster_Turbo_Ultimate, 23988, COLONIA, NJ ,15700,Accident/Minor Damage,Hatchback,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,6
+472,2020,Hyundai,Palisade_SEL_Convenience, 42900, Rahway, NJ ,14266,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,9
+473,2019,Hyundai,Tucson_SEL, 23912, Centereach, NY ,18320,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+474,2020,Hyundai,Santa_Fe_SE, 27318, Centereach, NY ,15200,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+475,2020,Hyundai,Santa_Fe_SE, 27318, Centereach, NY ,15200,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+476,2019,Hyundai,Tucson_SEL, 23912, Centereach, NY ,18320,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+477,2018,Hyundai,Tucson_SE, 21995, Keyport, NJ ,25497,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+478,2021,Hyundai,Palisade_SEL_Convenience, 43429, Centereach, NY ,8460,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,2
+479,2017,Hyundai,Accent_SE, 10500, Rahway, NJ ,62371,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Commercial Use,13
+480,2014,Hyundai,Santa_Fe_GLS, 10395, Ramsey, NJ ,175886,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,3
+481,2007,Hyundai,Tucson, 5695, Belleville, NJ ,101087,Accident Reported,SUV,Beige_Engine:_6_Cyl_2.7_L_,2-Owner,Personal Use,27
+482,2015,Hyundai,Veloster_Turbo, 13542, Carlstadt, NJ ,55081,Damage Reported,Hatchback,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,6
+483,2019,Hyundai,Elantra_SEL, 15995, Linden, NJ ,45719,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,2
+484,2016,Hyundai,Santa_Fe_Limited_Edition, 20988, Lodi, NJ ,78354,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,13
+485,2018,Hyundai,Sonata_SEL, 19999, Freehold, NJ ,19058,Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,4
+486,2018,Hyundai,Sonata_SEL, 18549, Monmouth Junction, NJ ,18664,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,8
+487,2019,Hyundai,Nexo_Limited, 23995, Wall Township, NJ ,17690,Branded Title,SUV,Bronze_Engine:_Electric__,CARFAX 1-Owner,Personal Use,6
+488,2016,Hyundai,Sonata_SE, 9998, Butler, NJ ,101667,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,3
+489,2021,Hyundai,Santa_Fe_Limited_Edition, 35995, Wall Township, NJ ,4595,Branded Title,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+490,2018,Hyundai,Sonata_SE, 12900, Hillside, NJ ,97621,Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,16
+491,2014,Hyundai,Veloster, 9999, North Middletown, NJ ,89837,Damage Reported,Hatchback,Red_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,4
+492,2018,Hyundai,Tucson_SEL_Plus, 23994, Union, NJ ,27508,Accident/Minor Damage,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+493,2017,Hyundai,Tucson_SE, 15645, Elizabeth, NJ ,91643,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,1
+494,2014,Hyundai,Genesis_Base, 14995, New Brunswick, NJ ,45324,Damage Reported,Sedan,White_Engine:_6_Cyl_3.8_L_,Number of Owners,Personal Use,13
+495,2012,Hyundai,Sonata_GLS, 6995, Bayonne, NJ ,95271,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,9
+496,2019,Hyundai,Tucson_Night, 28794, Union, NJ ,23582,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+497,2020,Hyundai,Elantra_SEL, 19524, Monmouth Junction, NJ ,10615,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,2
+498,2019,Hyundai,Santa_Fe_SE, 23985, Yonkers, NY ,17043,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+499,2018,Hyundai,Santa_Fe_Sport, 23995, Wharton, NJ ,28247,Minor Damage,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+500,2020,Hyundai,Elantra_SE, 18500, Monmouth Junction, NJ ,15249,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,7
+501,2020,Hyundai,Sonata_Limited_Edition, 31888, Brooklyn, NY ,6914,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,2
+502,2020,Hyundai,Tucson_SEL, 25000, Monmouth Junction, NJ ,24405,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+503,2018,Hyundai,Sonata_SE, 19888, Jersey City, NJ ,14499,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+504,2019,Hyundai,Santa_Fe_Ultimate, 33000, Monmouth Junction, NJ ,38148,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+505,2017,Hyundai,Veloster_Value_Edition, 13995, Wall Township, NJ ,47710,Branded Title,Hatchback,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,20
+506,2012,Hyundai,Elantra_GLS, 8388, Saint James, NY ,75265,Accident/Minor Damage,Sedan,Silver_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,20
+507,2019,Hyundai,Santa_Fe_SEL_Plus, 26000, Denville, NJ ,42589,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+508,2020,Hyundai,Sonata_Limited_Edition, 31430, Bronx, NY ,25710,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,9
+509,2018,Hyundai,Sonata_Sport, 20844, Bronx, NY ,36381,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+510,2018,Hyundai,Sonata_SE, 21277, Bronx, NY ,14583,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+511,2016,Hyundai,Elantra_SE, 14989, Sayville, NY ,40960,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,7
+512,2019,Hyundai,Kona_SE, 20386, Bronx, NY ,26770,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+513,2020,Hyundai,Sonata_SE, 22780, North Plainfield, NJ ,15736,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+514,2019,Hyundai,Elantra_SEL, 17854, Bronx, NY ,41772,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+515,2018,Hyundai,Sonata_Sport, 14788, Jersey City, NJ ,39553,Accident Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,9
+516,2018,Hyundai,Santa_Fe_Sport, 22999, Mahwah, NJ ,24610,Minor Damage,SUV,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,1
+517,2019,Hyundai,Sonata_SE, 21995, North Plainfield, NJ ,5410,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+518,2018,Hyundai,Santa_Fe_Sport_2.0T_Ultimate, 29995, Amityville, NY ,23666,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+519,2020,Hyundai,Elantra_Value_Edition, 19490, North Plainfield, NJ ,32381,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+520,2011,Hyundai,Sonata, 5990, Hasbrouck Heights, NJ ,102724,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,26
+521,2019,Hyundai,Elantra_SE, 16922, Springfield, NJ ,48339,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+522,2018,Hyundai,Ioniq_Blue, 20302, Bronx, NY ,28120,No Accident or Damage Reported,Hatchback,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,6
+523,2019,Hyundai,Sonata_SE, 19900, Wayne, NJ ,25404,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+524,2018,Hyundai,Sonata_SE, 19991, Flemington, NJ ,20834,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+525,2018,Hyundai,Sonata_SE, 19991, Flemington, NJ ,20834,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+526,2020,Hyundai,Accent_SE, 18912, Jamaica, NY ,6253,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,4
+527,2019,Hyundai,Elantra_SEL, 14999, Jamaica, NY ,57799,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,1
+528,2013,Hyundai,Sonata_Limited_Edition, 10995, Union, NJ ,85434,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+529,2014,Hyundai,Elantra_Base, 10900, Jersey City, NJ ,79813,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,12
+530,2017,Hyundai,Elantra_SE, 12999, Mahwah, NJ ,83815,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,12
+531,2018,Hyundai,Sonata_SE, 15498, Floral Park, NY ,19418,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+532,2018,Hyundai,Tucson_SEL_Plus, 21900, Rahway, NJ ,29152,Accident Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+533,2018,Hyundai,Tucson_SEL_Plus, 21979, Englewood, NJ ,4634,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+534,2010,Hyundai,Genesis_Base, 11995, West Nyack, NY ,63204,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.6_L_,2-Owner,Personal Use,13
+535,2012,Hyundai,Santa_Fe_Limited_Edition, 10988, Lakewood, NJ ,72079,Accident Reported,SUV,Green_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,18
+536,2019,Hyundai,Kona_SEL, 20995, Edison, NJ ,25977,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+537,2013,Hyundai,Tucson_GLS, 8990, Sayreville, NJ ,110705,Accident/Minor Damage,SUV,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,17
+538,2013,Hyundai,Tucson_GLS, 12999, Flemington, NJ ,82537,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,22
+539,2020,Hyundai,Elantra_SEL, 19989, Little Ferry, NJ ,554,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+540,2016,Hyundai,Tucson_Limited_Edition, 17285, Inwood, NY ,75865,Accident Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,17
+541,2016,Hyundai,Elantra_Sport, 15989, New York, NY ,43610,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+542,2009,Hyundai,Elantra_GLS, 3995, South Hackensack, NJ ,134221,Accident Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,28
+543,2018,Hyundai,Tucson_SEL_Plus, 23499, Bayside, NY ,15879,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+544,2010,Hyundai,Santa_Fe_Limited_Edition, 9886, Orangeburg, NY ,72060,Accident Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,22
+545,2018,Hyundai,Sonata_SE, 17999, Bayside, NY ,21141,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+546,2019,Hyundai,Santa_Fe_SE, 23999, Bayside, NY ,29420,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+547,2020,Hyundai,Sonata_SEL, 30794, Union, NJ ,14055,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,7
+548,2018,Hyundai,Tucson_SEL_Plus, 27394, Union, NJ ,28052,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,17
+549,2007,Hyundai,Sonata_GLS, 4999, Mine Hill, NJ ,118038,Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,22
+550,2020,Hyundai,Kona_SEL, 19995, Wall Township, NJ ,10720,Branded Title,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+551,2018,Hyundai,Sonata_Sport, 19764, Monmouth Junction, NJ ,28346,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+552,2018,Hyundai,Sonata_Sport, 17995, Wall Township, NJ ,44698,Branded Title,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+553,2010,Hyundai,Elantra_GLS, 4999, Lakewood, NJ ,152573,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,39
+554,2018,Hyundai,Sonata_SEL, 16995, Wall Township, NJ ,37119,Accident/Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+555,2018,Hyundai,Sonata_Limited_Edition, 17995, Wall Township, NJ ,53603,Branded Title,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,23
+556,2011,Hyundai,Genesis, 9999, Sussex, NJ ,126769,No Accident or Damage Reported,Coupe,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,9
+557,2018,Hyundai,Santa_Fe_Limited_Edition_Ultimate, 26888, Butler, NJ ,44955,Damage Reported,SUV,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,1
+558,2020,Hyundai,Santa_Fe_SEL, 24972, Monmouth Junction, NJ ,67879,No Accident or Damage Reported,SUV,Green_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,5
+559,2017,Hyundai,Tucson_SE, 17000, Old Bridge, NJ ,82918,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Vehicle Use,20
+560,2020,Hyundai,Elantra_SE, 16490, Valley Stream, NY ,11929,Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+561,2007,Hyundai,Azera_SE, 3999, Brooklyn, NY ,126534,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.8_L_,2-Owner,Personal Use,18
+562,2016,Hyundai,Tucson_SE, 12900, Hillside, NJ ,91529,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+563,2017,Hyundai,Elantra_SE, 12000, Old Bridge, NJ ,77893,Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,20
+564,2020,Hyundai,Palisade_SEL_Premium, 42500, Monmouth Junction, NJ ,19332,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.8_L_,2-Owner,Personal Use,4
+565,2019,Hyundai,Tucson_Value_Edition, 23618, Monmouth Junction, NJ ,27042,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,4
+566,2020,Hyundai,Elantra_SE, 18200, Monmouth Junction, NJ ,25429,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,7
+567,2018,Hyundai,Sonata_SE, 15999, Butler, NJ ,24683,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+568,2018,Hyundai,Santa_Fe_Sport, 19000, Jersey City, NJ ,55135,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,11
+569,2015,Hyundai,Genesis_Base, 23295, East Windsor, NJ ,56471,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,8
+570,2015,Hyundai,Elantra_SE, 12995, Neptune, NJ ,50427,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,19
+571,2018,Hyundai,Kona_SEL, 19980, Bronx, NY ,14136,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+572,2019,Hyundai,Elantra_SE, 18000, Monmouth Junction, NJ ,13282,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+573,2019,Hyundai,Sonata_SE, 18570, Monmouth Junction, NJ ,37749,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+574,2019,Hyundai,Tucson_Value_Edition, 24800, Monmouth Junction, NJ ,20508,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+575,2017,Hyundai,Sonata_Eco, 16000, Monmouth Junction, NJ ,63721,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,17
+576,2018,Hyundai,Sonata_Limited_Edition, 23500, Monmouth Junction, NJ ,30907,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+577,2019,Hyundai,Elantra_SE, 18000, Monmouth Junction, NJ ,13282,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+578,2019,Hyundai,Tucson_Value_Edition, 24800, Monmouth Junction, NJ ,20508,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+579,2009,Hyundai,Santa_Fe_GLS, 4995, Lodi, NJ ,127833,Accident Reported,SUV,Silver_Engine:_6_Cyl_2.7_L_,CARFAX 1-Owner,Personal Use,28
+580,2017,Hyundai,Santa_Fe_Sport, 19959, Avenel, NJ ,49078,No Accident or Damage Reported,SUV,Orange_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+581,2020,Hyundai,Palisade_Limited, 50559, Avenel, NJ ,16218,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,6
+582,2018,Hyundai,Sonata_SE, 18980, Richmond Hill, NY ,26769,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+583,2020,Hyundai,Santa_Fe_Limited_Edition, 39999, Freehold, NJ ,9552,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+584,2019,Hyundai,Kona_Ultimate, 24995, Wharton, NJ ,46836,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,14
+585,2018,Hyundai,Santa_Fe_Sport, 24995, Wharton, NJ ,42141,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+586,2018,Hyundai,Tucson_Limited_Edition, 27995, Wharton, NJ ,23006,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,9
+587,2020,Hyundai,Elantra_SEL, 19995, Wharton, NJ ,11886,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+588,2019,Hyundai,Sonata_SE, 21995, Wharton, NJ ,15396,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+589,2014,Hyundai,Santa_Fe_Sport, 9995, Brooklyn, NY ,144312,Accident Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,3+ Owners,Multiple Use,11
+590,2018,Hyundai,Tucson_Sport, 28750, Merrick, NY ,12510,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+591,2019,Hyundai,Tucson_Value_Edition, 18490, Elmwood Park, NJ ,57737,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Rental Use,2
+592,2014,Hyundai,Santa_Fe_GLS, 18499, Shrewsbury, NJ ,71901,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,23
+593,2021,Hyundai,Kona_SEL, 22995, Lodi, NJ ,12052,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+594,2020,Hyundai,Tucson_SE, 22495, Elmwood Park, NJ ,5008,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,4
+595,2018,Hyundai,Sonata_SEL, 17740, Forest Hills, NY ,61070,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+596,2020,Hyundai,Sonata_SEL_Plus, 28188, Bronx, NY ,15364,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,2
+597,2013,Hyundai,Elantra_GLS, 8988, Saint James, NY ,101199,Accident/Minor Damage,Sedan,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,4
+598,2017,Hyundai,Tucson_Limited_Edition, 21452, Jamaica, NY ,43321,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,10
+599,2017,Hyundai,Elantra_Limited_Edition, 12890, Freeport, NY ,48711,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+600,2018,Hyundai,Sonata_SE, 17999, Jersey City, NJ ,24937,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+601,2018,Hyundai,Sonata_SEL, 16995, Jamaica, NY ,30314,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+602,2017,Hyundai,Santa_Fe_Sport, 18990, Pleasantville, NY,63477,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,7
+603,2006,Hyundai,Sonata_GLS, 3995, Butler, NJ ,119239,Accident Reported,Sedan,Blue_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,15
+604,2020,Hyundai,Kona_SEL, 23999, Jersey City, NJ ,7808,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+605,2018,Hyundai,Tucson_SE, 21888, Jersey City, NJ ,18146,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+606,2018,Hyundai,Tucson_SE, 21999, Jersey City, NJ ,16503,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+607,2018,Hyundai,Sonata_Limited_Edition, 24998, Mahwah, NJ ,11409,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+608,2019,Hyundai,Santa_Fe_Ultimate, 31999, Jersey City, NJ ,28173,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+609,2018,Hyundai,Sonata_SE, 18999, Jersey City, NJ ,17316,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+610,2016,Hyundai,Santa_Fe_Sport, 10999, Great Neck, NY ,126080,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,31
+611,2019,Hyundai,Santa_Fe_Ultimate, 31500, Bronx, NY ,16240,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+612,2018,Hyundai,Sonata_Sport, 20999, Jersey City, NJ ,17160,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+613,2013,Hyundai,Santa_Fe_Sport_2.0T, 13195, North Bergen, NJ ,94067,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,12
+614,2019,Hyundai,Sonata_SE, 19589, Saint James, NY ,20784,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+615,2018,Hyundai,Sonata_SE, 17267, Englewood, NJ ,18556,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,6
+616,2019,Hyundai,Santa_Fe_Limited_Edition, 31995, Glen Cove, NY ,24174,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+617,2016,Hyundai,Elantra_SE, 10499, Jersey City, NJ ,94568,Accident Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,18
+618,2016,Hyundai,Tucson_Limited_Edition, 18698, Freehold, NJ ,66608,Damage Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,11
+619,2019,Hyundai,Accent_SE, 12988, Irvington, NJ ,58625,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Rental Use,0
+620,2020,Hyundai,Santa_Fe_SE, 23988, Green Brook, NJ ,37599,Minor Damage,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+621,2015,Hyundai,Sonata_Limited_Edition, 15841, Blauvelt, NY ,35624,Accident Reported,Sedan,Brown_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+622,2016,Hyundai,Elantra_Base, 12995, Saint James, NY ,43258,No Accident or Damage Reported,Hatchback,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+623,2013,Hyundai,Sonata_GLS, 10977, Massapequa, NY ,71724,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,8
+624,2018,Hyundai,Sonata_SEL, 23294, Union, NJ ,30610,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+625,2018,Hyundai,Tucson_SE, 23994, Union, NJ ,23651,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+626,2018,Hyundai,Santa_Fe_SE, 27294, Union, NJ ,41072,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,7
+627,2019,Hyundai,Santa_Fe_SEL, 28294, Union, NJ ,26533,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+628,2019,Hyundai,Tucson_SE, 24894, Union, NJ ,33040,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+629,2020,Hyundai,Santa_Fe_SE, 31394, Union, NJ ,20455,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+630,2018,Hyundai,Sonata_SE, 22194, Union, NJ ,13666,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+631,2019,Hyundai,Tucson_SE, 25494, Union, NJ ,25681,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+632,2019,Hyundai,Sonata_SE, 24494, Union, NJ ,17969,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+633,2019,Hyundai,Sonata_SE, 24994, Union, NJ ,11347,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+634,2019,Hyundai,Kona_SEL, 24894, Union, NJ ,29233,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+635,2018,Hyundai,Elantra_SE, 18994, Union, NJ ,13276,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+636,2018,Hyundai,Tucson_SE, 24194, Union, NJ ,28803,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+637,2020,Hyundai,Santa_Fe_SE, 32694, Union, NJ ,10476,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+638,2019,Hyundai,Tucson_SE, 24994, Union, NJ ,29625,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+639,2018,Hyundai,Tucson_SE, 24494, Union, NJ ,12132,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+640,2018,Hyundai,Tucson_SE, 24494, Union, NJ ,14582,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+641,2021,Hyundai,Tucson_SE, 28582, Union, NJ ,7285,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+642,2018,Hyundai,Elantra_SEL, 15894, Union, NJ ,81435,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+643,2018,Hyundai,Kona_SEL, 23694, Union, NJ ,24606,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+644,2018,Hyundai,Tucson_SE, 23394, Union, NJ ,35353,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+645,2020,Hyundai,Sonata_SEL, 27994, Union, NJ ,6157,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+646,2013,Hyundai,Elantra_GLS, 6995, Union, NJ ,131274,Accident/Minor Damage,Sedan,Silver_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,18
+647,2017,Hyundai,Elantra_SE, 14995, Totowa, NJ ,24577,Accident/Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+648,2018,Hyundai,Sonata_SE, 18750, Florham Park, NJ ,15941,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+649,2018,Hyundai,Sonata_SEL, 17888, Red Bank, NJ ,69307,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,13
+650,2019,Hyundai,Tucson_Value_Edition, 20995, Newark, NJ ,54601,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,19
+651,2014,Hyundai,Tucson_SE, 13999, Freehold, NJ ,100801,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+652,2018,Hyundai,Sonata_SE, 18715, Monmouth Junction, NJ ,33015,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+653,2018,Hyundai,Tucson_Sport, 19890, Freeport, NY ,46070,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+654,2018,Hyundai,Santa_Fe_SE, 25997, Shrewsbury, NJ ,48991,Accident/Minor Damage,SUV,Brown_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,12
+655,2019,Hyundai,Santa_Fe_SEL, 26999, Freehold, NJ ,32011,Accident/Minor Damage,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+656,2018,Hyundai,Sonata_SEL, 19200, Monmouth Junction, NJ ,29982,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+657,2017,Hyundai,Tucson_SE, 17897, Shrewsbury, NJ ,82273,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,24
+658,2017,Hyundai,Santa_Fe_SE, 21992, Haskell, NJ ,60079,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,12
+659,2021,Hyundai,Sonata_SEL, 27892, Monmouth Junction, NJ ,2870,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+660,2015,Hyundai,Sonata_Sport, 16999, Freehold, NJ ,55364,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,6
+661,2019,Hyundai,Kona_SE, 19997, Shrewsbury, NJ ,32490,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+662,2018,Hyundai,Tucson_SE, 21372, Shrewsbury, NJ ,36690,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+663,2020,Hyundai,Palisade_Limited, 48897, Shrewsbury, NJ ,9308,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,8
+664,2019,Hyundai,Veloster_Premium, 21999, Freehold, NJ ,20361,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+665,2014,Hyundai,Santa_Fe_Sport, 13581, Jersey City, NJ ,79279,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,15
+666,2008,Hyundai,Santa_Fe_SE, 5799, Woodbridge, NJ ,133529,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,22
+667,2019,Hyundai,Tucson_Value_Edition, 18590, Elmwood Park, NJ ,53457,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Rental Use,3
+668,2020,Hyundai,Elantra_SE, 21888, Sussex, NJ ,18936,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+669,2013,Hyundai,Elantra_GLS, 9495, Newark, NJ ,83404,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,16
+670,2017,Hyundai,Santa_Fe_Limited_Edition_Ultimate, 20599, Copiague, NY ,92036,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,2
+671,2020,Hyundai,Elantra_Value_Edition, 19900, North Plainfield, NJ ,10299,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+672,2013,Hyundai,Sonata_GLS, 7800, Monmouth Junction, NJ ,122368,Accident Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,23
+673,2016,Hyundai,Sonata_Sport, 16000, New Rochelle, NY ,24691,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,4
+674,2019,Hyundai,Elantra_SE, 17999, Jersey City, NJ ,7004,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+675,2019,Hyundai,Elantra_SE, 17999, Jersey City, NJ ,7004,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+676,2012,Hyundai,Genesis_Base, 7995, Brooklyn, NY ,105450,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.8_L_,2-Owner,Personal Use,17
+677,2015,Hyundai,Elantra_SE, 11459, Edison, NJ ,54959,Accident Reported,Sedan,Blue_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,12
+678,2016,Hyundai,Sonata, 10850, Little Ferry, NJ ,114192,Accident/Minor Damage,Sedan,Brown_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,15
+679,2018,Hyundai,Tucson_SE, 18761, Saint James, NY ,43005,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+680,2019,Hyundai,Sonata_SE, 19999, Jersey City, NJ ,22729,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+681,2018,Hyundai,Sonata_SE, 18999, Jersey City, NJ ,20673,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+682,2014,Hyundai,Veloster_Turbo, 14995, E Rutherford, NJ ,59511,No Accident or Damage Reported,Hatchback,Red_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,6
+683,2015,Hyundai,Tucson, 12499, Little Ferry, NJ ,127475,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,29
+684,2018,Hyundai,Sonata_SE, 18995, Jamaica, NY ,18689,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+685,2020,Hyundai,Kona_SEL_Plus, 25999, Jersey City, NJ ,9027,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+686,2019,Hyundai,Sonata_SE, 20799, Jersey City, NJ ,16626,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+687,2018,Hyundai,Sonata_SE, 19999, Jersey City, NJ ,13822,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+688,2018,Hyundai,Sonata_SE, 19488, Jersey City, NJ ,18130,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+689,2015,Hyundai,Sonata_Sport, 16999, Lakewood, NJ ,49115,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+690,2020,Hyundai,Kona_Limited, 27599, Jersey City, NJ ,9148,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,3
+691,2019,Hyundai,Kona_SE, 20488, Jersey City, NJ ,34524,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+692,2017,Hyundai,Elantra_Value_Edition, 15988, Saint James, NY ,56353,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+693,2012,Hyundai,Accent_GLS, 6490, West Nyack, NY ,129316,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,26
+694,2018,Hyundai,Sonata_Limited_Edition, 19999, Bayside, NY ,28751,Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+695,2008,Hyundai,Tucson_Limited_Edition, 4495, Union, NJ ,114857,Accident Reported,SUV,Black_Engine:_6_Cyl_2.7_L_,3+ Owners,Personal Use,16
+696,2020,Hyundai,Palisade_Limited, 48995, West Nyack, NY ,20031,Accident/No Damage,SUV,Gray_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,8
+697,2018,Hyundai,Elantra_SEL, 15498, Floral Park, NY ,17681,Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+698,2017,Hyundai,Elantra_SE, 14900, Jersey City, NJ ,29187,Accident Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+699,2010,Hyundai,Santa_Fe_GLS, 7495, Edison, NJ ,121321,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,44
+700,2016,Hyundai,Azera_Limited_Edition, 18880, Brooklyn, NY ,38663,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,9
+701,2020,Hyundai,Elantra_Value_Edition, 19399, Eatontown, NJ ,21296,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+702,2016,Hyundai,Tucson_Sport, 16999, Huntington, NY ,72679,Minor Damage,SUV,4_Cyl_1.6_L_,2-Owner,Personal Use,8
+703,2018,Hyundai,Kona_SEL, 22599, Jersey City, NJ ,18611,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+704,2014,Hyundai,Sonata_GLS, 7891, Paterson, NJ ,131825,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,24
+705,2020,Hyundai,Sonata_SEL, 26999, Freehold, NJ ,18750,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,3
+706,2017,Hyundai,Tucson_Eco, 22995, Keyport, NJ ,21667,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,18
+707,2018,Hyundai,Sonata_SE, 17789, Monmouth Junction, NJ ,24148,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+708,2016,Hyundai,Accent, 9599, Sussex, NJ ,71503,Accident Reported,Hatchback,Black_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,21
+709,2011,Hyundai,Elantra_GLS, 7999, East Windsor, NJ ,69500,No Accident or Damage Reported,Wagon,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,7
+710,2012,Hyundai,Santa_Fe_GLS, 6999, Teterboro, NJ ,168595,No Accident or Damage Reported,SUV,Brown_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,15
+711,2006,Hyundai,Tucson, 4999, Teterboro, NJ ,153858,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_2.7_L_,2-Owner,Personal Use,22
+712,2015,Hyundai,Veloster_Base, 12357, Lake Hopatcong, NJ ,37834,Accident Reported,Hatchback,Silver_Engine:_4_Cyl_1.6_L_,3+ Owners,Personal Use,10
+713,2012,Hyundai,Elantra_GLS, 7995, North Middletown, NJ ,92439,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,4
+714,2016,Hyundai,Santa_Fe_Sport, 14995, Bronx, NY ,116881,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,5
+715,2018,Hyundai,Sonata_SE, 16614, Brooklyn, NY ,27426,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+716,2018,Hyundai,Santa_Fe_Sport, 28895, Merrick, NY ,24281,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+717,2017,Hyundai,Elantra_SE, 9490, Freeport, NY ,69472,Minor Damage,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+718,2019,Hyundai,Elantra_SE, 19800, Jersey City, NJ ,13342,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+719,2017,Hyundai,Tucson_SE, 19997, Shrewsbury, NJ ,68500,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+720,2013,Hyundai,Santa_Fe_Sport, 9875, Brooklyn, NY ,121080,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,25
+721,2019,Hyundai,Santa_Fe_Limited_Edition, 38895, Merrick, NY ,6767,No Accident or Damage Reported,SUV,Green_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+722,2018,Hyundai,Santa_Fe_Sport_2.0T_Ultimate, 33985, Merrick, NY ,23347,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+723,2018,Hyundai,Kona_SE, 22777, Shrewsbury, NJ ,18608,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+724,2018,Hyundai,Tucson_SE, 20997, Shrewsbury, NJ ,64806,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+725,2018,Hyundai,Santa_Fe_Sport, 28895, Merrick, NY ,24281,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+726,2017,Hyundai,Tucson_SE, 19997, Shrewsbury, NJ ,68500,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+727,2018,Hyundai,Sonata_SE, 16614, Brooklyn, NY ,27426,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+728,2016,Hyundai,Tucson_Sport, 16998, Valley Stream, NY ,57353,Minor Damage,SUV,Brown_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,19
+729,2017,Hyundai,Tucson_SE_Plus, 26985, Merrick, NY ,12125,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+730,2017,Hyundai,Santa_Fe_SE, 17999, Newark, NJ ,110181,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.3_L_,2-Owner,Multiple Use,3
+731,2018,Hyundai,Tucson_SE, 20995, Woodside, NY ,35284,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+732,2017,Hyundai,Tucson_Sport, 22459, Avenel, NJ ,20411,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,11
+733,2015,Hyundai,Sonata_SE, 11995, Elmhurst, NY ,91820,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,14
+734,2020,Hyundai,Sonata_SE, 21952, Monmouth Junction, NJ ,20155,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.5_L_,2-Owner,Personal Use,6
+735,2019,Hyundai,Elantra_Value_Edition, 19681, Monmouth Junction, NJ ,12905,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+736,2017,Hyundai,Tucson_SE, 16589, Randolph, NJ ,62859,Accident Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,3
+737,2017,Hyundai,Tucson_SE, 17062, Bronx, NY ,34186,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,18
+738,2018,Hyundai,Elantra_SE, 17995, Freehold, NJ ,23387,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,12
+739,2020,Hyundai,Kona_SE, 22406, Bronx, NY ,13100,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+740,2019,Hyundai,Elantra_Value_Edition, 19881, Flemington, NJ ,30950,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+741,2014,Hyundai,Elantra_Base, 8995, Linden, NJ ,112576,Accident/Minor Damage,Coupe,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,25
+742,2011,Hyundai,Santa_Fe_SE, 8999, S Hackensack, NJ ,97147,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,17
+743,2020,Hyundai,Kona_SEL_Plus, 24995, Woodside, NY ,14318,No Accident or Damage Reported,SUV,Orange_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+744,2019,Hyundai,Elantra, 18995, Sussex, NJ ,41482,Accident/Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+745,2018,Hyundai,Elantra_SE, 17995, Sussex, NJ ,41068,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,13
+746,2018,Hyundai,Sonata_Sport, 22995, Sussex, NJ ,20114,Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+747,2015,Hyundai,Sonata_SE, 14512, Bronx, NY ,52658,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+748,2011,Hyundai,Elantra_GLS, 6995, Lynbrook, NY ,100335,Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,18
+749,2018,Hyundai,Elantra_SE, 15488, Jersey City, NJ ,21664,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+750,2019,Hyundai,Tucson_Ultimate, 27900, Englewood Cliffs, NJ ,38905,Minor Damage,SUV,Red_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,13
+751,2016,Hyundai,Accent_SE, 11998, Jersey City, NJ ,34436,Accident Reported,Hatchback,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,9
+752,2016,Hyundai,Tucson_Limited_Edition, 22471, Centereach, NY ,14807,Accident Reported,SUV,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,15
+753,2018,Hyundai,Kona_SE, 17831, Centereach, NY ,28093,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+754,2018,Hyundai,Sonata_Limited_Edition, 19598, Centereach, NY ,46433,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,15
+755,2016,Hyundai,Accent_SE, 8999, S Hackensack, NJ ,78904,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,16
+756,2013,Hyundai,Sonata_Limited_Edition, 9495, Brooklyn, NY ,116585,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,17
+757,2019,Hyundai,Elantra_SE, 15507, Centereach, NY ,38988,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+758,2017,Hyundai,Tucson_Limited_Edition, 23237, Centereach, NY ,29055,Accident Reported,SUV,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,7
+759,2018,Hyundai,Sonata_SEL, 16337, Centereach, NY ,65501,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,20
+760,2018,Hyundai,Elantra_SEL, 15999, Jamaica, NY ,25905,Minor Damage,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+761,2019,Hyundai,Elantra_SEL, 16900, Rahway, NJ ,13541,Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+762,2020,Hyundai,Elantra_Limited_Edition, 19784, Centereach, NY ,22287,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,5
+763,2018,Hyundai,Tucson_SE, 24989, Freehold, NJ ,35477,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+764,2017,Hyundai,Santa_Fe_Sport, 19900, Florham Park, NJ ,65466,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+765,2018,Hyundai,Santa_Fe_Sport_2.0T_Ultimate, 28490, Bronx, NY ,25098,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,9
+766,2017,Hyundai,Sonata_Sport, 19875, Newton, NJ ,30053,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+767,2013,Hyundai,Sonata_GLS, 6999, Brooklyn, NY ,114469,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,6
+768,2014,Hyundai,Sonata_Limited_Edition, 13495, Stamford, CT ,56267,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,24
+769,2020,Hyundai,Elantra_SEL, 16500, Hillside, NJ ,20045,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,1
+770,2018,Hyundai,Sonata_SE, 16508, Monmouth Junction, NJ ,28034,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,7
+771,2018,Hyundai,Sonata_SE, 16700, Monmouth Junction, NJ ,43540,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,6
+772,2009,Hyundai,Sonata_GLS, 4495, Hasbrouck Heights, NJ ,149782,Accident/Minor Damage,Sedan,Green_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,27
+773,2014,Hyundai,Sonata, 10495, Somerset, NJ ,95742,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,13
+774,2019,Hyundai,Tucson_Value_Edition, 16750, Woodside, NY ,58593,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Rental Use,2
+775,2014,Hyundai,Sonata_Limited_Edition, 13495, Stamford, CT ,56267,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,24
+776,2018,Hyundai,Sonata_SE, 17999, Bayside, NY ,21460,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+777,2018,Hyundai,Tucson_SEL, 17981, Long Island City, NY ,37516,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+778,2018,Hyundai,Tucson_SEL_Plus, 24500, Hillside, NJ ,17218,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+779,2019,Hyundai,Santa_Fe_XL_SE, 28590, Newark, NJ,19730,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,6
+780,2018,Hyundai,Sonata_SE, 19745, Lakewood, NJ ,33060,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+781,2019,Hyundai,Ioniq_Limited, 25495, Lakewood, NJ ,13092,No Accident or Damage Reported,Hatchback,Blue_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,3
+782,2019,Hyundai,Sonata_Sport, 22495, Lakewood, NJ ,29802,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+783,2019,Hyundai,Sonata_SE, 19900, Jersey City, NJ ,13681,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+784,2018,Hyundai,Sonata_SE, 19795, Newton, NJ ,24193,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+785,2018,Hyundai,Kona_SEL, 22488, Green Brook, NJ ,20812,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+786,2014,Hyundai,Santa_Fe_Sport, 15500, Morristown, NJ ,86124,No Accident or Damage Reported,SUV,Bronze_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+787,2020,Hyundai,Tucson_SE, 22999, Jersey City, NJ ,7753,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+788,2017,Hyundai,Tucson_SE, 16595, Elizabeth, NJ ,113730,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,21
+789,2016,Hyundai,Tucson_Eco, 19895, Elizabeth, NJ ,62989,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,21
+790,2020,Hyundai,Santa_Fe_SEL, 29599, Monmouth Junction, NJ ,13844,Accident Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,6
+791,2019,Hyundai,Tucson_SE, 22488, Brooklyn, NY ,25356,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+792,2019,Hyundai,Tucson_Value_Edition, 19999, Linden, NJ ,49120,Minor Damage,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Rental Use,1
+793,2019,Hyundai,Tucson_Value_Edition, 20999, Irvington, NJ ,49115,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,2
+794,2005,Hyundai,Tucson_GLS, 6995, Union, NJ ,57570,Accident Reported,SUV,Blue_Engine:_6_Cyl_2.7_L_,CARFAX 1-Owner,Personal Use,0
+795,2019,Hyundai,Tucson_SE, 20990, Elmwood Park, NJ ,38870,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+796,2018,Hyundai,Santa_Fe_Sport, 21888, Jersey City, NJ ,2227,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+797,2014,Hyundai,Santa_Fe_GLS, 11995, Bayonne, NJ ,104715,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.3_L_,3+ Owners,Multiple Use,20
+798,2012,Hyundai,Elantra_Limited_Edition, 8495, Lakewood, NJ ,111419,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,5
+799,2019,Hyundai,Elantra_SEL, 13990, Great Neck, NY ,40920,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,4
+800,2007,Hyundai,Veracruz_Limited_Edition, 6999, S Hackensack, NJ ,125632,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.8_L_,3+ Owners,Personal Use,30
+801,2012,Hyundai,Sonata_Base, 9999, Commack, NY ,81241,Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,18
+802,2015,Hyundai,Sonata_Eco, 12995, Commack, NY ,87635,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,24
+803,2013,Hyundai,Elantra_GLS, 8699, Lakewood, NJ ,111685,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,15
+804,2019,Hyundai,Sonata_SE, 20490, Monmouth Junction, NJ ,16914,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,4
+805,2019,Hyundai,Sonata_SE, 20500, Monmouth Junction, NJ ,8571,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,5
+806,2018,Hyundai,Sonata_SE, 15900, Hackettstown, NJ ,72696,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+807,2019,Hyundai,Sonata_SE, 21000, Denville, NJ ,4168,Minor Damage,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+808,2019,Hyundai,Santa_Fe_Ultimate, 31897, North Plainfield, NJ ,23751,Accident Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+809,2019,Hyundai,Kona_SE, 19999, Jersey City, NJ ,37962,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+810,2020,Hyundai,Elantra_Value_Edition, 19487, Elmsford, NY ,8239,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+811,2020,Hyundai,Kona_SEL, 23019, Englewood, NJ ,8243,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+812,2018,Hyundai,Tucson_SE, 22057, Bronx, NY ,29705,Minor Damage,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+813,2018,Hyundai,Tucson_SE, 21616, Bronx, NY ,26333,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+814,2018,Hyundai,Sonata_Limited_Edition, 23400, North Plainfield, NJ ,25848,Accident/Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+815,2018,Hyundai,Tucson_SEL, 23000, Denville, NJ ,13700,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+816,2018,Hyundai,Santa_Fe_Sport, 23000, Denville, NJ ,31608,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+817,2020,Hyundai,Elantra_Value_Edition, 21000, Denville, NJ ,10560,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+818,2010,Hyundai,Veracruz_Limited_Edition, 13995, Massapequa, NY ,79913,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.8_L_,2-Owner,Personal Use,6
+819,2018,Hyundai,Sonata_SEL, 18574, Union, NJ ,59549,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+820,2016,Hyundai,Santa_Fe_Sport, 17995, Fairfield, CT ,69848,Accident/Minor Damage,SUV,Silver_Engine:_4_Cyl_2.4_L_,3+ Owners,Multiple Use,6
+821,2020,Hyundai,Palisade_Limited, 50363, Bronx, NY ,24015,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,4
+822,2014,Hyundai,Elantra_Base, 11999, Mahwah, NJ ,48640,Accident/Minor Damage,Hatchback,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,5
+823,2013,Hyundai,Sonata_Limited_Edition, 8495, SADDLE BROOK, NJ ,114261,Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,10
+824,2013,Hyundai,Sonata_GLS, 10995, East Brunswick, NJ ,81500,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,3+ Owners,Multiple Use,7
+825,2020,Hyundai,Elantra_Sport, 26144, Bronx, NY ,4601,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,5
+826,2018,Hyundai,Sonata_SE, 18496, Saint James, NY ,9767,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+827,2018,Hyundai,Sonata_SE, 14995, Brooklyn, NY ,101693,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+828,2017,Hyundai,Tucson_Limited_Edition, 22988, Lakewood, NJ ,34560,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,7
+829,2017,Hyundai,Elantra_SE, 14999, Fairfield, CT ,51122,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,3
+830,2016,Hyundai,Sonata_Sport, 12890, Freeport, NY ,55651,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+831,2012,Hyundai,Veloster, 8600, North Middletown, NJ ,128121,No Accident or Damage Reported,Hatchback,Orange_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,12
+832,2019,Hyundai,Elantra_SE, 16900, Yonkers, NY ,37431,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+833,2018,Hyundai,Sonata_SE, 15995, Jamaica, NY ,21031,Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+834,2017,Hyundai,Sonata_SE, 9095, Linden, NJ ,95813,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,1
+835,2019,Hyundai,Sonata_SEL, 20999, Bayside, NY ,6998,Accident/Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+836,2017,Hyundai,Santa_Fe_Sport, 17890, Elmwood Park, NJ ,42472,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,1
+837,2013,Hyundai,Santa_Fe_Sport, 12995, Brooklyn, NY ,103306,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,28
+838,2021,Hyundai,Tucson_SEL, 28495, Great Neck, NY ,3673,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+839,2019,Hyundai,Sonata_SE, 24995, Sussex, NJ ,12547,No Accident or Damage Reported,Sedan,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+840,2020,Hyundai,Elantra, 23495, Sussex, NJ ,6085,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+841,2016,Hyundai,Sonata_SE, 13995, Long Branch, NJ ,90266,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,3+ Owners,Multiple Use,18
+842,2020,Hyundai,Elantra, 22995, Sussex, NJ ,11414,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+843,2019,Hyundai,Santa_Fe_SEL, 28995, Sussex, NJ ,44580,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,15
+844,2020,Hyundai,Elantra_SE, 21995, Sussex, NJ ,16464,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+845,2018,Hyundai,Sonata_Sport, 24995, Sussex, NJ ,33000,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,15
+846,2018,Hyundai,Elantra_Base, 22312, Sussex, NJ ,20468,No Accident or Damage Reported,Hatchback,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+847,2018,Hyundai,Elantra_SE, 15999, Jersey City, NJ ,10173,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+848,2018,Hyundai,Santa_Fe_SE, 23999, Jersey City, NJ ,34064,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,10
+849,2018,Hyundai,Sonata_SE, 18200, Lyndhurst, NJ ,40117,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,14
+850,2014,Hyundai,Santa_Fe, 14995, Bayonne, NJ ,101057,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,28
+851,2020,Hyundai,Sonata_SEL, 25995, Wall Township, NJ ,12066,Branded Title,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+852,2007,Hyundai,Sonata_GLS, 3995, Lodi, NJ ,112873,Accident Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,23
+853,2021,Hyundai,Tucson_SE, 26606, Centereach, NY ,7861,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+854,2017,Hyundai,Tucson_Sport, 14000, Monmouth Junction, NJ ,120681,Accident Reported,SUV,Orange_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,31
+855,2018,Hyundai,Sonata_SEL, 19590, Hasbrouck Heights, NJ ,24252,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+856,2019,Hyundai,Santa_Fe, 25995, Wall Township, NJ ,23833,Branded Title,SUV,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,6
+857,2016,Hyundai,Sonata, 12999, North Plainfield, NJ ,88343,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,12
+858,2011,Hyundai,Genesis_Base, 13800, Elmhurst, NY ,69605,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.6_L_,2-Owner,Personal Use,30
+859,2017,Hyundai,Elantra_Sport, 13900, Lafayette, NJ ,108465,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,25
+860,2018,Hyundai,Sonata_Sport_Plus, 21057, Monmouth Junction, NJ ,16193,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+861,2016,Hyundai,Sonata_SE, 15994, Haskell, NJ ,60536,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Government Use,11
+862,2006,Hyundai,Elantra_GLS, 3999, Linden, NJ ,144500,Accident/Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,17
+863,2020,Hyundai,Elantra_SEL, 19747, Monmouth Junction, NJ ,9864,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,3
+864,2014,Hyundai,Santa_Fe_Sport, 12995, Brooklyn, NY ,100891,Accident Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+865,2021,Hyundai,Palisade_Calligraphy, 51995, Wall Township, NJ ,3513,Branded Title,SUV,White_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,6
+866,2017,Hyundai,Sonata, 15395, Rockaway, NJ ,93581,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,10
+867,2015,Hyundai,Elantra_Limited_Edition, 12997, Shrewsbury, NJ ,83739,Accident Reported,Sedan,Red_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,21
+868,2014,Hyundai,Elantra_SE, 8899, Lakewood, NJ ,126161,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,12
+869,2020,Hyundai,Elantra_SEL, 19695, Elizabeth, NJ ,8656,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,3
+870,2014,Hyundai,Santa_Fe_Sport, 14995, Elizabeth, NJ ,107180,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,19
+871,2018,Hyundai,Kona_SE, 19990, West Babylon, NY ,16145,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+872,2018,Hyundai,Sonata_SEL, 19900, Monmouth Junction, NJ ,20513,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,10
+873,2013,Hyundai,Genesis_Base, 17249, Princeton, NJ ,48438,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.8_L_,2-Owner,Personal Use,7
+874,2019,Hyundai,Kona_SE, 20995, Wharton, NJ ,28497,No Accident or Damage Reported,SUV,Orange_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,11
+875,2013,Hyundai,Genesis_Base, 17249, Princeton, NJ ,48438,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.8_L_,2-Owner,Personal Use,7
+876,2018,Hyundai,Sonata_SEL, 19900, Monmouth Junction, NJ ,20513,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,10
+877,2018,Hyundai,Sonata_SE, 18000, Monmouth Junction, NJ ,32836,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,11
+878,2010,Hyundai,Elantra_Blue, 4923, Ledgewood, NJ ,178878,No Accident or Damage Reported,Sedan,Beige_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,18
+879,2020,Hyundai,Palisade_SEL_Convenience, 44760, Avenel, NJ ,18700,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,10
+880,2018,Hyundai,Kona_SE, 19927, Jersey City, NJ ,50495,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+881,2013,Hyundai,Tucson_GLS, 12999, Mahwah, NJ ,98216,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,29
+882,2017,Hyundai,Tucson_SE, 16592, Bronx, NY ,87886,Accident Reported,SUV,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,19
+883,2018,Hyundai,Sonata_SE, 22495, Garwood, NJ ,22075,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+884,2020,Hyundai,Sonata_SE, 22500, Monmouth Junction, NJ ,19926,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+885,2020,Hyundai,Tucson_SE, 20990, Elmwood Park, NJ ,17430,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Rental Use,0
+886,2013,Hyundai,Elantra_Base, 15590, New York, NY,46943,No Accident or Damage Reported,Hatchback,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,11
+887,2020,Hyundai,Sonata_SE, 24488, Bronx, NY ,3998,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,1
+888,2020,Hyundai,Elantra_Limited_Edition, 19998, Westbury, NY ,15208,Minor Damage,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+889,2018,Hyundai,Tucson_SE, 23995, Saint James, NY ,24686,No Accident or Damage Reported,SUV,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+890,2016,Hyundai,Elantra_SE, 7995, Brooklyn, NY ,100239,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,3
+891,2018,Hyundai,Sonata_Sport, 15598, Jamaica, NY ,40091,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Lease Use,7
+892,2018,Hyundai,Tucson_SE, 23991, Smithtown, NY ,28053,No Accident or Damage Reported,SUV,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+893,2020,Hyundai,Santa_Fe_SEL, 32189, Bronx, NY ,9878,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+894,2018,Hyundai,Sonata_SE, 15985, Hasbrouck Heights, NJ ,61970,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,2
+895,2018,Hyundai,Sonata_SEL_Plus, 18500, Denville, NJ ,47239,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,18
+896,2019,Hyundai,Tucson_SEL, 22496, Saint James, NY ,44549,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+897,2018,Hyundai,Sonata_Limited_Edition, 17995, Jamaica, NY ,33874,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,3
+898,2018,Hyundai,Santa_Fe_Sport, 21880, Wayne, NJ ,44912,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+899,2017,Hyundai,Elantra_SE, 14595, Nanuet, NY ,58120,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,13
+900,2020,Hyundai,Elantra_SE, 17588, Jersey City, NJ ,11530,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+901,2007,Hyundai,Elantra_GLS, 3995, Robbinsville, NJ ,143456,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,9
+902,2018,Hyundai,Santa_Fe_Sport, 26500, Mahwah, NJ ,18129,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+903,2009,Hyundai,Sonata_GLS, 4995, Butler, NJ ,111310,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,24
+904,2018,Hyundai,Elantra_SEL, 18495, Paramus, NJ ,22761,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+905,2020,Hyundai,Sonata_Limited_Edition, 34341, Bronx, NY ,21712,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,4
+906,2019,Hyundai,Elantra_SE, 23335, Sea Girt, NJ ,1830,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+907,2014,Hyundai,Elantra_Base, 8997, Elizabeth, NJ ,129772,Accident Reported,Hatchback,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,14
+908,2014,Hyundai,Sonata_Limited_Edition, 12911, West Caldwell, NJ ,105463,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,27
+909,2008,Hyundai,Santa_Fe_GLS, 7995, Highland Park, NJ ,116878,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_2.7_L_,CARFAX 1-Owner,Personal Use,23
+910,2016,Hyundai,Sonata_SE, 15995, Hackettstown, NJ ,51949,Accident/Minor Damage,Sedan,Red_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,10
+911,2017,Hyundai,Elantra_Value_Edition, 11995, Roselle, NJ ,106985,Accident/Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,21
+912,2018,Hyundai,Sonata_SEL, 18000, Norwalk, CT ,37466,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,4
+913,2018,Hyundai,Sonata_SE, 22950, Elmont, NY ,17119,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+914,2019,Hyundai,Elantra_SEL, 18999, Jersey City, NJ ,7466,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,7
+915,2018,Hyundai,Santa_Fe_Sport, 22995, Jamaica, NY ,31082,Minor Damage,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+916,2019,Hyundai,Ioniq_Limited, 22488, Jersey City, NJ ,28264,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,3
+917,2019,Hyundai,Tucson_Value_Edition, 18170, Irvington, NJ ,56834,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Rental Use,1
+918,2018,Hyundai,Kona_SEL, 21495, Asbury Park, NJ ,20713,Accident Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+919,2018,Hyundai,Elantra_SEL, 8995, Plainfield, NJ ,52629,Accident Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,4
+920,2018,Hyundai,Elantra_SE, 16780, Netcong, NJ ,29954,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+921,2011,Hyundai,Sonata_GLS, 7879, Robbinsville, NJ ,125271,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,16
+922,2016,Hyundai,Tucson_Sport, 17777, Huntington, NY ,71697,Minor Damage,SUV,4_Cyl_1.6_L_,2-Owner,Personal Use,23
+923,2018,Hyundai,Santa_Fe_SE_Ultimate, 31999, Mahwah, NJ ,20048,No Accident or Damage Reported,SUV,6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,0
+924,2013,Hyundai,Veloster, 9995, Lodi, NJ ,90431,Accident Reported,Hatchback,Red_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,12
+925,2016,Hyundai,Tucson_Sport, 15990, Morristown, NJ ,110580,Accident Reported,SUV,Blue_Engine:_4_Cyl_1.6_L_,3+ Owners,Personal Use,35
+926,2020,Hyundai,Kona_Ultimate, 28006, Maplewood, NJ ,8113,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,4
+927,2013,Hyundai,Veloster, 9995, Lodi, NJ ,90431,Accident Reported,Hatchback,Red_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,12
+928,2018,Hyundai,Sonata_SE, 21894, Union, NJ ,11889,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,5
+929,2018,Hyundai,Kona_Limited, 24494, Union, NJ ,30020,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,8
+930,2018,Hyundai,Sonata_Limited_Edition, 22999, Bayside, NY ,28715,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+931,2018,Hyundai,Sonata_SEL, 21894, Union, NJ ,36797,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,6
+932,2018,Hyundai,Sonata_SE, 21494, Union, NJ ,21292,Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+933,2019,Hyundai,Sonata_SE, 21394, Union, NJ ,43798,Minor Damage,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+934,2018,Hyundai,Sonata_SEL, 21594, Union, NJ ,31910,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,11
+935,2019,Hyundai,Tucson_Value_Edition, 25494, Union, NJ ,37116,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+936,2020,Hyundai,Santa_Fe_SEL, 33994, Union, NJ ,7608,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+937,2018,Hyundai,Tucson_Limited_Edition, 25499, Bayside, NY ,35574,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,3
+938,2015,Hyundai,Sonata_SE, 7500, Lakewood, NJ ,168233,Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,3+ Owners,Multiple Use,21
+939,2018,Hyundai,Sonata_SE, 21122, Hempstead, NY ,12719,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+940,2019,Hyundai,Sonata_SEL, 21332, Monmouth Junction, NJ ,14327,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,5
+941,2013,Hyundai,Santa_Fe_Sport, 14690, Bronx, NY ,69953,Accident Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,13
+942,2016,Hyundai,Santa_Fe_Sport, 14900, Hasbrouck Heights, NJ ,123281,Accident/Minor Damage,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,25
+943,2003,Hyundai,Santa_Fe, 5995, Hasbrouck Heights, NJ ,39277,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+944,2020,Hyundai,Sonata_SEL_Plus, 25995, Wall Township, NJ ,12414,Branded Title,Sedan,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,2
+945,2020,Hyundai,Santa_Fe_SE, 27997, Shrewsbury, NJ ,27658,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,8
+946,2018,Hyundai,Tucson_SE, 19990, Great Neck, NY ,16098,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+947,2020,Hyundai,Kona_Ultimate, 33995, Wall Township, NJ ,1747,Branded Title,SUV,White_Engine:_Electric__,CARFAX 1-Owner,Personal Use,6
+948,2017,Hyundai,Santa_Fe_Sport, 19995, Wall Township, NJ ,13371,Branded Title,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+949,2019,Hyundai,Elantra_SEL, 14511, Irvington, NJ ,51253,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,0
+950,2017,Hyundai,Tucson_SE_Plus, 20998, Edison, NJ ,46354,Minor Damage,SUV,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,4
+951,2019,Hyundai,Tucson_Sport, 22995, Wall Township, NJ ,13661,Branded Title,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+952,2016,Hyundai,Elantra_SE, 12500, Bohemia, NY ,78668,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,12
+953,2017,Hyundai,Elantra_Limited_Edition, 17495, Wall Township, NJ ,15105,Branded Title,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+954,2018,Hyundai,Elantra_SEL, 14990, Valley Stream, NY ,43065,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+955,2016,Hyundai,Sonata_Limited_Edition, 17225, Flemington, NJ ,90950,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,22
+956,2013,Hyundai,Elantra_Base, 8999, Union, NJ ,120108,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,9
+957,2013,Hyundai,Santa_Fe_Sport, 14995, Huntington Station, NY ,87405,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,15
+958,2018,Hyundai,Sonata_Sport_Plus, 19790, West Babylon, NY ,2628,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+959,2020,Hyundai,Sonata_SEL_Plus, 28997, Morristown, NJ ,11091,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,9
+960,2013,Hyundai,Elantra_GLS, 9932, Flemington, NJ ,78484,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,10
+961,2019,Hyundai,Tucson_SE, 22855, Shrewsbury, NJ ,28820,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+962,2020,Hyundai,Tucson_SEL, 26960, Avenel, NJ ,20870,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+963,2018,Hyundai,Santa_Fe_SE_Ultimate, 30959, Avenel, NJ ,16917,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,8
+964,2018,Hyundai,Elantra_SE, 15959, Avenel, NJ ,43610,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+965,2009,Hyundai,Elantra_GLS, 4995, Jersey City, NJ ,133090,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,11
+966,2018,Hyundai,Elantra_SE, 16995, Huntington Station, NY ,46380,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+967,2018,Hyundai,Elantra_SE, 17995, Wharton, NJ ,26744,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+968,2018,Hyundai,Sonata_Limited_Edition, 24599, Wharton, NJ ,20806,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+969,2018,Hyundai,Elantra_SE, 17995, Wharton, NJ ,26403,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+970,2018,Hyundai,Sonata_SE, 20499, Wharton, NJ ,27998,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+971,2015,Hyundai,Sonata_SE, 12669, Copiague, NY ,50496,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,3
+972,2019,Hyundai,Tucson_Value_Edition, 18990, Elmwood Park, NJ ,62324,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Rental Use,1
+973,2018,Hyundai,Elantra_SE, 14295, Bronx, NY ,29353,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+974,2018,Hyundai,Sonata_SE, 18000, Denville, NJ ,45598,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,15
+975,2012,Hyundai,Sonata_SE, 10995, North Bergen, NJ ,104626,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,20
+976,2018,Hyundai,Sonata_SE, 17999, Jersey City, NJ ,23138,Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+977,2018,Hyundai,Sonata_SE, 17488, Jersey City, NJ ,45487,Accident Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+978,2016,Hyundai,Santa_Fe_Sport, 13921, Centereach, NY ,102131,Accident/Minor Damage,SUV,Red_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,17
+979,2018,Hyundai,Kona_SE, 19999, Jersey City, NJ ,22409,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+980,2017,Hyundai,Elantra_Value_Edition, 16459, Union, NJ ,36867,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+981,2008,Hyundai,Tucson_GLS, 6995, Union, NJ ,78018,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+982,2019,Hyundai,Sonata_SE, 19888, Jersey City, NJ ,20659,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+983,2018,Hyundai,Elantra_Value_Edition, 18499, Jersey City, NJ ,8025,Accident/Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+984,2018,Hyundai,Kona_SEL, 19946, Jersey City, NJ ,49608,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,7
+985,2019,Hyundai,Santa_Fe_XL_SE, 26588, Jersey City, NJ ,29495,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,6
+986,2018,Hyundai,Elantra_SE, 15999, Jersey City, NJ ,22828,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+987,2017,Hyundai,Tucson_Limited_Edition, 22985, Hasbrouck Heights, NJ ,69716,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,4
+988,2020,Hyundai,Santa_Fe_SE, 25999, Jersey City, NJ ,9771,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+989,2019,Hyundai,Tucson_Value_Edition, 24999, Jersey City, NJ ,23841,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+990,2018,Hyundai,Elantra_SEL, 17995, UNION CITY, NJ ,43197,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+991,2020,Hyundai,Elantra_SEL, 14960, Irvington, NJ ,52402,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Rental Use,2
+992,2018,Hyundai,Santa_Fe_SE, 25999, Jersey City, NJ ,48393,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,3
+993,2017,Hyundai,Tucson_Sport, 23900, Rahway, NJ ,35232,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,8
+994,2017,Hyundai,Tucson_SE, 19495, Edison, NJ ,37320,Accident Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,9
+995,2019,Hyundai,Elantra_SE, 16898, New York, NY ,51166,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+996,2014,Hyundai,Sonata_SE, 10995, Saint James, NY ,76232,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,25
+997,2018,Hyundai,Santa_Fe_Sport, 21490, Bronx, NY ,36511,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,3
+998,2018,Hyundai,Elantra_Value_Edition, 16743, PARAMUS, NJ ,25844,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,3
+999,2003,Hyundai,Tiburon_GT, 8995, Neptune, NJ ,66496,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_2.7_L_,CARFAX 1-Owner,Personal Use,7
+1000,2018,Hyundai,Tucson_SEL_Plus, 22590, Hasbrouck Heights, NJ ,42761,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+1001,2016,Hyundai,Accent_SE, 10997, Newton, NJ ,56938,Major Damage,Sedan,Black_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,9
+1002,2018,Hyundai,Kona_SE, 20999, Newark, NJ,26341,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+1003,2020,Hyundai,Elantra_Limited_Edition, 20980, Centereach, NY ,9668,Accident Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,8
+1004,2015,Hyundai,Tucson_SE, 16485, Inwood, NY ,51960,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,4
+1005,2013,Hyundai,Tucson_GLS, 11995, North Middletown, NJ ,90163,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,29
+1006,2017,Hyundai,Santa_Fe_SE, 14395, Brooklyn, NY ,93444,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.3_L_,3+ Owners,Multiple Use,6
+1007,2016,Hyundai,Sonata_SE, 10999, Paterson, NJ ,79250,Branded Title,Sedan,White_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,12
+1008,2017,Hyundai,Sonata_Sport, 15595, Paterson, NJ ,97636,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,16
+1009,2018,Hyundai,Elantra_Value_Edition, 16700, Nanuet, NY ,42013,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,8
+1010,2018,Hyundai,Sonata_Sport, 21000, Jersey City, NJ ,18359,Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+1011,2015,Hyundai,Sonata_Eco, 15995, Howell, NJ ,91200,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,20
+1012,2013,Hyundai,Santa_Fe_Sport, 15997, Shrewsbury, NJ ,73460,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,27
+1013,2018,Hyundai,Tucson_SE, 17981, Woodside, NY ,41478,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,3
+1014,2016,Hyundai,Elantra_Base, 13999, Freehold, NJ ,92165,No Accident or Damage Reported,Hatchback,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,18
+1015,2019,Hyundai,Santa_Fe_SEL, 29999, Freehold, NJ ,14855,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+1016,2022,Hyundai,Tucson_SEL, 34999, Freehold, NJ ,4867,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+1017,2020,Hyundai,Elantra_Base, 21000, Old Bridge, NJ ,15707,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+1018,2012,Hyundai,Sonata_GLS, 9991, Bohemia, NY ,82399,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,3+ Owners,Multiple Use,5
+1019,2012,Hyundai,Elantra_GLS, 12995, Howell, NJ ,67362,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,40
+1020,2011,Hyundai,Elantra_GLS, 5999, S Hackensack, NJ ,172404,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,41
+1021,2013,Hyundai,Santa_Fe_Sport, 11490, Sayreville, NJ ,131580,Accident Reported,SUV,Orange_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,41
+1022,2012,Hyundai,Sonata_Limited_Edition, 13495, Red Bank, NJ ,62772,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+1023,2018,Hyundai,Elantra_SE, 16888, Brooklyn, NY ,8500,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+1024,2022,Hyundai,Tucson_SEL, 29990, Great Neck, NY ,997,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,2
+1025,2021,Hyundai,Elantra_SE, 19888, Linden, NJ ,10237,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Rental Use,0
+1026,2018,Hyundai,Santa_Fe_SE, 20499, Copiague, NY ,74444,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,11
+1027,2018,Hyundai,Sonata_Limited_Edition, 20922, Springfield, NJ ,46455,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,17
+1028,2017,Hyundai,Elantra_SE, 15878, Hawthorne, NJ ,45104,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,0
+1029,2018,Hyundai,Sonata_SEL, 18850, North Plainfield, NJ ,29788,Accident/Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+1030,2017,Hyundai,Tucson_SE, 18250, Yonkers, NY ,58526,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+1031,2011,Hyundai,Elantra_Limited_Edition, 6995, Union, NJ ,126573,Accident Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,10
+1032,2018,Hyundai,Elantra_Sport, 19998, Edison, NJ ,25595,No Accident or Damage Reported,Hatchback,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,10
+1033,2018,Hyundai,Elantra_Limited_Edition, 21495, Elizabeth, NJ ,16603,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+1034,2018,Hyundai,Sonata_SE, 19574, Union, NJ ,35913,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,13
+1035,2018,Hyundai,Elantra_Value_Edition, 19635, Sea Girt, NJ ,17245,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+1036,2017,Hyundai,Santa_Fe_Sport, 19997, Perth Amboy, NJ ,79680,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,23
+1037,2015,Hyundai,Elantra_SE, 9995, Belle Mead, NJ ,93118,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Rental Use,3
+1038,2018,Hyundai,Sonata_SE, 19999, Jersey City, NJ ,21241,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+1039,2018,Hyundai,Sonata_SE, 19999, Jersey City, NJ ,18958,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+1040,2019,Hyundai,Sonata_SE, 16261, Irvington, NJ ,51155,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,1
+1041,2018,Hyundai,Sonata_SE, 19995, Little Ferry, NJ ,28811,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+1042,2020,Hyundai,Kona_SEL, 25590, Pleasantville, NY,12428,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+1043,2013,Hyundai,Sonata_GLS, 12495, Staten Island, NY ,94890,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+1044,2016,Hyundai,Elantra_SE, 15590, Pleasantville, NY,48874,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,13
+1045,2018,Hyundai,Sonata_Sport_Plus, 22859, Union, NJ ,23158,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+1046,2019,Hyundai,Elantra, 20995, Sussex, NJ ,26219,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+1047,2019,Hyundai,Kona_SEL, 23488, Jersey City, NJ ,33822,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+1048,2018,Hyundai,Kona_Limited, 25588, Jersey City, NJ ,24479,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,13
+1049,2014,Hyundai,Sonata_Limited_Edition, 9971, East Brunswick, NJ ,138823,Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,23
+1050,2016,Hyundai,Elantra_SE, 15590, Pleasantville, NY,48874,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,13
+1051,2020,Hyundai,Kona_SEL, 25590, Pleasantville, NY,12428,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+1052,2013,Hyundai,Sonata_GLS, 12495, Staten Island, NY ,94890,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+1053,2018,Hyundai,Sonata_SE, 19995, Little Ferry, NJ ,28811,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+1054,2012,Hyundai,Tucson_GLS, 10999, East Windsor, NJ ,82825,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+1055,2014,Hyundai,Sonata_GLS, 14989, Freehold, NJ ,90921,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,30
+1056,2016,Hyundai,Azera_Limited_Edition, 17542, Carlstadt, NJ ,61503,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.3_L_,3+ Owners,Multiple Use,7
+1057,2018,Hyundai,Santa_Fe_SE, 25968, Centereach, NY ,30096,Accident Reported,SUV,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,11
+1058,2018,Hyundai,Kona_SEL, 22357, Centereach, NY ,13302,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+1059,2018,Hyundai,Elantra_SEL, 13900, Hillside, NJ ,40234,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Vehicle Use,1
+1060,2018,Hyundai,Tucson_SEL, 17900, Hillside, NJ ,41449,Accident Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,2
+1061,2019,Hyundai,Elantra_SE, 18995, Sussex, NJ ,32439,Accident/Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+1062,2016,Hyundai,Tucson_Limited_Edition, 17942, Carlstadt, NJ ,91927,Damage Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,16
+1063,2018,Hyundai,Tucson_Limited_Edition, 25487, Englewood, NJ ,30047,Accident/No Damage,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,4
+1064,2020,Hyundai,Palisade_SEL, 44413, PARAMUS, NJ ,6850,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.8_L_,2-Owner,Personal Use,2
+1065,2019,Hyundai,Sonata_SE, 20495, Lakewood, NJ ,27383,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+1066,2018,Hyundai,Elantra_Value_Edition, 17500, Jersey City, NJ ,25882,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+1067,2016,Hyundai,Tucson_Limited_Edition, 21495, Lakewood, NJ ,75734,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Corporate Use,29
+1068,2017,Hyundai,Sonata_SE, 17933, North Brunswick, NJ ,42310,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,9
+1069,2013,Hyundai,Elantra_Limited_Edition, 9436, Bronx, NY ,89698,Major Damage,Sedan,Red_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,14
+1070,2014,Hyundai,Tucson_SE, 15777, Mahwah, NJ ,56561,Minor Damage,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+1071,2011,Hyundai,Sonata_SE, 8495, Yonkers, NY ,118240,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,18
+1072,2003,Hyundai,Santa_Fe_GLS, 3677, Little Falls, NJ ,180200,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_2.7_L_,3+ Owners,Personal Use,10
+1073,2014,Hyundai,Elantra_Limited_Edition, 14011, Freehold, NJ ,7531,Accident Reported,Sedan,Bronze_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,20
+1074,2020,Hyundai,Accent_SE, 14995, Butler, NJ ,40973,Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Rental Use,0
+1075,2013,Hyundai,Sonata_Limited_Edition, 14599, Jersey City, NJ ,67065,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,23
+1076,2009,Hyundai,Sonata_GLS, 6995, Totowa, NJ ,96352,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+1077,2009,Hyundai,Santa_Fe_GLS, 6912, Avenel, NJ ,59634,Accident Reported,SUV,Gray_Engine:_6_Cyl_2.7_L_,CARFAX 1-Owner,Personal Use,9
+1078,2008,Hyundai,Tucson_GLS, 5995, Yonkers, NY ,120250,No Accident or Damage Reported,SUV,4_Cyl_2.0_L_,3+ Owners,Personal Use,29
+1079,2020,Hyundai,Sonata_SEL, 23995, Wall Township, NJ ,3800,Branded Title,Sedan,White_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,0
+1080,2017,Hyundai,Elantra_SE, 14333, Bronx, NY ,47742,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,20
+1081,2019,Hyundai,Tucson_Limited_Edition, 23495, Bronx, NY ,16789,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+1082,2018,Hyundai,Elantra_SEL, 17000, Denville, NJ ,21960,Accident/Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+1083,2018,Hyundai,Kona_Limited, 23900, Wayne, NJ ,32324,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.6_L_,2-Owner,Multiple Use,5
+1084,2017,Hyundai,Elantra_Limited_Edition, 14990, Elmont, NY ,26242,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+1085,2017,Hyundai,Ioniq_Blue, 9550, Freehold, NJ ,74802,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,13
+1086,2013,Hyundai,Elantra_GLS, 11499, Old Bridge, NJ ,76250,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,26
+1087,2012,Hyundai,Santa_Fe_Limited_Edition, 10499, S Hackensack, NJ ,121967,No Accident or Damage Reported,SUV,Brown_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,17
+1088,2018,Hyundai,Sonata_SEL, 20374, Union, NJ ,29637,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,6
+1089,2019,Hyundai,Sonata_SE, 19980, Richmond Hill, NY ,23238,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,0
+1090,2020,Hyundai,Veloster, 18995, Great Neck, NY ,8750,No Accident or Damage Reported,Hatchback,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+1091,2018,Hyundai,Sonata_SEL, 17976, Brooklyn, NY ,63580,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,16
+1092,2017,Hyundai,Accent_SE, 18000, Bronx, NY ,26018,Accident Reported,Sedan,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,9
+1093,2019,Hyundai,Santa_Fe_SEL, 23881, Woodside, NY ,39359,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+1094,2016,Hyundai,Veloster_Turbo_R-Spec, 17950, Elmont, NY ,76270,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,1
+1095,2014,Hyundai,Tucson_SE, 11995, Brooklyn, NY ,106620,Damage Reported,SUV,Red_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,14
+1096,2018,Hyundai,Sonata_Limited_Edition, 16418, Elmont, NY ,34492,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+1097,2018,Hyundai,Sonata_SE, 18995, West Babylon, NY ,15889,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+1098,2016,Hyundai,Accent_SE, 16335, Sea Girt, NJ ,55392,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,12
+1099,2018,Hyundai,Santa_Fe_Sport, 19660, Little Falls, NJ ,65266,Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+1100,2005,Hyundai,XG350_Base, 4900, Hasbrouck Heights, NJ ,100948,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,38
+1101,2018,Hyundai,Kona_SEL, 25995, Sussex, NJ ,23567,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+1102,2018,Hyundai,Santa_Fe_SE, 27995, Sussex, NJ ,50009,Damage Reported,SUV,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,9
+1103,2018,Hyundai,Sonata_SE, 20995, Sussex, NJ ,46777,Minor Damage,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+1104,2018,Hyundai,Sonata_SE, 21735, Ocean, NJ ,28926,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+1105,2015,Hyundai,Sonata_SE, 9790, Freehold, NJ ,127069,Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,24
+1106,2017,Hyundai,Elantra_SE, 10490, Yonkers, NY ,78928,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,5
+1107,2018,Hyundai,Elantra_SEL, 14500, Hillside, NJ ,40865,Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,5
+1108,2009,Hyundai,Sonata, 6495, Lodi, NJ ,107824,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,20
+1109,2017,Hyundai,Elantra_SE, 10995, Hasbrouck Heights, NJ ,102279,Accident/Minor Damage,Sedan,Burgundy_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,3
+1110,2010,Hyundai,Sonata_GLS, 4999, Brooklyn, NY ,116452,Accident Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,3+ Owners,Multiple Use,12
+1111,2018,Hyundai,Tucson_SEL, 18900, Hillside, NJ ,56667,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,1
+1112,2018,Hyundai,Sonata_SE, 19959, Avenel, NJ ,32770,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+1113,2020,Hyundai,Palisade_Limited, 53500, Florham Park, NJ ,14659,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,4
+1114,2010,Hyundai,Sonata_GLS, 5199, Sussex, NJ ,166874,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,9
+1115,2012,Hyundai,Accent_GLS, 5999, Brooklyn, NY ,106185,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,19
+1116,2018,Hyundai,Elantra_SEL, 18995, Keyport, NJ ,12606,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+1117,2019,Hyundai,Elantra_Limited_Edition, 19950, Monmouth Junction, NJ ,26249,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,5
+1118,2013,Hyundai,Elantra_GLS, 8287, Paterson, NJ ,107887,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,3+ Owners,Multiple Use,25
+1119,2018,Hyundai,Sonata_Limited_Edition, 24995, Totowa, NJ ,9147,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+1120,2019,Hyundai,Santa_Fe_SEL, 26499, Bayside, NY ,19402,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+1121,2020,Hyundai,Kona_Ultimate, 26999, Bayside, NY ,26786,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,0
+1122,2020,Hyundai,Sonata_SE, 21999, Bayside, NY ,10275,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,0
+1123,2019,Hyundai,Tucson_SEL, 24499, Bayside, NY ,19660,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+1124,2018,Hyundai,Sonata_SEL, 18499, Bayside, NY ,34144,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+1125,2015,Hyundai,Sonata_SE, 13495, Bridgewater, NJ ,91846,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+1126,2015,Hyundai,Genesis_Base, 26990, Newark, NJ,29719,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,10
+1127,2018,Hyundai,Elantra_SEL, 17990, Newark, NJ,39987,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+1128,2018,Hyundai,Kona_SE, 21745, Lakewood, NJ ,30407,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+1129,2012,Hyundai,Elantra_GLS, 9997, Brooklyn, NY ,102917,No Accident or Damage Reported,Wagon,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,30
+1130,2018,Hyundai,Tucson_SEL, 21997, FAIR LAWN, NJ ,33676,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+1131,2017,Hyundai,Santa_Fe_Sport, 14890, Great Neck, NY ,76539,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+1132,2013,Hyundai,Santa_Fe_Sport_2.0T, 15995, Neptune, NJ ,85284,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+1133,2018,Hyundai,Kona_SEL, 21990, Newark, NJ,26681,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+1134,2018,Hyundai,Kona_SEL, 23995, Neptune, NJ ,30263,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+1135,2020,Hyundai,Kona_Limited, 28500, Hillside, NJ ,16000,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,6
+1136,2012,Hyundai,Elantra_GLS, 11590, Newark, NJ,92991,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,24
+1137,2018,Hyundai,Sonata_SE, 17800, Monmouth Junction, NJ ,34499,Accident Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,10
+1138,2019,Hyundai,Santa_Fe_SE, 24888, Brooklyn, NY ,25506,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+1139,2019,Hyundai,Kona_Ultimate, 26181, Monmouth Junction, NJ ,17146,Accident Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,9
+1140,2014,Hyundai,Elantra_SE, 9900, Bloomfield, NJ ,99061,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,8
+1141,2019,Hyundai,Santa_Fe_SEL, 29995, Sussex, NJ ,0,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+1142,2017,Hyundai,Elantra_SE, 16995, Union, NJ ,33462,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,9
+1143,2020,Hyundai,Elantra_Limited_Edition, 21800, Monmouth Junction, NJ ,11698,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,8
+1144,2012,Hyundai,Elantra, 10999, Lindenhurst, NY ,47468,Accident/Minor Damage,Sedan,Red_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,5
+1145,2020,Hyundai,Sonata_SEL, 26039, Monmouth Junction, NJ ,12172,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+1146,2013,Hyundai,Sonata_Limited_Edition, 13995, Paramus, NJ ,93317,Accident Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,21
+1147,2017,Hyundai,Elantra_SE, 12495, Edison, NJ ,90774,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,2
+1148,2018,Hyundai,Sonata_SE, 20922, Springfield, NJ ,22039,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,4
+1149,2018,Hyundai,Santa_Fe_SE, 26481, Avenel, NJ ,18836,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,8
+1150,2018,Hyundai,Elantra_SEL, 17989, Sayville, NY ,23967,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,5
+1151,2015,Hyundai,Sonata_Limited_Edition, 16995, Pt Pleasant, NJ ,51780,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,12
+1152,2018,Hyundai,Elantra_SE, 15496, Saint James, NY ,23751,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+1153,2013,Hyundai,Elantra_GLS, 8991, Flemington, NJ ,124249,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,5
+1154,2019,Hyundai,Sonata_SE, 19769, Englewood, NJ ,31927,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+1155,2017,Hyundai,Elantra_Limited_Edition, 17991, Bohemia, NY ,47309,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,11
+1156,2011,Hyundai,Sonata_SE, 8991, Flemington, NJ ,158291,Accident Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,50
+1157,2018,Hyundai,Elantra_SE, 15677, Bronx, NY ,25331,Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+1158,2019,Hyundai,Tucson_Value_Edition, 17978, Brooklyn, NY ,65495,Accident/Minor Damage,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Rental Use,2
+1159,2013,Hyundai,Sonata_Limited_Edition, 13995, Paramus, NJ ,93317,Accident Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,21
+1160,2017,Hyundai,Sonata_Sport, 14165, Bay Shore, NY ,65308,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,11
+1161,2008,Hyundai,Santa_Fe_GLS, 6535, Ramsey, NJ ,139128,Accident Reported,SUV,Beige_Engine:_6_Cyl_2.7_L_,CARFAX 1-Owner,Personal Use,10
+1162,2018,Hyundai,Tucson_Limited_Edition, 28000, Denville, NJ ,22869,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,6
+1163,2018,Hyundai,Kona_SEL, 23000, Denville, NJ ,23660,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+1164,2017,Hyundai,Tucson_SE, 20995, North Bergen, NJ ,32810,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+1165,2016,Hyundai,Genesis_Base, 20500, Lindenhurst, NY ,45421,Accident Reported,Coupe,Black_Engine:_6_Cyl_3.8_L_,2-Owner,Personal Use,8
+1166,2011,Hyundai,Elantra, 8995, Lodi, NJ ,101827,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,20
+1167,2018,Hyundai,Sonata_SE, 19980, Richmond Hill, NY ,20303,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+1168,2018,Hyundai,Elantra_Value_Edition, 18499, Wharton, NJ ,29121,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+1169,2016,Hyundai,Genesis_Ultimate, 21990, Newark, NJ,80675,No Accident or Damage Reported,Coupe,Blue_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,5
+1170,2018,Hyundai,Elantra_Value_Edition, Call for Price, North Plainfield, NJ ,22286,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+1171,2017,Hyundai,Elantra_SE, 15995, Brooklyn, NY ,62863,Accident/Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+1172,2014,Hyundai,Santa_Fe_Sport_2.0T, 13995, Butler, NJ ,106680,Accident Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,18
+1173,2014,Hyundai,Santa_Fe_Limited_Edition, 16495, Edison, NJ ,104597,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,18
+1174,2013,Hyundai,Sonata_GLS, 7495, Linden, NJ ,177938,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,6
+1175,2013,Hyundai,Tucson_GLS, 12995, Elizabeth, NJ ,102662,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,23
+1176,2012,Hyundai,Sonata_GLS, 9378, Tenafly, NJ ,68201,Accident Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,13
+1177,2014,Hyundai,Sonata_SE, 8791, Paterson, NJ ,102828,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,3+ Owners,Multiple Use,4
+1178,2015,Hyundai,Genesis, 22499, Newark, NJ,47175,No Accident or Damage Reported,Coupe,Red_Engine:_6_Cyl_3.8_L_,2-Owner,Personal Use,19
+1179,2019,Hyundai,Elantra_SE, 20594, Union, NJ ,21553,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,9
+1180,2018,Hyundai,Santa_Fe_Sport, 24294, Union, NJ ,58978,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,3+ Owners,Multiple Use,8
+1181,2017,Hyundai,Santa_Fe_SE, 21999, Freehold, NJ ,64545,Accident Reported,SUV,Black_Engine:_6_Cyl_3.3_L_,2-Owner,Multiple Use,17
+1182,2020,Hyundai,Kona_Ultimate, 27999, Bayside, NY ,8852,Accident Reported,SUV,Gray_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,1
+1183,2014,Hyundai,Elantra_Sport, 13794, Haskell, NJ ,52753,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,18
+1184,2014,Hyundai,Elantra_SE, 9506, S Hackensack, NJ ,132777,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,10
+1185,2020,Hyundai,Kona_SEL, 23999, Bayside, NY ,8414,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,2
+1186,2013,Hyundai,Santa_Fe_Sport, 15994, Union, NJ ,87399,Damage Reported,SUV,Green_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,27
+1187,2018,Hyundai,Elantra_Limited_Edition, Call for Price, Sussex, NJ ,22680,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+1188,2019,Hyundai,Elantra_SE, Call for Price, Sussex, NJ ,8311,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+1189,2014,Hyundai,Accent_GLS, 7999, Mine Hill, NJ ,107564,Accident Reported,Sedan,Gray_Engine:_4_Cyl_1.6_L_,3+ Owners,Multiple Use,7
+1190,2011,Hyundai,Tucson_GLS, 11500, Morristown, NJ ,80784,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,24
+1191,2013,Hyundai,Sonata_GLS, 10500, Bohemia, NY ,95257,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,16
+1192,2021,Hyundai,Elantra_SE, 19995, Freeport, NY ,4909,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,0
+1193,2018,Hyundai,Elantra_SE, 16995, Keyport, NJ ,43879,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+1194,2020,Hyundai,Elantra_SE, 21995, Belmar, NJ ,4283,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+1195,2017,Hyundai,Sonata_Limited_Edition, 17133, Monmouth Junction, NJ ,75391,Accident/Minor Damage,Sedan,Brown_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,16
+1196,2015,Hyundai,Elantra, 11000, Sussex, NJ ,82602,Accident Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,7
+1197,2016,Hyundai,Veloster_Base, 13990, Freeport, NY ,32338,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,6
+1198,2018,Hyundai,Sonata_SE, 19995, Keyport, NJ ,27448,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+1199,2012,Hyundai,Sonata_GLS, 7090, Shrewsbury, NJ ,147692,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,19
+1200,2018,Hyundai,Accent_SE, 12900, Hillside, NJ ,41783,Accident Reported,Sedan,Red_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Rental Use,1
+1201,2019,Hyundai,Elantra_Limited_Edition, 21108, Centereach, NY ,16676,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+1202,2013,Hyundai,Elantra_SE, 8590, Roselle Park, NJ ,119974,Accident Reported,Coupe,White_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,9
+1203,2016,Hyundai,Tucson_Eco, 16900, North Plainfield, NJ ,56067,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,14
+1204,2012,Hyundai,Tucson_Limited_Edition, 7999, Teterboro, NJ ,122258,No Accident or Damage Reported,SUV,Beige_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,31
+1205,2018,Hyundai,Sonata_SE, 18800, West Hempstead, NY ,31669,Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+1206,2013,Hyundai,Elantra_GLS, 8495, Garfield, NJ ,73070,Minor Damage,Sedan,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,6
+1207,2017,Hyundai,Tucson_SE, 18381, Avenel, NJ ,27058,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,5
+1208,2014,Hyundai,Sonata_GLS, 8999, Passaic, NJ ,118100,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,28
+1209,2021,Hyundai,Elantra_Limited_Edition, 23995, Wall Township, NJ ,5424,Branded Title,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+1210,2016,Hyundai,Santa_Fe_Sport, 13981, Avenel, NJ ,91558,Accident Reported,SUV,Orange_Engine:_4_Cyl_2.4_L_,3+ Owners,Multiple Use,7
+1211,2014,Hyundai,Elantra_Limited_Edition, 9995, Butler, NJ ,121690,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,27
+1212,2006,Hyundai,Elantra_GLS, 5995, Union, NJ ,64062,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,1
+1213,2019,Hyundai,Sonata_SEL, 20959, Avenel, NJ ,32075,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+1214,2018,Hyundai,Ioniq_SEL, 19959, Avenel, NJ ,38210,Accident/Minor Damage,Hatchback,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,3
+1215,2016,Hyundai,Accent_SE, 11984, South Plainfield, NJ ,75424,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,4
+1216,2018,Hyundai,Sonata_SE, 17980, Richmond Hill, NY ,75137,Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+1217,2013,Hyundai,Santa_Fe_Sport_2.0T, 17800, Elmhurst, NY ,85488,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,14
+1218,2018,Hyundai,Sonata_Limited_Edition, 17981, Long Island City, NY ,28837,Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+1219,2014,Hyundai,Santa_Fe_Limited_Edition, 18990, New York, NY,61818,No Accident or Damage Reported,SUV,Brown_Engine:_6_Cyl_3.3_L_,2-Owner,Personal Use,17
+1220,2020,Hyundai,Accent_SE, 17990, New York, NY,32400,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Rental Use,1
+1221,2018,Hyundai,Elantra_Sport, 21990, New York, NY,11992,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.6_L_,2-Owner,Personal Use,3
+1222,2019,Hyundai,Sonata_SE, 21259, Avenel, NJ ,11072,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+1223,2018,Hyundai,Sonata_Sport_Plus, 16888, Elmont, NY ,20201,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+1224,2020,Hyundai,Sonata_SEL_Plus, 31959, Avenel, NJ ,7347,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,4
+1225,2009,Hyundai,Sonata_SE, 7999, S Hackensack, NJ ,79755,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.3_L_,CARFAX 1-Owner,Personal Use,11
+1226,2012,Hyundai,Elantra_GLS, 9899, Lakewood, NJ ,91383,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,23
+1227,2020,Hyundai,Elantra_SE, 17995, Springfield, NJ ,12565,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+1228,2013,Hyundai,Elantra_Base, 12999, Freehold, NJ ,56917,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,10
+1229,2018,Hyundai,Elantra_SEL, 17450, Forest Hills, NY ,27594,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+1230,2019,Hyundai,Sonata_SE, 18990, Forest Hills, NY ,32588,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+1231,2018,Hyundai,Sonata_SE, 18788, Jersey City, NJ ,28771,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,8
+1232,2019,Hyundai,Tucson_Limited_Edition, Call for Price, North Plainfield, NJ ,36511,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+1233,2018,Hyundai,Santa_Fe_Sport, 20999, Jersey City, NJ ,24930,Accident Reported,SUV,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+1234,2019,Hyundai,Sonata_SE, 18266, Great Neck, NY ,34259,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,9
+1235,2019,Hyundai,Elantra_SEL, 14600, Bloomfield, NJ ,65042,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,4
+1236,2013,Hyundai,Tucson_GLS, 11995, Roselle, NJ ,83669,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Corporate Use,6
+1237,2017,Hyundai,Sonata, 16590, Pleasantville, NY,61643,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,1
+1238,2016,Hyundai,Veloster_Base, 14488, Greenvale, NY ,52697,Accident Reported,Hatchback,Black_Engine:_4_Cyl_1.6_L_,CARFAX 1-Owner,Personal Use,8
+1239,2016,Hyundai,Genesis_R-Spec, 25589, Centereach, NY ,35003,Accident/Minor Damage,Coupe,Gray_Engine:_6_Cyl_3.8_L_,CARFAX 1-Owner,Personal Use,13
+1240,2017,Hyundai,Elantra_Limited_Edition, Call for Price, Irvington, NJ ,103856,No Accident or Damage Reported,Sedan,Beige_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,25
+1241,2016,Hyundai,Tucson_Limited_Edition, 20500, Shrewsbury, NJ ,72833,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_1.6_L_,3+ Owners,Personal Use,20
+1242,2014,Hyundai,Sonata_Limited_Edition, 13438, Jersey City, NJ ,89355,Minor Damage,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,17
+1243,2015,Hyundai,Elantra_Sport, 12995, Irvington, NJ ,91556,Minor Damage,Sedan,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+1244,2011,Hyundai,Sonata_GLS, 9900, Bloomfield, NJ ,87449,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,27
+1245,2016,Hyundai,Tucson_SE, 13995, Huntington Station, NY ,105845,Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,2
+1246,2020,Hyundai,Elantra_Value_Edition, 18900, Rahway, NJ ,63168,Minor Damage,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+1247,2018,Hyundai,Elantra_Value_Edition, 17998, Saint James, NY ,30898,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+1248,2013,Hyundai,Elantra_GLS, 10998, Saint James, NY ,66496,Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,17
+1249,2018,Hyundai,Santa_Fe_Sport, 24995, Belmar, NJ ,13242,Accident Reported,SUV,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4

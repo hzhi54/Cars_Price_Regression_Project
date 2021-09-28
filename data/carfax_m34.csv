@@ -1,0 +1,1101 @@
+,Year,Brand,Model,Cost,City,State,Mileage,Accident,Body,Engine,Owners,Usefor,Services
+0,2019,Volkswagen,Jetta_SE, 20199, Elk Grove, CA ,25009,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,4
+1,2017,Volkswagen,Jetta_S, 15262, Bradenton, FL ,13347,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,4
+2,2017,Volkswagen,Passat_SE, 18705, El Paso, TX ,50529,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,10
+3,2018,Volkswagen,GTI_SE, 25998, Fall River, MA ,41319,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+4,2018,Volkswagen,Passat_SEL_Premium, 18995, Mohegan Lake, NY ,57351,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+5,2018,Volkswagen,Atlas_SEL, 29601, Fairfax, VA ,67818,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,16
+6,2017,Volkswagen,Tiguan, 18995, Salem, NH ,53295,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+7,2018,Volkswagen,Atlas_SEL_Premium, 39400, Cincinnati, OH ,38892,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,13
+8,2018,Volkswagen,Jetta_SE, 17500, Hackettstown, NJ ,32548,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,8
+9,2019,Volkswagen,Jetta_SEL, 21499, Youngstown, OH ,29626,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,8
+10,2019,Volkswagen,Arteon_SEL, 31500, Rocklin, CA ,7524,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+11,2018,Volkswagen,Passat_S, 17750, Huntington Station, NY ,18659,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+12,2021,Volkswagen,Atlas_SE_w/Technology_R-Line, 42975, Melbourne, FL ,4759,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+13,2020,Volkswagen,Jetta_S, 19700, Saint Charles, IL ,9351,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,7
+14,2018,Volkswagen,Tiguan_SEL, 26980, Hollidaysburg, PA ,41510,No Accident or Damage Reported,SUV,Green_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+15,2018,Volkswagen,Jetta_SE, 15800, Escanaba, MI ,41339,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,7
+16,2019,Volkswagen,Jetta_SE, 21337, Riverhead, NY ,9702,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+17,2020,Volkswagen,Atlas_SEL_R-Line, 43888, Cincinnati, OH ,17458,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+18,2019,Volkswagen,Arteon_SEL_Premium_R-Line, 35999, Youngstown, OH ,7750,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+19,2019,Volkswagen,Jetta_SEL, 20750, Schaumburg, IL ,41842,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+20,2019,Volkswagen,Tiguan_SE, 26343, Minneapolis, MN ,21842,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+21,2021,Volkswagen,Atlas_SEL, 43480, Franklin, WI ,14704,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+22,2020,Volkswagen,Passat_R-Line, 26595, Santa Fe, NM ,14125,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+23,2019,Volkswagen,Arteon_SEL, 28790, Cape May Court House, NJ ,30731,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+24,2017,Volkswagen,Tiguan_S, 17874, Springfield, VA ,65860,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+25,2018,Volkswagen,Tiguan_S, 19899, West Islip, NY ,31088,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+26,2017,Volkswagen,Jetta_GLI, 18900, White Plains, NY ,47732,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+27,2018,Volkswagen,Passat_SE, 17995, Jamaica, NY ,39164,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+28,2020,Volkswagen,Arteon_SEL, 30950, Neptune, NJ ,11432,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+29,2020,Volkswagen,Passat_SE, 23900, Neptune, NJ ,3004,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+30,2019,Volkswagen,Jetta_R-Line, 21849, Denville, NJ ,7853,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,2
+31,2019,Volkswagen,Jetta_SEL_Premium, 22800, Nanuet, NY ,23260,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,6
+32,2019,Volkswagen,Atlas_SE_w/Technology, 34800, Nanuet, NY ,30843,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+33,2017,Volkswagen,Golf_SEL, 17525, Huntington Station, NY ,79141,No Accident or Damage Reported,Wagon,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,19
+34,2019,Volkswagen,Jetta_R-Line, 19995, Lyndhurst, NJ ,19768,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+35,2016,Volkswagen,Golf_S, 13995, Edison, NJ ,56880,No Accident or Damage Reported,Hatchback,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,4
+36,2021,Volkswagen,Passat_R-Line, 26500, Neptune, NJ ,4478,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+37,2019,Volkswagen,Jetta_S, 15988, West Islip, NY ,36316,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+38,2018,Volkswagen,Passat_R-Line, 17500, Fair Lawn, NJ ,21000,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+39,2016,Volkswagen,Jetta_SEL, 15995, Darien, CT ,53755,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,11
+40,2017,Volkswagen,Golf, 18788, Lakewood, NJ ,82771,No Accident or Damage Reported,Wagon,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,10
+41,2016,Volkswagen,Jetta_GLI_SEL, 19000, White Plains, NY ,26065,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+42,2019,Volkswagen,Tiguan_S, 23288, Bronx, NY ,24085,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+43,2021,Volkswagen,Passat_R-Line, 26750, Neptune, NJ ,4882,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+44,2018,Volkswagen,Passat_SEL_Premium, 17500, Neptune, NJ ,79816,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+45,2019,Volkswagen,Tiguan_SE, 25000, Neptune, NJ ,28467,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+46,2019,Volkswagen,Jetta_S, 16998, West Islip, NY ,22936,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+47,2019,Volkswagen,Tiguan_SE, 26000, Fair Lawn, NJ ,20424,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+48,2018,Volkswagen,Golf_SE, 21494, Trenton, NJ ,68724,Damage Reported,Wagon,Blue_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,4
+49,2018,Volkswagen,Atlas_SEL, 31000, Jersey City, NJ ,37336,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+50,2017,Volkswagen,Passat_SE_w/Technology, 13950, Neptune, NJ ,85894,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,15
+51,2018,Volkswagen,Tiguan_SEL, 18995, Jamaica, NY ,40639,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,18
+52,2018,Volkswagen,Tiguan_SEL_Premium, 29900, Nanuet, NY ,19743,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+53,2019,Volkswagen,Jetta_SEL, 22495, Mohegan Lake, NY ,24535,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,8
+54,2019,Volkswagen,Jetta_GLI_S, 23750, EATONTOWN, NJ ,9970,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+55,2018,Volkswagen,Atlas_SEL_Premium, 37995, Massapequa, NY ,19012,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+56,2017,Volkswagen,Passat_SE, 12500, Neptune, NJ ,108335,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,16
+57,2021,Volkswagen,Passat_S, 23700, Neptune, NJ ,1191,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+58,2020,Volkswagen,Tiguan_SE, 27950, Neptune, NJ ,14052,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+59,2019,Volkswagen,Tiguan_SE, 24890, West Islip, NY ,22924,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+60,2018,Volkswagen,Passat_S, 18000, Neptune, NJ ,13377,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+61,2018,Volkswagen,Passat_GT, 23085, Rockaway, NJ ,25931,Accident/Minor Damage,Sedan,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+62,2018,Volkswagen,Passat_SE, 17488, Lakewood, NJ ,57572,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+63,2021,Volkswagen,Tiguan_S, 26329, Bayside, NY ,6922,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+64,2017,Volkswagen,Tiguan_Limited, 18995, Bernardsville, NJ ,49295,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,9
+65,2020,Volkswagen,Jetta_SE, 23000, Neptune, NJ ,2742,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,2
+66,2018,Volkswagen,Tiguan_SE, 25988, Sayville, NY ,14719,No Accident or Damage Reported,SUV,Orange_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+67,2018,Volkswagen,Tiguan_S, 22488, Sayville, NY ,25419,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+68,2020,Volkswagen,Arteon_SE, 31998, Roselle, NJ ,14532,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+69,2019,Volkswagen,Atlas_SE_w/Technology, 31498, Roselle, NJ ,65107,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,15
+70,2018,Volkswagen,Passat_SE, 21995, Bernardsville, NJ ,20441,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+71,2019,Volkswagen,Jetta_S, 18495, Lyndhurst, NJ ,20748,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,7
+72,2018,Volkswagen,Tiguan_SEL, 22994, Brooklyn, NY ,40386,No Accident or Damage Reported,SUV,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+73,2019,Volkswagen,Passat_Wolfsburg_Edition, 20995, Bridgewater, NJ ,31574,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+74,2018,Volkswagen,Tiguan_SE, 19690, Bronx, NY ,63110,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+75,2018,Volkswagen,Tiguan_SE, 19690, Bronx, NY ,63110,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+76,2019,Volkswagen,Tiguan_SEL_Premium, 30900, Princeton, NJ ,33657,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+77,2020,Volkswagen,Jetta_SE, 22700, Neptune, NJ ,7196,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,3
+78,2019,Volkswagen,Atlas_SEL, 38900, Neptune, NJ ,20676,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+79,2017,Volkswagen,Jetta_GLI, 19700, Fairfield, CT ,50088,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+80,2019,Volkswagen,Atlas_SEL_R-Line, 41387, Ramsey, NJ ,25218,Minor Damage,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,12
+81,2015,Volkswagen,GTI, 14995, SADDLE BROOK, NJ ,104751,No Accident or Damage Reported,Hatchback,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,18
+82,2019,Volkswagen,Jetta_S, 17926, Rockaway, NJ ,39489,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,2
+83,2015,Volkswagen,Jetta_SE_w/Connectivity, 11364, Ramsey, NJ ,82267,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,21
+84,2019,Volkswagen,Jetta_SE, 17990, Bronx, NY ,6152,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,1
+85,2018,Volkswagen,Tiguan_SE, 18900, Avenel, NJ ,112656,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+86,2018,Volkswagen,Atlas_SE, 29889, New York, NY ,17047,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+87,2018,Volkswagen,Atlas_SEL, 36958, Watchung, NJ ,18152,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+88,2021,Volkswagen,Jetta_SEL, 26995, Bernardsville, NJ ,1031,No Accident or Damage Reported,Sedan,4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,3
+89,2019,Volkswagen,Jetta_SEL, 19988, Sayville, NY ,42320,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,6
+90,2016,Volkswagen,Golf_S, 14895, West Babylon, NY ,32791,No Accident or Damage Reported,Hatchback,Silver_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,10
+91,2019,Volkswagen,Jetta_S, 14995, Great Neck, NY ,66855,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,6
+92,2018,Volkswagen,Passat_R-Line, 16450, Freehold, NJ ,42195,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+93,2019,Volkswagen,Beetle_S, 25888, Bronx, NY ,66235,No Accident or Damage Reported,Convertible,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+94,2021,Volkswagen,Atlas_SEL, 43800, Neptune, NJ ,6532,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+95,2020,Volkswagen,Jetta_SE, 21950, Neptune, NJ ,12138,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,3
+96,2018,Volkswagen,Passat_SE, 18997, Great Neck, NY ,34665,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+97,2018,Volkswagen,Tiguan_SE, 22950, Neptune, NJ ,50534,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+98,2019,Volkswagen,Jetta_SE, 19995, Denville, NJ ,14122,No Accident or Damage Reported,Sedan,Orange_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+99,2018,Volkswagen,Passat_SE, 19998, West Islip, NY ,19826,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+100,2019,Volkswagen,Jetta_S, 16984, New York, NY ,28041,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,6
+101,2018,Volkswagen,Jetta_Wolfsburg_Edition, 15999, Princeton, NJ ,44857,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,2-Owner,Personal Use,8
+102,2017,Volkswagen,Touareg_Wolfsburg_Edition, 22995, Jamaica, NY ,69488,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,17
+103,2018,Volkswagen,Jetta_SE, 17295, Elizabeth, NJ ,18630,Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,4
+104,2019,Volkswagen,Jetta_SE, 19854, Bridgewater, NJ ,14585,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,6
+105,2018,Volkswagen,Passat_SE, 20995, Bridgewater, NJ ,27824,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+106,2019,Volkswagen,Atlas_SE_w/Technology, 35783, Bridgewater, NJ ,24597,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+107,2019,Volkswagen,Jetta_SEL, 22987, Ramsey, NJ ,14006,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,7
+108,2018,Volkswagen,Passat_GT, 24915, Rockaway, NJ ,25174,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+109,2018,Volkswagen,Tiguan_S, 22241, Rockaway, NJ ,31074,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+110,2018,Volkswagen,Tiguan_SE, 21280, Freehold, NJ ,44468,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+111,2019,Volkswagen,Jetta_SE, 19505, Freehold, NJ ,17305,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,2
+112,2018,Volkswagen,Tiguan_SEL, 26974, Bayside, NY ,33129,No Accident or Damage Reported,SUV,Green_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+113,2018,Volkswagen,Tiguan_SE, 25495, Bernardsville, NJ ,31243,No Accident or Damage Reported,SUV,Orange_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+114,2019,Volkswagen,Jetta_S, 18948, Mahopac, NY ,25808,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,7
+115,2019,Volkswagen,Jetta_R-Line, 22995, Bernardsville, NJ ,20324,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,12
+116,2019,Volkswagen,Atlas_SE_w/Technology, 36998, Bernardsville, NJ ,29375,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+117,2017,Volkswagen,Jetta_GLI, 17900, North Plainfield, NJ ,73858,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+118,2019,Volkswagen,Atlas_SEL_R-Line, 39987, Ramsey, NJ ,37671,Accident/Minor Damage,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+119,2018,Volkswagen,Atlas_SE_w/Technology, 30700, Nanuet, NY ,40500,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+120,2017,Volkswagen,Jetta_SE, 11700, Neptune, NJ ,116656,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.4_L_,2-Owner,Personal Use,16
+121,2018,Volkswagen,Passat_SE, 21387, Ramsey, NJ ,30249,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+122,2019,Volkswagen,Jetta_S, 17895, Denville, NJ ,20089,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,7
+123,2017,Volkswagen,Golf, 29880, Somerville, NJ ,60039,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+124,2017,Volkswagen,Tiguan_Wolfsburg_Edition, 18927, Bayside, NY ,32436,Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+125,2018,Volkswagen,Tiguan_SE, 23079, Freehold, NJ ,36924,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+126,2019,Volkswagen,Atlas_SEL, 37110, Freehold, NJ ,19345,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+127,2019,Volkswagen,Jetta_SE, 18888, Bronx, NY ,19998,Accident Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,2
+128,2018,Volkswagen,Atlas_SE_w/Technology, 30000, Fairfield, CT ,37437,Minor Damage,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+129,2019,Volkswagen,Tiguan_SE, 24980, Freeport, NY ,7282,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+130,2017,Volkswagen,Jetta_GLI, 21588, Bronx, NY ,19714,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,7
+131,2019,Volkswagen,Tiguan_SEL, 24995, Rahway, NJ ,56115,Accident Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+132,2018,Volkswagen,Tiguan, 16499, Copiague, NY ,34243,No Accident or Damage Reported,SUV,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+133,2019,Volkswagen,Jetta_SEL, 21995, Woodside, NY ,10428,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,9
+134,2018,Volkswagen,Atlas_SEL, 35041, Woodside, NY ,26982,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,16
+135,2019,Volkswagen,Atlas_SE_w/Technology, 34700, Nanuet, NY ,38532,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+136,2018,Volkswagen,GTI, 27940, Englewood, NJ ,17472,No Accident or Damage Reported,Hatchback,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+137,2018,Volkswagen,Jetta_S, 15710, Saint James, NY ,46139,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,8
+138,2018,Volkswagen,Passat_S, 16588, Totowa, NJ ,63201,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+139,2018,Volkswagen,Atlas_S, 24459, Freehold, NJ ,36767,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,12
+140,2017,Volkswagen,Golf, 26995, Fairfield, CT ,70174,Accident/Minor Damage,Hatchback,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,20
+141,2019,Volkswagen,Jetta_SE, 19322, Warwick, NY ,40091,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.4_L_,2-Owner,Multiple Use,3
+142,2018,Volkswagen,Tiguan, 23191, Freehold, NJ ,36641,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+143,2017,Volkswagen,Jetta_S, 11494, Pt Pleasant, NJ ,75842,Minor Damage,Sedan,White_Engine:_4_Cyl_1.4_L_,2-Owner,Personal Use,13
+144,2019,Volkswagen,Atlas_S, 31229, New York, NY ,24183,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+145,2020,Volkswagen,Atlas_S, 32698, New York, NY ,15661,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+146,2021,Volkswagen,Jetta_SE, 22888, Bronx, NY ,5342,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,3
+147,2017,Volkswagen,Jetta_SE, 10995, Lakewood, NJ ,111785,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,2
+148,2021,Volkswagen,Atlas_S, 32986, Rockaway, NJ ,7193,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Lease Use,3
+149,2015,Volkswagen,GTI_S, 12995, Ramsey, NJ ,140939,No Accident or Damage Reported,Hatchback,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+150,2016,Volkswagen,Tiguan_SE, 18909, Jersey City, NJ ,32747,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+151,2019,Volkswagen,Arteon_SEL, 31788, North Plainfield, NJ ,980,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+152,2018,Volkswagen,Atlas_S, 29700, Nanuet, NY ,10020,No Accident or Damage Reported,SUV,Yellow_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+153,2018,Volkswagen,Tiguan, 18998, Edison, NJ ,33173,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+154,2020,Volkswagen,Atlas_S, 30695, New York, NY ,7376,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,5
+155,2017,Volkswagen,Jetta_S, 15997, Morristown, NJ ,39113,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,7
+156,2019,Volkswagen,Golf, 38995, Paramus, NJ ,36854,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+157,2018,Volkswagen,Tiguan_S, 20995, Rahway, NJ ,38521,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+158,2018,Volkswagen,Tiguan_S, 17475, Freehold, NJ ,57686,No Accident or Damage Reported,SUV,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+159,2017,Volkswagen,Jetta_S, 12990, Woodside, NY ,51412,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,8
+160,2017,Volkswagen,Jetta_SE, 15544, North Brunswick, NJ ,50202,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,2-Owner,Personal Use,5
+161,2016,Volkswagen,Jetta_Sport, 11990, Morristown, NJ ,101277,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,12
+162,2018,Volkswagen,Tiguan_SE, 22888, Bronx, NY ,40442,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+163,2017,Volkswagen,Jetta_SEL, 14502, Jersey City, NJ ,71366,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,9
+164,2018,Volkswagen,Tiguan, 16495, Jamaica, NY ,82915,Accident Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,18
+165,2017,Volkswagen,Jetta_GLI, 19995, Great Neck, NY ,46705,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,7
+166,2019,Volkswagen,Atlas_SE_w/Technology, 35688, New York, NY ,24482,Accident Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+167,2019,Volkswagen,Jetta_SE, 17795, Woodside, NY ,33520,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,3
+168,2018,Volkswagen,Jetta_SE, 17590, Tinton Falls, NJ ,27322,Accident/Minor Damage,Sedan,Red_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,12
+169,2020,Volkswagen,Passat_R-Line, 24450, Neptune, NJ ,19391,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,6
+170,2019,Volkswagen,Tiguan_S, 23400, Fairfield, CT ,22317,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+171,2021,Volkswagen,Tiguan_SE, 31488, Lakewood, NJ ,2515,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+172,2020,Volkswagen,Atlas_SE_w/Technology, 41000, White Plains, NY ,4803,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+173,2018,Volkswagen,Golf_S, 21000, White Plains, NY ,5708,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,3
+174,2019,Volkswagen,Jetta_GLI, 28400, Fairfield, CT ,9685,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+175,2019,Volkswagen,Jetta_GLI, 28400, Fairfield, CT ,9685,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+176,2021,Volkswagen,Jetta_SE, 24595, Bernardsville, NJ ,2981,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,2
+177,2009,Volkswagen,Eos_Luxury, 5995, Edison, NJ ,108358,Accident Reported,Convertible,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,26
+178,2018,Volkswagen,Atlas_SE, 29725, Rockaway, NJ ,40548,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Lease Use,14
+179,2020,Volkswagen,Jetta_S, 19495, Fair Lawn, NJ ,14607,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,4
+180,2019,Volkswagen,Jetta_GLI_S, 26950, Neptune, NJ ,3274,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+181,2019,Volkswagen,Jetta_GLI_S, 27800, Princeton, NJ ,4371,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+182,2018,Volkswagen,Passat_SE, 19999, West Islip, NY ,35079,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+183,2017,Volkswagen,Golf_S, 17190, Tinton Falls, NJ ,127050,No Accident or Damage Reported,Wagon,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,26
+184,2019,Volkswagen,Jetta_SE, 18999, Jersey City, NJ ,31125,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,7
+185,2016,Volkswagen,Passat_SE, 12000, Freehold, NJ ,109689,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,19
+186,2017,Volkswagen,Tiguan_S, 17785, Englewood, NJ ,49143,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+187,2018,Volkswagen,Atlas_SEL, 33699, Ramsey, NJ ,27113,Minor Damage,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+188,2018,Volkswagen,Jetta_S, 14970, Little Ferry, NJ ,27451,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,4
+189,2019,Volkswagen,Jetta_SE, 18900, North Plainfield, NJ ,38381,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+190,2019,Volkswagen,Jetta_S, 17995, Wall Township, NJ ,8388,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,6
+191,2018,Volkswagen,Tiguan_S, 18995, Jersey City, NJ ,17754,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+192,2018,Volkswagen,Tiguan_SEL, 25850, Jackson Heights, NY ,28492,Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+193,2017,Volkswagen,Jetta_SE, 9999, Eatontown, NJ ,138611,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,2-Owner,Personal Use,43
+194,2019,Volkswagen,Golf, 40590, New York, NY,15283,No Accident or Damage Reported,Hatchback,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+195,2018,Volkswagen,Atlas_SE_w/Technology, 29985, Yonkers, NY ,45327,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+196,2018,Volkswagen,Tiguan_SE, 24988, Sayville, NY ,36964,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+197,2018,Volkswagen,Tiguan_SE, 24988, Sayville, NY ,28930,No Accident or Damage Reported,SUV,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+198,2019,Volkswagen,Atlas_SE, 36988, Sayville, NY ,5204,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+199,2020,Volkswagen,Jetta_SE, 23988, Sayville, NY ,10053,No Accident or Damage Reported,Sedan,4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,3
+200,2020,Volkswagen,Jetta_GLI_Autobahn, 32998, Edison, NJ ,3916,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+201,2016,Volkswagen,Jetta_S, 15395, Bernardsville, NJ ,26584,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.4_L_,2-Owner,Personal Use,9
+202,2019,Volkswagen,Jetta_SE, 19288, Bronx, NY ,39801,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,8
+203,2019,Volkswagen,Jetta_SE, 20888, Bronx, NY ,17396,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,7
+204,2021,Volkswagen,Tiguan_SEL, 33888, Bronx, NY ,4554,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+205,2019,Volkswagen,Atlas_SEL, 37494, Trenton, NJ ,44041,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+206,2019,Volkswagen,Tiguan_SEL_Premium, 31995, Lyndhurst, NJ ,22457,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+207,2018,Volkswagen,Tiguan_S, 20998, West Islip, NY ,31619,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+208,2019,Volkswagen,Tiguan_SE, 24500, Neptune, NJ ,34881,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+209,2019,Volkswagen,Jetta_SE, 16993, West Islip, NY ,40411,Accident Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,3
+210,2020,Volkswagen,Tiguan_SE, 27695, Denville, NJ ,9173,Accident Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+211,2015,Volkswagen,GTI_SE, 17994, Pompton Plains, NJ ,74478,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,15
+212,2019,Volkswagen,Jetta_R-Line, 16510, Wantagh, NY ,25349,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,4
+213,2018,Volkswagen,Golf_S, 19950, Neptune, NJ ,21760,No Accident or Damage Reported,Hatchback,Blue_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,4
+214,2021,Volkswagen,Tiguan_S, 26500, Neptune, NJ ,11503,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+215,2019,Volkswagen,Golf, 40885, Hasbrouck Heights, NJ ,25910,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+216,2016,Volkswagen,GTI_SE, 22000, Woodside, NY ,52112,No Accident or Damage Reported,Hatchback,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+217,2018,Volkswagen,Tiguan_SEL, 23990, Pleasantville, NY,58980,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+218,2017,Volkswagen,Passat_SEL_Premium, 18698, Morristown, NJ ,29253,No Accident or Damage Reported,Sedan,Red_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,7
+219,2018,Volkswagen,Tiguan_SE, 24779, New York, NY ,24961,No Accident or Damage Reported,SUV,Orange_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+220,2018,Volkswagen,Atlas_SE_w/Technology, 33981, Flemington, NJ ,27827,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+221,2018,Volkswagen,Passat_GT, 23700, White Plains, NY ,45151,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+222,2018,Volkswagen,Passat_SE_w/Technology, 16420, Wantagh, NY ,33055,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,3
+223,2018,Volkswagen,GTI_Autobahn, 26995, Brooklyn, NY ,28901,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+224,2019,Volkswagen,Atlas_SE_w/Technology, 32995, Bridgewater, NJ ,17599,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,4
+225,2018,Volkswagen,Passat_S, 12598, Hollis, NY ,85715,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+226,2020,Volkswagen,Tiguan_S, 21995, Wall Township, NJ ,24331,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+227,2019,Volkswagen,Jetta_SEL_Premium, 22227, Bridgewater, NJ ,18117,Accident Reported,Sedan,Blue_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,8
+228,2021,Volkswagen,ID.4_Pro_S, 44995, Wall Township, NJ ,797,No Accident or Damage Reported,SUV,Blue_Engine:_Electric_7.2_L_,CARFAX 1-Owner,Personal Use,1
+229,2021,Volkswagen,Atlas_SEL_Premium, 42293, Huntington, NY ,4299,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+230,2019,Volkswagen,Jetta_SE, 19598, Bridgewater, NJ ,40928,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,10
+231,2021,Volkswagen,Atlas_SEL_R-Line, 42995, Bridgewater, NJ ,5722,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Lease Use,3
+232,2019,Volkswagen,Jetta_S, 15295, Woodside, NY ,5284,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,2
+233,2018,Volkswagen,Atlas_S, 28998, Roselle, NJ ,39751,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+234,2018,Volkswagen,Atlas_SE_w/Technology, 33331, Bridgewater, NJ ,21995,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+235,2019,Volkswagen,Atlas_SE_w/Technology, 37498, Edison, NJ ,23349,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+236,2021,Volkswagen,Atlas_SEL_Premium, 50295, Bernardsville, NJ ,8286,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+237,2018,Volkswagen,Tiguan_SE, 24988, Sayville, NY ,42624,No Accident or Damage Reported,SUV,Green_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+238,2018,Volkswagen,Tiguan_SE, 25988, Sayville, NY ,26962,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+239,2019,Volkswagen,Jetta_S, 19800, Tinton Falls, NJ ,35971,No Accident or Damage Reported,Sedan,Orange_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+240,2020,Volkswagen,Tiguan_SEL, 34565, Sayville, NY ,3581,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+241,2018,Volkswagen,Atlas_SE_w/Technology, 33712, Tinton Falls, NJ ,31996,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+242,2019,Volkswagen,Jetta_S, 20988, Sayville, NY ,6283,No Accident or Damage Reported,Sedan,4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,4
+243,2017,Volkswagen,Passat_R-Line, 16900, Verona, NJ ,51180,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,7
+244,2015,Volkswagen,Jetta, 9559, Brick, NJ ,100079,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,12
+245,2017,Volkswagen,Golf_SE, 20100, Nanuet, NY ,46240,Damage Reported,Wagon,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,0
+246,2019,Volkswagen,Jetta_R-Line, 22188, Bronx, NY ,12606,No Accident or Damage Reported,Sedan,4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,6
+247,2020,Volkswagen,Jetta_SE, 23888, Bronx, NY ,1774,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,2
+248,2019,Volkswagen,Tiguan_SE, 27388, Bronx, NY ,13056,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+249,2018,Volkswagen,Jetta_GLI, 20990, Jamaica, NY ,21386,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+250,2017,Volkswagen,GTI_SE, 21398, Darien, CT ,75211,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+251,2011,Volkswagen,Tiguan_SE, 8495, Brooklyn, NY ,127687,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+252,2019,Volkswagen,Jetta_SEL, 23800, Princeton, NJ ,17522,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,3
+253,2019,Volkswagen,Jetta_SEL, 21898, Great Neck, NY ,17376,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,3
+254,2019,Volkswagen,Jetta_S, 16509, West Islip, NY ,26337,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,6
+255,2018,Volkswagen,Tiguan_SEL_Premium, 27735, West Islip, NY ,36167,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+256,2019,Volkswagen,Jetta, 14250, Woodside, NY ,39441,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,10
+257,2017,Volkswagen,Tiguan, 16910, Haskell, NJ ,45114,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,4
+258,2018,Volkswagen,Jetta_S, 16989, Freehold, NJ ,34646,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,2-Owner,Personal Use,13
+259,2017,Volkswagen,Golf_SE, 21785, Inwood, NY ,26839,Minor Damage,Wagon,Red_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,5
+260,2016,Volkswagen,Passat_S, 9691, Paterson, NJ ,116400,Minor Damage,Sedan,Blue_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,14
+261,2012,Volkswagen,Jetta_SE, 5995, Edison, NJ ,153781,Accident Reported,Sedan,Black_Engine:_5_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,8
+262,2017,Volkswagen,GTI_SE, 18295, Elizabeth, NJ ,100521,Accident Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+263,2018,Volkswagen,GTI_SE, 25995, Lodi, NJ ,10809,Accident Reported,Hatchback,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+264,2017,Volkswagen,Jetta_SE, 15495, Bridgewater, NJ ,75522,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,8
+265,2010,Volkswagen,Passat_Komfort, 6495, Great Neck, NY ,97974,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,29
+266,2018,Volkswagen,Jetta_SE, 18456, Bridgewater, NJ ,35811,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,6
+267,2019,Volkswagen,Jetta_S, 18906, Rockaway, NJ ,30721,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,9
+268,2017,Volkswagen,Tiguan_Sport, 18368, Elizabeth, NJ ,93135,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+269,2018,Volkswagen,Passat_R-Line, 19793, Bayside, NY ,30650,Accident Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+270,2019,Volkswagen,Jetta_S, 17498, Roselle, NJ ,46282,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,7
+271,2018,Volkswagen,Atlas_SE, 31998, Roselle, NJ ,37343,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+272,2019,Volkswagen,Atlas_SE_w/Technology, 39998, Roselle, NJ ,28028,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+273,2018,Volkswagen,Tiguan_SE, 22498, Edison, NJ ,64013,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+274,2019,Volkswagen,Jetta_S, 18901, Bayside, NY ,20550,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,9
+275,2018,Volkswagen,Atlas_SE_w/Technology, 33998, Edison, NJ ,38512,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+276,2019,Volkswagen,Jetta_S, 18901, Bayside, NY ,20550,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,9
+277,2019,Volkswagen,Atlas_SEL, 42895, Bernardsville, NJ ,20519,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+278,2021,Volkswagen,Tiguan_SE, 32995, Bernardsville, NJ ,4615,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+279,2016,Volkswagen,GTI_SE, 19000, White Plains, NY ,72238,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+280,2017,Volkswagen,Jetta_GLI, 18562, Bayside, NY ,47099,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,11
+281,2012,Volkswagen,Jetta_GLI_Autobahn, 9995, West Nyack, NY ,120666,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,29
+282,2013,Volkswagen,Golf, 13888, Bronx, NY ,40068,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,24
+283,2018,Volkswagen,Atlas_SE_w/Technology, 28814, Tenafly, NJ ,55371,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+284,2019,Volkswagen,Jetta_S, 18921, Rockaway, NJ ,36780,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,13
+285,2019,Volkswagen,Tiguan_SE, 26922, Springfield, NJ ,27339,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,8
+286,2019,Volkswagen,Golf, 36920, Massapequa Park, NY ,24779,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,7
+287,2014,Volkswagen,Passat_SEL_Premium, 11991, Bohemia, NY ,100354,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,21
+288,2021,Volkswagen,Arteon_SEL_Premium_R-Line, 42687, Ramsey, NJ ,4650,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+289,2018,Volkswagen,Jetta_SE_Sport, 19995, Sussex, NJ ,41743,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,12
+290,2015,Volkswagen,Passat_S, 10750, Shrewsbury, NJ ,87637,Accident/Minor Damage,Sedan,Blue_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,8
+291,2019,Volkswagen,Golf_S, 19498, Ramsey, NJ ,39023,No Accident or Damage Reported,Wagon,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Rental Use,5
+292,2016,Volkswagen,Touareg_Luxury, 20950, Neptune, NJ ,83231,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,25
+293,2013,Volkswagen,Tiguan_SE, 9990, Sayreville, NJ ,120866,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,17
+294,2011,Volkswagen,Tiguan_SE, 9499, Ramsey, NJ ,98700,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,32
+295,2020,Volkswagen,Jetta_S, 22104, Bayside, NY ,2229,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+296,2019,Volkswagen,Jetta_SEL_Premium, 24213, Bayside, NY ,18769,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,7
+297,2018,Volkswagen,Atlas_SEL, 35000, Neptune, NJ ,29300,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+298,2019,Volkswagen,Jetta_GLI_S, 23495, Wall Township, NJ ,31936,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,16
+299,2017,Volkswagen,Passat_SE, 16990, Jamaica, NY ,38502,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,5
+300,2018,Volkswagen,Tiguan_SE, 24387, Ramsey, NJ ,27457,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+301,2019,Volkswagen,Jetta_S, 15795, Woodside, NY ,7283,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,1
+302,2019,Volkswagen,Atlas_SE_w/Technology, 28900, Nanuet, NY ,65224,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,4
+303,2020,Volkswagen,GTI_S, 25995, Jamaica, NY ,5390,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+304,2008,Volkswagen,Rabbit_S, 5495, Commack, NY ,105850,Accident Reported,Hatchback,Blue_Engine:_5_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,19
+305,2019,Volkswagen,Jetta_SEL, 22687, Ramsey, NJ ,25857,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+306,2012,Volkswagen,GTI, 6800, Newark, NJ ,159140,Damage Reported,Hatchback,Gray_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,27
+307,2019,Volkswagen,Jetta_S, 17044, Lynbrook, NY ,17954,No Accident or Damage Reported,Sedan,Orange_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,20
+308,2008,Volkswagen,Passat_Lux, 4998, New Windsor, NY ,133147,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,31
+309,2019,Volkswagen,Jetta_S, 18495, Lyndhurst, NJ ,24713,Minor Damage,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,8
+310,2018,Volkswagen,Atlas_SE_w/Technology, 28980, Jamaica, NY ,32595,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+311,2012,Volkswagen,Jetta_SE_Convenience, 6995, Asbury Park, NJ ,144201,No Accident or Damage Reported,Sedan,Gray_Engine:_5_Cyl_2.5_L_,2-Owner,Personal Use,13
+312,2017,Volkswagen,Jetta_SE, 15898, New York, NY ,46975,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,6
+313,2018,Volkswagen,Tiguan_SE, 23900, White Plains, NY ,21316,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+314,2017,Volkswagen,Jetta_GLI, 18785, Inwood, NY ,55911,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,13
+315,2021,Volkswagen,Tiguan_S, 26500, Neptune, NJ ,7625,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Vehicle Use,2
+316,2020,Volkswagen,Passat_R-Line, 25999, New York, NY ,2704,Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+317,2018,Volkswagen,Jetta_SE, 17378, Jamaica, NY ,26466,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,4
+318,2017,Volkswagen,Jetta_SE, 16530, Eatontown, NJ ,51165,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,4
+319,2014,Volkswagen,Jetta, 8997, Brooklyn, NY ,76315,Accident Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,7
+320,2018,Volkswagen,Passat_SE, 22535, Bayside, NY ,9060,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+321,2017,Volkswagen,Golf_S, 20291, Bayside, NY ,24154,No Accident or Damage Reported,Hatchback,Blue_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,16
+322,2018,Volkswagen,Passat_SE, 21536, Bayside, NY ,32774,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+323,2019,Volkswagen,Jetta_R-Line, 22277, Bayside, NY ,13719,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,3
+324,2018,Volkswagen,Tiguan_SEL, 28529, Bayside, NY ,32928,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+325,2018,Volkswagen,Atlas_SE, 32295, Bayside, NY ,31128,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+326,2017,Volkswagen,Tiguan_Wolfsburg_Edition, 18779, Bay Shore, NY ,75514,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+327,2018,Volkswagen,Tiguan_SE, 20995, Wall Township, NJ ,26927,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+328,2020,Volkswagen,Tiguan_SE, 25495, Wall Township, NJ ,7272,Branded Title,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+329,2017,Volkswagen,Tiguan_Wolfsburg_Edition, 18795, Lakewood, NJ ,43856,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,0
+330,2019,Volkswagen,Jetta_S, 14398, Hollis, NY ,63630,Major Damage,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,1
+331,2019,Volkswagen,Atlas_SE_w/Technology_R-Line, 34995, Wall Township, NJ ,5978,Branded Title,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+332,2017,Volkswagen,Passat_R-Line, 16980, Massapequa Park, NY ,25101,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,5
+333,2018,Volkswagen,Passat_SE, 17994, Butler, NJ ,33071,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+334,2019,Volkswagen,Jetta_S, 16970, Little Ferry, NJ ,35830,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,9
+335,2020,Volkswagen,Tiguan_SE, 27495, Wall Township, NJ ,8877,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+336,2018,Volkswagen,Tiguan_SE, 25695, Woodside, NY ,29697,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+337,2018,Volkswagen,Tiguan_S, 21995, Woodside, NY ,32415,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+338,2021,Volkswagen,Atlas_SEL_R-Line, 49789, New York, NY ,2048,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+339,2018,Volkswagen,Tiguan_SE, 26995, Woodside, NY ,14381,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+340,2019,Volkswagen,Jetta_S, 18687, Ramsey, NJ ,32291,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,8
+341,2019,Volkswagen,Atlas_SEL, 40950, Nanuet, NY ,19409,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+342,2018,Volkswagen,Atlas_SE_w/Technology, 33487, Ramsey, NJ ,30260,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+343,2018,Volkswagen,Atlas_SEL, 35687, Ramsey, NJ ,31922,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+344,2013,Volkswagen,Jetta_SE, 5999, West Milford, NJ ,193177,No Accident or Damage Reported,Sedan,Silver_Engine:_5_Cyl_2.5_L_,2-Owner,Personal Use,15
+345,2019,Volkswagen,GTI_SE, 35070, Sayville, NY ,3190,No Accident or Damage Reported,Hatchback,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+346,2017,Volkswagen,Jetta_SEL, 9900, Amityville, NY ,188253,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,12
+347,2018,Volkswagen,Passat_R-Line, 17989, West Islip, NY ,46712,Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+348,2014,Volkswagen,Jetta_S, 10000, Nanuet, NY ,66328,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,12
+349,2018,Volkswagen,Passat_R-Line, 15995, Edison, NJ ,95487,Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+350,2018,Volkswagen,Passat_R-Line, 15995, Edison, NJ ,95487,Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+351,2019,Volkswagen,Tiguan_SE, 26585, New York, NY ,20438,Minor Damage,SUV,Orange_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+352,2015,Volkswagen,Jetta_SE, 13990, Fairfield, CT ,50694,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,8
+353,2018,Volkswagen,Tiguan_S, 21688, New York, NY ,13598,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+354,2018,Volkswagen,Atlas_SEL, 34900, White Plains, NY ,26530,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+355,2018,Volkswagen,Atlas_SEL, 32000, White Plains, NY ,37402,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,11
+356,2019,Volkswagen,Tiguan_SE, 25500, White Plains, NY ,27158,No Accident or Damage Reported,SUV,Green_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+357,2019,Volkswagen,Jetta_S, 19995, Lyndhurst, NJ ,8113,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,3
+358,2018,Volkswagen,Jetta_Wolfsburg_Edition, 15985, Jersey City, NJ ,48346,Minor Damage,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,13
+359,2019,Volkswagen,Golf_SEL, 29600, Neptune, NJ ,21558,No Accident or Damage Reported,Wagon,White_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,8
+360,2018,Volkswagen,Golf_S, 19999, New York, NY ,18140,No Accident or Damage Reported,Wagon,Blue_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,5
+361,2019,Volkswagen,Jetta_S, 17779, New York, NY ,36219,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,8
+362,2019,Volkswagen,Golf_SE, 25448, New York, NY ,3738,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,4
+363,2016,Volkswagen,Jetta_S, 12295, Bridgewater, NJ ,86553,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.4_L_,2-Owner,Multiple Use,7
+364,2019,Volkswagen,Jetta_S, 15990, Jamaica, NY ,19820,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,2-Owner,Personal Use,5
+365,2019,Volkswagen,Atlas_S, 33500, Princeton, NJ ,16816,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+366,2019,Volkswagen,Tiguan_SEL_R-Line, 32750, Huntington Station, NY ,21286,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,16
+367,2012,Volkswagen,Passat_SE, 6990, Lakewood, NJ ,114545,No Accident or Damage Reported,Sedan,Blue_Engine:_5_Cyl_2.5_L_,3+ Owners,Personal Use,25
+368,2019,Volkswagen,Tiguan_SE, 26500, Florham Park, NJ ,31054,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,7
+369,2019,Volkswagen,Jetta_S, 13995, Brooklyn, NY ,16250,Minor Damage,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,3
+370,2018,Volkswagen,Passat_S, 16888, Butler, NJ ,30269,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+371,2020,Volkswagen,Jetta_SEL, 21995, Wall Township, NJ ,6343,Branded Title,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,4
+372,2018,Volkswagen,Tiguan_SEL_Premium, 25995, Wall Township, NJ ,22107,Branded Title,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+373,2018,Volkswagen,Atlas_SEL_Premium, 34995, Wall Township, NJ ,22187,Branded Title,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,19
+374,2018,Volkswagen,Atlas_SE_w/Technology, 27995, Wall Township, NJ ,33407,Branded Title,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,16
+375,2018,Volkswagen,Tiguan_SEL_Premium, 25995, Wall Township, NJ ,22107,Branded Title,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+376,2018,Volkswagen,Atlas_SEL_Premium, 34995, Wall Township, NJ ,22187,Branded Title,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,19
+377,2018,Volkswagen,Atlas_SE_w/Technology, 27995, Wall Township, NJ ,33407,Branded Title,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,16
+378,2020,Volkswagen,Passat_R-Line, 24995, Wall Township, NJ ,2653,Branded Title,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+379,2019,Volkswagen,Atlas_SE_w/Technology, 29995, Wall Township, NJ ,9619,Branded Title,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+380,2019,Volkswagen,Jetta_SE, 17990, Jamaica, NY ,36242,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,8
+381,2016,Volkswagen,CC_Sport, 12495, Jamaica, NY ,97162,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+382,2014,Volkswagen,Jetta_GLI_Edition_30, 9995, Garfield, NJ ,135636,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,42
+383,2019,Volkswagen,Tiguan_SE, 25495, Wall Township, NJ ,35031,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+384,2018,Volkswagen,Tiguan_SE, 23499, Lodi, NJ ,26994,No Accident or Damage Reported,SUV,Orange_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+385,2016,Volkswagen,Golf_SE, 16992, Haskell, NJ ,35430,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,13
+386,2010,Volkswagen,Jetta_SEL, 6995, New Windsor, NY ,81840,Damage Reported,Sedan,Gray_Engine:_5_Cyl_2.5_L_,2-Owner,Personal Use,13
+387,2018,Volkswagen,Passat_S, 19995, Bernardsville, NJ ,25270,Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+388,2018,Volkswagen,Passat_S, 17888, Bronx, NY ,45174,Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+389,2019,Volkswagen,Golf_S, 27995, Bernardsville, NJ ,12056,No Accident or Damage Reported,Wagon,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Lease Use,2
+390,2019,Volkswagen,Tiguan_SE, 27288, Bronx, NY ,13835,Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+391,2021,Volkswagen,Passat_R-Line, 31995, Bernardsville, NJ ,3289,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+392,2019,Volkswagen,Golf_SE, 25988, Sayville, NY ,6840,No Accident or Damage Reported,Hatchback,4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,3
+393,2019,Volkswagen,Arteon_SE, 34988, Sayville, NY ,4968,No Accident or Damage Reported,Sedan,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+394,2021,Volkswagen,Atlas_SE_w/Technology, 42988, Sayville, NY ,9073,No Accident or Damage Reported,SUV,6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+395,2018,Volkswagen,Atlas_SEL_Premium, 43997, Roselle, NJ ,25514,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+396,2019,Volkswagen,Jetta_S, 14795, Woodside, NY ,51782,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Rental Use,1
+397,2018,Volkswagen,Atlas_SE, 29872, Jersey City, NJ ,25654,Accident Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+398,2018,Volkswagen,Passat_R-Line, 18495, Fair Lawn, NJ ,50000,Accident/Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+399,2019,Volkswagen,Jetta_R-Line, 20000, Neptune, NJ ,36399,Accident Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,7
+400,2018,Volkswagen,Tiguan_SE, 25000, Princeton, NJ ,42810,Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+401,2019,Volkswagen,Jetta_SEL, 21684, Great Neck, NY ,12091,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,2-Owner,Personal Use,4
+402,2009,Volkswagen,Jetta, 4999, Lakewood, NJ ,111757,No Accident or Damage Reported,Sedan,Black_Engine:_5_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,35
+403,2018,Volkswagen,Tiguan_S, 20994, Fair Lawn, NJ ,36905,Accident Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+404,2017,Volkswagen,Tiguan_Wolfsburg_Edition, 17282, New Windsor, NY ,94542,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,11
+405,2019,Volkswagen,Jetta_SEL, 19995, South Hackensack, NJ ,36969,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,2-Owner,Personal Use,5
+406,2019,Volkswagen,Jetta_S, 16997, West Islip, NY ,16940,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,3
+407,2021,Volkswagen,Tiguan_SEL, 33498, West Islip, NY ,11673,Accident Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+408,2013,Volkswagen,Beetle, 9999, Union, NJ ,99804,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,26
+409,2013,Volkswagen,Tiguan, 9499, Little Ferry, NJ ,94249,Accident Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,20
+410,2020,Volkswagen,Jetta_R-Line, 23988, Sayville, NY ,9059,No Accident or Damage Reported,Sedan,4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,1
+411,2018,Volkswagen,Atlas_Launch_Edition, 25995, Great Neck, NY ,42261,Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,4
+412,2019,Volkswagen,Jetta_S, 18721, Great Neck, NY ,7014,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,6
+413,2019,Volkswagen,Jetta_R-Line, 18988, West Islip, NY ,30122,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,7
+414,2018,Volkswagen,GTI_SE, 30500, Princeton, NJ ,26609,No Accident or Damage Reported,Hatchback,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+415,2019,Volkswagen,Jetta_SE, 17898, West Islip, NY ,48236,No Accident or Damage Reported,Sedan,4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,8
+416,2019,Volkswagen,Jetta_SE, 17950, Neptune, NJ ,72711,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,19
+417,2012,Volkswagen,Golf, 18995, SADDLE BROOK, NJ ,121660,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,17
+418,2017,Volkswagen,Beetle_S, 18623, West Islip, NY ,36530,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,4
+419,2017,Volkswagen,Golf_S, 19454, Greenwich, CT ,39809,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,10
+420,2018,Volkswagen,Tiguan_SE, 24889, New York, NY ,40392,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+421,2018,Volkswagen,Tiguan, 21984, Bridgewater, NJ ,15018,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+422,2020,Volkswagen,Tiguan_S, 25512, New York, NY ,2061,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+423,2018,Volkswagen,Tiguan, 20589, New York, NY ,19221,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+424,2021,Volkswagen,Tiguan_SE, 32400, Summit, NJ ,2824,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+425,2017,Volkswagen,Passat_R-Line, 17504, North Brunswick, NJ ,45526,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,3+ Owners,Multiple Use,5
+426,2018,Volkswagen,Tiguan, 20589, New York, NY ,19221,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+427,2017,Volkswagen,Golf_S, 14355, Elizabeth, NJ ,99158,Accident/Minor Damage,Wagon,White_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,3
+428,2014,Volkswagen,Beetle_R-Line, 18387, Ramsey, NJ ,52113,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+429,2020,Volkswagen,Tiguan, 26250, Freehold, NJ ,10210,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,7
+430,2016,Volkswagen,Golf_S, 14995, Lindenhurst, NY ,55514,Accident/Minor Damage,Hatchback,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,16
+431,2018,Volkswagen,Passat_SE, 19495, Edison, NJ ,35038,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+432,2019,Volkswagen,Tiguan_S, 20995, Commack, NY ,38058,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+433,2019,Volkswagen,Atlas_SE, 33499, Mountain Lakes, NJ ,25407,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+434,2017,Volkswagen,Tiguan, 18895, East Windsor, NJ ,22852,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+435,2018,Volkswagen,Tiguan_SEL, 29998, Edison, NJ ,27481,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+436,2012,Volkswagen,Beetle, 11900, Nanuet, NY ,82957,No Accident or Damage Reported,Hatchback,Red_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,15
+437,2018,Volkswagen,Tiguan_SE, 26611, Tinton Falls, NJ ,40943,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+438,2020,Volkswagen,Passat_SE, 25988, Sayville, NY ,3493,No Accident or Damage Reported,Sedan,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+439,2018,Volkswagen,Tiguan_S, 22988, Sayville, NY ,28741,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+440,2018,Volkswagen,Tiguan_SE, 24988, Sayville, NY ,42258,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,16
+441,2019,Volkswagen,Golf_SEL, 34988, Sayville, NY ,9214,No Accident or Damage Reported,Wagon,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,2
+442,2019,Volkswagen,Golf_S, 28075, Sayville, NY ,5365,No Accident or Damage Reported,Wagon,4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,2
+443,2018,Volkswagen,Atlas_SEL, 39988, Sayville, NY ,14675,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+444,2020,Volkswagen,Passat_SE, 26488, Sayville, NY ,1381,No Accident or Damage Reported,Sedan,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+445,2018,Volkswagen,Atlas_SE_w/Technology, 38757, Summit, NJ ,26949,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+446,2019,Volkswagen,Atlas_S, 31888, Bronx, NY ,19738,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+447,2019,Volkswagen,Atlas_SE_w/Technology, 37888, Bronx, NY ,18231,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+448,2019,Volkswagen,Jetta_S, 17888, Bronx, NY ,22557,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,6
+449,2018,Volkswagen,Jetta_S, 12990, Valley Stream, NY ,63040,Minor Damage,Sedan,Red_Engine:_4_Cyl_1.4_L_,2-Owner,Personal Use,4
+450,2018,Volkswagen,Atlas_SE_w/Technology, 31139, Jersey City, NJ ,46080,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+451,2018,Volkswagen,Tiguan, 21500, Bronx, NY ,15442,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+452,2018,Volkswagen,Tiguan_SE, 25999, Fair Lawn, NJ ,27096,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+453,2019,Volkswagen,Tiguan_SE, 28789, Union, NJ ,22037,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+454,2018,Volkswagen,Atlas_SE_w/Technology, 31724, Great Neck, NY ,35389,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+455,2018,Volkswagen,Tiguan, 20995, New Windsor, NY ,29557,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+456,2019,Volkswagen,Jetta_SE, 19999, Fair Lawn, NJ ,29540,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,7
+457,2019,Volkswagen,Atlas_SE_w/Technology, 41000, Princeton, NJ ,27765,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+458,2018,Volkswagen,Passat_SE, 21495, Fair Lawn, NJ ,29376,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+459,2019,Volkswagen,Jetta_S, 17994, Fair Lawn, NJ ,36766,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,7
+460,2019,Volkswagen,Tiguan_SE, 26999, Fair Lawn, NJ ,39119,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+461,2017,Volkswagen,Passat_SE, 16989, West Islip, NY ,60835,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,14
+462,2015,Volkswagen,Jetta_S, 13300, Mahwah, NJ ,55362,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+463,2018,Volkswagen,Tiguan_SE, 25900, Princeton, NJ ,38516,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+464,2019,Volkswagen,Tiguan_SE, 28599, Fair Lawn, NJ ,9315,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+465,2013,Volkswagen,GTI, 12995, SADDLE BROOK, NJ ,98346,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+466,2019,Volkswagen,Jetta_SE, 21500, Fair Lawn, NJ ,13650,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,3
+467,2019,Volkswagen,GTI_SE, 31600, Princeton, NJ ,10383,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+468,2019,Volkswagen,Atlas_SE, 37000, Huntington Station, NY ,25528,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+469,2019,Volkswagen,Atlas_SE, 37850, Huntington Station, NY ,18085,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+470,2015,Volkswagen,Golf_S, 11959, Avenel, NJ ,78698,Damage Reported,Hatchback,Blue_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,1
+471,2016,Volkswagen,CC_Trend, 13942, Carlstadt, NJ ,53618,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,3
+472,2013,Volkswagen,Jetta_S, 8495, Keyport, NJ ,89140,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,22
+473,2020,Volkswagen,Tiguan_SE, 26888, Totowa, NJ ,24984,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,4
+474,2007,Volkswagen,Jetta_Wolfsburg_Edition, 5295, Lakewood, NJ ,124722,No Accident or Damage Reported,Sedan,Silver_Engine:_5_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,6
+475,2018,Volkswagen,Golf, 42095, Stamford, CT ,16546,No Accident or Damage Reported,Hatchback,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+476,2019,Volkswagen,Tiguan_SE, 27024, Bridgewater, NJ ,6467,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+477,2017,Volkswagen,Golf, 29988, Lindenhurst, NY ,43704,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,15
+478,2018,Volkswagen,Tiguan_S, 20490, Bronx, NY ,31406,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+479,2012,Volkswagen,CC_Sport, 9999, Lindenhurst, NY ,73744,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+480,2017,Volkswagen,Golf_Wolfsburg_Edition, 20495, Lakewood, NJ ,18684,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,9
+481,2018,Volkswagen,Tiguan_SE, 24777, Lodi, NJ ,28264,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+482,2018,Volkswagen,Golf, 39650, Tenafly, NJ ,20798,No Accident or Damage Reported,Hatchback,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+483,2012,Volkswagen,Jetta_SE, 8225, Tinton Falls, NJ ,76829,Accident Reported,Sedan,White_Engine:_5_Cyl_2.5_L_,3+ Owners,Personal Use,13
+484,2018,Volkswagen,Atlas_SE_w/Technology, 28597, Massapequa, NY ,46279,Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,21
+485,2014,Volkswagen,Jetta_SE, 5999, Brooklyn, NY ,131689,Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,22
+486,2017,Volkswagen,Jetta_S, 14542, Huntington, NY ,16167,Minor Damage,Sedan,Black_Engine:_4_Cyl_1.4_L_,2-Owner,Personal Use,3
+487,2014,Volkswagen,Jetta, 8995, Lake Hopatcong, NJ ,89329,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,20
+488,2013,Volkswagen,Passat_SEL_Premium, 9995, Wall Township, NJ ,71701,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,11
+489,2008,Volkswagen,GTI, 6995, Hasbrouck Heights, NJ ,126862,Accident Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,23
+490,2019,Volkswagen,Jetta_S, 19997, Roselle, NJ ,11482,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,4
+491,2019,Volkswagen,Jetta_S, 21400, Roselle, NJ ,17704,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+492,2014,Volkswagen,Jetta_S, 7995, Point Pleasant Boro, NJ ,136943,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,11
+493,2018,Volkswagen,Tiguan_SEL, 26998, Edison, NJ ,39998,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+494,2014,Volkswagen,Passat_SE, 10900, Atlantic Highlands, NJ ,67645,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,16
+495,2016,Volkswagen,Passat_SE, 16400, Nanuet, NY ,57348,Minor Damage,Sedan,White_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,9
+496,2019,Volkswagen,Jetta_SEL, 25998, Edison, NJ ,30492,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,11
+497,2019,Volkswagen,Jetta_SEL, 25998, Edison, NJ ,29412,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,10
+498,2016,Volkswagen,Passat_SE, 15997, Shrewsbury, NJ ,116615,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,13
+499,2018,Volkswagen,Passat_R-Line, 16990, Great Neck, NY ,58913,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,21
+500,2021,Volkswagen,Tiguan_SE, 32995, Bernardsville, NJ ,17766,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+501,2019,Volkswagen,Golf, 30895, Bernardsville, NJ ,31391,No Accident or Damage Reported,Wagon,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,7
+502,2016,Volkswagen,Jetta_GLI_SE, 17995, Woodside, NY ,63513,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+503,2018,Volkswagen,Atlas_SE, 30684, Tinton Falls, NJ ,53629,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,11
+504,2018,Volkswagen,Golf_S, 22687, Ramsey, NJ ,139,No Accident or Damage Reported,Hatchback,Red_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Lease Use,3
+505,2019,Volkswagen,Jetta_S, 18800, Nanuet, NY ,29905,Minor Damage,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,10
+506,2016,Volkswagen,Passat_SE, 15900, Nanuet, NY ,65666,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,11
+507,2016,Volkswagen,Beetle_Denim, 28590, New York, NY,3305,No Accident or Damage Reported,Convertible,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,7
+508,2012,Volkswagen,Beetle_Base, 9475, Warwick, NY ,112655,Accident Reported,Hatchback,Brown_Engine:_5_Cyl_2.5_L_,2-Owner,Personal Use,17
+509,2019,Volkswagen,Tiguan_SEL_Premium, 32489, Trenton, NJ ,27392,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,9
+510,2021,Volkswagen,ID.4_First_Edition, 48995, Woodside, NY ,3435,No Accident or Damage Reported,SUV,Blue_Engine:_Electric__,CARFAX 1-Owner,Personal Use,0
+511,2019,Volkswagen,Jetta_R-Line, 18978, Flemington, NJ ,28752,Minor Damage,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,7
+512,2019,Volkswagen,Atlas_SEL, 38992, Springfield, NJ ,26869,Minor Damage,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+513,2020,Volkswagen,Passat_SEL, 27687, Ramsey, NJ ,10277,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,3
+514,2020,Volkswagen,GTI_SE, 28995, Wall Township, NJ ,540,Branded Title,Hatchback,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+515,2018,Volkswagen,Jetta_SE, 16980, Forest Hills, NY ,29980,Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,7
+516,2020,Volkswagen,GTI_SE, 32987, Ramsey, NJ ,5100,No Accident or Damage Reported,Hatchback,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+517,2019,Volkswagen,Beetle_Final_Edition_SE, 39987, Ramsey, NJ ,14489,No Accident or Damage Reported,Convertible,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+518,2017,Volkswagen,GTI_S, 24987, Ramsey, NJ ,30885,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+519,2014,Volkswagen,Jetta_SE, 5950, Little Ferry, NJ ,125072,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,6
+520,2019,Volkswagen,Tiguan_SE, 24314, Freehold, NJ ,23143,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+521,2019,Volkswagen,Jetta, 16180, Freehold, NJ ,22234,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+522,2016,Volkswagen,CC_Sport, 15942, Carlstadt, NJ ,51476,Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,4
+523,2015,Volkswagen,Jetta_SE_w/Connectivity, 9901, Paterson, NJ ,86474,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,2-Owner,Multiple Use,1
+524,2020,Volkswagen,Jetta_R-Line, 22995, Massapequa, NY ,1481,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+525,2017,Volkswagen,Jetta_S, 14792, Bayside, NY ,50995,Minor Damage,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,2
+526,2013,Volkswagen,Jetta, 5499, S Hackensack, NJ ,105510,Accident Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,11
+527,2017,Volkswagen,Tiguan_Wolfsburg_Edition, 16995, Wall Township, NJ ,29139,Branded Title,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,5
+528,2009,Volkswagen,New_Beetle_S, 4999, Lakewood, NJ ,121928,No Accident or Damage Reported,Hatchback,Black_Engine:_5_Cyl_2.5_L_,3+ Owners,Multiple Use,15
+529,2017,Volkswagen,Jetta_SE, 15990, New York, NY,77309,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,2
+530,2017,Volkswagen,Jetta_SE, 17995, Lakewood, NJ ,39328,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+531,2018,Volkswagen,Tiguan_S, 22167, Englewood, NJ ,23416,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+532,2019,Volkswagen,Jetta_SEL, 21683, Brooklyn, NY ,25635,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,6
+533,2018,Volkswagen,Tiguan_SE, 25995, Bridgewater, NJ ,51865,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+534,2021,Volkswagen,Tiguan_S, 28295, Bridgewater, NJ ,951,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+535,2019,Volkswagen,Jetta_S, 18973, Bayside, NY ,18769,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,15
+536,2020,Volkswagen,Jetta_R-Line, 23284, Bayside, NY ,18839,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,7
+537,2019,Volkswagen,GTI_S, 26124, Lynbrook, NY ,1316,Branded Title,Hatchback,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+538,2018,Volkswagen,Atlas_S, 27990, Valley Stream, NY ,12611,Minor Damage,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+539,2019,Volkswagen,Tiguan_SE, 25995, Wall Township, NJ ,4162,Branded Title,SUV,Green_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+540,2014,Volkswagen,Jetta_Base, 9290, Brooklyn, NY ,73607,Accident/Minor Damage,Sedan,Red_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,9
+541,2017,Volkswagen,Jetta_SE, 15000, Old Bridge, NJ ,63006,Minor Damage,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,3
+542,2021,Volkswagen,Atlas_SEL_Premium, 57886, Jamaica, NY ,3529,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+543,2019,Volkswagen,Jetta_S, 17995, Woodside, NY ,13871,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,1
+544,2018,Volkswagen,Jetta_Wolfsburg_Edition, 17995, Woodside, NY ,11068,Accident Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,4
+545,2016,Volkswagen,Jetta_SE, 15995, Flemington, NJ ,63037,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,2-Owner,Personal Use,6
+546,2019,Volkswagen,Tiguan_SEL, 31995, Garwood, NJ ,17740,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+547,2019,Volkswagen,Jetta_S, 16495, Bronx, NY ,34852,No Accident or Damage Reported,Sedan,Orange_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,14
+548,2018,Volkswagen,Passat_GT, 22990, Jamaica, NY ,26492,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+549,2019,Volkswagen,Jetta_R-Line, 19795, Bronx, NY ,19762,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+550,2018,Volkswagen,Passat_R-Line, 19981, Woodside, NY ,26910,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+551,2017,Volkswagen,Golf, 29000, Nanuet, NY ,88694,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,7
+552,2017,Volkswagen,Tiguan, 18900, Nanuet, NY ,54945,Accident/Minor Damage,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+553,2017,Volkswagen,Golf_Wolfsburg_Edition, 18995, Nyack, NY ,33254,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Multiple Use,2
+554,2019,Volkswagen,Jetta_SE, 20488, Pompton Plains, NJ ,46213,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+555,2018,Volkswagen,Golf, 39987, Ramsey, NJ ,25133,No Accident or Damage Reported,Hatchback,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+556,2013,Volkswagen,GTI_Convenience, 10995, Yonkers, NY ,101465,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,16
+557,2018,Volkswagen,Atlas_SE, 26995, Woodside, NY ,48867,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,0
+558,2016,Volkswagen,GTI, 21995, Asbury Park, NJ ,63300,Minor Damage,Hatchback,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,17
+559,2016,Volkswagen,GTI_S, 19981, Flemington, NJ ,74607,No Accident or Damage Reported,Hatchback,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,9
+560,2017,Volkswagen,GTI_Sport, 18999, White Plains, NY ,80000,Accident Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+561,2019,Volkswagen,Jetta_S, 18981, Flemington, NJ ,23176,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,7
+562,2021,Volkswagen,Tiguan_SEL_Premium_R-Line, 38500, White Plains, NY ,9268,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+563,2014,Volkswagen,Passat_SE, 13500, Neptune, NJ ,62434,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,18
+564,2015,Volkswagen,Jetta_SE, 10977, Massapequa, NY ,57027,Accident/Minor Damage,Sedan,Red_Engine:_4_Cyl_1.8_L_,2-Owner,Multiple Use,5
+565,2013,Volkswagen,Eos_Executive, 12749, North Middletown, NJ ,107992,No Accident or Damage Reported,Convertible,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,24
+566,2016,Volkswagen,Passat_SE, 16995, Woodside, NY ,51833,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,4
+567,2019,Volkswagen,Jetta_SEL, 19988, Union, NJ ,59499,Damage Reported,Sedan,Red_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+568,2020,Volkswagen,Jetta_S, 17995, Colonia, NJ ,47818,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Rental Use,1
+569,2019,Volkswagen,Beetle_Final_Edition_SEL, 48995, Princeton, NJ ,11897,No Accident or Damage Reported,Convertible,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+570,2020,Volkswagen,Jetta_SEL_Premium, 26500, Neptune, NJ ,10877,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Corporate Use,2
+571,2020,Volkswagen,Tiguan_SEL, 34217, Stamford, CT ,6288,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,4
+572,2020,Volkswagen,Tiguan_S, 26887, New York, NY ,2996,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,4
+573,2017,Volkswagen,Golf, 27485, Somerville, NJ ,89875,Minor Damage,Hatchback,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+574,2017,Volkswagen,Golf_SEL, 20995, Wall Township, NJ ,30527,Branded Title,Wagon,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Vehicle Use,2
+575,2017,Volkswagen,Golf_SEL, 20995, Wall Township, NJ ,30527,Branded Title,Wagon,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Vehicle Use,2
+576,2018,Volkswagen,Tiguan_SE, 21995, Wall Township, NJ ,29376,Branded Title,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,4
+577,2018,Volkswagen,Atlas_SE_w/Technology, 28995, Wall Township, NJ ,30182,Branded Title,SUV,Black_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,8
+578,2018,Volkswagen,Atlas_SE_w/Technology, 28495, Wall Township, NJ ,32480,Branded Title,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,13
+579,2018,Volkswagen,Atlas_SEL_Premium, 38990, Fairfield, CT ,37165,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,10
+580,2018,Volkswagen,Atlas_SEL_Premium, 35995, Wall Township, NJ ,30569,Branded Title,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,6
+581,2019,Volkswagen,Jetta_SE, 17999, East Brunswick, NJ ,79158,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,6
+582,2018,Volkswagen,Tiguan_SE, 26264, Bayside, NY ,24251,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+583,2016,Volkswagen,Jetta_S, 12995, Neptune, NJ ,58976,Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,2-Owner,Personal Use,12
+584,2018,Volkswagen,Passat_SE_w/Technology, 23814, Bayside, NY ,28206,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+585,2019,Volkswagen,Jetta_S, 20331, Bayside, NY ,12688,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+586,2018,Volkswagen,Passat_R-Line, 22013, Bayside, NY ,25871,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+587,2016,Volkswagen,Tiguan_S, 17500, Lyndhurst, NJ ,59893,Accident Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+588,2019,Volkswagen,Jetta_SEL, 23802, Bayside, NY ,25082,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,8
+589,2019,Volkswagen,Jetta_S, 20205, Bayside, NY ,12023,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,8
+590,2015,Volkswagen,Jetta_S, 12000, Jersey City, NJ ,55211,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,5
+591,2015,Volkswagen,Jetta_S, 8900, Atlantic Highlands, NJ ,78807,Minor Damage,Sedan,Brown_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,4
+592,2019,Volkswagen,Jetta_S, 16980, Richmond Hill, NY ,41194,Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+593,2018,Volkswagen,Tiguan_SE, 24985, Yonkers, NY ,23676,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+594,2019,Volkswagen,Tiguan_SE, 25495, Wall Township, NJ ,22160,Accident Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+595,2018,Volkswagen,Golf_S, 23325, Sayville, NY ,266,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Lease Use,4
+596,2015,Volkswagen,Beetle, 28998, Roselle, NJ ,33132,No Accident or Damage Reported,Convertible,Silver_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,8
+597,2018,Volkswagen,Tiguan_S, 24995, Garwood, NJ ,24085,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+598,2018,Volkswagen,Tiguan_S, 24995, Garwood, NJ ,34319,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+599,2019,Volkswagen,Jetta_S, 21995, Garwood, NJ ,35962,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,9
+600,2019,Volkswagen,Jetta_SEL, 20990, Great Neck, NY ,31461,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,12
+601,2003,Volkswagen,Passat_GLS, 5800, Farmingdale, NY ,91000,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,11
+602,2018,Volkswagen,Tiguan_S, 22995, Woodside, NY ,42757,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+603,2018,Volkswagen,Tiguan_S, 23995, Woodside, NY ,26082,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+604,2010,Volkswagen,GTI, 13950, Lakewood, NJ ,67108,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,19
+605,2019,Volkswagen,Tiguan_S, 24995, Woodside, NY ,17027,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+606,2020,Volkswagen,Tiguan_S, 25995, Woodside, NY ,19475,No Accident or Damage Reported,SUV,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+607,2018,Volkswagen,Passat_R-Line, 21495, Woodside, NY ,49002,No Accident or Damage Reported,Sedan,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+608,2019,Volkswagen,Jetta_R-Line, 21995, Woodside, NY ,19073,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+609,2012,Volkswagen,Jetta_SE, 10900, Hackettstown, NJ ,76963,No Accident or Damage Reported,Sedan,White_Engine:_5_Cyl_2.5_L_,2-Owner,Personal Use,7
+610,2018,Volkswagen,Tiguan_S, 24103, Tinton Falls, NJ ,33039,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+611,2017,Volkswagen,Passat_SE, 13530, Mountain Lakes, NJ ,111534,Accident Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,8
+612,2017,Volkswagen,Jetta_GLI, 15990, Great Neck, NY ,46008,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+613,2020,Volkswagen,Jetta_R-Line, 24499, Eatontown, NJ ,9486,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,1
+614,2019,Volkswagen,Jetta_R-Line, 21387, Ramsey, NJ ,40789,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,8
+615,2020,Volkswagen,Tiguan_S, 27488, Pompton Plains, NJ ,9638,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+616,2019,Volkswagen,Jetta_SE, 16995, Jamaica, NY ,20817,Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,1
+617,2016,Volkswagen,Tiguan_R-Line, 16375, Jamaica, NY ,58660,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,7
+618,2018,Volkswagen,Golf, 39687, Ramsey, NJ ,25258,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+619,2019,Volkswagen,Atlas_SEL_Premium, 42900, Nanuet, NY ,42105,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+620,2019,Volkswagen,Jetta_R-Line, 21600, Nanuet, NY ,37522,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,14
+621,2018,Volkswagen,Tiguan_SE, 24500, Neptune, NJ ,29725,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+622,2019,Volkswagen,Tiguan_SEL_R-Line, 29800, Nanuet, NY ,17120,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+623,2017,Volkswagen,Tiguan_Wolfsburg_Edition, 17910, Jersey City, NJ ,65671,Accident/Minor Damage,SUV,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,5
+624,2013,Volkswagen,GTI_Convenience, 11840, Eatontown, NJ ,135333,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,36
+625,2015,Volkswagen,Passat_SEL_Premium, 16995, Nanuet, NY ,51046,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,3
+626,2016,Volkswagen,Golf, 29899, West Islip, NY ,47964,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,10
+627,2018,Volkswagen,Tiguan_S, 18395, Totowa, NJ ,48294,Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+628,2019,Volkswagen,Jetta_SE, 19500, White Plains, NY ,24518,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,9
+629,2019,Volkswagen,Jetta_S, 18981, Flemington, NJ ,29504,Minor Damage,Sedan,Blue_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,1
+630,2019,Volkswagen,Jetta_SEL, 21895, Randolph, NJ ,35635,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,6
+631,2017,Volkswagen,Jetta_S, 15589, New York, NY ,36251,Minor Damage,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+632,2019,Volkswagen,Jetta_SEL, 20500, Neptune, NJ ,55276,Accident Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,12
+633,2017,Volkswagen,Beetle_Dune, 28590, Pleasantville, NY,30884,No Accident or Damage Reported,Convertible,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,0
+634,2015,Volkswagen,Jetta_S, 10900, Lyndhurst, NJ ,63100,Major Damage,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+635,2018,Volkswagen,Golf, 39688, Westbury, NY ,11959,No Accident or Damage Reported,Hatchback,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+636,2017,Volkswagen,Jetta_SE, 15888, Green Brook, NJ ,60952,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_1.4_L_,2-Owner,Personal Use,3
+637,2017,Volkswagen,Golf, 33900, Nanuet, NY ,31524,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,Number of Owners,Vehicle Use,2
+638,2018,Volkswagen,Golf, 38900, Princeton, NJ ,47974,No Accident or Damage Reported,Hatchback,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+639,2017,Volkswagen,Passat_SE, 20995, Manalapan, NJ ,37010,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,4
+640,2016,Volkswagen,Passat_SE, 12500, Mountain Lakes, NJ ,93718,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,8
+641,2018,Volkswagen,Tiguan_SEL, 25495, Great Neck, NY ,28722,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+642,2019,Volkswagen,Tiguan_SE, 25995, Wall Township, NJ ,6016,Branded Title,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+643,2019,Volkswagen,Tiguan_SEL, 24995, Wall Township, NJ ,16482,Branded Title,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+644,2012,Volkswagen,CC_Luxury_Plus, 5999, Lakewood, NJ ,158001,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,23
+645,2020,Volkswagen,Tiguan_SEL, 29995, Wall Township, NJ ,6119,Branded Title,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+646,2021,Volkswagen,Atlas_SEL, 42995, Wall Township, NJ ,3438,Branded Title,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+647,2019,Volkswagen,Tiguan_SEL, 27495, Wall Township, NJ ,19576,Branded Title,SUV,Orange_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+648,2018,Volkswagen,Tiguan_SEL, 24995, Wall Township, NJ ,25817,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+649,2019,Volkswagen,Jetta_GLI_Autobahn, 26495, Wall Township, NJ ,2225,Branded Title,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+650,2019,Volkswagen,Tiguan_SEL, 27495, Wall Township, NJ ,19576,Branded Title,SUV,Orange_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+651,2019,Volkswagen,Jetta_GLI_Autobahn, 26495, Wall Township, NJ ,2225,Branded Title,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+652,2018,Volkswagen,Tiguan_SEL, 24995, Wall Township, NJ ,25817,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+653,2018,Volkswagen,Jetta_SE_Sport, 16995, Wall Township, NJ ,40685,Branded Title,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,3
+654,2018,Volkswagen,Atlas_SEL, 31995, Wall Township, NJ ,43413,Branded Title,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,17
+655,2019,Volkswagen,Atlas_SE_w/Technology, 30995, Wall Township, NJ ,18009,Branded Title,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+656,2020,Volkswagen,Jetta_GLI_Autobahn, 27995, Wall Township, NJ ,4249,Branded Title,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+657,2020,Volkswagen,Atlas_SE, 33995, Wall Township, NJ ,9737,Branded Title,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+658,2019,Volkswagen,Tiguan_SEL, 27995, Wall Township, NJ ,9817,Branded Title,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+659,2019,Volkswagen,Tiguan_SE, 25495, Wall Township, NJ ,8394,Branded Title,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+660,2019,Volkswagen,Atlas_SEL_R-Line, 39995, Wall Township, NJ ,7925,Branded Title,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+661,2020,Volkswagen,Tiguan_SEL, 29995, Wall Township, NJ ,5463,Branded Title,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+662,2018,Volkswagen,Beetle_S, 29995, Saint James, NY ,9038,No Accident or Damage Reported,Convertible,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+663,2013,Volkswagen,Jetta_SE, 7990, Sayreville, NJ ,133944,Accident Reported,Wagon,Black_Engine:_5_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,12
+664,2018,Volkswagen,Passat_S, 19790, West Babylon, NY ,35029,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+665,2019,Volkswagen,Jetta_SEL, 20490, West Babylon, NY ,17141,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,4
+666,2019,Volkswagen,Atlas_SE_w/Technology, 32995, Darien, CT ,59299,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+667,2019,Volkswagen,Jetta, 14990, Great Neck, NY ,85493,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,14
+668,2019,Volkswagen,Atlas_SEL_Premium, 42995, Wall Township, NJ ,15754,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+669,2019,Volkswagen,Golf, 37995, Rahway, NJ ,18529,Accident Reported,Hatchback,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Vehicle Use,5
+670,2016,Volkswagen,GTI, 19992, Haskell, NJ ,86097,No Accident or Damage Reported,Hatchback,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,19
+671,2017,Volkswagen,Jetta_SE, 18998, Edison, NJ ,49362,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,2-Owner,Personal Use,6
+672,2014,Volkswagen,CC_Executive, 16998, Edison, NJ ,24862,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+673,2019,Volkswagen,Tiguan_SE, 27959, Avenel, NJ ,16574,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+674,2018,Volkswagen,Tiguan_SE, 24988, Sayville, NY ,40368,No Accident or Damage Reported,SUV,4_Cyl_2.0_L_,CARFAX 1-Owner,Lease Use,6
+675,2018,Volkswagen,Tiguan_S, 24203, Tinton Falls, NJ ,24250,Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+676,2019,Volkswagen,Jetta_S, 17988, Sayville, NY ,42785,No Accident or Damage Reported,Sedan,4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,7
+677,2018,Volkswagen,GTI, 25880, Brooklyn, NY ,31715,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,7
+678,2018,Volkswagen,Passat_SE, 19495, Elmwood Park, NJ ,8039,Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,7
+679,2018,Volkswagen,Passat_SE, 20990, New York, NY,51470,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+680,2018,Volkswagen,Atlas_SEL, 21995, Copiague, NY ,114982,Accident Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+681,2019,Volkswagen,Tiguan_SE, 28888, Bronx, NY ,4911,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+682,2012,Volkswagen,Beetle, 20990, New York, NY,25185,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+683,2019,Volkswagen,Jetta_SEL, 22388, Bronx, NY ,20115,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,6
+684,2017,Volkswagen,Passat_SE, 17995, Woodside, NY ,47154,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,0
+685,2017,Volkswagen,Golf_S, 23500, Princeton, NJ ,37170,No Accident or Damage Reported,Wagon,Blue_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,7
+686,2018,Volkswagen,Passat_SE, 21423, Great Neck, NY ,10986,Accident Reported,Sedan,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+687,2017,Volkswagen,Golf_Wolfsburg_Edition, 14995, Edison, NJ ,103682,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,18
+688,2021,Volkswagen,Tiguan_S, 28390, Fair Lawn, NJ ,4000,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Lease Use,3
+689,2019,Volkswagen,Tiguan, 25064, Saint James, NY ,44875,No Accident or Damage Reported,SUV,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+690,2019,Volkswagen,Jetta_S, 16697, West Islip, NY ,26621,Accident Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,4
+691,2017,Volkswagen,Jetta_Sport, 17499, Fair Lawn, NJ ,47446,Accident Reported,Sedan,Red_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,11
+692,2018,Volkswagen,Passat_S, 15928, Jersey City, NJ ,84401,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+693,2015,Volkswagen,Passat_S, 10990, East Hanover, NJ ,99348,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,27
+694,2019,Volkswagen,Jetta_SEL_Premium, 22798, West Islip, NY ,19491,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,6
+695,2018,Volkswagen,Passat_GT, 25000, Neptune, NJ ,14367,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+696,2016,Volkswagen,Passat_SE, 17990, Pleasantville, NY,48054,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,11
+697,2016,Volkswagen,Tiguan_S, 17990, Pleasantville, NY,51243,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,8
+698,2018,Volkswagen,Atlas_SE_w/Technology, 33324, Union, NJ ,18860,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+699,2021,Volkswagen,Atlas_SEL_Premium_R-Line, 52870, West Islip, NY ,5777,No Accident or Damage Reported,SUV,6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+700,2017,Volkswagen,Tiguan_S, 12597, FAIR LAWN, NJ ,135052,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,25
+701,2015,Volkswagen,Passat_Limited_Edition, 12045, Elizabeth, NJ ,65894,Very Minor Damage,Sedan,Silver_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,8
+702,2015,Volkswagen,Passat_Wolfsburg_Edition, 14969, South Plainfield, NJ ,70172,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,6
+703,2021,Volkswagen,Jetta_GLI_S, 33121, Great Neck, NY ,1326,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+704,2018,Volkswagen,Golf_SE, 29990, Princeton, NJ ,23490,No Accident or Damage Reported,Wagon,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,7
+705,2019,Volkswagen,Jetta_S, 18080, Great Neck, NY ,29404,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,6
+706,2019,Volkswagen,Atlas_SE, 37800, Princeton, NJ ,16699,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+707,2018,Volkswagen,Tiguan_SEL, 27500, Princeton, NJ ,50509,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+708,2018,Volkswagen,Atlas_SEL, 41000, Princeton, NJ ,27860,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+709,2016,Volkswagen,Touareg_Sport_w/Technology, 22875, Hillside, NJ ,64933,Accident/Minor Damage,SUV,Blue_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,20
+710,2018,Volkswagen,Atlas_SE, 34996, Bridgewater, NJ ,18305,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,17
+711,2019,Volkswagen,Jetta_R-Line, 18795, New York, NY ,28428,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,8
+712,2018,Volkswagen,Passat_SEL_Premium, 24783, Flemington, NJ ,52955,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+713,2019,Volkswagen,Jetta_SE, 21995, Belmar, NJ ,45795,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,4
+714,2019,Volkswagen,Jetta_S, 19589, New York, NY ,26850,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+715,2019,Volkswagen,Jetta_S, 19389, New York, NY ,22485,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,2
+716,2020,Volkswagen,Tiguan_SE_R-Line_Black, 33000, Paramus, NJ ,22117,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+717,2015,Volkswagen,Beetle, 22990, New York, NY,31036,No Accident or Damage Reported,Convertible,Red_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,4
+718,2018,Volkswagen,Tiguan_SE, 21980, Bronx, NY ,49421,Accident/Minor Damage,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+719,2018,Volkswagen,Atlas_SE, 29995, Bridgewater, NJ ,55579,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Lease Use,9
+720,2016,Volkswagen,Jetta_Sport, 15963, North Brunswick, NJ ,70131,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,14
+721,2016,Volkswagen,Golf, 27673, Linden, NJ ,82210,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,26
+722,2017,Volkswagen,Jetta_GLI, 19888, Eatontown, NJ ,55630,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+723,2019,Volkswagen,Jetta_R-Line, 22998, Roselle, NJ ,24330,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,6
+724,2008,Volkswagen,GTI, 5299, S Hackensack, NJ ,109038,Damage Reported,Hatchback,Gray_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,22
+725,2021,Volkswagen,Atlas_SEL_Premium_R-Line, 49995, Brooklyn, NY ,6734,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,1
+726,2019,Volkswagen,Jetta_SEL, 22995, Lakewood, NJ ,25342,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,0
+727,2018,Volkswagen,Tiguan_S, 22156, Huntington Station, NY ,24661,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+728,2018,Volkswagen,Atlas_SEL_Premium, 38999, Princeton, NJ ,38292,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+729,2018,Volkswagen,Tiguan_SE, 24995, Wall Township, NJ ,35143,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+730,2019,Volkswagen,Jetta_SEL, 22995, Wall Township, NJ ,24956,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+731,2004,Volkswagen,Jetta_GLS_Turbo, 9995, Neptune, NJ ,57232,No Accident or Damage Reported,Wagon,Beige_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,43
+732,2014,Volkswagen,Tiguan_SEL, 13750, Ramsey, NJ ,85898,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,14
+733,2019,Volkswagen,Jetta_SEL_Premium, 19942, Carlstadt, NJ ,70721,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,1
+734,2009,Volkswagen,GTI, 7499, Keyport, NJ ,104511,Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,16
+735,2011,Volkswagen,CC_Sport, 9995, Asbury Park, NJ ,100548,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,31
+736,2019,Volkswagen,Atlas_SE_w/Technology, 37488, Bronx, NY ,17326,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+737,2019,Volkswagen,Tiguan_S, 24888, Bronx, NY ,29471,No Accident or Damage Reported,SUV,Green_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+738,2019,Volkswagen,Jetta_R-Line, 19353, Freehold, NJ ,15307,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,7
+739,2017,Volkswagen,Passat_S, Call for Price, Lyndhurst, NJ ,36908,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,1
+740,2018,Volkswagen,Atlas_SE, Call for Price, Lyndhurst, NJ ,22126,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+741,2018,Volkswagen,Tiguan_SEL_Premium, Call for Price, Lyndhurst, NJ ,21258,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+742,2021,Volkswagen,Atlas_SE, Call for Price, Lyndhurst, NJ ,11537,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+743,2018,Volkswagen,Atlas_S, Call for Price, Lyndhurst, NJ ,36324,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+744,2010,Volkswagen,Passat_Komfort, 4999, Paterson, NJ ,106847,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,14
+745,2019,Volkswagen,Passat_Wolfsburg_Edition, 23500, Princeton, NJ ,35917,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+746,2018,Volkswagen,Tiguan_SE, 23995, Fair Lawn, NJ ,55971,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+747,2020,Volkswagen,Tiguan_SE_R-Line_Black, 31995, Sussex, NJ ,14638,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+748,2021,Volkswagen,Atlas_SEL_R-Line, 53000, Princeton, NJ ,1640,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+749,2018,Volkswagen,Tiguan_S, 21487, West Islip, NY ,35010,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+750,2021,Volkswagen,Atlas_SEL_R-Line, 53000, Princeton, NJ ,1640,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+751,2019,Volkswagen,Tiguan_SE, 22569, Freehold, NJ ,31797,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,5
+752,2018,Volkswagen,Passat_S, 17994, Great Neck, NY ,54199,No Accident or Damage Reported,Sedan,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+753,2018,Volkswagen,Tiguan_SEL_Premium, 32900, Princeton, NJ ,44625,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+754,2018,Volkswagen,Tiguan_SEL, 24629, Fair Lawn, NJ ,66024,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+755,2018,Volkswagen,Golf_S, 22590, Pleasantville, NY,37274,No Accident or Damage Reported,Wagon,Blue_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,9
+756,2018,Volkswagen,Tiguan_SE, 23900, Princeton, NJ ,52832,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+757,2014,Volkswagen,Jetta_SE, 9100, Eatontown, NJ ,107052,Accident Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,14
+758,2015,Volkswagen,Beetle_R-Line, 26987, Ramsey, NJ ,41637,No Accident or Damage Reported,Convertible,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+759,2018,Volkswagen,Passat_SE, 21299, Bayside, NY ,18400,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+760,2014,Volkswagen,Beetle_R-Line, 17499, Newark, NJ,74144,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,7
+761,2012,Volkswagen,Golf, 9555, Bay Shore, NY ,54758,No Accident or Damage Reported,Hatchback,Silver_Engine:_5_Cyl_2.5_L_,3+ Owners,Personal Use,15
+762,2018,Volkswagen,Atlas_SEL_Premium, 35999, Jamaica, NY ,50055,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+763,2016,Volkswagen,Golf, 29245, Lakewood, NJ ,66494,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,5
+764,2017,Volkswagen,Tiguan, 20990, Newark, NJ,37678,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,2
+765,2017,Volkswagen,Passat_R-Line, 18500, Lyndhurst, NJ ,51358,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Multiple Use,10
+766,2020,Volkswagen,Jetta_R-Line, 19900, Hillside, NJ ,9589,Accident Reported,Sedan,Blue_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Rental Use,0
+767,2018,Volkswagen,Passat_SE, 14999, Woodside, NY ,36793,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,0
+768,2015,Volkswagen,Passat_SE, 13595, Bridgewater, NJ ,85100,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,33
+769,2007,Volkswagen,GTI, 5999, Paterson, NJ ,167055,No Accident or Damage Reported,Hatchback,Silver_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,41
+770,2015,Volkswagen,GTI_Autobahn, 14950, Bronx, NY ,74657,Accident/Minor Damage,Hatchback,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,16
+771,2018,Volkswagen,Tiguan_S, 17990, Freeport, NY ,25200,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+772,2018,Volkswagen,Tiguan_S, 20995, Woodside, NY ,56611,Minor Damage,SUV,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,14
+773,2017,Volkswagen,Jetta_S, 14995, Lyndhurst, NJ ,41738,Accident Reported,Sedan,Red_Engine:_4_Cyl_1.4_L_,3+ Owners,Multiple Use,10
+774,2019,Volkswagen,Tiguan_SE, 27222, Springfield, NJ ,31382,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,5
+775,2006,Volkswagen,Jetta, 4999, S Hackensack, NJ ,93837,No Accident or Damage Reported,Sedan,Gray_Engine:_5_Cyl_2.5_L_,3+ Owners,Personal Use,12
+776,2018,Volkswagen,Jetta_S, 12980, Freeport, NY ,42922,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,4
+777,2014,Volkswagen,Jetta_SE, 11995, Union, NJ ,75154,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,8
+778,2013,Volkswagen,CC, 10995, SADDLE BROOK, NJ ,83744,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,12
+779,2013,Volkswagen,Tiguan, 9750, Little Ferry, NJ ,109131,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,21
+780,2018,Volkswagen,Atlas_SEL, 34922, Springfield, NJ ,39250,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,11
+781,2019,Volkswagen,Jetta_R-Line, 25995, Garwood, NJ ,17440,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.4_L_,2-Owner,Personal Use,5
+782,2011,Volkswagen,Routan_SE, 9995, Lindenhurst, NY ,70524,Accident Reported,Van,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,12
+783,2015,Volkswagen,Passat, 10995, Brooklyn, NY ,96907,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,23
+784,2017,Volkswagen,Jetta_SEL, 14000, White Plains, NY ,73707,Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,11
+785,2017,Volkswagen,Golf, 33840, Jersey City, NJ ,43790,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,13
+786,2019,Volkswagen,Jetta_SE, 19888, Bronx, NY ,26434,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,2-Owner,Multiple Use,9
+787,2019,Volkswagen,Jetta_S, 21988, Pompton Plains, NJ ,21467,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,0
+788,2019,Volkswagen,Tiguan_SE, 25995, Asbury Park, NJ ,33009,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,9
+789,2013,Volkswagen,GTI, 17975, Bay Shore, NY ,56210,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,12
+790,2009,Volkswagen,Passat_Komfort, 4999, Paterson, NJ ,153164,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,15
+791,2011,Volkswagen,Jetta, 9939, Fair Lawn, NJ ,75000,No Accident or Damage Reported,Wagon,Silver_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,4
+792,2016,Volkswagen,Passat_R-Line, 8998, West Babylon, NY ,81634,Accident Reported,Sedan,Red_Engine:_4_Cyl_1.8_L_,2-Owner,Multiple Use,8
+793,2018,Volkswagen,Tiguan_SEL_Premium, 25995, Wall Township, NJ ,17902,Branded Title,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,11
+794,2019,Volkswagen,Jetta, 19741, Freehold, NJ ,36479,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,14
+795,2019,Volkswagen,Atlas_SE_w/Technology, 36000, White Plains, NY ,23858,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+796,2013,Volkswagen,Tiguan_S, 11750, Eatontown, NJ ,91452,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,25
+797,2017,Volkswagen,Jetta_S, 14000, Hasbrouck Heights, NJ ,69891,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,7
+798,2015,Volkswagen,GTI, 19994, Haskell, NJ ,70307,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+799,2012,Volkswagen,Jetta_S, 11528, New York, NY ,35869,Accident/Minor Damage,Wagon,Black_Engine:_5_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+800,2012,Volkswagen,Jetta_S, 11528, New York, NY ,35869,Accident/Minor Damage,Wagon,Black_Engine:_5_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,10
+801,2018,Volkswagen,Passat_SE, 21493, Bayside, NY ,21401,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+802,2018,Volkswagen,Passat_S, 17995, Wall Township, NJ ,14952,Branded Title,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,8
+803,2018,Volkswagen,Atlas_SEL, 39998, Edison, NJ ,15118,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+804,2013,Volkswagen,Golf, 20900, Atlantic Highlands, NJ ,64624,Accident Reported,Hatchback,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,17
+805,2015,Volkswagen,Jetta_SE, 8900, Brooklyn, NY ,128070,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,10
+806,2019,Volkswagen,Jetta_S, 18995, Lakewood, NJ ,43286,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,9
+807,2018,Volkswagen,Tiguan_S, 23108, Tinton Falls, NJ ,18950,Accident/Minor Damage,SUV,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,8
+808,2019,Volkswagen,Golf_SE, 24495, Lakewood, NJ ,24595,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,3
+809,2018,Volkswagen,Tiguan_SEL, 28995, Lakewood, NJ ,40207,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+810,2019,Volkswagen,Jetta_SE, 18745, Lakewood, NJ ,67109,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,7
+811,2018,Volkswagen,Tiguan_SEL, 27245, Lakewood, NJ ,37321,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+812,2021,Volkswagen,Atlas_S, 34590, Newark, NJ,5679,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+813,2014,Volkswagen,Beetle_R-Line, 23987, Ramsey, NJ ,51067,No Accident or Damage Reported,Convertible,4_Cyl_2.0_L_,3+ Owners,Personal Use,11
+814,2013,Volkswagen,Jetta, 13994, Haskell, NJ ,73192,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+815,2006,Volkswagen,Jetta, 7999, North Plainfield, NJ ,70312,No Accident or Damage Reported,Sedan,Black_Engine:_5_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,9
+816,2018,Volkswagen,Atlas_SE_w/Technology, 32688, Bronx, NY ,33665,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,11
+817,2017,Volkswagen,GTI_SE, 26590, New York, NY,43492,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,13
+818,2019,Volkswagen,Atlas_SE_w/Technology, 33995, Woodside, NY ,36021,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,3
+819,2018,Volkswagen,Tiguan_S, 22995, Woodside, NY ,33230,Minor Damage,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+820,2017,Volkswagen,Passat_S, 16995, Woodside, NY ,39541,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,10
+821,2021,Volkswagen,Passat_SE, 25995, Woodside, NY ,8762,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Rental Use,1
+822,2018,Volkswagen,Tiguan, 26995, Woodside, NY ,38730,Accident Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+823,2007,Volkswagen,GTI, 5999, Paterson, NJ ,162842,Accident/Minor Damage,Hatchback,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,20
+824,2015,Volkswagen,Jetta_Sport, 14988, Eatontown, NJ ,64168,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,7
+825,2019,Volkswagen,Atlas_SE_w/Technology, 33800, Nanuet, NY ,52309,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,1
+826,2019,Volkswagen,Jetta_S, 18687, Ramsey, NJ ,20733,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,9
+827,2019,Volkswagen,Atlas_SE_w/Technology, 31700, Nanuet, NY ,58185,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,2
+828,2015,Volkswagen,Jetta_SE_w/Connectivity, 14687, Ramsey, NJ ,73124,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,10
+829,2019,Volkswagen,Jetta_R-Line, 20987, Ringoes, NJ ,44723,Minor Damage,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,7
+830,2019,Volkswagen,Jetta_S, 21990, New York, NY,8478,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.4_L_,2-Owner,Personal Use,8
+831,2018,Volkswagen,Atlas_SE_w/Technology, 27176, Fair Lawn, NJ ,71712,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,2-Owner,Multiple Use,11
+832,2017,Volkswagen,Jetta_SE, 15528, New York, NY ,67634,Minor Damage,Sedan,Black_Engine:_4_Cyl_1.4_L_,2-Owner,Personal Use,15
+833,2018,Volkswagen,Tiguan_SEL, 23995, Massapequa, NY ,46820,Accident/Minor Damage,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+834,2012,Volkswagen,Jetta_SE, 8995, Elizabeth, NJ ,93783,Accident Reported,Wagon,Black_Engine:_5_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,14
+835,2014,Volkswagen,Jetta_SE_w/Connectivity, 7900, Avenel, NJ ,122489,Minor Damage,Sedan,Gray_Engine:_4_Cyl_1.8_L_,3+ Owners,Multiple Use,6
+836,2018,Volkswagen,Golf_S, 24035, Sayville, NY ,0,No Accident or Damage Reported,Wagon,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Lease Use,4
+837,2011,Volkswagen,Jetta_S, 4900, Belleville, NJ ,157943,Accident Reported,Wagon,Gray_Engine:_5_Cyl_2.5_L_,2-Owner,Commercial Use,21
+838,2019,Volkswagen,Atlas_SE_w/Technology, 32695, Massapequa, NY ,43580,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,1
+839,2019,Volkswagen,Atlas_SEL_Premium, 37995, Tenafly, NJ ,74841,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+840,2014,Volkswagen,Jetta_SEL, 13185, EATONTOWN, NJ ,81460,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,18
+841,2011,Volkswagen,Jetta, 7999, S Hackensack, NJ ,109170,No Accident or Damage Reported,Sedan,Beige_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,9
+842,2019,Volkswagen,Golf_S, 12990, Great Neck, NY ,53019,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Rental Use,1
+843,2015,Volkswagen,Passat_S, 13995, East Brunswick, NJ ,54171,Accident Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,9
+844,2014,Volkswagen,CC_Sport, 9875, E Rutherford, NJ ,108478,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,3
+845,2014,Volkswagen,Jetta_SE, 12481, Warwick, NY ,112003,Accident Reported,Wagon,Red_Engine:_5_Cyl_2.5_L_,2-Owner,Personal Use,13
+846,2015,Volkswagen,Jetta_Sport, 9898, Hollis, NY ,98624,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,22
+847,2017,Volkswagen,Jetta_SE, 16991, Smithtown, NY ,0,No Accident or Damage Reported,Sedan,4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,6
+848,2006,Volkswagen,Passat_Value_Edition, 4999, Brooklyn, NY ,95296,Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,32
+849,2018,Volkswagen,Atlas_SEL, 34995, Wall Township, NJ ,22572,Branded Title,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,5
+850,2019,Volkswagen,Atlas_SEL_Premium, 36889, Eatontown, NJ ,95717,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,21
+851,2018,Volkswagen,Tiguan_SE, 23888, Eatontown, NJ ,44946,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+852,2006,Volkswagen,Passat, 4999, Brooklyn, NY ,123427,Minor Damage,Sedan,Silver_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,11
+853,2018,Volkswagen,Atlas_SEL, 34995, Wall Township, NJ ,22572,Branded Title,SUV,White_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,5
+854,2019,Volkswagen,Jetta_S, 19199, Woodbridge, NJ ,29084,Accident Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,15
+855,2018,Volkswagen,Tiguan_SEL, 24990, West Babylon, NY ,23345,Minor Damage,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+856,2004,Volkswagen,Passat_GLX, 5800, Farmingdale, NY ,108000,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_2.8_L_,2-Owner,Personal Use,43
+857,2018,Volkswagen,Tiguan_SEL_Premium, 26995, Wall Township, NJ ,43651,Branded Title,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+858,2019,Volkswagen,Atlas_SEL, 35995, Wall Township, NJ ,13096,Branded Title,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+859,2018,Volkswagen,Passat_SEL_Premium, 25988, Sayville, NY ,33811,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.6_L_,3+ Owners,Multiple Use,4
+860,2020,Volkswagen,Passat_SE, 25688, Sayville, NY ,6477,No Accident or Damage Reported,Sedan,4_Cyl_2.0_L_,2-Owner,Multiple Use,2
+861,2004,Volkswagen,Touareg, 5990, Wantagh, NY ,98214,No Accident or Damage Reported,SUV,Red_Engine:_8_Cyl_4.2_L_,3+ Owners,Personal Use,28
+862,2016,Volkswagen,Jetta_Sport, 16699, Wharton, NJ ,51248,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,7
+863,2017,Volkswagen,Jetta_S, 14980, Richmond Hill, NY ,59905,Minor Damage,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,6
+864,2020,Volkswagen,Jetta_SE, 22495, Commack, NY ,12209,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Corporate Use,9
+865,2019,Volkswagen,Atlas_SE_w/Technology, 34995, Wall Township, NJ ,18450,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+866,2019,Volkswagen,Tiguan_SE, 28990, New York, NY,14189,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,1
+867,2016,Volkswagen,Passat_R-Line, 18590, New York, NY,43708,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,8
+868,2018,Volkswagen,Tiguan_S, 21495, Wall Township, NJ ,33013,Damage Reported,SUV,Green_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+869,2013,Volkswagen,Beetle, 16590, New York, NY,45073,No Accident or Damage Reported,Hatchback,Gray_Engine:_5_Cyl_2.5_L_,3+ Owners,Personal Use,13
+870,2015,Volkswagen,Jetta_GLI_SE, 19996, Jersey City, NJ ,86668,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,9
+871,2016,Volkswagen,e-Golf_SE, 16990, New York, NY,38822,No Accident or Damage Reported,Hatchback,Blue_Engine:_Electric__,2-Owner,Personal Use,4
+872,2018,Volkswagen,Passat_SE_w/Technology, 18557, Ramsey, NJ ,43862,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+873,2019,Volkswagen,Jetta_S, 18495, Lyndhurst, NJ ,25553,No Accident or Damage Reported,Sedan,Orange_Engine:_4_Cyl_1.4_L_,2-Owner,Multiple Use,9
+874,2019,Volkswagen,Jetta_S, 16686, Rockaway, NJ ,58573,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,9
+875,2018,Volkswagen,Tiguan_SE, 19999, Elmont, NY ,50499,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+876,2016,Volkswagen,GTI_Autobahn, 24999, Watchung, NJ ,42347,No Accident or Damage Reported,Hatchback,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+877,2019,Volkswagen,Jetta_S, 12990, Great Neck, NY ,16955,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,2
+878,2020,Volkswagen,Atlas_S, Call for Price, Ramsey, NJ ,16322,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+879,2016,Volkswagen,Passat_S, 15988, Saint James, NY ,26070,Accident Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,17
+880,2016,Volkswagen,Tiguan_SE, 18989, West Islip, NY ,48408,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,13
+881,2018,Volkswagen,Tiguan_SE, 25990, East Hanover, NJ ,36767,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,8
+882,2018,Volkswagen,Tiguan_S, 21950, Fair Lawn, NJ ,32000,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Lease Use,5
+883,2019,Volkswagen,Jetta_S, 18886, Secaucus, NJ ,27339,Minor Damage,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,7
+884,2019,Volkswagen,Jetta_SE, 19929, West Islip, NY ,18306,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,4
+885,2014,Volkswagen,Jetta_GLI_Autobahn, 13685, Hasbrouck Heights, NJ ,97399,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,13
+886,2012,Volkswagen,Jetta_SE_Convenience, 8495, Yonkers, NY ,78601,Accident Reported,Sedan,5_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,5
+887,2013,Volkswagen,GTI, 14995, E Rutherford, NJ ,78780,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,14
+888,2018,Volkswagen,Golf_S, 23325, Sayville, NY ,0,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Lease Use,2
+889,2018,Volkswagen,Golf_S, 23225, Sayville, NY ,0,No Accident or Damage Reported,Hatchback,4_Cyl_1.8_L_,CARFAX 1-Owner,Lease Use,3
+890,2018,Volkswagen,Golf_S, 24035, Sayville, NY ,0,No Accident or Damage Reported,Wagon,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Lease Use,5
+891,2019,Volkswagen,Jetta_S, 19981, Flemington, NJ ,30903,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,2
+892,2019,Volkswagen,Jetta_SE, 19989, New York, NY ,14721,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,4
+893,2019,Volkswagen,Tiguan_SEL_Premium_R-Line, 35981, Flemington, NJ ,28768,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+894,2018,Volkswagen,Atlas_SE_w/Technology, 29900, White Plains, NY ,57500,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+895,2021,Volkswagen,Jetta_SE, 22965, Amityville, NY ,6929,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Rental Use,2
+896,2020,Volkswagen,Tiguan_S, 27860, Fair Lawn, NJ ,25442,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,5
+897,2019,Volkswagen,Jetta_R-Line, 18988, West Islip, NY ,28349,Accident Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,14
+898,2019,Volkswagen,Jetta_S, 17995, Fair Lawn, NJ ,28407,Accident Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,4
+899,2018,Volkswagen,Jetta_SE, 18995, Fair Lawn, NJ ,14457,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,9
+900,2016,Volkswagen,Beetle_R-Line_SEL, 32000, Princeton, NJ ,36580,No Accident or Damage Reported,Convertible,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,14
+901,2013,Volkswagen,Passat_SE, 7990, Sayreville, NJ ,132913,Damage Reported,Sedan,White_Engine:_5_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,11
+902,2013,Volkswagen,Beetle, 15687, Ramsey, NJ ,70827,Accident/Minor Damage,Hatchback,Yellow_Engine:_5_Cyl_2.5_L_,3+ Owners,Personal Use,6
+903,2011,Volkswagen,Jetta_Base, 8295, Great Neck, NY ,64565,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+904,2019,Volkswagen,Atlas_SEL_Premium, 40995, Wall Township, NJ ,21690,Branded Title,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,18
+905,2019,Volkswagen,Atlas_SE_w/Technology, 34995, Wall Township, NJ ,11700,Branded Title,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+906,2018,Volkswagen,Atlas_SEL, 34995, Wall Township, NJ ,23890,Branded Title,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+907,2019,Volkswagen,Atlas_SEL_Premium, 39995, Wall Township, NJ ,21509,Branded Title,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+908,2020,Volkswagen,Tiguan_SEL_Premium_R-Line, 35995, Wall Township, NJ ,2306,Branded Title,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+909,2018,Volkswagen,Tiguan_SEL_Premium, 28995, Wall Township, NJ ,35323,Branded Title,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+910,2019,Volkswagen,Atlas_SEL, 38995, Wall Township, NJ ,8225,Branded Title,SUV,Red_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+911,2014,Volkswagen,Jetta, 7999, Teterboro, NJ ,122633,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,13
+912,2019,Volkswagen,Tiguan_SE, 26995, Wall Township, NJ ,8408,Branded Title,SUV,Green_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+913,2019,Volkswagen,Tiguan_SE, 26995, Wall Township, NJ ,2240,Branded Title,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+914,2019,Volkswagen,Tiguan_SEL_Premium, 31495, Wall Township, NJ ,9150,Branded Title,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+915,2009,Volkswagen,Passat_Komfort, 6995, Pleasantville, NY ,83689,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,21
+916,2019,Volkswagen,Atlas_SEL_Premium, 39995, Wall Township, NJ ,22241,Branded Title,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+917,2019,Volkswagen,Atlas_SE_w/Technology, 35995, Wall Township, NJ ,11589,Branded Title,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,2
+918,2019,Volkswagen,Tiguan_SE, 25995, Wall Township, NJ ,8945,Branded Title,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+919,2020,Volkswagen,Jetta_SEL, 23900, North Plainfield, NJ ,17446,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+920,2018,Volkswagen,Tiguan_SEL_Premium, 28995, Wall Township, NJ ,29157,Branded Title,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,18
+921,2018,Volkswagen,Atlas_SEL, 34995, Wall Township, NJ ,26421,Branded Title,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+922,2020,Volkswagen,Tiguan_SE, 26495, Wall Township, NJ ,6009,Branded Title,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+923,2018,Volkswagen,Atlas_SE_w/Technology, 32511, Brooklyn, NY ,32996,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,0
+924,2008,Volkswagen,R32, 11994, Haskell, NJ ,124442,Damage Reported,Hatchback,Gray_Engine:_6_Cyl_3.2_L_,2-Owner,Personal Use,17
+925,2007,Volkswagen,Passat, 7495, Lodi, NJ ,110567,No Accident or Damage Reported,Wagon,Silver_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,34
+926,2018,Volkswagen,Atlas_SE, 30981, Flemington, NJ ,28538,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+927,2003,Volkswagen,Jetta_GL, 5995, Bronx, NY ,72666,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,29
+928,2017,Volkswagen,Passat_R-Line, 20995, Fair Lawn, NJ ,25428,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,6
+929,2019,Volkswagen,Arteon_SEL_R-Line, 33998, Edison, NJ ,6363,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+930,2019,Volkswagen,Tiguan_SE, 29900, Summit, NJ ,38262,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+931,2013,Volkswagen,Passat_SE, 12994, Haskell, NJ ,79443,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,24
+932,2020,Volkswagen,Passat_SE, 25988, Sayville, NY ,11120,No Accident or Damage Reported,Sedan,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+933,2012,Volkswagen,Jetta_SE, 8995, East Brunswick, NJ ,87758,Accident/Minor Damage,Sedan,White_Engine:_5_Cyl_2.5_L_,3+ Owners,Personal Use,12
+934,2019,Volkswagen,Jetta_SEL_Premium, 22888, Bronx, NY ,39761,Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,12
+935,2019,Volkswagen,Tiguan_S, 25888, Bronx, NY ,6851,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+936,2019,Volkswagen,Atlas_SE, 34288, Bronx, NY ,26057,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,8
+937,2007,Volkswagen,Passat_Wolfsburg_Edition, 8995, Woodside, NY ,54810,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,25
+938,2017,Volkswagen,Jetta_GLI, Call for Price, Lyndhurst, NJ ,28267,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+939,2014,Volkswagen,Passat_Wolfsburg_Edition, 9999, S Hackensack, NJ ,101912,No Accident or Damage Reported,Sedan,Silver_Engine:_5_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,4
+940,2019,Volkswagen,Jetta_SEL_Premium, 23496, Fair Lawn, NJ ,36405,Accident Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+941,2018,Volkswagen,Atlas_S, 28750, Fair Lawn, NJ ,44368,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,16
+942,2018,Volkswagen,Passat_SE, 20998, West Islip, NY ,21598,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+943,2019,Volkswagen,Jetta_SE, 19500, Neptune, NJ ,44068,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,8
+944,2014,Volkswagen,Passat_Wolfsburg_Edition, 13900, Princeton, NJ ,91132,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,12
+945,2018,Volkswagen,GTI_S, 26298, Englewood, NJ ,41522,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+946,2012,Volkswagen,Beetle_Launch_Edition, 17590, Pleasantville, NY,30580,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,17
+947,2012,Volkswagen,Tiguan_LE, 9997, Brooklyn, NY ,102788,Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,14
+948,2019,Volkswagen,Jetta_SEL, Call for Price, Flemington, NJ ,33860,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,7
+949,2015,Volkswagen,Golf_S, 13995, West Nyack, NY ,63208,Accident Reported,Wagon,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,8
+950,2019,Volkswagen,Jetta_SEL, Call for Price, Flemington, NJ ,33860,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,7
+951,2021,Volkswagen,Golf, Call for Price, Fairfield, CT ,2967,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,2
+952,2006,Volkswagen,New_Beetle, 5987, Paterson, NJ ,98429,No Accident or Damage Reported,Hatchback,Red_Engine:_5_Cyl_2.5_L_,2-Owner,Personal Use,11
+953,2008,Volkswagen,Jetta_SEL, 4999, Mine Hill, NJ ,183075,Accident Reported,Sedan,White_Engine:_5_Cyl_2.5_L_,2-Owner,Personal Use,10
+954,2011,Volkswagen,Tiguan_SE, 11985, Elizabeth, NJ ,98790,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,7
+955,2009,Volkswagen,CC_Sport, 8895, Newton, NJ ,110196,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,14
+956,2014,Volkswagen,Beetle_Entry, 11000, Old Bridge, NJ ,99022,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_1.8_L_,3+ Owners,Multiple Use,16
+957,2012,Volkswagen,Routan_SE, 10399, Eatontown, NJ ,83557,No Accident or Damage Reported,Van,Blue_Engine:_6_Cyl_3.6_L_,2-Owner,Personal Use,28
+958,2019,Volkswagen,Atlas_SEL, 42898, Roselle, NJ ,23312,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,6
+959,2020,Volkswagen,Passat_SE, 26798, Edison, NJ ,11082,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+960,2018,Volkswagen,Tiguan_SE, 26998, Edison, NJ ,32878,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+961,2019,Volkswagen,Jetta_SE, 17990, Woodside, NY ,39160,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_1.4_L_,2-Owner,Multiple Use,2
+962,2018,Volkswagen,Beetle_SE, 26590, Newark, NJ,20442,No Accident or Damage Reported,Hatchback,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+963,1997,Volkswagen,Jetta_GL, 9999, Princeton, NJ ,28558,No Accident or Damage Reported,Sedan,Green_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+964,2011,Volkswagen,Jetta_SEL, 7995, Union, NJ ,119028,No Accident or Damage Reported,Sedan,Silver_Engine:_5_Cyl_2.5_L_,3+ Owners,Personal Use,11
+965,2019,Volkswagen,Golf, 44995, Woodside, NY ,3381,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_2.0_L_,Number of Owners,Vehicle Use,1
+966,2011,Volkswagen,Jetta_SE_Convenience, 6995, Paramus, NJ ,154485,Damage Reported,Sedan,Silver_Engine:_5_Cyl_2.5_L_,3+ Owners,Personal Use,19
+967,2016,Volkswagen,Passat_R-Line, 10995, Totowa, NJ ,84411,Accident Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,3+ Owners,Multiple Use,11
+968,2008,Volkswagen,New_Beetle_SE, 10500, Farmingdale, NY ,68000,No Accident or Damage Reported,Hatchback,Black_Engine:_5_Cyl_2.5_L_,2-Owner,Personal Use,14
+969,2017,Volkswagen,Jetta_SE, 16490, Jamaica, NY ,45577,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,0
+970,2013,Volkswagen,Tiguan, 12985, Massapequa, NY ,65476,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,8
+971,2018,Volkswagen,Jetta_S, Call for Price, Long Island City, NY ,24039,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,1
+972,2020,Volkswagen,Tiguan_S, Call for Price, Long Island City, NY ,3468,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+973,2020,Volkswagen,Tiguan_S, Call for Price, Long Island City, NY ,5479,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+974,2020,Volkswagen,Jetta_SE, Call for Price, Long Island City, NY ,1914,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,3
+975,2018,Volkswagen,Tiguan, Call for Price, West Babylon, NY ,24912,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+976,2013,Volkswagen,Beetle, 18730, Eatontown, NJ ,78984,No Accident or Damage Reported,Convertible,Black_Engine:_5_Cyl_2.5_L_,2-Owner,Personal Use,11
+977,2019,Volkswagen,Jetta_S, 19149, Bridgewater, NJ ,38000,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,9
+978,2017,Volkswagen,Jetta_SE, 15995, Jersey City, NJ ,68183,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,1
+979,2015,Volkswagen,Golf_SE, 16999, Trenton, NJ ,61616,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,13
+980,2012,Volkswagen,Passat_SE, 10995, Neptune, NJ ,102077,Accident Reported,Sedan,Silver_Engine:_5_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,12
+981,2013,Volkswagen,Passat_SE, 9491, Paterson, NJ ,114837,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,2
+982,2019,Volkswagen,Atlas_SE_w/Technology, 35995, Bridgewater, NJ ,39765,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,2
+983,2018,Volkswagen,Atlas_SE_w/Technology, 32244, Brooklyn, NY ,42895,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+984,2007,Volkswagen,Passat_2.0T, 6495, Belleville, NJ ,106957,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,22
+985,2014,Volkswagen,Passat_Wolfsburg_Edition, 15590, Newark, NJ,58402,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,11
+986,2012,Volkswagen,Golf, 14990, Newark, NJ,82099,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+987,2018,Volkswagen,Tiguan_SEL, 25995, Brooklyn, NY ,26169,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+988,2014,Volkswagen,Jetta_GLI, 16785, Inwood, NY ,41235,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+989,2016,Volkswagen,CC_R-Line_Executive, 21440, Linden, NJ ,50367,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,Number of Owners,Personal Use,10
+990,2013,Volkswagen,Beetle, 10495, Elizabeth, NJ ,123277,Accident Reported,Hatchback,Red_Engine:_5_Cyl_2.5_L_,3+ Owners,Personal Use,14
+991,2018,Volkswagen,Tiguan_SEL, 22995, Wall Township, NJ ,42347,Branded Title,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,0
+992,2019,Volkswagen,Tiguan_SEL, 26995, Wall Township, NJ ,12571,Branded Title,SUV,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,0
+993,2010,Volkswagen,Jetta_SE, 5995, South Hackensack, NJ ,107050,Branded Title,Sedan,White_Engine:_5_Cyl_2.5_L_,3+ Owners,Personal Use,11
+994,2015,Volkswagen,Tiguan_SEL, 14965, Amityville, NY ,68853,Accident/Minor Damage,SUV,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+995,2017,Volkswagen,Passat_S, 13988, Elmont, NY ,41909,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,17
+996,2019,Volkswagen,Tiguan_SE, 25950, Neptune, NJ ,24619,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+997,2016,Volkswagen,Jetta_GLI_SEL, 16597, Lake Hopatcong, NJ ,77774,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,11
+998,2013,Volkswagen,Beetle_50s_Edition, 13995, North Middletown, NJ ,112284,Accident Reported,Convertible,Black_Engine:_5_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,16
+999,2018,Volkswagen,Golf, 35325, Massapequa Park, NY ,32998,No Accident or Damage Reported,Hatchback,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,0
+1000,2015,Volkswagen,Passat_Sport, 15995, Woodside, NY ,57492,Minor Damage,Sedan,Black_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,7
+1001,2018,Volkswagen,Golf, 39995, Woodside, NY ,35801,Accident/Minor Damage,Hatchback,4_Cyl_2.0_L_,3+ Owners,Personal Use,3
+1002,2012,Volkswagen,GTI_Convenience, 10995, Point Pleasant Boro, NJ ,164649,Accident Reported,Hatchback,Gray_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,8
+1003,2016,Volkswagen,Passat_S, 16600, Nanuet, NY ,31271,No Accident or Damage Reported,Sedan,Beige_Engine:_4_Cyl_1.8_L_,3+ Owners,Personal Use,7
+1004,2010,Volkswagen,Jetta_S, 8950, Newton, NJ ,74248,No Accident or Damage Reported,Sedan,Black_Engine:_5_Cyl_2.5_L_,3+ Owners,Personal Use,19
+1005,2018,Volkswagen,Golf_S, 21793, Brooklyn, NY ,36192,No Accident or Damage Reported,Wagon,Red_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,12
+1006,2019,Volkswagen,Jetta_S, 18495, Lyndhurst, NJ ,23453,Accident Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,2-Owner,Multiple Use,7
+1007,2015,Volkswagen,Tiguan_SE, 11891, Long Island City, NY ,86112,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+1008,2018,Volkswagen,Beetle_S, 28825, EATONTOWN, NJ ,45854,No Accident or Damage Reported,Convertible,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,5
+1009,2019,Volkswagen,Golf, 41000, White Plains, NY ,23583,Accident Reported,Hatchback,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+1010,2013,Volkswagen,Jetta_SE, 10999, Freehold, NJ ,67840,No Accident or Damage Reported,Sedan,Black_Engine:_5_Cyl_2.5_L_,2-Owner,Personal Use,10
+1011,2014,Volkswagen,Jetta_SE, 9995, Long Branch, NJ ,91980,Accident Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,2-Owner,Multiple Use,9
+1012,2019,Volkswagen,Jetta_SE, 19984, South Plainfield, NJ ,46495,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,2-Owner,Multiple Use,3
+1013,2011,Volkswagen,Jetta_SE, 8995, Clifton, NJ ,130831,Damage Reported,Sedan,Blue_Engine:_5_Cyl_2.5_L_,2-Owner,Personal Use,28
+1014,2012,Volkswagen,Passat_SEL_Premium, 4395, Brooklyn, NY ,89000,Branded Title,Sedan,Black_Engine:_6_Cyl_3.6_L_,3+ Owners,Personal Use,5
+1015,2014,Volkswagen,GTI, 17895, Somerset, NJ ,45274,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+1016,2016,Volkswagen,Tiguan_S, 19159, Fairfield, CT ,52051,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,8
+1017,2018,Volkswagen,Tiguan_SE, 24896, Freehold, NJ ,16590,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+1018,2019,Volkswagen,Jetta_SE, 21434, Edison, NJ ,26935,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,2
+1019,2013,Volkswagen,Jetta, 10195, East Rutherford, NJ ,89225,Accident/Minor Damage,Wagon,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,5
+1020,2019,Volkswagen,Jetta_S, 18902, Bayside, NY ,29892,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+1021,2018,Volkswagen,Atlas_SE_w/Technology, 35052, Bayside, NY ,24797,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+1022,2008,Volkswagen,Jetta_S, 3999, S Hackensack, NJ ,182657,Major Damage,Sedan,Gray_Engine:_5_Cyl_2.5_L_,3+ Owners,Personal Use,21
+1023,2014,Volkswagen,Passat_SE, 11695, Hollis, NY ,73165,Accident Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,7
+1024,2019,Volkswagen,Tiguan_SE, 26981, Flemington, NJ ,37059,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+1025,2019,Volkswagen,Atlas_SE_w/Technology, 35995, Wall Township, NJ ,7458,Branded Title,SUV,Gray_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,0
+1026,2014,Volkswagen,Eos_Sport, 17995, Wall Township, NJ ,40700,Branded Title,Convertible,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+1027,2019,Volkswagen,Atlas_SE, 35868, Brooklyn, NY ,33261,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+1028,2017,Volkswagen,Passat_SE, 18000, Fairfield, CT ,57126,Minor Damage,Sedan,White_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Vehicle Use,5
+1029,2018,Volkswagen,Atlas_SE_w/Technology, 33994, Brooklyn, NY ,66910,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,7
+1030,2017,Volkswagen,Passat_R-Line, Call for Price, Tenafly, NJ ,33820,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,3
+1031,2018,Volkswagen,Tiguan_SEL, 26987, Ramsey, NJ ,43908,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+1032,2020,Volkswagen,Jetta, 20695, Linden, NJ ,9806,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+1033,2011,Volkswagen,Jetta_SEL_w/Sport, 9995, New Windsor, NY ,108405,Accident Reported,Sedan,Black_Engine:_5_Cyl_2.5_L_,3+ Owners,Personal Use,28
+1034,2013,Volkswagen,Jetta_GLI_Autobahn, 11290, Paterson, NJ ,104857,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,35
+1035,2016,Volkswagen,Jetta_GLI_SEL, 18900, Neptune, NJ ,50364,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+1036,2016,Volkswagen,Beetle_Classic, 16399, Jersey City, NJ ,83054,No Accident or Damage Reported,Hatchback,Blue_Engine:_4_Cyl_1.8_L_,2-Owner,Multiple Use,9
+1037,2017,Volkswagen,Golf, 32888, West Islip, NY ,33159,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+1038,2016,Volkswagen,Jetta_S_w/Technology, Call for Price, Lyndhurst, NJ ,21086,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_1.4_L_,2-Owner,Personal Use,14
+1039,2017,Volkswagen,Passat_R-Line, 19995, Asbury Park, NJ ,32935,Minor Damage,Sedan,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,3
+1040,2016,Volkswagen,Jetta_S, 18988, Sayville, NY ,0,No Accident or Damage Reported,Sedan,4_Cyl_1.4_L_,Number of Owners,Lease Use,2
+1041,2011,Volkswagen,Tiguan_S, 10889, New York, NY ,86877,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,35
+1042,2015,Volkswagen,Passat_Wolfsburg_Edition, 14950, Greenwich, CT ,63267,Accident/Minor Damage,Sedan,Silver_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,4
+1043,2019,Volkswagen,Beetle_SE, 35988, Lakewood, NJ ,11296,No Accident or Damage Reported,Convertible,4_Cyl_2.0_L_,2-Owner,Multiple Use,5
+1044,2019,Volkswagen,Jetta_SE, 19500, White Plains, NY ,25085,Accident Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,2
+1045,2018,Volkswagen,Atlas_SE, Call for Price, Yonkers, NY ,46516,No Accident or Damage Reported,SUV,6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,5
+1046,2017,Volkswagen,Golf_Wolfsburg_Edition, 17694, West Islip, NY ,50724,Accident/Minor Damage,Hatchback,Blue_Engine:_4_Cyl_1.8_L_,CARFAX 1-Owner,Personal Use,13
+1047,2013,Volkswagen,Beetle, 15990, Ridgefield, CT ,49449,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+1048,2014,Volkswagen,Jetta_SE, 7499, S Hackensack, NJ ,153158,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_1.8_L_,3+ Owners,Multiple Use,17
+1049,2019,Volkswagen,Tiguan_S, 20950, Neptune, NJ ,48690,No Accident or Damage Reported,SUV,Orange_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+1050,2019,Volkswagen,Tiguan_S, 20950, Neptune, NJ ,48690,No Accident or Damage Reported,SUV,Orange_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+1051,2017,Volkswagen,Passat_R-Line, 16900, North Plainfield, NJ ,78184,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_1.8_L_,2-Owner,Multiple Use,7
+1052,2018,Volkswagen,Tiguan_SEL, 23995, Wall Township, NJ ,20337,Branded Title,SUV,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+1053,2010,Volkswagen,Passat_Komfort, 5999, Paterson, NJ ,97879,Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,45
+1054,2007,Volkswagen,Jetta_Wolfsburg_Edition, 4499, Sussex, NJ ,121734,No Accident or Damage Reported,Sedan,White_Engine:_5_Cyl_2.5_L_,3+ Owners,Personal Use,14
+1055,2018,Volkswagen,Tiguan_SE, 25998, Roselle, NJ ,20380,Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+1056,2013,Volkswagen,Jetta_GLI_Autobahn, 11942, Carlstadt, NJ ,90898,Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,17
+1057,2010,Volkswagen,Passat_Komfort, 6795, Yonkers, NY ,129300,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,26
+1058,1994,Volkswagen,Corrado_SLC, 39995, Syosset, NY ,38995,No Accident or Damage Reported,Hatchback,Black_Engine:_6_Cyl_2.8_L_,2-Owner,Personal Use,22
+1059,2013,Volkswagen,CC_R-Line, 11995, Newark, NJ ,91447,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,20
+1060,2018,Volkswagen,Golf, 39664, Bridgewater, NJ ,24145,No Accident or Damage Reported,Hatchback,Yellow_Engine:_4_Cyl_2.0_L_,Number of Owners,Personal Use,13
+1061,2017,Volkswagen,Passat_R-Line, 16198, Elmont, NY ,47304,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,9
+1062,2013,Volkswagen,Passat_SE, 13997, Newfoundland, NJ ,46451,Accident Reported,Sedan,Blue_Engine:_5_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,19
+1063,2014,Volkswagen,Jetta_GLI_Edition_30, 13995, Commack, NY ,101096,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,17
+1064,2003,Volkswagen,Jetta_GLS, 2999, Lakewood, NJ ,125101,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,24
+1065,2016,Volkswagen,Passat_SE, 20190, Tinton Falls, NJ ,23344,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,5
+1066,2006,Volkswagen,New_Beetle, 5999, Sussex, NJ ,90384,Accident Reported,Convertible,Silver_Engine:_5_Cyl_2.5_L_,2-Owner,Personal Use,27
+1067,2017,Volkswagen,Tiguan_S, 24900, Verona, NJ ,14245,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+1068,2019,Volkswagen,Jetta_S, Call for Price, Richmond Hill, NY ,47711,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_1.4_L_,2-Owner,Personal Use,5
+1069,2019,Volkswagen,Jetta_SEL, 21888, Bronx, NY ,33715,Accident Reported,Sedan,Gray_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+1070,2018,Volkswagen,Passat_SE, 19988, Bronx, NY ,45084,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+1071,2020,Volkswagen,Passat_SE, 20885, Hasbrouck Heights, NJ ,37579,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Rental Use,2
+1072,2021,Volkswagen,Atlas_SE_w/Technology, 39965, Amityville, NY ,9335,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Rental Use,1
+1073,2016,Volkswagen,Passat_S, 16995, Staten Island, NY ,46858,Damage Reported,Sedan,White_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,16
+1074,2012,Volkswagen,Tiguan_SEL, 12900, Neptune, NJ ,77447,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,23
+1075,2004,Volkswagen,Passat_GLX, 5900, Hazlet, NJ ,81328,Accident Reported,Sedan,6_Cyl_2.8_L_,CARFAX 1-Owner,Personal Use,12
+1076,2012,Volkswagen,Tiguan_SEL, 12900, Neptune, NJ ,77447,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,23
+1077,2018,Volkswagen,Tiguan_SE, 22500, Fair Lawn, NJ ,67615,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,10
+1078,2010,Volkswagen,New_Beetle, 12590, Pleasantville, NY,48833,No Accident or Damage Reported,Hatchback,Blue_Engine:_5_Cyl_2.5_L_,3+ Owners,Multiple Use,20
+1079,2018,Volkswagen,Tiguan_SE, 25101, West Islip, NY ,22393,Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+1080,2018,Volkswagen,Atlas_SEL, 39987, West Islip, NY ,32466,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,10
+1081,2013,Volkswagen,Beetle, 14500, Rochelle Park, NJ ,32817,No Accident or Damage Reported,Hatchback,Black_Engine:_5_Cyl_2.5_L_,CARFAX 1-Owner,Personal Use,13
+1082,2018,Volkswagen,Tiguan_SE, 26000, Summit, NJ ,35566,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+1083,2018,Volkswagen,Atlas_SE, 30849, Bridgewater, NJ ,32423,Accident/Minor Damage,SUV,Blue_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Lease Use,4
+1084,2020,Volkswagen,Passat_SE, Call for Price, Long Island City, NY ,9604,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+1085,2020,Volkswagen,Tiguan_S, Call for Price, Long Island City, NY ,17148,Accident Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+1086,2018,Volkswagen,Tiguan_S, Call for Price, Long Island City, NY ,33743,Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+1087,2020,Volkswagen,Passat_S, Call for Price, Long Island City, NY ,16693,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+1088,2020,Volkswagen,Jetta_S, Call for Price, Long Island City, NY ,13082,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,5
+1089,2019,Volkswagen,Jetta_SEL, Call for Price, Jamaica, NY ,31848,Accident/No Damage,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,6
+1090,2017,Volkswagen,Beetle_S, 20495, Lakewood, NJ ,42398,No Accident or Damage Reported,Hatchback,Red_Engine:_4_Cyl_1.8_L_,2-Owner,Multiple Use,12
+1091,2018,Volkswagen,Atlas_S, 29998, Roselle, NJ ,22539,Accident/No Damage,SUV,Yellow_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,9
+1092,2019,Volkswagen,Jetta_S, 20495, Commack, NY ,36572,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_1.4_L_,CARFAX 1-Owner,Personal Use,6
+1093,2016,Volkswagen,Passat_S, 19995, Brooklyn, NY ,97770,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_1.8_L_,2-Owner,Personal Use,13
+1094,2016,Volkswagen,Touareg_Luxury, 37995, Wall Township, NJ ,49002,Branded Title,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,20
+1095,2014,Volkswagen,Tiguan_SEL, 13900, Bohemia, NY ,102749,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,16
+1096,2019,Volkswagen,Atlas_SEL, 36995, Wall Township, NJ ,27630,Branded Title,SUV,Black_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,3
+1097,2013,Volkswagen,CC_Sport_Plus, 10199, Old Bridge, NJ ,108854,No Accident or Damage Reported,Sedan,Brown_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,26
+1098,2019,Volkswagen,Atlas_SEL, 39995, Wall Township, NJ ,15366,Branded Title,SUV,White_Engine:_6_Cyl_3.6_L_,CARFAX 1-Owner,Personal Use,4
+1099,2018,Volkswagen,Tiguan_S, 21995, Wall Township, NJ ,5082,Branded Title,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6

@@ -1,0 +1,1101 @@
+,Year,Brand,Model,Cost,City,State,Mileage,Accident,Body,Engine,Owners,Usefor,Services
+0,2018,Acura,TLX_A-Spec, 30495, Jersey City, NJ ,37510,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,15
+1,2013,Acura,TL, 14995, Freeport, NY ,94321,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,10
+2,2014,Acura,TL_Technology, 11999, Lakewood, NJ ,131858,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,17
+3,2018,Acura,MDX_Base, 32495, Bay Shore, NY ,36823,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+4,2019,Acura,MDX_Technology_Entertainment, 33500, Denville, NJ ,65356,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+5,2020,Acura,TLX_Technology, 29995, Bay Shore, NY ,22047,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+6,2019,Acura,TLX_Technology, 28995, Bay Shore, NY ,24191,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+7,2019,Acura,RDX_Base, 31995, Bay Shore, NY ,10686,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+8,2020,Acura,RDX_Technology, 39995, Bay Shore, NY ,10735,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+9,2019,Acura,TLX_Base, 25995, Bay Shore, NY ,38341,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+10,2020,Acura,RDX, 43825, Bay Shore, NY ,11871,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+11,2021,Acura,TLX_Technology, 39765, Roslyn, NY ,677,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+12,2020,Acura,RDX, 38850, Larchmont, NY ,53419,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+13,2019,Acura,TLX_Base, 26995, Bay Shore, NY ,29639,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+14,2020,Acura,TLX_A-Spec, 34995, Bay Shore, NY ,11132,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+15,2020,Acura,TLX_Base, 29995, Bay Shore, NY ,7436,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+16,2019,Acura,TLX_Base, 27495, Bay Shore, NY ,29736,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+17,2019,Acura,RDX_Base, 34995, Bay Shore, NY ,21335,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+18,2018,Acura,MDX_Technology, 34297, Roslyn, NY ,23522,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+19,2019,Acura,TLX_Technology, 29500, Roslyn, NY ,18336,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+20,2020,Acura,RDX_Technology, 39995, Bay Shore, NY ,9954,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+21,2019,Acura,TLX_Technology, 27500, Scarsdale, NY ,11339,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+22,2018,Acura,MDX_Base, 31936, Roslyn, NY ,20406,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+23,2019,Acura,RDX_Base, 33925, Bay Shore, NY ,43680,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+24,2019,Acura,RDX_Base, 33700, Woodside, NY ,22683,No Accident or Damage Reported,SUV,Bronze_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+25,2018,Acura,MDX_Base, 31474, Bedford Hills, NY ,46641,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+26,2019,Acura,TLX_Technology, 29985, Larchmont, NY ,13922,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+27,2018,Acura,MDX_Base, 32249, Roslyn, NY ,25000,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+28,2021,Acura,ILX, 25000, Scarsdale, NY ,2920,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+29,2019,Acura,TLX_A-Spec, 34600, Bedford Hills, NY ,33147,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+30,2021,Acura,TLX_A-Spec, 42000, Woodside, NY ,20610,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+31,2018,Acura,TLX_Technology, 28895, Larchmont, NY ,17567,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+32,2018,Acura,MDX_Base, 31929, Wantagh, NY ,37031,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+33,2019,Acura,TLX_Base, 26953, Larchmont, NY ,35434,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+34,2019,Acura,TLX_A-Spec, 36875, Larchmont, NY ,10420,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+35,2018,Acura,MDX_Base, 32000, Woodside, NY ,40392,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+36,2019,Acura,RDX_Base, 34502, Bay Shore, NY ,12725,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+37,2019,Acura,RDX_Base, 32204, Roslyn, NY ,30063,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+38,2018,Acura,MDX_Technology, 36000, Rochelle Park, NJ ,27305,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+39,2018,Acura,MDX_Base, 34000, Scarsdale, NY ,19384,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+40,2019,Acura,RDX_Base, 32894, Bedford Hills, NY ,26998,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+41,2019,Acura,RDX_Technology, 33821, Roslyn, NY ,26500,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+42,2014,Acura,TL_Technology, 11999, Lakewood, NJ ,131858,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,17
+43,2021,Acura,ILX_Premium, 30000, Scarsdale, NY ,1364,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+44,2019,Acura,MDX_Technology, 38500, Scarsdale, NY ,17015,No Accident or Damage Reported,SUV,Bronze_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+45,2020,Acura,TLX_Technology, 32200, Roslyn, NY ,10686,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+46,2019,Acura,TLX_Base, 27704, Larchmont, NY ,28772,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+47,2021,Acura,ILX_Premium, 28895, Larchmont, NY ,1005,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+48,2019,Acura,TLX_Base, 26929, Wantagh, NY ,15894,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+49,2019,Acura,TLX_A-Spec, 32875, Larchmont, NY ,7762,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+50,2019,Acura,TLX_Base, 26929, Wantagh, NY ,15894,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+51,2019,Acura,TLX_A-Spec, 32875, Larchmont, NY ,7762,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+52,2018,Acura,MDX_Technology, 34704, Larchmont, NY ,38702,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+53,2019,Acura,TLX_Base, 27299, Roslyn, NY ,19000,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+54,2018,Acura,MDX_Base, 32049, Roslyn, NY ,35436,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+55,2019,Acura,TLX_A-Spec, 28990, Bronx, NY ,19359,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+56,2018,Acura,MDX_Base, 31750, Bedford Hills, NY ,42315,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+57,2019,Acura,RDX_Base, 32808, Bedford Hills, NY ,38051,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+58,2018,Acura,ILX, 21155, Bedford Hills, NY ,17340,No Accident or Damage Reported,Sedan,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+59,2019,Acura,RDX_Technology, 34250, Bedford Hills, NY ,43562,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+60,2020,Acura,RDX_Technology, 37500, Scarsdale, NY ,16897,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+61,2019,Acura,TLX_Base, 24500, Rochelle Park, NJ ,39840,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+62,2019,Acura,TLX_Base, 27400, Stamford, CT ,38201,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+63,2018,Acura,MDX_Advance, 38000, Rochelle Park, NJ ,44844,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+64,2019,Acura,MDX_Technology, 38500, Rochelle Park, NJ ,28757,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+65,2020,Acura,RDX, 42000, Scarsdale, NY ,12350,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+66,2019,Acura,RDX_Base, 32000, Scarsdale, NY ,34626,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+67,2019,Acura,RDX_Technology, 37738, Denville, NJ ,8146,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+68,2020,Acura,MDX_Technology_A-Spec, 47000, Scarsdale, NY ,9255,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+69,2019,Acura,MDX_Technology, 39000, Rochelle Park, NJ ,19745,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+70,2019,Acura,TLX_Technology, 28500, Scarsdale, NY ,43306,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+71,2019,Acura,MDX_Technology_A-Spec, 40854, Denville, NJ ,41292,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+72,2020,Acura,TLX_Base, 28450, Summit, NJ ,8124,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+73,2019,Acura,RDX_Base, 32500, Wayne, NJ ,34813,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+74,2018,Acura,ILX_Premium, 20990, Bronx, NY ,12324,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+75,2019,Acura,TLX_Technology, 31704, Larchmont, NY ,6877,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+76,2019,Acura,TLX_Technology, 30875, Larchmont, NY ,15288,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+77,2018,Acura,MDX_Base, 31929, Wantagh, NY ,40628,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+78,2019,Acura,RDX_Base, 32133, Roslyn, NY ,35721,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+79,2019,Acura,TLX_Base, 27998, Lawrence Township, NJ ,47226,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+80,2018,Acura,MDX_Advance, 39929, Wantagh, NY ,18818,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+81,2019,Acura,TLX_Base, 27633, Bedford Hills, NY ,31277,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+82,2019,Acura,TLX_Base, 26643, Bedford Hills, NY ,39584,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+83,2020,Acura,MDX_Technology, 43300, Bedford Hills, NY ,13483,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+84,2019,Acura,TLX_Base, 27000, Scarsdale, NY ,20124,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+85,2019,Acura,TLX_Base, 25900, Scarsdale, NY ,44129,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,14
+86,2019,Acura,MDX_Base, 35750, Rochelle Park, NJ ,20357,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+87,2019,Acura,MDX_Technology, 38500, Rochelle Park, NJ ,30905,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+88,2019,Acura,MDX_Technology, 37998, Westbury, NY ,20790,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+89,2020,Acura,RDX, 42566, Ramsey, NJ ,13190,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+90,2019,Acura,MDX_Base, 36062, Denville, NJ ,26651,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+91,2018,Acura,MDX_Base, 33500, Scarsdale, NY ,13857,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+92,2019,Acura,MDX_Base, 35995, Bay Shore, NY ,25690,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+93,2019,Acura,MDX_Technology, 37628, West Caldwell, NJ ,22432,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+94,2019,Acura,TLX_A-Spec, 32732, Larchmont, NY ,62339,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+95,2019,Acura,RDX_Base, 31700, Wayne, NJ ,40442,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+96,2016,Acura,ILX_Premium, 15000, Rochelle Park, NJ ,105297,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,8
+97,2018,Acura,MDX_Advance_Entertainment, 36990, Denville, NJ ,67849,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+98,2019,Acura,RDX, 38490, Denville, NJ ,41557,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+99,2019,Acura,MDX_Advance, 40502, Bedford Hills, NY ,34997,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+100,2020,Acura,MDX_Base, 37074, Bedford Hills, NY ,36624,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+101,2018,Acura,MDX_Base, 32500, Bedford Hills, NY ,32701,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+102,2018,Acura,MDX_Technology, 33000, Bedford Hills, NY ,48507,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+103,2019,Acura,MDX_Base, 32338, Roslyn, NY ,39488,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+104,2019,Acura,RDX_Advance, 37486, Pompton Plains, NJ ,13033,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+105,2017,Acura,MDX_Base, 28995, South Hackensack, NJ ,46570,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+106,2019,Acura,RDX_Technology, 33900, Scarsdale, NY ,34813,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+107,2019,Acura,TLX_Base, 23900, Scarsdale, NY ,48971,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,16
+108,2017,Acura,MDX_Base, 29500, Rochelle Park, NJ ,40658,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+109,2019,Acura,RDX_Advance, 38595, Mount Kisco, NY ,17081,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+110,2018,Acura,MDX_Base, 32500, Scarsdale, NY ,31646,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+111,2018,Acura,MDX_Technology, 34000, Scarsdale, NY ,34026,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+112,2016,Acura,ILX_Premium, 19900, Scarsdale, NY ,15109,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+113,2020,Acura,MDX_Base, 40000, Woodside, NY ,8502,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Commercial Use,5
+114,2018,Acura,RDX, 23800, Brooklyn, NY ,45098,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+115,2020,Acura,TLX_A-Spec, 34669, East Brunswick, NJ ,20274,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+116,2019,Acura,TLX_Base, 24300, Wayne, NJ ,30624,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+117,2020,Acura,MDX_Technology, 43995, Bay Shore, NY ,20904,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+118,2018,Acura,MDX_Technology, 34995, Bay Shore, NY ,41660,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+119,2020,Acura,RDX_Base, 38495, Bay Shore, NY ,13273,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+120,2019,Acura,RDX_Technology, 33176, Denville, NJ ,41354,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+121,2017,Acura,MDX_Technology, 28999, Jamaica, NY ,54000,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+122,2020,Acura,TLX_A-Spec, 33000, Woodside, NY ,11832,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+123,2019,Acura,TLX_A-Spec, 28929, Wantagh, NY ,17463,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+124,2019,Acura,RDX_Technology, 34445, Roslyn, NY ,11564,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+125,2020,Acura,TLX_A-Spec, 32995, Copiague, NY ,34123,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+126,2019,Acura,ILX_Premium, 24888, Butler, NJ ,26853,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+127,2019,Acura,ILX_Premium, 19990, Jamaica, NY ,82857,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,16
+128,2019,Acura,ILX_Premium, 21994, West Islip, NY ,39549,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+129,2016,Acura,ILX_Technology_Plus, 13997, Elizabeth, NJ ,104166,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+130,2013,Acura,MDX_Technology, 15888, EATONTOWN, NJ ,117043,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,7
+131,2014,Acura,MDX_Technology, 21500, Stamford, CT ,78753,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,22
+132,2019,Acura,RDX_Advance, 37995, Totowa, NJ ,26567,No Accident or Damage Reported,SUV,Bronze_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+133,2019,Acura,TLX_Base, 23500, Wayne, NJ ,51000,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+134,2019,Acura,RDX_Base, 33995, Wayne, NJ ,36025,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+135,2019,Acura,RDX, 37900, Wayne, NJ ,35341,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+136,2019,Acura,MDX_Advance, 41995, Lawrence Township, NJ ,38093,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+137,2018,Acura,ILX, 21495, East Brunswick, NJ ,19288,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+138,2019,Acura,RDX, 36777, Eatontown, NJ ,45421,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+139,2019,Acura,RDX_Base, 33997, East Brunswick, NJ ,32566,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+140,2020,Acura,MDX_Technology, 45495, Bay Shore, NY ,20112,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+141,2021,Acura,RDX_Technology, 44324, Watchung, NJ ,7461,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+142,2019,Acura,ILX, 22995, Bay Shore, NY ,32053,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+143,2019,Acura,MDX_Technology, 38995, Bay Shore, NY ,29793,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+144,2018,Acura,MDX_Base, 30000, Woodside, NY ,48479,Accident Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+145,2018,Acura,MDX_Advance, 38929, Wantagh, NY ,21000,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+146,2021,Acura,TLX_Technology, 38895, Larchmont, NY ,3550,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,1
+147,2020,Acura,MDX_Technology, 45500, Woodside, NY ,6396,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Commercial Use,5
+148,2014,Acura,MDX_Technology_Entertainment, 20995, Lindenhurst, NY ,78179,No Accident or Damage Reported,SUV,Burgundy_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,15
+149,2001,Acura,MDX_Touring, 5899, West Milford, NJ ,145865,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,9
+150,2019,Acura,RDX_Base, 32550, Brooklyn, NY ,36082,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+151,2016,Acura,ILX, 14201, Paterson, NJ ,114480,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,16
+152,2019,Acura,RDX_Technology, 35595, Glen Cove, NY ,19795,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+153,2020,Acura,RDX_Base, 36000, Scarsdale, NY ,18987,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+154,2018,Acura,MDX_Base, 29670, Massapequa Park, NY ,38567,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+155,2018,Acura,TLX_Advance, 29929, Wantagh, NY ,25696,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+156,2018,Acura,ILX_Technology_Plus, 21995, Saint James, NY ,38987,No Accident or Damage Reported,Sedan,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,14
+157,2019,Acura,RDX_Technology, 33444, Stamford, CT ,33231,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+158,2015,Acura,RDX_Base, 15897, New Windsor, NY ,108970,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,7
+159,2019,Acura,TLX_Technology, 30743, Roslyn, NY ,20803,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+160,2018,Acura,RDX, 23995, Edison, NJ ,42448,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+161,2020,Acura,RDX, 39895, Amityville, NY ,33486,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+162,2019,Acura,RDX_Base, 31700, Wayne, NJ ,38946,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+163,2020,Acura,MDX_Technology, 43700, Wayne, NJ ,9016,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+164,2013,Acura,TL, 14995, Freeport, NY ,94321,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,10
+165,2019,Acura,TLX_Base, 26488, Greenwich, CT ,25000,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+166,2019,Acura,MDX_Technology, 38480, East Brunswick, NJ ,32005,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+167,2021,Acura,TLX_Technology, 38495, East Brunswick, NJ ,4307,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+168,2019,Acura,MDX_Base, 35300, Wayne, NJ ,38501,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+169,2016,Acura,MDX_Base, 26500, Jersey City, NJ ,28817,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+170,2018,Acura,ILX_Premium, 22500, Scarsdale, NY ,12060,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+171,2018,Acura,MDX_Technology, 37900, Wayne, NJ ,37267,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+172,2019,Acura,TLX_Technology, 26500, Wayne, NJ ,37247,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+173,2019,Acura,TLX_Technology, 27500, Wayne, NJ ,15396,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+174,2020,Acura,MDX_Technology, 42999, Bridgewater, NJ ,28336,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+175,2018,Acura,TLX_Base, 23689, PARAMUS, NJ ,26685,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,12
+176,2017,Acura,MDX_Technology, 30704, Larchmont, NY ,41769,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+177,2018,Acura,MDX_Base, 33000, Woodside, NY ,24458,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+178,2019,Acura,RDX_Base, 31856, Roslyn, NY ,14180,Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+179,2017,Acura,TLX_Technology, 22084, Farmingdale, NY ,38625,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,15
+180,2020,Acura,MDX_Advance, 48000, Bedford Hills, NY ,10525,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Commercial Use,4
+181,2019,Acura,TLX_A-Spec, 34500, Rochelle Park, NJ ,23513,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+182,2021,Acura,TLX_A-Spec, 43500, Bedford Hills, NY ,6250,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,2
+183,2019,Acura,RDX_Technology, 32609, Bronx, NY ,58746,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+184,2019,Acura,MDX_Technology, 39982, Larchmont, NY ,20672,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+185,2019,Acura,MDX_Advance, 44895, Lawrence Township, NJ ,16645,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+186,2019,Acura,TLX_Technology, 29635, Roslyn, NY ,35053,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+187,2018,Acura,MDX_Base, 33777, West Long Branch, NJ ,32081,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+188,2020,Acura,TLX_A-Spec, 37875, Larchmont, NY ,18865,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+189,2020,Acura,TLX_A-Spec, 38074, Roslyn, NY ,5738,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+190,2019,Acura,TLX_Technology, 29962, Roslyn, NY ,34275,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+191,2019,Acura,TLX_Technology, 29929, Wantagh, NY ,17015,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+192,2019,Acura,RDX_Technology, 37695, Lawrence Township, NJ ,29859,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+193,2019,Acura,RDX, 39000, Woodside, NY ,18716,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,23
+194,2020,Acura,TLX_A-Spec, 33888, Bronx, NY ,11873,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+195,2019,Acura,RDX_Technology, 34000, Scarsdale, NY ,30990,Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+196,2021,Acura,RDX, 45500, Rochelle Park, NJ ,9611,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,4
+197,2018,Acura,MDX_Base, 33500, Rochelle Park, NJ ,23972,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+198,2019,Acura,RDX, 34900, Rahway, NJ ,51627,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+199,2020,Acura,MDX_Technology_A-Spec, 42950, Woodside, NY ,22950,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+200,2020,Acura,TLX_A-Spec, 39290, Larchmont, NY ,9597,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+201,2018,Acura,MDX_Technology, 31499, Brooklyn, NY ,21648,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+202,2018,Acura,MDX_Advance, 39985, Larchmont, NY ,21236,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+203,2018,Acura,RDX_Advance, 29458, Greenvale, NY ,35585,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,16
+204,2020,Acura,RDX, 39990, Valley Stream, NY ,3185,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+205,2018,Acura,MDX_Base, 28999, Ramsey, NJ ,43305,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+206,2018,Acura,MDX_Base, 33669, East Brunswick, NJ ,33563,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+207,2019,Acura,TLX_Advance, 33480, East Brunswick, NJ ,22879,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+208,2017,Acura,ILX_Premium, 19300, Old Bridge, NJ ,35324,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+209,2019,Acura,TLX_Base, 26981, East Brunswick, NJ ,32851,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+210,2019,Acura,RDX_Technology, 34969, East Brunswick, NJ ,46530,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+211,2015,Acura,TLX_Technology, 17997, Elizabeth, NJ ,90668,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,6
+212,2019,Acura,RDX_Base, 30800, Wayne, NJ ,43250,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,5
+213,2019,Acura,RDX, 40000, Rochelle Park, NJ ,24837,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+214,2019,Acura,RDX_Base, 34000, Scarsdale, NY ,15301,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+215,2020,Acura,TLX_A-Spec, 29450, Woodside, NY ,15635,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+216,2018,Acura,TLX_A-Spec, 30495, Jersey City, NJ ,37510,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,15
+217,2019,Acura,RDX_Technology, 32990, Great Neck, NY ,19042,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+218,2020,Acura,MDX_Base, 40100, Wayne, NJ ,8427,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+219,2020,Acura,MDX_Technology_A-Spec, 41270, Hollis, NY ,33749,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+220,2019,Acura,RDX, 37995, Bay Shore, NY ,42758,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+221,2019,Acura,MDX_Technology, 34300, Bedford Hills, NY ,76249,No Accident or Damage Reported,SUV,Bronze_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Corporate Use,12
+222,2020,Acura,MDX_Technology, 45000, Bedford Hills, NY ,11363,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Commercial Use,3
+223,2018,Acura,TLX_Technology, 26231, Hempstead, NY ,22964,No Accident or Damage Reported,Sedan,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+224,2017,Acura,RDX_Technology, 25895, Newton, NJ ,59335,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+225,2019,Acura,RDX_Base, 32875, Larchmont, NY ,35835,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+226,2019,Acura,RDX_Base, 34874, Larchmont, NY ,25069,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+227,2019,Acura,RDX_Base, 32929, Wantagh, NY ,38796,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+228,2019,Acura,RDX_Technology, 35704, Larchmont, NY ,35318,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+229,2019,Acura,MDX_Base, 36985, Larchmont, NY ,19520,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+230,2019,Acura,RDX_Base, 33704, Larchmont, NY ,25025,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+231,2019,Acura,RDX_Advance, 38704, Larchmont, NY ,25416,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+232,2018,Acura,MDX_Advance, 39985, Larchmont, NY ,20519,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+233,2018,Acura,MDX_Technology, 37985, Larchmont, NY ,22443,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+234,2020,Acura,TLX_Base, 31985, Larchmont, NY ,13584,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+235,2019,Acura,RDX_Base, 34704, Larchmont, NY ,24308,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+236,2018,Acura,MDX_Technology, 39985, Larchmont, NY ,23864,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+237,2018,Acura,MDX_Technology, 35704, Larchmont, NY ,30539,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+238,2019,Acura,RDX_Technology, 34929, Wantagh, NY ,32829,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+239,2018,Acura,RDX_Technology, 28929, Wantagh, NY ,44755,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+240,2018,Acura,ILX, 21000, White Plains, NY ,31403,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+241,2019,Acura,RDX_Technology, 38995, Lawrence Township, NJ ,25075,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+242,2018,Acura,RLX_Technology, 27481, Avenel, NJ ,42894,No Accident or Damage Reported,Sedan,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,15
+243,2019,Acura,MDX_Base, 32500, Bedford Hills, NY ,48585,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+244,2017,Acura,ILX_Technology_Plus, 17980, Richmond Hill, NY ,61819,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,3
+245,2019,Acura,MDX_Technology, 38500, Scarsdale, NY ,20182,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+246,2020,Acura,MDX_Technology, 39895, Colonia, NJ ,12301,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+247,2019,Acura,RDX_Technology, 37807, Hempstead, NY ,20263,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+248,2018,Acura,MDX_Technology, 32900, Scarsdale, NY ,45244,Minor Damage,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,14
+249,2018,Acura,MDX_Technology, 33000, Scarsdale, NY ,42874,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,17
+250,2016,Acura,ILX, 15995, Belmar, NJ ,120072,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,23
+251,2018,Acura,RDX, 24284, Denville, NJ ,61325,Minor Damage,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,16
+252,2018,Acura,MDX_Technology, 34500, Scarsdale, NY ,26018,Accident/Minor Damage,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,18
+253,2021,Acura,TLX_A-Spec, 41000, Rochelle Park, NJ ,7778,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,3
+254,2019,Acura,RDX_Technology, 34500, Rochelle Park, NJ ,28977,Accident/Minor Damage,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+255,2020,Acura,RDX_Base, 36995, Mount Kisco, NY ,8176,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+256,2019,Acura,RDX_Advance, 39750, Newton, NJ ,20659,No Accident or Damage Reported,SUV,Bronze_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+257,2021,Acura,RDX, 39950, Bronx, NY ,16260,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+258,2018,Acura,ILX, 19995, Bronx, NY ,29223,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+259,2019,Acura,MDX_Technology_Entertainment, 37700, Stamford, CT ,45793,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+260,2019,Acura,TLX_A-Spec, 29708, Bedford Hills, NY ,20194,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+261,2019,Acura,RDX_Base, 34500, Rochelle Park, NJ ,26890,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+262,2018,Acura,RDX_Technology, 28359, Jersey City, NJ ,49036,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+263,2009,Acura,TL, 7988, Great Neck, NY ,126149,Accident Reported,Sedan,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+264,2006,Acura,TL, 4995, South Hackensack, NJ ,162016,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.2_L_,3+ Owners,Personal Use,5
+265,2018,Acura,ILX_Premium, 17995, Jamaica, NY ,37517,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+266,2019,Acura,TLX_A-Spec, 30995, Commack, NY ,9515,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+267,2019,Acura,MDX_Base, 34995, Bay Shore, NY ,29416,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+268,2018,Acura,ILX, 21495, Bay Shore, NY ,16343,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+269,2017,Acura,MDX_Technology, 30995, Bay Shore, NY ,53743,No Accident or Damage Reported,SUV,Brown_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Corporate Use,14
+270,2019,Acura,MDX_Technology_A-Spec, 39990, Valley Stream, NY ,31059,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+271,2019,Acura,TLX_Base, 25995, Bay Shore, NY ,29177,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+272,2019,Acura,RDX_Technology, 33995, Bay Shore, NY ,37426,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+273,2019,Acura,TLX_Base, 26995, Bay Shore, NY ,18725,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+274,2017,Acura,MDX_Technology, 26995, Bronx, NY ,42279,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+275,2016,Acura,MDX_Technology, 27988, Great Neck, NY ,14885,Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+276,2019,Acura,MDX_Advance, 41225, Bay Shore, NY ,37421,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+277,2019,Acura,ILX_Premium, 28999, Bay Shore, NY ,25666,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+278,2018,Acura,ILX_Technology_Plus, 23093, Nanuet, NY ,16157,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+279,2019,Acura,TLX_Base, 23995, Brooklyn, NY ,35114,Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+280,2018,Acura,ILX_Special_Edition, 19368, Long Island City, NY ,28815,Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+281,2019,Acura,MDX_Base, 32500, Rockville Centre, NY ,50933,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,3
+282,2013,Acura,MDX, 12999, Paterson, NJ ,143641,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,31
+283,2020,Acura,MDX_Technology, 43688, Brooklyn, NY ,6733,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+284,2014,Acura,MDX_Technology, 20500, Wayne, NJ ,96993,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,23
+285,2001,Acura,CL, 9995, Morristown, NJ ,58829,No Accident or Damage Reported,Coupe,Silver_Engine:_6_Cyl_3.2_L_,2-Owner,Personal Use,18
+286,2020,Acura,MDX_Technology, 43900, Glen Cove, NY ,15399,No Accident or Damage Reported,SUV,6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+287,2018,Acura,MDX_Base, 32995, Brooklyn, NY ,29803,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+288,2019,Acura,RDX_Base, 34999, Jersey City, NJ ,10003,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+289,2018,Acura,MDX_Base, 32500, Scarsdale, NY ,35148,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+290,2019,Acura,MDX_Technology, 39000, Rochelle Park, NJ ,29525,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+291,2018,Acura,MDX_Base, 34000, Scarsdale, NY ,19829,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+292,2019,Acura,RDX_Base, 33000, Scarsdale, NY ,29394,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+293,2020,Acura,RDX_Base, 38495, Stamford, CT ,9723,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+294,2018,Acura,MDX_Base, 34000, Scarsdale, NY ,19899,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+295,2019,Acura,MDX_Base, 35000, Rochelle Park, NJ ,36797,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+296,2018,Acura,MDX_Technology, 32500, Stamford, CT ,76235,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+297,2019,Acura,MDX_Technology_A-Spec, 42900, Fairfield, CT ,27221,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+298,2019,Acura,MDX_Advance, 42000, Scarsdale, NY ,21265,No Accident or Damage Reported,SUV,Bronze_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,17
+299,2020,Acura,TLX_Base, 31000, Scarsdale, NY ,22804,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+300,2020,Acura,TLX_Base, 31000, Scarsdale, NY ,22804,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+301,2019,Acura,RDX_Base, 36500, Stamford, CT ,18680,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+302,2019,Acura,RDX_Technology, 35500, Scarsdale, NY ,21428,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+303,2019,Acura,ILX, 24812, Denville, NJ ,11980,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+304,2019,Acura,TLX_Technology, 30895, Glen Cove, NY ,20206,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+305,2019,Acura,RDX_Advance, 38000, Scarsdale, NY ,24565,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+306,2018,Acura,MDX_Base, 32500, Scarsdale, NY ,34822,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+307,2018,Acura,MDX_Technology, 33985, Hollis, NY ,32682,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+308,2012,Acura,MDX, 12495, South Hackensack, NJ ,131457,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,54
+309,2019,Acura,TLX_Base, 24995, Commack, NY ,43583,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,16
+310,2018,Acura,MDX_Technology, 28990, Woodside, NY ,41554,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+311,2019,Acura,RLX_Advance, 34995, Commack, NY ,34852,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,24
+312,2018,Acura,ILX_Special_Edition, 16570, Freeport, NY ,63855,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+313,2018,Acura,TLX_Technology, 25900, North Plainfield, NJ ,23898,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+314,2019,Acura,TLX_Base, 25995, Wall Township, NJ ,24811,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+315,2017,Acura,RDX_Advance, 24995, Commack, NY ,44087,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+316,2019,Acura,RDX_Technology, 35994, Bay Shore, NY ,33177,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+317,2019,Acura,RDX_Technology, 36495, Bay Shore, NY ,14727,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+318,2019,Acura,RDX_Technology, 34995, Bay Shore, NY ,34001,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+319,2014,Acura,MDX, 17890, Bronx, NY ,97713,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+320,2013,Acura,TL_Technology, 11500, Somerville, NJ ,142517,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,21
+321,2011,Acura,TSX_Technology, 11995, UNION CITY, NJ ,115970,No Accident or Damage Reported,Wagon,4_Cyl_2.4_L_,3+ Owners,Multiple Use,15
+322,2019,Acura,RDX_Base, 34500, Wayne, NJ ,32005,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+323,2021,Acura,TLX_A-Spec, 43995, West Nyack, NY ,3452,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+324,2019,Acura,ILX, 23995, Bay Shore, NY ,11794,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+325,2019,Acura,MDX_Technology, 37945, Bay Shore, NY ,37701,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+326,2015,Acura,TLX_Base, 17929, Wantagh, NY ,67648,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,16
+327,2018,Acura,ILX, 17696, Woodside, NY ,29802,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+328,2019,Acura,RDX_Technology, 36800, Ramsey, NJ ,9809,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+329,2021,Acura,RDX_Technology, 42989, Larchmont, NY ,4189,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,1
+330,2018,Acura,TLX_Base, 25995, Bay Shore, NY ,17655,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+331,2018,Acura,TLX_A-Spec, 30429, Roslyn, NY ,32877,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+332,2019,Acura,ILX_Premium, 26244, Hempstead, NY ,5602,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+333,2018,Acura,MDX_Base, 33000, Rockville Centre, NY ,23861,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+334,2019,Acura,MDX_Base, 32976, Pompton Plains, NJ ,48203,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+335,2020,Acura,TLX_Base, 28995, Denville, NJ ,9183,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+336,2011,Acura,MDX_Advance, 17000, Norwalk, CT ,73826,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,16
+337,2019,Acura,MDX_Technology, 34885, Hasbrouck Heights, NJ ,66087,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+338,2012,Acura,MDX, 14887, East Brunswick, NJ ,86277,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,23
+339,2013,Acura,TL_Technology, 16150, Monmouth Junction, NJ ,70673,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+340,2020,Acura,ILX_Premium, 28900, Wayne, NJ ,3201,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Corporate Use,2
+341,2017,Acura,MDX_Technology, 30990, Bronx, NY ,31495,Minor Damage,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+342,2008,Acura,MDX_Technology_Entertainment, 10000, Morristown, NJ ,142601,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,17
+343,2019,Acura,RDX_Base, 32595, Freeport, NY ,31994,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+344,2019,Acura,RDX_Base, 33981, East Brunswick, NJ ,34101,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+345,2018,Acura,RDX_Technology, 29495, Edison, NJ ,44622,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,14
+346,2018,Acura,MDX_Technology, 36480, East Brunswick, NJ ,27493,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+347,2017,Acura,TLX_Base, 17890, Valley Stream, NY ,59056,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,8
+348,2019,Acura,MDX_Technology, 37895, Bay Shore, NY ,35843,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+349,2021,Acura,RDX_Base, 39900, Larchmont, NY ,1566,Accident Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,3
+350,2019,Acura,MDX_Technology, 37895, Bay Shore, NY ,35843,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+351,2021,Acura,RDX_Base, 39900, Larchmont, NY ,1566,Accident Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,3
+352,2019,Acura,ILX, 23995, Bay Shore, NY ,11931,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+353,2019,Acura,MDX_Base, 35995, Bay Shore, NY ,33157,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+354,2017,Acura,ILX, 20995, Bay Shore, NY ,29447,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+355,2015,Acura,TLX_Base, 18495, Lodi, NJ ,78604,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,24
+356,2018,Acura,MDX_Technology, 29749, Jamaica, NY ,42840,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+357,2018,Acura,MDX_Base, 33929, Wantagh, NY ,29362,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+358,2020,Acura,TLX_A-Spec, 37875, Larchmont, NY ,22988,Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+359,2019,Acura,MDX_Technology_A-Spec, 38799, Englewood, NJ ,30740,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+360,2021,Acura,ILX_Premium, 27929, Wantagh, NY ,5116,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Commercial Use,3
+361,2007,Acura,TL, 4995, Hasbrouck Heights, NJ ,158449,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.2_L_,3+ Owners,Personal Use,10
+362,2015,Acura,RLX_Technology, 16950, Paterson, NJ ,96939,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,24
+363,2018,Acura,RDX_Technology, 30474, Edison, NJ ,16460,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+364,2017,Acura,MDX_Technology, 33950, Greenwich, CT ,27529,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,3+ Owners,Multiple Use,10
+365,2021,Acura,RDX, 46450, Forest Hills, NY ,717,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,1
+366,2019,Acura,RDX_Base, 30495, Commack, NY ,30281,Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+367,2012,Acura,TSX, 9487, Paterson, NJ ,121536,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,22
+368,2019,Acura,RDX_Technology, 34995, Lawrence Township, NJ ,61754,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+369,2019,Acura,MDX_Technology_A-Spec, 42704, Larchmont, NY ,28854,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+370,2014,Acura,RDX_Technology, 16995, Freeport, NY ,111098,Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+371,2011,Acura,MDX, 11995, Somerset, NJ ,105938,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,21
+372,2019,Acura,RDX_Base, 33969, East Brunswick, NJ ,30674,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+373,2018,Acura,TLX_A-Spec, 31500, Stamford, CT ,29120,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,18
+374,2018,Acura,MDX_Technology, 36880, East Brunswick, NJ ,44490,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+375,2018,Acura,TLX_A-Spec, 29999, East Brunswick, NJ ,47077,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+376,2020,Acura,TLX_Base, 27300, Wayne, NJ ,21701,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+377,2020,Acura,TLX_Technology, 35995, West Nyack, NY ,11964,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+378,2008,Acura,MDX, 7699, Sussex, NJ ,155405,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,25
+379,2018,Acura,MDX_Technology, 36000, Paramus, NJ ,24133,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+380,2021,Acura,ILX_Premium, 27929, Wantagh, NY ,4224,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Commercial Use,3
+381,2008,Acura,MDX, 7199, S Hackensack, NJ ,177234,Major Damage,SUV,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,14
+382,2019,Acura,ILX_Premium, 23495, Commack, NY ,34600,Accident Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,18
+383,2018,Acura,MDX_Technology, 31888, Butler, NJ ,33454,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+384,2019,Acura,RDX_Technology, 29495, Inwood, NY ,75774,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+385,2008,Acura,MDX, 6995, Butler, NJ ,163436,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,25
+386,2015,Acura,TLX_Technology, 19942, Carlstadt, NJ ,67432,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,32
+387,2019,Acura,MDX_Base, 35875, Larchmont, NY ,14959,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+388,2020,Acura,MDX_Technology, 45995, Lawrence Township, NJ ,9723,Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+389,2013,Acura,RDX_Technology, 14970, Little Ferry, NJ ,109045,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+390,2019,Acura,MDX_Base, 32535, Sea Girt, NJ ,48805,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,10
+391,2018,Acura,TLX_Technology, 27499, Bronx, NY ,13847,No Accident or Damage Reported,Sedan,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+392,2017,Acura,MDX_Base, 23890, Valley Stream, NY ,74736,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+393,2007,Acura,RDX_Technology, 6999, Little Ferry, NJ ,130250,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.3_L_,CARFAX 1-Owner,Personal Use,20
+394,2021,Acura,RDX_Technology, 43985, Larchmont, NY ,5914,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,2
+395,2021,Acura,TLX_Base, 37704, Larchmont, NY ,4864,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,2
+396,2019,Acura,RDX_Base, 33874, Larchmont, NY ,30501,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,4
+397,2019,Acura,TLX_A-Spec, 30704, Larchmont, NY ,33421,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+398,2019,Acura,RDX, 35500, Larchmont, NY ,44829,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+399,2018,Acura,TLX_Base, 26500, Woodside, NY ,54686,No Accident or Damage Reported,Sedan,Red_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,20
+400,2018,Acura,ILX_Premium, 23929, Wantagh, NY ,7403,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+401,2019,Acura,RDX_Technology, 34554, Roslyn, NY ,32095,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+402,2018,Acura,ILX, 19985, Larchmont, NY ,36308,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+403,2018,Acura,TLX_Base, 26500, Woodside, NY ,54686,No Accident or Damage Reported,Sedan,Red_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,20
+404,2018,Acura,MDX_Technology, 35704, Larchmont, NY ,28354,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+405,2019,Acura,RDX_Base, 35000, Westport, CT ,9240,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+406,2021,Acura,TLX_Technology, 40250, Woodside, NY ,3023,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,2
+407,2018,Acura,MDX_Technology, 34929, Wantagh, NY ,25078,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+408,2020,Acura,MDX_Technology, 47995, Lawrence Township, NJ ,3859,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+409,2017,Acura,MDX_Advance, 35000, Woodside, NY ,28162,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,22
+410,2019,Acura,TLX_Technology, 27000, Woodside, NY ,31181,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+411,2018,Acura,MDX_Technology, 29995, Woodside, NY ,43361,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+412,2018,Acura,MDX_Technology, 34764, Roslyn, NY ,28325,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,14
+413,2019,Acura,RDX_Technology, 34700, Rahway, NJ ,32408,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+414,2018,Acura,ILX, 17542, Carlstadt, NJ ,61018,Minor Damage,Sedan,White_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,15
+415,2019,Acura,RDX, 35450, Forest Hills, NY ,47392,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,10
+416,2009,Acura,MDX, 8995, South Hackensack, NJ ,122199,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,32
+417,2014,Acura,ILX, 11795, SADDLE BROOK, NJ ,121158,Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,21
+418,2018,Acura,MDX_Technology_Entertainment, 37929, Wantagh, NY ,23680,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,14
+419,2018,Acura,ILX, 22995, Lawrence Township, NJ ,23030,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+420,2018,Acura,ILX, 21995, Lawrence Township, NJ ,30967,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+421,2020,Acura,RDX, 45995, Lawrence Township, NJ ,24725,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+422,2012,Acura,MDX, 9500, Hasbrouck Heights, NJ ,181909,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,0
+423,2018,Acura,MDX_Technology, 26995, Brooklyn, NY ,89892,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+424,2014,Acura,RDX_Base, 16992, New York, NY ,81403,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,25
+425,2019,Acura,TLX_Technology, 28995, Hasbrouck Heights, NJ ,6770,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+426,2013,Acura,RDX, 11495, Hackettstown, NJ ,144615,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,13
+427,2019,Acura,TLX_A-Spec, 28800, Elmhurst, NY ,27429,Accident/Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+428,2014,Acura,MDX, 20000, EATONTOWN, NJ ,82098,Minor Damage,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+429,2019,Acura,TLX_Technology, 31995, Edison, NJ ,26928,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+430,2021,Acura,RDX, 46000, Rochelle Park, NJ ,7077,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,4
+431,2016,Acura,ILX, 18990, Hasbrouck Heights, NJ ,62257,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,5
+432,2019,Acura,RLX_Advance, 42999, Bridgewater, NJ ,30635,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,16
+433,2016,Acura,MDX_Technology, 22969, East Brunswick, NJ ,85221,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,12
+434,2019,Acura,TLX_A-Spec, 27995, Brooklyn, NY ,37284,Minor Damage,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+435,2018,Acura,ILX, 18395, Colonia, NJ ,38279,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+436,2017,Acura,MDX_Base, 19895, Brooklyn, NY ,106747,Minor Damage,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,20
+437,2019,Acura,RDX_Base, 32995, Edison, NJ ,48515,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+438,2018,Acura,MDX_Technology, 36471, East Brunswick, NJ ,38655,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+439,2019,Acura,TLX_Technology, 29995, Edison, NJ ,26127,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+440,2012,Acura,RDX, 12900, Lafayette, NJ ,102306,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.3_L_,2-Owner,Personal Use,9
+441,2013,Acura,ILX_Technology, 13899, North Middletown, NJ ,66279,Accident Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+442,2021,Acura,RDX_Technology, 36995, Wall Township, NJ ,5866,Branded Title,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+443,2016,Acura,RDX_Technology, 16970, Little Ferry, NJ ,110336,Accident Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,22
+444,2020,Acura,MDX_Technology, 43381, Avenel, NJ ,11549,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,0
+445,2014,Acura,MDX_Technology, 23895, Lindenhurst, NY ,45977,Major Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+446,2019,Acura,RDX_Base, 34945, Hasbrouck Heights, NJ ,23046,Accident Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+447,2017,Acura,MDX_Technology, 26483, Jersey City, NJ ,96731,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,18
+448,2016,Acura,ILX_Premium, 15995, Ramsey, NJ ,53406,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,12
+449,2018,Acura,MDX_Technology, 38995, Garwood, NJ ,26488,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+450,2017,Acura,RDX_Technology, 24954, Haskell, NJ ,63498,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,16
+451,2019,Acura,RDX, 34500, Bedford Hills, NY ,64987,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+452,2019,Acura,RDX_Technology, 34522, Bedford Hills, NY ,34012,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+453,2019,Acura,RDX_Base, 34035, Bedford Hills, NY ,21827,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+454,2019,Acura,RDX_Base, 33506, Bedford Hills, NY ,28122,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+455,2018,Acura,MDX_Technology, 37295, Lawrence Township, NJ ,45809,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+456,2018,Acura,MDX_Base, 31985, Larchmont, NY ,45651,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+457,2019,Acura,RDX_Base, 36875, Larchmont, NY ,2446,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+458,2019,Acura,MDX_Base, 36704, Larchmont, NY ,23013,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+459,2019,Acura,MDX_Technology_A-Spec, 43875, Larchmont, NY ,30305,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+460,2019,Acura,RDX_Base, 35875, Larchmont, NY ,17503,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+461,2018,Acura,MDX_Base, 34043, Madison, NJ ,40796,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+462,2019,Acura,TLX_Base, 26500, Woodside, NY ,29677,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+463,2019,Acura,MDX_Technology_Entertainment, 42995, Lawrence Township, NJ ,31135,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+464,2019,Acura,RDX_Advance, 39995, Lawrence Township, NJ ,31975,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+465,2019,Acura,MDX_Advance, 44995, Lawrence Township, NJ ,29840,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+466,2020,Acura,TLX_Technology, 29750, Woodside, NY ,19663,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,14
+467,2019,Acura,MDX_Technology_Entertainment, 40000, Woodside, NY ,21983,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+468,2019,Acura,MDX_Advance_Entertainment, 42985, Larchmont, NY ,27050,No Accident or Damage Reported,SUV,Bronze_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+469,2017,Acura,ILX, 19657, West Islip, NY ,29188,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,12
+470,2011,Acura,MDX_Technology, 11895, E Rutherford, NJ ,139311,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,14
+471,2018,Acura,MDX_Base, 33500, Stamford, CT ,31517,Accident/Minor Damage,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+472,2021,Acura,TLX_Technology, 39950, Stamford, CT ,8660,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,7
+473,2021,Acura,TLX_Technology, 40300, Stamford, CT ,5452,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,6
+474,2019,Acura,TLX_Advance, 33500, Stamford, CT ,36669,Accident/Minor Damage,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+475,2019,Acura,RDX_Technology, 33500, Stamford, CT ,60094,Accident/No Damage,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+476,2013,Acura,MDX_Technology, 16688, Maplewood, NJ ,108412,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,36
+477,2019,Acura,RDX, 39000, Rochelle Park, NJ ,24936,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+478,2019,Acura,MDX_Technology, 38000, Rochelle Park, NJ ,30816,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+479,2019,Acura,TLX_Base, 27500, Rochelle Park, NJ ,13579,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+480,2019,Acura,MDX_Base, 36500, Rochelle Park, NJ ,17600,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+481,2020,Acura,TLX_Base, 26500, Rochelle Park, NJ ,24686,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+482,2019,Acura,RDX_Technology, 36000, Rochelle Park, NJ ,26736,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+483,2019,Acura,TLX_Base, 28500, Stamford, CT ,24376,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+484,2019,Acura,RDX_Base, 34000, Rochelle Park, NJ ,29737,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+485,2019,Acura,RDX_Base, 34500, Rochelle Park, NJ ,21462,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+486,2018,Acura,RDX_Technology, 26500, Scarsdale, NY ,59932,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,16
+487,2019,Acura,RDX_Technology, 37000, Rochelle Park, NJ ,14337,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+488,2019,Acura,RDX, 38000, Scarsdale, NY ,20203,Accident Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+489,2019,Acura,MDX_Base, 35998, Westbury, NY ,21865,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+490,2019,Acura,RDX_Base, 32000, Scarsdale, NY ,41445,Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+491,2013,Acura,MDX_Technology, 16450, Paterson, NJ ,129474,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,24
+492,2016,Acura,ILX_Premium, 19900, Lyndhurst, NJ ,54999,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,20
+493,2016,Acura,MDX_Technology, 26800, Elmhurst, NY ,37000,Accident Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,7
+494,2015,Acura,TLX_Base, 15995, West Nyack, NY ,113783,Accident Reported,Sedan,Brown_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,5
+495,2019,Acura,RDX, 38477, Wantagh, NY ,25655,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+496,2016,Acura,MDX_Technology, 19000, Hasbrouck Heights, NJ ,138106,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,0
+497,2018,Acura,ILX, 19429, Uniondale, NY ,52737,Accident Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+498,2018,Acura,MDX_Technology, 31900, Jersey City, NJ ,40968,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,0
+499,2004,Acura,MDX_Touring, 5989, Passaic, NJ ,114800,Accident Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,22
+500,2004,Acura,MDX_Touring, 5989, Passaic, NJ ,114800,Accident Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,22
+501,2014,Acura,TL_Advance, 18500, Rockaway, NJ ,42647,Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,23
+502,2018,Acura,MDX_Technology, 36995, Darien, CT ,22729,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,8
+503,2017,Acura,MDX_Technology, 31995, West Nyack, NY ,36375,Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,16
+504,2020,Acura,TLX_Base, 27490, Valley Stream, NY ,11054,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+505,2019,Acura,RDX_Technology, 34995, Brooklyn, NY ,33028,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+506,2019,Acura,ILX_Premium, 23999, Bridgewater, NJ ,43979,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+507,2020,Acura,TLX_Base, 24195, Colonia, NJ ,42651,Accident Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+508,2020,Acura,RDX_Base, 36488, Greenvale, NY ,8174,Accident Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+509,2017,Acura,MDX_Technology, 29526, Jamaica, NY ,50345,Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+510,2019,Acura,MDX_Technology, 38995, Brooklyn, NY ,16393,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+511,2013,Acura,MDX, 13495, Brooklyn, NY ,110343,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,4
+512,2017,Acura,RDX_Technology, 23495, New Windsor, NY ,82023,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,3
+513,2018,Acura,ILX_Special_Edition, 16900, Rahway, NJ ,61253,Minor Damage,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,6
+514,2021,Acura,RDX, 43323, Hollis, NY ,7084,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Vehicle Use,4
+515,2012,Acura,MDX, 13995, West Nyack, NY ,94565,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,21
+516,2019,Acura,TLX_A-Spec, 30999, Jersey City, NJ ,60405,No Accident or Damage Reported,Sedan,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+517,2017,Acura,RDX_Technology, 24900, Florham Park, NJ ,71143,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,18
+518,2019,Acura,MDX_Base, 34500, Scarsdale, NY ,35226,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+519,2019,Acura,MDX_Advance, 41000, Rochelle Park, NJ ,47672,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+520,2019,Acura,MDX_Base, 36000, Scarsdale, NY ,24470,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+521,2019,Acura,TLX_Base, 29699, Maplewood, NJ ,33116,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,14
+522,2019,Acura,MDX_Base, 36000, Scarsdale, NY ,21339,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+523,2019,Acura,MDX_Base, 36000, Scarsdale, NY ,33765,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,15
+524,2019,Acura,TLX_A-Spec, 26900, Bloomfield, NJ ,55764,Accident Reported,Sedan,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+525,2007,Acura,RDX_Technology, 6299, Hasbrouck Heights, NJ ,162366,Accident Reported,SUV,Black_Engine:_4_Cyl_2.3_L_,3+ Owners,Personal Use,41
+526,2019,Acura,MDX_Advance_Entertainment, 48500, Lyndhurst, NJ ,36942,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+527,2019,Acura,TLX_A-Spec, 26769, Hempstead, NY ,31830,Accident Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+528,2014,Acura,TSX_Base, 14995, Saint James, NY ,71257,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+529,2019,Acura,RDX_Technology, 35999, Tarrytown, NY ,39091,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+530,2018,Acura,RDX, 19995, Brooklyn, NY ,47525,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Multiple Use,3
+531,2018,Acura,MDX_Advance_Entertainment, 38499, Bronx, NY ,33424,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,16
+532,2015,Acura,RDX_Base, 19588, Woodside, NY ,74341,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,14
+533,2019,Acura,RDX, 35252, Jamaica, NY ,40288,Minor Damage,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+534,2003,Acura,CL, 6995, Linden, NJ ,81033,No Accident or Damage Reported,Coupe,Beige_Engine:_6_Cyl_3.2_L_,2-Owner,Personal Use,0
+535,2018,Acura,TLX_Base, 28999, Bridgewater, NJ ,48176,No Accident or Damage Reported,Sedan,6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+536,2020,Acura,MDX_Base, 43900, New Rochelle, NY ,8313,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+537,2012,Acura,TSX, 9750, Edison, NJ ,149891,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+538,2018,Acura,MDX_Base, 33495, Bay Shore, NY ,36471,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+539,2018,Acura,MDX_Technology, 38999, Bridgewater, NJ ,27737,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+540,2020,Acura,TLX_Base, 31995, Bay Shore, NY ,19788,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+541,2020,Acura,RDX_Technology, 40995, Bay Shore, NY ,17438,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+542,2019,Acura,TLX_Base, 28999, Bridgewater, NJ ,15272,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+543,2019,Acura,MDX_Technology, 39995, Bay Shore, NY ,22805,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+544,2019,Acura,MDX_Technology_A-Spec, 44995, Bay Shore, NY ,13101,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+545,2019,Acura,MDX_Technology, 39495, Bay Shore, NY ,28486,No Accident or Damage Reported,SUV,Bronze_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+546,2019,Acura,MDX_Technology, 38995, Bay Shore, NY ,29101,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+547,2012,Acura,TL, 10995, Paramus, NJ ,130721,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,36
+548,2014,Acura,RDX_Base, 16485, Larchmont, NY ,90810,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,15
+549,2018,Acura,MDX_Technology, 36000, Woodside, NY ,21111,No Accident or Damage Reported,SUV,Brown_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,5
+550,2021,Acura,RDX_Technology, 41495, Larchmont, NY ,10687,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,3
+551,2013,Acura,RDX_Technology, 17367, Perth Amboy, NJ ,86423,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,23
+552,2014,Acura,RDX_Base, 14795, Uniondale, NY ,110158,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,11
+553,2010,Acura,MDX_Technology_Entertainment, 8495, Ramsey, NJ ,198098,Accident Reported,SUV,Burgundy_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,46
+554,2019,Acura,RDX_Technology, 33913, Englewood, NJ ,42399,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+555,2019,Acura,RDX_Base, 33995, Long Island City, NY ,36795,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+556,2019,Acura,TLX_A-Spec, 30995, Hasbrouck Heights, NJ ,20481,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+557,2010,Acura,TSX, 5995, Hasbrouck Heights, NJ ,180330,Minor Damage,Sedan,Burgundy_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,16
+558,2012,Acura,TL_Technology, 15995, SADDLE BROOK, NJ ,84189,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,6
+559,2014,Acura,TL_Technology, 13795, Somerset, NJ ,122942,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,2-Owner,Multiple Use,7
+560,2009,Acura,TL, 10995, UNION CITY, NJ ,111888,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,32
+561,2011,Acura,MDX_Technology, 14489, Passaic, NJ ,95525,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,7
+562,2019,Acura,TLX_Technology, 31888, Great Neck, NY ,15024,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,12
+563,2013,Acura,ILX_Technology, 8995, Brooklyn, NY ,138992,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,11
+564,2019,Acura,ILX_Premium, 27995, Massapequa, NY ,6967,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+565,2020,Acura,TLX_Base, 27700, Wayne, NJ ,25467,Accident/Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+566,2019,Acura,MDX_Technology, 37495, Lakewood, NJ ,36102,Minor Damage,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+567,2018,Acura,MDX_Technology_Entertainment, 36066, Brooklyn, NY ,39528,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+568,2018,Acura,RDX_Technology, 28395, Wayne, NJ ,44128,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+569,2019,Acura,MDX_Base, 35995, West Nyack, NY ,28468,Minor Damage,SUV,Brown_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+570,2020,Acura,MDX_Technology, 47500, Wayne, NJ ,8438,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Corporate Use,5
+571,2019,Acura,RDX, 39500, Wayne, NJ ,24560,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+572,2017,Acura,RDX_Technology, 27251, North Brunswick, NJ ,45105,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,8
+573,2019,Acura,MDX_Base, 38963, Blauvelt, NY ,5433,Accident Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+574,2005,Acura,TL, 7250, Paterson, NJ ,112994,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,44
+575,2014,Acura,MDX_Base, 20590, New York, NY,93673,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,16
+576,2014,Acura,TSX_Base, 13599, Sussex, NJ ,81751,Accident Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,14
+577,2020,Acura,TLX_Technology, 26190, Brooklyn, NY ,59426,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+578,2015,Acura,RDX_Technology, 14995, Brooklyn, NY ,113958,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,16
+579,2007,Acura,RDX_Technology, 7999, Passaic, NJ ,110179,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.3_L_,3+ Owners,Personal Use,11
+580,2016,Acura,MDX_Base, 21995, Point Pleasant Boro, NJ ,96616,Very Minor Damage,SUV,Silver_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,13
+581,2017,Acura,TLX_Technology, 28895, Merrick, NY ,44080,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+582,2019,Acura,MDX_Technology, 34295, Bronx, NY ,37155,Minor Damage,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+583,2009,Acura,TSX, 5995, Brooklyn, NY ,136740,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,12
+584,2018,Acura,MDX_Technology, 36704, Larchmont, NY ,7808,Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+585,2018,Acura,MDX_Base, 33704, Larchmont, NY ,21432,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Corporate Use,5
+586,2019,Acura,MDX_Technology, 37968, Larchmont, NY ,31911,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Multiple Use,6
+587,2020,Acura,MDX_Base, 42903, Roslyn, NY ,2975,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Commercial Use,3
+588,2019,Acura,MDX_Technology, 37929, Wantagh, NY ,27729,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Multiple Use,13
+589,2019,Acura,TLX_Base, 24695, Bronx, NY ,24737,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,6
+590,2016,Acura,MDX_Technology, 24000, Woodside, NY ,84974,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,7
+591,2021,Acura,RDX_Technology, 42985, Larchmont, NY ,5256,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,1
+592,2019,Acura,TLX_A-Spec, 33875, Larchmont, NY ,21006,Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+593,2018,Acura,MDX_Technology, 36000, Woodside, NY ,28471,Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,13
+594,2021,Acura,TLX_Technology, 39900, Stamford, CT ,5589,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,10
+595,2008,Acura,RDX_Technology, 9994, West Caldwell, NJ ,114160,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.3_L_,3+ Owners,Personal Use,36
+596,2010,Acura,MDX, 10900, Rahway, NJ ,122453,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,28
+597,2019,Acura,TLX_Base, 29995, Freeport, NY ,25602,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+598,2008,Acura,MDX_Technology, 8900, Amityville, NY ,149942,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,21
+599,2005,Acura,MDX, 7599, Elizabeth, NJ ,96166,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,57
+600,2018,Acura,MDX_Base, 33880, East Brunswick, NJ ,33354,Accident/Minor Damage,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+601,2018,Acura,MDX_Technology, 35497, East Brunswick, NJ ,49286,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+602,2018,Acura,MDX_Technology, 36971, East Brunswick, NJ ,36157,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+603,2012,Acura,MDX_Technology_Entertainment, 11865, Hillside, NJ ,136968,Accident Reported,SUV,Black_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,28
+604,2006,Acura,TL, 4999, Teterboro, NJ ,155270,Accident Reported,Sedan,Gold_Engine:_6_Cyl_3.2_L_,2-Owner,Personal Use,9
+605,2019,Acura,RDX_Base, 34995, West Nyack, NY ,29711,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+606,2018,Acura,RDX_Technology, 31495, Lakewood, NJ ,20478,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+607,2019,Acura,MDX_Technology_Entertainment, 41995, West Nyack, NY ,22964,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+608,2020,Acura,RDX, 43995, Bridgewater, NJ ,24299,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+609,2018,Acura,MDX_Base, 34995, West Nyack, NY ,38115,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+610,2018,Acura,MDX_Base, 28995, Brooklyn, NY ,40011,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+611,2016,Acura,RDX_Technology, 22950, Pompton Plains, NJ ,60050,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,6
+612,2014,Acura,RDX_Technology, 14999, East Rutherford, NJ ,120120,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+613,2013,Acura,TL_Technology, 13490, Elmwood Park, NJ ,104952,Accident/Minor Damage,Sedan,Silver_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,24
+614,2009,Acura,MDX_Technology, 8995, Butler, NJ ,189446,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Corporate Use,3
+615,2019,Acura,TLX_A-Spec, 34999, Bridgewater, NJ ,24006,Accident Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+616,2020,Acura,ILX, 22490, Freeport, NY ,17904,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+617,2016,Acura,MDX_Technology, 24495, Paterson, NJ ,94460,No Accident or Damage Reported,SUV,Burgundy_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,9
+618,2021,Acura,RDX, 45450, Forest Hills, NY ,2884,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Vehicle Use,1
+619,2020,Acura,MDX_Technology, 43627, Bedford Hills, NY ,10908,No Accident or Damage Reported,SUV,6_Cyl_3.5_L_,CARFAX 1-Owner,Commercial Use,2
+620,2018,Acura,TLX_Base, 26466, Brooklyn, NY ,46688,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+621,2019,Acura,RDX_Technology, 33698, Brooklyn, NY ,46626,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+622,2019,Acura,MDX_Technology, 33999, Brooklyn, NY ,44570,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+623,2019,Acura,RDX_Advance, 36495, Bronx, NY ,34998,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+624,2020,Acura,MDX_Base, 41704, Larchmont, NY ,7954,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+625,2020,Acura,MDX_Technology_A-Spec, 48581, Avenel, NJ ,17110,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+626,2020,Acura,TLX_Technology, 33704, Larchmont, NY ,18876,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+627,2020,Acura,TLX_A-Spec, 33489, Larchmont, NY ,19315,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+628,2019,Acura,MDX_Technology, 38475, Larchmont, NY ,25670,Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+629,2019,Acura,RDX_Technology, 35875, Larchmont, NY ,24446,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+630,2019,Acura,TLX_Base, 25500, Woodside, NY ,28420,Accident Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+631,2018,Acura,MDX_Technology, 39995, Lawrence Township, NJ ,11437,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+632,2019,Acura,RDX_Base, 32875, Larchmont, NY ,28481,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+633,2019,Acura,TLX_Base, 29995, Lawrence Township, NJ ,21116,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+634,2021,Acura,ILX_Premium, 30450, Ramsey, NJ ,8246,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+635,2019,Acura,MDX_Technology, 37567, Roslyn, NY ,36549,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+636,2020,Acura,TLX_Technology, 33875, Larchmont, NY ,26164,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+637,2019,Acura,RDX_Base, 34875, Larchmont, NY ,20515,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+638,2019,Acura,RDX_Advance, 37875, Larchmont, NY ,34767,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+639,2019,Acura,RDX_Base, 32704, Larchmont, NY ,36245,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+640,2019,Acura,RDX_Base, 35995, Lawrence Township, NJ ,31762,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+641,2018,Acura,ILX_Premium, 21985, Larchmont, NY ,24259,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+642,2019,Acura,MDX_Technology, 38929, Wantagh, NY ,25000,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+643,2018,Acura,TLX_A-Spec, 30990, Jamaica, NY ,24894,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+644,2019,Acura,TLX_Technology, 28929, Wantagh, NY ,29873,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+645,2018,Acura,ILX_Technology_Plus, 23995, Lawrence Township, NJ ,28292,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+646,2019,Acura,RDX_Technology, 36995, Lawrence Township, NJ ,39330,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+647,2019,Acura,RDX_Base, 33188, Woodside, NY ,29830,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+648,2019,Acura,RDX_Base, 33929, Wantagh, NY ,22287,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+649,2021,Acura,TLX_Advance, 44000, Woodside, NY ,6115,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,4
+650,2019,Acura,ILX, 25912, Long Island City, NY ,9748,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+651,2011,Acura,MDX_Technology, 12999, Paterson, NJ ,107615,Accident Reported,SUV,White_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,8
+652,2010,Acura,MDX_Advance, 14900, Morristown, NJ ,114365,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,20
+653,2021,Acura,TLX_Advance, 42000, Rochelle Park, NJ ,4189,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,2
+654,2017,Acura,MDX_Base, 29988, Westbury, NY ,48588,Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,7
+655,2019,Acura,RDX_Base, 33000, Rochelle Park, NJ ,24005,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+656,2021,Acura,TLX_Advance, 42000, Rochelle Park, NJ ,8177,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,6
+657,2017,Acura,RDX_Technology, 25995, Freeport, NY ,65403,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,5
+658,2016,Acura,RDX_Technology, 25900, Stamford, CT ,33076,Accident/Minor Damage,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+659,2021,Acura,TLX_A-Spec, 45400, Stamford, CT ,5923,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,7
+660,2015,Acura,MDX_Technology, 17900, Atlantic Highlands, NJ ,107139,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,25
+661,2017,Acura,RDX_Advance, 23990, Great Neck, NY ,55347,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,3+ Owners,Multiple Use,7
+662,2019,Acura,TLX_Base, 26622, Bedford Hills, NY ,0,No Accident or Damage Reported,Sedan,4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+663,2013,Acura,MDX, 15500, Uniondale, NY ,119278,Minor Damage,SUV,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,35
+664,2018,Acura,ILX, 19480, East Brunswick, NJ ,46989,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,14
+665,2011,Acura,TSX_Technology, 8999, S Hackensack, NJ ,172588,Accident/Minor Damage,Wagon,Black_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,28
+666,2015,Acura,MDX_Technology, 20980, Bronx, NY ,99152,Minor Damage,SUV,Blue_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,18
+667,2019,Acura,TLX_A-Spec, 34995, Edison, NJ ,23066,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+668,2019,Acura,ILX, 21845, Eatontown, NJ ,41749,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+669,2014,Acura,RLX, 22595, Mount Kisco, NY ,50879,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+670,2015,Acura,MDX_Base, 19995, Brooklyn, NY ,108261,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,17
+671,2019,Acura,TLX_Base, 24888, Linden, NJ ,51866,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Corporate Use,4
+672,2019,Acura,RDX_Technology, 35637, Westbury, NY ,25206,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+673,2017,Acura,ILX, 24590, New York, NY,18327,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,Number of Owners,Personal Use,11
+674,2019,Acura,TLX_A-Spec, 29995, Woodside, NY ,39957,Minor Damage,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+675,2016,Acura,TLX_Technology, 18950, Bronx, NY ,73812,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,22
+676,2010,Acura,RDX_Technology, 9495, Jersey City, NJ ,109306,No Accident or Damage Reported,SUV,4_Cyl_2.3_L_,2-Owner,Personal Use,21
+677,2016,Acura,MDX_Technology, 25900, Hazlet, NJ ,69370,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,9
+678,2015,Acura,RDX_Base, 16999, Lakewood, NJ ,98812,Minor Damage,SUV,Silver_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,10
+679,2019,Acura,ILX, 25995, Lawrence Township, NJ ,19465,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+680,2018,Acura,RDX, 27995, Paramus, NJ ,42606,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+681,2009,Acura,TSX, 10991, Flemington, NJ ,130877,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,32
+682,2018,Acura,RDX_Technology, 28995, Edison, NJ ,27037,Accident Reported,SUV,Brown_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+683,2011,Acura,MDX_Technology, 11900, Jersey City, NJ ,108485,Minor Damage,SUV,Blue_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,12
+684,2018,Acura,TLX_A-Spec, 30495, Jamaica, NY ,37076,Damage Reported,Sedan,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+685,2017,Acura,MDX_Technology, 26990, Great Neck, NY ,39475,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,8
+686,2019,Acura,MDX_Base, 35000, Scarsdale, NY ,40054,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Corporate Use,7
+687,2019,Acura,MDX_Technology, 38900, Stamford, CT ,29263,Accident Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+688,2018,Acura,ILX_Premium, 22495, Edison, NJ ,36234,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+689,2019,Acura,MDX_Base, 34500, Bedford Hills, NY ,26168,Accident Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+690,2018,Acura,MDX_Technology, 36000, Rochelle Park, NJ ,26765,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+691,2020,Acura,TLX_Technology, 34300, Summit, NJ ,11974,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+692,2019,Acura,MDX_Technology, 40000, Rochelle Park, NJ ,15050,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+693,2019,Acura,RDX_Base, 35800, Stamford, CT ,15966,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+694,2018,Acura,TLX_A-Spec, 32499, Newark, NJ,31042,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,8
+695,2018,Acura,TLX_Base, 24226, Denville, NJ ,40806,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,14
+696,2016,Acura,MDX_Technology, 27999, Newark, NJ,60222,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,13
+697,2017,Acura,MDX_Advance, 24995, West Nyack, NY ,116400,Accident Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+698,2018,Acura,MDX_Base, 38995, Freeport, NY ,38917,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+699,2017,Acura,TLX_Technology, 21985, Larchmont, NY ,22142,Minor Damage,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+700,2009,Acura,TSX, 8995, Union, NJ ,113741,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,14
+701,2008,Acura,TSX_Base, 8999, Elizabeth, NJ ,103141,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+702,2015,Acura,RDX_Technology, 20498, Huntington, NY ,83581,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,29
+703,2018,Acura,MDX_Technology, 37999, Bridgewater, NJ ,26950,Accident Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+704,2020,Acura,MDX_Technology, 38990, Jamaica, NY ,13982,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Multiple Use,16
+705,2020,Acura,RDX, 45999, Bridgewater, NJ ,11136,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+706,2019,Acura,MDX_Technology, 42969, Bridgewater, NJ ,21541,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+707,2019,Acura,ILX_Premium, 26999, Bridgewater, NJ ,29294,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+708,2019,Acura,MDX_Technology, 37695, Great Neck, NY ,49665,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+709,2018,Acura,RDX, 32895, Merrick, NY ,31222,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,0
+710,2014,Acura,TSX_Base, 18990, New York, NY,68178,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,14
+711,2017,Acura,ILX, 21990, New York, NY,38446,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+712,2015,Acura,MDX_Advance_Entertainment, 23987, Irvington, NJ ,103144,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,17
+713,2010,Acura,MDX_Advance_Entertainment, 9995, Butler, NJ ,193931,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,28
+714,2012,Acura,MDX, 15995, South Hackensack, NJ ,83480,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,19
+715,2018,Acura,MDX_Technology, 35995, Farmingdale, NY ,35748,No Accident or Damage Reported,SUV,6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+716,2013,Acura,RDX_Technology, 13999, Lodi, NJ ,123355,Minor Damage,SUV,Silver_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,16
+717,2007,Acura,MDX_Sport_Entertainment, 7995, Butler, NJ ,151705,Accident Reported,SUV,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,32
+718,2017,Acura,RDX_Technology, 23900, Jersey City, NJ ,82016,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,25
+719,2008,Acura,TSX_Base, 8000, Bloomfield, NJ ,125003,Accident Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,15
+720,2017,Acura,MDX_Advance, 33495, Bronx, NY ,49202,Minor Damage,SUV,Brown_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,2
+721,2013,Acura,TL, 16495, Lindenhurst, NY ,39548,Accident Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,10
+722,2013,Acura,MDX, 19590, New York, NY,93614,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,23
+723,2019,Acura,MDX_Base, 36995, Mount Kisco, NY ,36274,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+724,2017,Acura,ILX_Premium, 17000, Massapequa, NY ,74031,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,10
+725,2019,Acura,RDX_Base, 34420, Denville, NJ ,24912,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+726,2019,Acura,MDX_Base, 36995, Mount Kisco, NY ,36274,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+727,2017,Acura,ILX_Premium, 17000, Massapequa, NY ,74031,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,10
+728,2012,Acura,MDX_Technology_Entertainment, 12990, Sayreville, NJ ,182297,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,5
+729,2020,Acura,RDX, 41550, Hollis, NY ,4680,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,Number of Owners,Lease Use,0
+730,2010,Acura,RDX, 7589, Brooklyn, NY ,131108,Accident Reported,SUV,Black_Engine:_4_Cyl_2.3_L_,3+ Owners,Personal Use,21
+731,2018,Acura,ILX, 21995, Lakewood, NJ ,26285,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,0
+732,2015,Acura,RDX_Base, 26450, Merrick, NY ,49040,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,9
+733,2018,Acura,MDX_Technology, 29887, Uniondale, NY ,82589,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+734,2019,Acura,TLX_Technology, 29999, Bridgewater, NJ ,25244,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+735,2020,Acura,MDX_Technology, 43395, Larchmont, NY ,6728,Accident Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Commercial Use,2
+736,2018,Acura,MDX_Base, 33995, Bay Shore, NY ,39283,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+737,2020,Acura,RDX_Base, 36995, Bay Shore, NY ,30754,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+738,2019,Acura,TLX_Base, 28999, Bridgewater, NJ ,36822,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,8
+739,2014,Acura,RLX_Technology, 20000, Denville, NJ ,91155,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,15
+740,2012,Acura,MDX_Technology_Entertainment, 14800, Wayne, NJ ,135025,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,3
+741,2018,Acura,MDX_Technology, 34782, Brooklyn, NY ,24103,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+742,2008,Acura,MDX, 5995, Butler, NJ ,186505,Minor Damage,SUV,Black_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,33
+743,2015,Acura,MDX_Technology, 23995, Lindenhurst, NY ,81521,Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,18
+744,2009,Acura,RDX, 9997, Newfoundland, NJ ,81902,Accident Reported,SUV,Black_Engine:_4_Cyl_2.3_L_,2-Owner,Personal Use,17
+745,2012,Acura,TL, 14600, Newark, NJ ,103688,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,20
+746,2017,Acura,ILX_Premium, 16990, Great Neck, NY ,23314,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,7
+747,2008,Acura,RDX_Technology, 4495, Butler, NJ ,257662,Accident Reported,SUV,Black_Engine:_4_Cyl_2.3_L_,CARFAX 1-Owner,Personal Use,6
+748,2013,Acura,ILX, 10995, Linden, NJ ,96777,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_1.5_L_,2-Owner,Personal Use,8
+749,2013,Acura,MDX, 12999, Hasbrouck Heights, NJ ,125135,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,6
+750,2019,Acura,MDX_Technology, 41900, Bloomfield, NJ ,18768,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+751,2015,Acura,TLX_Technology, 17990, East Hanover, NJ ,104093,No Accident or Damage Reported,Sedan,Brown_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+752,2015,Acura,RDX_Base, 19990, Paterson, NJ ,79413,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,28
+753,2013,Acura,RDX, 14895, East Windsor, NJ ,100568,Minor Damage,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,20
+754,2017,Acura,MDX_Advance, 33817, Brooklyn, NY ,41615,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+755,2018,Acura,ILX, 21995, West Nyack, NY ,38026,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,5
+756,2019,Acura,TLX_A-Spec, 30977, Lodi, NJ ,21000,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+757,2011,Acura,TSX_Technology, 12595, West Nyack, NY ,80871,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+758,2020,Acura,RDX, 40450, Franklin Square, NY ,21776,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+759,2019,Acura,TLX_Technology, 29900, Wayne, NJ ,19282,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+760,2015,Acura,TLX_Base, 19959, Avenel, NJ ,55271,Accident/Minor Damage,Sedan,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,10
+761,2014,Acura,MDX_Technology, 18995, Brooklyn, NY ,98232,Accident Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,20
+762,2018,Acura,MDX_Technology, 27990, Great Neck, NY ,34949,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+763,2020,Acura,RDX, 42889, Brooklyn, NY ,10832,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,4
+764,2018,Acura,TLX_A-Spec, 29481, Avenel, NJ ,34945,Accident Reported,Sedan,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+765,2018,Acura,ILX_Technology_Plus, 17495, Woodside, NY ,28165,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+766,2018,Acura,MDX_Technology, 31995, Bronx, NY ,39046,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+767,2020,Acura,MDX_Technology_A-Spec, 47981, Avenel, NJ ,10321,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+768,2021,Acura,RDX_Technology, 43985, Larchmont, NY ,4990,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,2
+769,2018,Acura,ILX_Special_Edition, 19895, Bronx, NY ,41576,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,16
+770,2019,Acura,MDX_Technology, 37985, Larchmont, NY ,23384,Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+771,2019,Acura,TLX_Technology, 27995, Bronx, NY ,59289,Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+772,2012,Acura,MDX_Technology, 12995, Lodi, NJ ,154986,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,49
+773,2021,Acura,ILX_Premium, 28895, Larchmont, NY ,2749,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Commercial Use,1
+774,2021,Acura,TLX_Technology, 40759, Larchmont, NY ,4100,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,1
+775,2021,Acura,TLX_Technology, 40000, Woodside, NY ,4511,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,4
+776,2021,Acura,TLX_Technology, 40000, Woodside, NY ,3761,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,3
+777,2020,Acura,RDX_Technology, 37495, Larchmont, NY ,23441,Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+778,2021,Acura,TLX_Technology, 40272, Roslyn, NY ,3758,No Accident or Damage Reported,Sedan,Purple_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,19
+779,2007,Acura,RL, 12800, Farmingdale, NY ,54455,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,24
+780,2017,Acura,RDX_Technology, 25998, Perth Amboy, NJ ,79158,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,19
+781,2013,Acura,MDX, 19132, Little Falls, NJ ,83312,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,9
+782,2014,Acura,MDX_Advance_Entertainment, 17900, Avenel, NJ ,144556,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,25
+783,2015,Acura,RDX_Technology, 12641, Lynbrook, NY ,112716,Accident/Minor Damage,SUV,Brown_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,16
+784,2004,Acura,MDX, 6950, Newton, NJ ,138197,Minor Damage,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,17
+785,2014,Acura,MDX_Technology, 21500, Stamford, CT ,100100,Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,19
+786,2009,Acura,TSX, 11975, Bay Shore, NY ,109577,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,8
+787,2016,Acura,MDX_Technology, 27995, Uniondale, NY ,65297,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,6
+788,2009,Acura,TL_Technology, 9999, Teterboro, NJ ,140553,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,25
+789,2019,Acura,RDX_Advance, 38969, East Brunswick, NJ ,36011,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+790,2018,Acura,ILX, 17695, Elmont, NY ,28648,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+791,2010,Acura,TSX, 8888, Totowa, NJ ,137030,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,11
+792,2011,Acura,MDX_Technology, 11000, Jersey City, NJ ,146573,Accident Reported,SUV,6_Cyl_3.7_L_,3+ Owners,Personal Use,20
+793,2016,Acura,ILX, 19999, Bridgewater, NJ ,53883,Accident Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,14
+794,2018,Acura,MDX_Advance, 36995, East Brunswick, NJ ,57502,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+795,2006,Acura,MDX_Touring, 6955, Rockaway, NJ ,140969,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,18
+796,2019,Acura,MDX_Technology, 40900, Hillside, NJ ,31141,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+797,2018,Acura,MDX_Base, 31995, West Nyack, NY ,65704,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+798,2018,Acura,ILX, 23900, Jersey City, NJ ,34234,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+799,2020,Acura,MDX_Base, 43995, West Nyack, NY ,13439,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+800,2018,Acura,ILX, 23900, Jersey City, NJ ,34234,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+801,2016,Acura,ILX, 17459, Avenel, NJ ,47221,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,9
+802,2018,Acura,MDX_Base, 34900, Jersey City, NJ ,41474,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+803,2013,Acura,MDX_Technology, 17995, Elmhurst, NY ,93389,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,13
+804,2005,Acura,TSX_Base, 8995, Lodi, NJ ,95363,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+805,2019,Acura,MDX_Base, 38995, Garwood, NJ ,21784,Minor Damage,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+806,2021,Acura,TLX_A-Spec, 44444, Bridgewater, NJ ,6214,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,1
+807,2013,Acura,RDX_Technology, 18990, New York, NY,72648,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,13
+808,2015,Acura,MDX_Advance_Entertainment, 22440, Jersey City, NJ ,114173,Major Damage,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,21
+809,2015,Acura,RDX_Base, 21891, Long Island City, NY ,66870,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,12
+810,2014,Acura,MDX_Technology, 16995, Hasbrouck Heights, NJ ,160564,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,28
+811,2018,Acura,MDX_Technology, 35998, Lawrence Township, NJ ,61322,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Corporate Use,10
+812,2019,Acura,RDX_Technology, 37875, Larchmont, NY ,16811,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+813,2019,Acura,MDX_Base, 35000, Woodside, NY ,38376,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+814,2019,Acura,MDX_Advance, 42000, Woodside, NY ,21836,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+815,2019,Acura,MDX_Base, 35985, Larchmont, NY ,28068,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+816,2018,Acura,ILX, 22704, Larchmont, NY ,15424,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+817,2019,Acura,MDX_Technology, 39995, Lawrence Township, NJ ,34399,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+818,2017,Acura,ILX, 21875, Larchmont, NY ,19371,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+819,2020,Acura,MDX_Technology, 45995, Lawrence Township, NJ ,37314,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+820,2019,Acura,MDX_Technology, 37704, Larchmont, NY ,39564,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+821,2019,Acura,TLX_Technology, 28562, Little Falls, NJ ,28435,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+822,2019,Acura,MDX_Technology, 38495, Larchmont, NY ,27647,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+823,2018,Acura,ILX, 23000, Roslyn, NY ,12223,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+824,2018,Acura,ILX_Premium, 22985, Larchmont, NY ,22941,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+825,2019,Acura,RDX_Base, 36995, Lawrence Township, NJ ,24706,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+826,2018,Acura,ILX_Technology_Plus, 29988, Hillside, NJ ,11871,Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,9
+827,2018,Acura,ILX_Technology_Plus, 18890, Great Neck, NY ,28972,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+828,2014,Acura,MDX_Technology, 12995, Brooklyn, NY ,108013,Branded Title,SUV,Gray_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,24
+829,2016,Acura,TLX_Technology, 13995, Brooklyn, NY ,141577,Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,25
+830,2019,Acura,RDX_Technology, Call for Price, Richmond Hill, NY ,51626,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+831,2019,Acura,MDX_Technology_Entertainment, 40000, Rochelle Park, NJ ,23549,Accident Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+832,2016,Acura,RDX_Technology, 23995, New York, NY ,51229,Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,27
+833,2019,Acura,ILX_Premium, 28792, Huntington Station, NY ,13320,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,6
+834,2019,Acura,RDX_Advance, 39000, Rochelle Park, NJ ,28252,Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+835,2006,Acura,MDX_Touring, 5995, Red Bank, NJ ,134943,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,23
+836,2010,Acura,TSX_Technology, 12295, SADDLE BROOK, NJ ,88750,Minor Damage,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+837,2012,Acura,TSX_Technology, 13946, New Rochelle, NY ,100783,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,1
+838,2017,Acura,ILX, 18995, Somerset, NJ ,46065,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,18
+839,2018,Acura,TLX_Technology, 19990, Woodside, NY ,36287,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,12
+840,2007,Acura,MDX_Sport_Entertainment, 6995, South Hackensack, NJ ,175670,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,19
+841,2014,Acura,ILX_Premium, 9995, Somerset, NJ ,139031,Accident Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,14
+842,2003,Acura,TL_Type_S, 7734, Linden, NJ ,105821,Accident/Minor Damage,Sedan,Silver_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,1
+843,2016,Acura,MDX_Technology, 24800, Blauvelt, NY ,108140,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,18
+844,2014,Acura,MDX_Technology, 20992, Haskell, NJ ,104759,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,7
+845,2009,Acura,RDX_Technology, 8800, Bloomfield, NJ ,142136,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.3_L_,2-Owner,Personal Use,13
+846,2013,Acura,MDX_Technology, 11495, Yonkers, NY ,180000,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,31
+847,2013,Acura,TL_Technology, 16995, Lodi, NJ ,125462,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,29
+848,2018,Acura,MDX_Base, 29891, Long Island City, NY ,43381,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+849,2018,Acura,MDX_Technology, 33995, Ridgewood, NY ,50046,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,0
+850,2015,Acura,MDX_Technology, 22995, Bronx, NY ,108587,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,14
+851,2018,Acura,MDX_Base, 30495, Great Neck, NY ,23533,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+852,2016,Acura,ILX_Premium, 15995, New Brunswick, NJ ,117546,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,14
+853,2019,Acura,TLX_A-Spec, 34990, Forest Hills, NY ,18991,Minor Damage,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+854,2019,Acura,MDX_Base, 36980, Forest Hills, NY ,14288,Major Damage,SUV,Bronze_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+855,2019,Acura,RDX_Advance, 38427, Morristown, NJ ,20718,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+856,2013,Acura,MDX, 15995, New Brunswick, NJ ,150241,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,25
+857,2013,Acura,RDX_Technology, 15495, Manalapan, NJ ,117452,Accident Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,20
+858,2016,Acura,ILX, 18995, Saint James, NY ,52512,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,2
+859,2020,Acura,TLX_Technology, 34347, Long Island City, NY ,23422,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,4
+860,2014,Acura,RLX_Technology, 16990, East Hanover, NJ ,119826,Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,19
+861,2012,Acura,TSX_Technology, 13997, Brooklyn, NY ,112056,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,22
+862,2015,Acura,MDX_Technology, 22995, UNION CITY, NJ ,93144,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,19
+863,2015,Acura,ILX, 15940, Jersey City, NJ ,82738,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,14
+864,2017,Acura,RDX_Advance, 26495, Freeport, NY ,39518,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,15
+865,2016,Acura,RDX_Base, 18795, Bridgewater, NJ ,92164,Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Multiple Use,5
+866,2017,Acura,RDX, 27696, Keyport, NJ ,37878,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,7
+867,2018,Acura,MDX_Base, 34500, White Plains, NY ,25928,Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+868,2019,Acura,TLX_A-Spec, 31000, Rochelle Park, NJ ,32801,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+869,2019,Acura,RDX_Base, 35700, Stamford, CT ,27147,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+870,2019,Acura,TLX_Base, 27000, Rochelle Park, NJ ,23557,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+871,2019,Acura,RDX_Base, 34383, Larchmont, NY ,17290,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+872,2015,Acura,ILX_Premium, 15995, Edison, NJ ,65620,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,9
+873,2020,Acura,MDX_Base, 41300, Roslyn, NY ,6672,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+874,2018,Acura,ILX_Special_Edition, 19600, Woodside, NY ,38650,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,11
+875,2012,Acura,MDX_Technology, 12995, Hasbrouck Heights, NJ ,167390,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,43
+876,2020,Acura,TLX_Base, 30999, Bridgewater, NJ ,11571,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+877,2002,Acura,RSX, 7700, Farmingdale, NY ,116000,No Accident or Damage Reported,Coupe,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,25
+878,2019,Acura,MDX_Advance, 45999, Bridgewater, NJ ,21614,Minor Damage,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+879,2016,Acura,RDX_Advance, 27888, Green Brook, NJ ,27758,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,0
+880,2012,Acura,MDX_Technology, 15999, Brooklyn, NY ,111923,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,8
+881,2018,Acura,MDX_Technology, 31490, Freeport, NY ,60198,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+882,2019,Acura,RDX_Base, 34995, Long Island City, NY ,21376,Accident Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,17
+883,2019,Acura,TLX_A-Spec, 29988, Valley Stream, NY ,48355,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,4
+884,2016,Acura,TLX_Base, 18593, PARAMUS, NJ ,97430,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,1
+885,2015,Acura,RDX_Technology, 15995, Newark, NJ ,147572,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,21
+886,2019,Acura,TLX_A-Spec, 30208, Elmont, NY ,41708,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+887,2016,Acura,TLX_Technology, 19381, Avenel, NJ ,71580,Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,6
+888,2020,Acura,MDX_Technology, 46497, Morristown, NJ ,11962,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+889,2021,Acura,RDX, 49999, Bridgewater, NJ ,7005,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+890,2016,Acura,RDX_Base, 21995, Harriman, NY ,84063,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,17
+891,2012,Acura,MDX, 16500, New Brunswick, NJ ,129082,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,9
+892,2015,Acura,TLX_Base, 23900, Amityville, NY ,41054,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,7
+893,2019,Acura,TLX_Technology, 28452, Jamaica, NY ,36289,Minor Damage,Sedan,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+894,2016,Acura,ILX_Technology_Plus, 18900, Amityville, NY ,98171,Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,21
+895,2018,Acura,ILX, 20260, Great Neck, NY ,44523,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,13
+896,2018,Acura,ILX_Premium, 24990, Pleasantville, NY,14632,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,3
+897,2012,Acura,TL_Advance, 15995, Elizabeth, NJ ,70778,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,2
+898,2018,Acura,MDX_Technology, 28990, Great Neck, NY ,46631,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+899,2018,Acura,TLX_Technology, 29500, Newton, NJ ,15019,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+900,2019,Acura,TLX_Base, 26000, Woodside, NY ,22812,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+901,2019,Acura,RDX_Technology, 34735, Woodside, NY ,28128,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+902,2012,Acura,RDX, 10997, Brooklyn, NY ,153229,Accident Reported,SUV,White_Engine:_4_Cyl_2.3_L_,2-Owner,Personal Use,37
+903,2020,Acura,MDX_Technology, 47500, Wayne, NJ ,9950,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Corporate Use,4
+904,2019,Acura,MDX_Technology_A-Spec, 42995, West Nyack, NY ,35033,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,11
+905,2019,Acura,ILX_Premium, 32990, Jamaica, NY ,34831,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+906,2018,Acura,TLX_Base, 23998, Edison, NJ ,37321,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,12
+907,2017,Acura,MDX_Base, 28495, Great Neck, NY ,38159,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Multiple Use,3
+908,2018,Acura,MDX_Base, 33478, Uniondale, NY ,39087,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+909,2019,Acura,TLX_A-Spec, 32995, Inwood, NY ,5569,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,5
+910,2019,Acura,TLX_Technology, 29995, Brooklyn, NY ,26765,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+911,2020,Acura,TLX_Base, 29990, Great Neck, NY ,29732,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+912,2019,Acura,RDX_Base, 38999, Bridgewater, NJ ,18750,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+913,2019,Acura,RDX_Base, 37999, Bridgewater, NJ ,29783,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+914,2016,Acura,ILX, 17981, Avenel, NJ ,60026,Minor Damage,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,15
+915,2019,Acura,MDX_Technology, 41999, Bridgewater, NJ ,40332,No Accident or Damage Reported,SUV,Bronze_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+916,2014,Acura,MDX_Technology, 21981, Larchmont, NY ,91954,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,24
+917,2018,Acura,MDX_Technology, 30881, Avenel, NJ ,76079,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Taxi Use,7
+918,2016,Acura,RDX_Base, 25875, Larchmont, NY ,24725,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,10
+919,2008,Acura,RDX_Technology, 10999, Elizabeth, NJ ,88780,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.3_L_,2-Owner,Multiple Use,21
+920,2017,Acura,MDX_Technology, 28308, Elmont, NY ,46145,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,0
+921,2008,Acura,TL, 10400, Uniondale, NY ,116800,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.2_L_,3+ Owners,Personal Use,31
+922,2019,Acura,MDX_Base, 34400, Englewood, NJ ,45460,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,0
+923,2019,Acura,TLX_Technology, 28995, Hasbrouck Heights, NJ ,37034,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,0
+924,2019,Acura,MDX_Technology, Call for Price, Long Island City, NY ,32105,No Accident or Damage Reported,SUV,Bronze_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+925,2019,Acura,MDX_Technology, Call for Price, Long Island City, NY ,32105,No Accident or Damage Reported,SUV,Bronze_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+926,2019,Acura,TLX_Base, Call for Price, Long Island City, NY ,13882,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,6
+927,2019,Acura,MDX_Technology, 37681, East Brunswick, NJ ,30355,Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+928,2015,Acura,RDX_Base, 17518, Eatontown, NJ ,114400,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,12
+929,2018,Acura,MDX_Technology, Call for Price, Paramus, NJ ,26677,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+930,2008,Acura,MDX, Call for Price, Elizabeth, NJ ,162817,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,3
+931,2015,Acura,TLX_Technology, 23500, Florham Park, NJ ,68092,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,12
+932,2019,Acura,TLX_Base, Call for Price, Long Island City, NY ,49843,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+933,2020,Acura,MDX_Base, 39995, West Nyack, NY ,27682,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+934,2018,Acura,ILX_Technology_Plus, 24995, West Nyack, NY ,22466,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+935,2019,Acura,RDX_Technology, 37995, West Nyack, NY ,26227,Minor Damage,SUV,Burgundy_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+936,2017,Acura,MDX_Base, 27995, West Nyack, NY ,97924,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,9
+937,2015,Acura,TLX_Technology, 26590, Newark, NJ,9851,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,8
+938,2018,Acura,TLX_A-Spec, 29750, Franklin Square, NY ,64429,Accident Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+939,2019,Acura,MDX_Technology, 38480, Jericho, NY ,12021,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+940,2015,Acura,TLX_Technology, 18665, Rockaway, NJ ,97835,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,18
+941,2013,Acura,TSX, 15495, Wharton, NJ ,76675,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,9
+942,2010,Acura,TSX, 12495, Bronx, NY ,78787,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,21
+943,2019,Acura,MDX_Technology, 39997, Jamaica, NY ,22419,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+944,2018,Acura,MDX_Technology, 28995, Bronx, NY ,83779,Damage Reported,SUV,6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+945,2009,Acura,MDX, 4599, Brooklyn, NY ,124578,Accident Reported,SUV,Red_Engine:_6_Cyl_3.7_L_,3+ Owners,Multiple Use,20
+946,2018,Acura,MDX_Advance, 35995, Bronx, NY ,52561,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+947,2017,Acura,MDX_Advance, 30581, Avenel, NJ ,72419,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,27
+948,2018,Acura,ILX_Premium, 21981, Avenel, NJ ,24330,Accident Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,13
+949,2013,Acura,ILX_Technology, 12495, Paramus, NJ ,135577,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,19
+950,2018,Acura,MDX_Base, 31704, Larchmont, NY ,48270,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+951,2018,Acura,ILX_Premium, 21981, Avenel, NJ ,24330,Accident Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,13
+952,2016,Acura,MDX_Base, 26000, Woodside, NY ,60851,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,34
+953,2019,Acura,MDX_Technology_A-Spec, 42900, Rahway, NJ ,31909,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Multiple Use,2
+954,2019,Acura,RDX_Base, 34000, Stamford, CT ,33319,No Accident or Damage Reported,SUV,4_Cyl_2.0_L_,2-Owner,Multiple Use,11
+955,2018,Acura,MDX_Base, 33471, East Brunswick, NJ ,41280,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+956,2017,Acura,MDX_Base, 25900, Brooklyn, NY ,74871,Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Multiple Use,7
+957,2021,Acura,TLX_Technology, 42998, Edison, NJ ,8242,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,1
+958,2020,Acura,MDX_Technology_A-Spec, 46900, Wayne, NJ ,7827,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+959,2019,Acura,MDX_Technology, 36900, Wayne, NJ ,31692,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+960,2018,Acura,RDX_Advance, 26988, Elmont, NY ,43849,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,0
+961,2012,Acura,MDX_Advance, 16999, Lodi, NJ ,93234,Damage Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,17
+962,2014,Acura,MDX_Technology, 18966, Lodi, NJ ,119291,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,17
+963,2006,Acura,RSX, 6600, Bloomfield, NJ ,168245,Accident Reported,Coupe,Red_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,31
+964,2018,Acura,MDX_Base, 30853, Flemington, NJ ,48209,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+965,2015,Acura,TLX_Technology, 18959, Avenel, NJ ,58557,Accident/Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+966,2018,Acura,MDX_Technology, 38500, Scarsdale, NY ,34938,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,12
+967,2010,Acura,RDX, 10495, Bronx, NY ,137519,Accident Reported,SUV,Burgundy_Engine:_4_Cyl_2.3_L_,3+ Owners,Personal Use,34
+968,2016,Acura,TLX_Technology, 23990, New York, NY,55215,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.5_L_,2-Owner,Multiple Use,12
+969,2017,Acura,MDX_Technology, 32900, Brooklyn, NY ,31170,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,0
+970,2016,Acura,MDX_Base, 27995, Union, NJ ,44910,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,0
+971,2019,Acura,RDX_Base, 34990, Great Neck, NY ,22698,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+972,2017,Acura,MDX_Technology, 29995, Great Neck, NY ,28933,Minor Damage,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+973,2014,Acura,MDX_Technology, 24595, Uniondale, NY ,86303,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,24
+974,2018,Acura,MDX_Base, 30990, Forest Hills, NY ,42174,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,12
+975,2018,Acura,TLX_A-Spec, 28995, Bronx, NY ,30933,Accident/Minor Damage,Sedan,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,0
+976,2014,Acura,MDX_Technology, Call for Price, New Canaan, CT ,66268,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,13
+977,2010,Acura,MDX, 10999, Lakewood, NJ ,149948,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,23
+978,2019,Acura,MDX_Technology, 39874, Larchmont, NY ,28453,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+979,2019,Acura,TLX_Base, 29995, Brooklyn, NY ,11822,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,7
+980,2006,Acura,TL, 5999, Hasbrouck Heights, NJ ,92724,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.2_L_,3+ Owners,Personal Use,14
+981,2018,Acura,MDX_Base, 34900, Bohemia, NY ,24216,Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+982,2019,Acura,RDX_Base, 33500, Wayne, NJ ,23950,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+983,2016,Acura,RDX_Base, 19995, Bloomfield, NJ ,97044,Minor Damage,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,8
+984,2019,Acura,MDX_Base, 35995, Bay Shore, NY ,19106,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+985,2016,Acura,RDX_Technology, 22998, Nanuet, NY ,66146,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,4
+986,2018,Acura,ILX_Special_Edition, 23000, Rochelle Park, NJ ,23262,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Corporate Use,9
+987,2014,Acura,RDX_Technology, 18500, New Rochelle, NY ,87690,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,18
+988,2018,Acura,MDX_Advance_Entertainment, 37800, Bronx, NY ,30729,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+989,2022,Acura,MDX_A-Spec, Call for Price, Long Island City, NY ,5859,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,0
+990,2016,Acura,ILX_Premium, 17900, Uniondale, NY ,80703,Accident Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,16
+991,2019,Acura,RDX_Base, 36999, Bridgewater, NJ ,15685,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,8
+992,2020,Acura,ILX, 23790, Valley Stream, NY ,20846,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,9
+993,2019,Acura,TLX_Technology, 30990, Valley Stream, NY ,7226,Accident Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+994,2015,Acura,TLX_Base, 18500, Old Bridge, NJ ,65899,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,20
+995,2019,Acura,MDX_Technology_Entertainment, Call for Price, Saint James, NY ,0,No Accident or Damage Reported,SUV,6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+996,2007,Acura,MDX_Sport_Entertainment, 8999, S Hackensack, NJ ,163023,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,16
+997,2018,Acura,RLX_Technology, 37999, Bridgewater, NJ ,34051,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Corporate Use,5
+998,2017,Acura,MDX_Base, 28995, Great Neck, NY ,27955,Minor Damage,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+999,2018,Acura,MDX_Base, 27890, Great Neck, NY ,37980,Minor Damage,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+1000,2012,Acura,TSX, 13495, Elizabeth, NJ ,99910,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,22
+1001,2012,Acura,MDX_Technology_Entertainment, 17595, Manalapan, NJ ,99831,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,6
+1002,2005,Acura,TL, 3400, Bloomfield, NJ ,162036,Accident Reported,Sedan,Blue_Engine:_6_Cyl_3.2_L_,3+ Owners,Personal Use,26
+1003,2019,Acura,RDX, 36500, Scarsdale, NY ,25112,Accident Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+1004,2003,Acura,TL_Type_S, Call for Price, Plainfield, NJ ,89964,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.2_L_,CARFAX 1-Owner,Personal Use,12
+1005,2017,Acura,MDX_Technology, 33800, Elmhurst, NY ,38039,Accident Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Lease Use,17
+1006,2009,Acura,MDX, 13995, West Nyack, NY ,84618,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Corporate Use,1
+1007,2014,Acura,TL_Technology, 21995, West Nyack, NY ,47719,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Multiple Use,35
+1008,2018,Acura,MDX_Technology_Entertainment, 37900, Roslyn, NY ,27838,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+1009,2019,Acura,MDX_Technology_A-Spec, 41704, Larchmont, NY ,33628,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+1010,2018,Acura,MDX_Technology, 38689, Bridgewater, NJ ,19264,Accident Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+1011,2019,Acura,TLX_Technology, 31982, Uniondale, NY ,19542,Minor Damage,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+1012,2013,Acura,TL, 15995, Newark, NJ ,105665,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,26
+1013,2016,Acura,TLX_Base, 22995, Uniondale, NY ,67012,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,16
+1014,2019,Acura,RDX_Base, 37999, Bridgewater, NJ ,31037,Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+1015,2019,Acura,RDX_Base, 32995, Long Island City, NY ,44188,Accident Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+1016,2017,Acura,RDX, 24490, Jamaica, NY ,34683,Minor Damage,SUV,Red_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,8
+1017,2005,Acura,RSX_Base, 10995, North Plainfield, NJ ,73773,Accident Reported,Coupe,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+1018,2015,Acura,TLX_Technology, 19985, Paterson, NJ ,88210,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,44
+1019,2017,Acura,ILX, 21999, Bridgewater, NJ ,47374,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,16
+1020,2019,Acura,RDX_Base, 35999, Bridgewater, NJ ,34308,Accident Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+1021,2019,Acura,MDX_Base, 40999, Bridgewater, NJ ,27446,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+1022,2011,Acura,MDX_Technology, 15000, Brooklyn, NY ,95611,Minor Damage,SUV,Black_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,26
+1023,2019,Acura,TLX_Base, 27969, East Brunswick, NJ ,11829,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,4
+1024,2019,Acura,TLX_Base, 26969, East Brunswick, NJ ,28568,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,2
+1025,2019,Acura,MDX_Technology, 37900, Wayne, NJ ,30895,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+1026,2006,Acura,RSX, 8999, Elizabeth, NJ ,82579,Minor Damage,Coupe,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,11
+1027,2019,Acura,MDX_Base, Call for Price, Long Island City, NY ,35450,Accident Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+1028,2019,Acura,TLX_Base, Call for Price, Long Island City, NY ,37737,Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+1029,2010,Acura,MDX_Technology, Call for Price, Hempstead, NY ,134414,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,36
+1030,2018,Acura,MDX_Base, 33200, Woodside, NY ,18426,Accident Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+1031,2018,Acura,ILX_Special_Edition, 19844, Larchmont, NY ,26964,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+1032,2015,Acura,MDX_Technology, 22995, UNION CITY, NJ ,91016,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+1033,2010,Acura,RDX_Technology, 9995, UNION CITY, NJ ,167984,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.3_L_,CARFAX 1-Owner,Personal Use,32
+1034,2010,Acura,TSX, Call for Price, Elizabeth, NJ ,133421,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,5
+1035,2014,Acura,RDX_Base, 13990, East Hanover, NJ ,167960,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+1036,2012,Acura,TL, 15995, Uniondale, NY ,67531,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,2-Owner,Multiple Use,15
+1037,2019,Acura,RDX, 39704, Larchmont, NY ,18724,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+1038,2018,Acura,TLX_Base, 23995, West Nyack, NY ,39012,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,16
+1039,2016,Acura,RDX_Base, 22118, Englewood, NJ ,81502,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,10
+1040,2012,Acura,TSX, 13999, Tarrytown, NY ,88890,Minor Damage,Sedan,White_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,24
+1041,2004,Acura,MDX_Touring, 6989, North Brunswick, NJ ,170910,Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,28
+1042,2014,Acura,ILX_Technology, 15788, Lakewood, NJ ,55838,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,20
+1043,2019,Acura,TLX_A-Spec, 33000, Scarsdale, NY ,31970,Minor Damage,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+1044,2019,Acura,MDX_Technology_A-Spec, 42900, North Plainfield, NJ ,16076,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+1045,2004,Acura,TL, 5999, Paterson, NJ ,158350,Branded Title,Sedan,Black_Engine:_6_Cyl_3.2_L_,2-Owner,Personal Use,63
+1046,2019,Acura,MDX_Technology, 37704, Larchmont, NY ,33191,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Multiple Use,6
+1047,2020,Acura,TLX_Base, Call for Price, Rahway, NJ ,11447,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+1048,2017,Acura,MDX_Technology, 30900, WEST LONG BRANCH, NJ ,58209,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+1049,2018,Acura,TLX_A-Spec, 34450, Linden, NJ ,38466,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,2-Owner,Multiple Use,11
+1050,2015,Acura,MDX_Base, 27056, Lodi, NJ ,53175,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,9
+1051,2005,Acura,RSX_Type_S, Call for Price, Elizabeth, NJ ,125902,No Accident or Damage Reported,Coupe,Red_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,9
+1052,2019,Acura,ILX_Premium, 25911, Jersey City, NJ ,20683,Accident/No Damage,Sedan,Red_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,11
+1053,1998,Acura,CL_Premium, 2500, Lakewood, NJ ,176939,Accident Reported,Coupe,Green_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,11
+1054,2007,Acura,RDX_Technology, 9995, Lodi, NJ ,115289,Accident/Minor Damage,SUV,Silver_Engine:_4_Cyl_2.3_L_,3+ Owners,Multiple Use,33
+1055,2019,Acura,RDX_Base, 33955, Larchmont, NY ,34022,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+1056,2019,Acura,RDX_Base, 34704, Larchmont, NY ,15350,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+1057,2019,Acura,TLX_Technology, 30890, Roslyn, NY ,18487,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+1058,2012,Acura,TSX_Special_Edition, 11995, Edison, NJ ,129706,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.4_L_,3+ Owners,Personal Use,39
+1059,2012,Acura,TL_Technology, 10999, S Hackensack, NJ ,163522,Accident/Minor Damage,Sedan,Gray_Engine:_6_Cyl_3.5_L_,3+ Owners,Multiple Use,4
+1060,2018,Acura,RDX_Technology, 28900, Scarsdale, NY ,36450,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+1061,2008,Acura,MDX_Sport_Entertainment, 6595, Bronx, NY ,113495,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.7_L_,3+ Owners,Multiple Use,13
+1062,2009,Acura,TL_Technology, 10489, Passaic, NJ ,126100,Minor Damage,Sedan,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,8
+1063,2018,Acura,ILX, 27595, Woodside, NY ,8400,Minor Damage,Sedan,Beige_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,3
+1064,2019,Acura,ILX_Premium, 22775, Brooklyn, NY ,45708,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,10
+1065,2022,Acura,MDX_Technology, 54945, Larchmont, NY ,4633,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Commercial Use,2
+1066,2019,Acura,RDX_Base, 38995, Hasbrouck Heights, NJ ,31326,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+1067,2012,Acura,TL, 12995, Edison, NJ ,106704,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,29
+1068,2015,Acura,TLX_Technology, 21399, Woodbridge, NJ ,57225,Accident/Minor Damage,Sedan,White_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,14
+1069,2015,Acura,TLX_Base, 19895, Freeport, NY ,98334,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,5
+1070,2020,Acura,RDX_Technology, 39843, Freeport, NY ,17126,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,7
+1071,2016,Acura,MDX_Technology, 25758, Lodi, NJ ,96323,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,15
+1072,2008,Acura,RDX, 7995, South Hackensack, NJ ,120991,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.3_L_,3+ Owners,Personal Use,26
+1073,2016,Acura,ILX_Premium, 23999, Bridgewater, NJ ,32033,Very Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,15
+1074,2013,Acura,TL_Technology, 14999, S Hackensack, NJ ,119262,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Multiple Use,15
+1075,2010,Acura,TL_Technology, 9999, Keyport, NJ ,178019,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,15
+1076,2018,Acura,TLX_A-Spec, 30959, Avenel, NJ ,58577,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,7
+1077,2019,Acura,MDX_Technology, 38000, Scarsdale, NY ,28322,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+1078,2018,Acura,TLX_Technology, 29999, Bridgewater, NJ ,19665,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,0
+1079,2010,Acura,TSX, 14500, Elmhurst, NY ,98756,Accident/Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,12
+1080,2020,Acura,MDX_Technology, 37488, Greenwich, CT ,46447,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+1081,2009,Acura,TSX, 12475, Bay Shore, NY ,98998,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,12
+1082,2012,Acura,TSX_Technology, 14685, Hasbrouck Heights, NJ ,77161,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Multiple Use,8
+1083,2018,Acura,ILX, 19490, Valley Stream, NY ,29995,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.4_L_,CARFAX 1-Owner,Personal Use,18
+1084,2018,Acura,TLX_A-Spec, 38995, Bay Shore, NY ,38873,Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,Number of Owners,Lease Use,2
+1085,2019,Acura,TLX_A-Spec, Call for Price, Wantagh, NY ,48964,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+1086,2020,Acura,RDX_Technology, 39995, Bay Shore, NY ,8317,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+1087,2019,Acura,MDX_Base, Call for Price, Woodside, NY ,36359,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+1088,2018,Acura,MDX_Base, Call for Price, Larchmont, NY ,35857,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+1089,2018,Acura,MDX_Technology, Call for Price, Larchmont, NY ,53352,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+1090,2018,Acura,RDX, 27995, Bay Shore, NY ,38101,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,15
+1091,2019,Acura,MDX_Base, 34995, Bay Shore, NY ,41658,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+1092,2014,Acura,TL_Technology, 24000, Rochelle Park, NJ ,80910,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Corporate Use,22
+1093,2019,Acura,MDX_Technology_A-Spec, 42995, West Nyack, NY ,30592,Accident Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,2-Owner,Multiple Use,3
+1094,2019,Acura,RDX_Technology, 34875, Larchmont, NY ,22518,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+1095,2011,Acura,TSX_Technology, 15995, Newark, NJ ,129065,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,14
+1096,2016,Acura,TLX_Base, 17995, Brooklyn, NY ,93295,Accident/Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.4_L_,2-Owner,Personal Use,7
+1097,2011,Acura,MDX_Technology, 15495, Newark, NJ ,128736,Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,15
+1098,2007,Acura,MDX_Technology, 7995, Butler, NJ ,189614,Minor Damage,SUV,Silver_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,28
+1099,2011,Acura,MDX_Technology, 15995, Uniondale, NY ,96905,Accident Reported,SUV,White_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,5

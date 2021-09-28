@@ -1,0 +1,1101 @@
+,Year,Brand,Model,Cost,City,State,Mileage,Accident,Body,Engine,Owners,Usefor,Services
+0,2018,BMW,X4_xDrive28i, 38954, Brooklyn, NY ,29065,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+1,2020,BMW,2_Series_228i_xDrive_Gran_Coupe, 39995, Garwood, NJ ,4586,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,5
+2,2018,BMW,X2_xDrive28i, 28000, Englewood, NJ ,33989,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+3,2018,BMW,3_Series_340i_xDrive, 36995, Greenvale, NY ,41895,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+4,2018,BMW,X2_xDrive28i, 28880, Mamaroneck, NY ,27174,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+5,2018,BMW,5_Series_540i_xDrive, 43845, Darien, CT ,25924,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,12
+6,2018,BMW,4_Series_440i_xDrive, 39195, Darien, CT ,28761,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+7,2018,BMW,M5_Base, 82997, Tenafly, NJ ,24055,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,15
+8,2018,BMW,X3_M40i, 45986, Greenwich, CT ,27433,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+9,2018,BMW,5_Series_530i_xDrive, 39645, Darien, CT ,26154,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+10,2018,BMW,X2_xDrive28i, 31795, Darien, CT ,22875,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+11,2018,BMW,X6_xDrive35i, 48900, Harriman, NY ,45522,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+12,2019,BMW,4_Series_430i_xDrive_Gran_Coupe, 33667, Huntington Station, NY ,35221,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+13,2018,BMW,3_Series_340i_xDrive, 42994, Tenafly, NJ ,4266,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+14,2018,BMW,X2_xDrive28i, 29695, Great Neck, NY ,13476,No Accident or Damage Reported,SUV,Orange_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+15,2019,BMW,8_Series_M850i_xDrive, 83998, Westbury, NY ,11843,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,7
+16,2021,BMW,3_Series_330i_xDrive, 45814, Greenwich, CT ,2437,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+17,2021,BMW,X1_xDrive28i, 38997, Shrewsbury, NJ ,11988,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+18,2019,BMW,i8, 112900, Englewood Cliffs, NJ ,8917,No Accident or Damage Reported,Convertible,Gray_Engine:_3_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+19,2018,BMW,X5_xDrive35i, 37985, Yonkers, NY ,45190,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+20,2018,BMW,3_Series_330i_xDrive, 26990, Ridgefield, CT ,49178,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+21,2018,BMW,4_Series_440i, 36995, Huntington Station, NY ,27104,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+22,2018,BMW,X1_xDrive28i, 26995, Totowa, NJ ,29359,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+23,2020,BMW,7_Series_745e_xDrive_iPerformance, 69893, Westbury, NY ,20923,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+24,2018,BMW,2_Series_230i_xDrive, 28988, Westbury, NY ,26612,No Accident or Damage Reported,Coupe,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+25,2019,BMW,Z4_sDrive30i, 51995, Darien, CT ,17594,No Accident or Damage Reported,Convertible,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+26,2018,BMW,X2_xDrive28i, 30798, Tenafly, NJ ,20218,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+27,2019,BMW,X3_xDrive30i, 38595, Tenafly, NJ ,27052,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+28,2019,BMW,5_Series_M550i_xDrive, 60990, Ridgefield, CT ,22917,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,11
+29,2019,BMW,X7_xDrive50i, 84867, Greenwich, CT ,8100,No Accident or Damage Reported,SUV,Gray_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,5
+30,2018,BMW,X2_xDrive28i, 29693, White Plains, NY ,21665,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+31,2018,BMW,3_Series_320i_xDrive, 22980, Richmond Hill, NY ,38443,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+32,2018,BMW,X5_xDrive35i, 39795, Harriman, NY ,41145,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+33,2019,BMW,X3_M40i, 48340, Rochelle Park, NJ ,24715,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+34,2018,BMW,X3_xDrive30i, 37994, Mamaroneck, NY ,17499,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+35,2020,BMW,X3_M, 65988, Eatontown, NJ ,14183,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+36,2018,BMW,M4_Base, 63985, Larchmont, NY ,2972,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+37,2020,BMW,Z4_sDrive30i, 52988, Eatontown, NJ ,3025,No Accident or Damage Reported,Convertible,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+38,2020,BMW,Z4_sDrive30i, 52988, Eatontown, NJ ,4392,No Accident or Damage Reported,Convertible,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+39,2018,BMW,3_Series_330i_xDrive, 31295, Darien, CT ,28197,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+40,2018,BMW,5_Series_530i_xDrive, 39795, Darien, CT ,29093,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+41,2019,BMW,4_Series_430i_xDrive_Gran_Coupe, 30336, Blauvelt, NY ,34996,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+42,2018,BMW,5_Series_530i_xDrive, 26690, Bronx, NY ,58673,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+43,2017,BMW,3_Series_330i_xDrive, 17450, Paterson, NJ ,92140,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+44,2019,BMW,X3_xDrive30i, 38733, Freeport, NY ,31149,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+45,2020,BMW,X5_M50i, 79921, Freeport, NY ,15075,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,5
+46,2018,BMW,X3_xDrive30i, 33900, Summit, NJ ,25160,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+47,2018,BMW,X3_xDrive30i, 33995, Darien, CT ,34866,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+48,2018,BMW,X2_xDrive28i, 29998, Edison, NJ ,28201,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+49,2014,BMW,X6_xDrive35i, 21456, Elizabeth, NJ ,119593,Accident Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+50,2018,BMW,X5_xDrive35i, 41980, Richmond Hill, NY ,24991,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+51,2019,BMW,X4_xDrive30i, 43500, Paramus, NJ ,27021,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+52,2018,BMW,X5_xDrive35i, 41943, Kenvil, NJ ,28196,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+53,2018,BMW,M4_Base, 60498, Huntington Station, NY ,21293,No Accident or Damage Reported,Convertible,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+54,2018,BMW,X2_xDrive28i, 28990, Ridgefield, CT ,40545,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+55,2018,BMW,X3_M40i, 45040, Rochelle Park, NJ ,31245,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,12
+56,2020,BMW,X3_M, 69895, Harriman, NY ,8341,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+57,2018,BMW,X3_xDrive30i, 35490, Ridgefield, CT ,36766,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+58,2020,BMW,X5_xDrive40i, 57990, Ridgefield, CT ,26019,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+59,2019,BMW,X3_xDrive30i, 38990, Ridgefield, CT ,34429,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+60,2021,BMW,5_Series_540i_xDrive, 59895, Harriman, NY ,8705,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+61,2018,BMW,X3_xDrive30i, 37900, Harriman, NY ,18468,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+62,2019,BMW,3_Series_330i_xDrive, 41900, Harriman, NY ,17183,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+63,2019,BMW,X5_xDrive40i, 56540, Rochelle Park, NJ ,22989,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+64,2018,BMW,X1_xDrive28i, 28943, Freeport, NY ,21753,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+65,2018,BMW,X3_xDrive30i, 36921, Freeport, NY ,21633,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+66,2018,BMW,X2_xDrive28i, 29493, Freeport, NY ,16004,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+67,2018,BMW,X5_xDrive35i, 34636, Jamaica, NY ,57889,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+68,2018,BMW,3_Series_330i_xDrive, 25850, Jackson Heights, NY ,36237,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+69,2020,BMW,M5, 88550, Mamaroneck, NY ,25907,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,13
+70,2018,BMW,X2_xDrive28i, 32879, Tenafly, NJ ,15905,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+71,2018,BMW,X3_M40i, 43432, Mamaroneck, NY ,44180,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+72,2018,BMW,X3_xDrive30i, 37579, Tenafly, NJ ,26858,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+73,2019,BMW,X3_xDrive30i, 27766, Irvington, NJ ,69002,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+74,2019,BMW,X3_xDrive30i, 39932, Tenafly, NJ ,11100,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+75,2018,BMW,X3_M40i, 43432, Mamaroneck, NY ,44180,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+76,2018,BMW,X2_xDrive28i, 32879, Tenafly, NJ ,15905,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+77,2018,BMW,5_Series_540i_xDrive, 37995, Greenvale, NY ,47314,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+78,2018,BMW,X2_xDrive28i, 31450, Tenafly, NJ ,16647,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+79,2013,BMW,X5_xDrive35i, 14775, E Rutherford, NJ ,117499,No Accident or Damage Reported,SUV,Bronze_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,28
+80,2019,BMW,X3_xDrive30i, 38500, Tenafly, NJ ,32243,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+81,2018,BMW,X1_xDrive28i, 29950, Mamaroneck, NY ,30123,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+82,2018,BMW,X5_xDrive35i, 46450, Tenafly, NJ ,11274,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+83,2018,BMW,X1_xDrive28i, 27800, Westport, CT ,30390,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+84,2018,BMW,X2_xDrive28i, 33988, Westbury, NY ,5867,No Accident or Damage Reported,SUV,Orange_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+85,2018,BMW,X3_M40i, 45162, Greenwich, CT ,34013,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+86,2018,BMW,3_Series_330i_xDrive, 31590, Ridgefield, CT ,24419,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+87,2019,BMW,X4_xDrive30i, 44995, Harriman, NY ,31148,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+88,2018,BMW,X3_xDrive30i, 35865, Greenwich, CT ,33014,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+89,2019,BMW,i8, 118998, Westbury, NY ,12313,No Accident or Damage Reported,Convertible,Gray_Engine:_3_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,7
+90,2018,BMW,X1_xDrive28i, 29990, Ridgefield, CT ,24195,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+91,2018,BMW,X3_xDrive30i, 37330, Rochelle Park, NJ ,23222,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+92,2019,BMW,5_Series_530i_xDrive, 41750, Harriman, NY ,16020,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+93,2019,BMW,4_Series_430i_xDrive, 33360, Huntington Station, NY ,45014,No Accident or Damage Reported,Coupe,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+94,2018,BMW,X5_xDrive35i, 41500, Glen Cove, NY ,28223,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,11
+95,2018,BMW,X2_xDrive28i, 29998, COLONIA, NJ ,27711,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+96,2018,BMW,X2_xDrive28i, 32743, Freeport, NY ,12376,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+97,2019,BMW,X5_xDrive40i, 59918, Freeport, NY ,11171,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+98,2018,BMW,X3_xDrive30i, 37933, Freeport, NY ,18212,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,16
+99,2019,BMW,X3_xDrive30i, 39957, Freeport, NY ,18806,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+100,2018,BMW,X3_xDrive30i, 37933, Freeport, NY ,18212,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,16
+101,2020,BMW,X3_xDrive30i, 41991, Freeport, NY ,4982,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+102,2018,BMW,3_Series_330i_xDrive, 26978, White Plains, NY ,49490,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+103,2019,BMW,5_Series_530e_xDrive_iPerformance, 32904, Trenton, NJ ,60488,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,28
+104,2018,BMW,3_Series_320i_xDrive, 29279, Trenton, NJ ,18607,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+105,2018,BMW,6_Series_640i_xDrive_Gran_Turismo, 42980, Richmond Hill, NY ,20390,No Accident or Damage Reported,Hatchback,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,0
+106,2018,BMW,5_Series_530i_xDrive, 31980, Richmond Hill, NY ,44896,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,16
+107,2018,BMW,3_Series_330i, 27498, Princeton, NJ ,29035,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+108,2014,BMW,X1_xDrive28i, 13978, West Long Branch, NJ ,86640,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,24
+109,2013,BMW,X5_xDrive50i, 15990, Parlin, NJ ,100000,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_4.4_L_,3+ Owners,Personal Use,31
+110,2019,BMW,i8, 105000, Nanuet, NY ,14318,No Accident or Damage Reported,Coupe,Gray_Engine:_3_Cyl_1.5_L_,2-Owner,Personal Use,3
+111,2019,BMW,M5_Competition, 89700, Nanuet, NY ,20182,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Corporate Use,9
+112,2018,BMW,3_Series_320i_xDrive, 22995, Hackensack, NJ ,41730,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,4
+113,2019,BMW,4_Series_430i_xDrive, 30495, Great Neck, NY ,46183,No Accident or Damage Reported,Coupe,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+114,2018,BMW,X3_xDrive30i, 34895, Edison, NJ ,44321,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+115,2019,BMW,X3_xDrive30i, 35999, Trenton, NJ ,45774,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+116,2018,BMW,X5_xDrive35i, 39995, Jersey City, NJ ,22410,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+117,2017,BMW,M4_Base, 62114, White Plains, NY ,5800,No Accident or Damage Reported,Convertible,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+118,2018,BMW,3_Series_330i_xDrive_Gran_Turismo, 29999, Trenton, NJ ,46827,No Accident or Damage Reported,Hatchback,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+119,2021,BMW,X5_xDrive40i, 61995, Parsippany, NJ ,4288,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+120,2019,BMW,7_Series_740i_xDrive, 54995, Mount Kisco, NY ,39803,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+121,2021,BMW,8_Series_M850i_xDrive_Gran_Coupe, 98999, Ramsey, NJ ,12429,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,4
+122,2018,BMW,3_Series_340i_xDrive, 36980, Richmond Hill, NY ,19204,Accident/Minor Damage,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+123,2018,BMW,X3_M40i, 44998, Kenvil, NJ ,37771,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+124,2018,BMW,4_Series_430i_xDrive_Gran_Coupe, 27215, White Plains, NY ,51529,No Accident or Damage Reported,Sedan,Brown_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+125,2020,BMW,5_Series_540i_xDrive, 57181, White Plains, NY ,7749,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+126,2018,BMW,X3_xDrive30i, 27607, Lynbrook, NY ,48400,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,20
+127,2018,BMW,X3_xDrive30i, 39295, Harriman, NY ,24791,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+128,2018,BMW,X1_xDrive28i, 31900, Harriman, NY ,19735,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+129,2018,BMW,X3_M40i, 43990, Ridgefield, CT ,38877,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,12
+130,2018,BMW,6_Series_640i_xDrive_Gran_Turismo, 44998, Westbury, NY ,32983,No Accident or Damage Reported,Hatchback,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+131,2018,BMW,X1_xDrive28i, 30490, Ridgefield, CT ,26233,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+132,2018,BMW,X1_xDrive28i, 31595, Harriman, NY ,18475,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+133,2017,BMW,2_Series_M240i_xDrive, 37950, Greenwich, CT ,11456,No Accident or Damage Reported,Convertible,Red_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+134,2018,BMW,5_Series_M550i_xDrive, 42995, Bronx, NY ,44764,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,4
+135,2018,BMW,5_Series_540i_xDrive, 40990, Ridgefield, CT ,48224,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,14
+136,2018,BMW,X3_xDrive30i, 37995, Harriman, NY ,35881,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+137,2018,BMW,X1_xDrive28i, 30495, Harriman, NY ,31436,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+138,2019,BMW,5_Series_540i_xDrive, 49990, Ridgefield, CT ,24250,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+139,2018,BMW,X2_xDrive28i, 29844, Huntington Station, NY ,27993,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+140,2019,BMW,4_Series_430i_xDrive_Gran_Coupe, 33975, Oyster Bay, NY ,35675,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+141,2019,BMW,X3_xDrive30i, 40299, Huntington Station, NY ,17757,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+142,2018,BMW,X3_M40i, 45990, Ridgefield, CT ,31609,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,16
+143,2018,BMW,X3_xDrive30i, 38950, Greenwich, CT ,15560,No Accident or Damage Reported,SUV,Brown_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+144,2019,BMW,3_Series_330i_xDrive_Gran_Turismo, 36511, Greenwich, CT ,27142,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+145,2020,BMW,X3_xDrive30i, 43990, Ridgefield, CT ,19449,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+146,2018,BMW,X1_xDrive28i, 30900, Harriman, NY ,23395,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+147,2019,BMW,3_Series_330i_xDrive, 37795, Harriman, NY ,15175,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+148,2018,BMW,X3_xDrive30i, 36950, Greenwich, CT ,31407,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+149,2019,BMW,X3_xDrive30i, 40777, Freeport, NY ,7275,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+150,2019,BMW,X3_xDrive30i, 38868, Freeport, NY ,24450,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+151,2018,BMW,X3_xDrive30i, 39836, Freeport, NY ,8505,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+152,2019,BMW,X3_xDrive30i, 38843, Freeport, NY ,17993,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+153,2019,BMW,X3_xDrive30i, 39933, Freeport, NY ,10909,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+154,2018,BMW,X3_xDrive30i, 37986, Freeport, NY ,24083,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+155,2018,BMW,X1_xDrive28i, 28593, Freeport, NY ,21580,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+156,2018,BMW,X5_xDrive35i, 29995, Bronx, NY ,78543,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+157,2021,BMW,3_Series_330i_xDrive, 42994, White Plains, NY ,6938,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+158,2020,BMW,X3_xDrive30i, 42997, Shrewsbury, NJ ,9628,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+159,2019,BMW,X5_xDrive40i, 55000, Eatontown, NJ ,17199,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+160,2016,BMW,X3_xDrive28i, 17200, Jersey City, NJ ,102591,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,23
+161,2018,BMW,X3_M40i, 43509, Trenton, NJ ,44626,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,26
+162,2019,BMW,X3_xDrive30i, 39988, Edison, NJ ,18177,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+163,2020,BMW,X3_xDrive30i, 42545, PARAMUS, NJ ,11697,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+164,2019,BMW,X3_M40i, 45992, Mount Kisco, NY ,28624,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+165,2019,BMW,X5_xDrive40i, 48588, Valley Stream, NY ,49143,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,11
+166,2013,BMW,X3_xDrive28i, 12802, Edison, NJ ,85243,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+167,2020,BMW,3_Series_M340i_xDrive, 46980, Richmond Hill, NY ,18547,Accident Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+168,2018,BMW,X3_xDrive30i, 37092, Brooklyn, NY ,20123,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+169,2019,BMW,X3_xDrive30i, 36995, Darien, CT ,31689,Accident/Minor Damage,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+170,2019,BMW,X7_xDrive50i, 86995, Parsippany, NJ ,9827,No Accident or Damage Reported,SUV,Gray_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,4
+171,2018,BMW,X3_xDrive30i, 34652, Mamaroneck, NY ,48324,No Accident or Damage Reported,SUV,Brown_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,3
+172,2017,BMW,X3_xDrive28i, 25635, Sea Girt, NJ ,46075,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,11
+173,2018,BMW,M4_Base, 61594, Tenafly, NJ ,22644,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+174,2018,BMW,X5_xDrive35i, 44995, Greenvale, NY ,17799,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+175,2017,BMW,X3_xDrive28i, 27997, Englewood, NJ ,21680,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,7
+176,2018,BMW,X2_xDrive28i, 27498, Mount Kisco, NY ,32890,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+177,2019,BMW,M5, 84495, Great Neck, NY ,10767,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,5
+178,2018,BMW,X1_xDrive28i, 27723, Mamaroneck, NY ,36254,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+179,2015,BMW,6_Series_640i_xDrive_Gran_Coupe, 32888, Butler, NJ ,40816,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,14
+180,2018,BMW,7_Series_Alpina_B7, 69777, Hillside, NJ ,49463,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,10
+181,2016,BMW,X5_xDrive35i, 25988, Eatontown, NJ ,97858,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,23
+182,2019,BMW,X5_xDrive40i, 56256, Kenvil, NJ ,28525,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+183,2018,BMW,X4_xDrive28i, 36024, Kenvil, NJ ,32698,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+184,2018,BMW,3_Series_330i, 28998, West Babylon, NY ,22324,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+185,2018,BMW,5_Series_540i_xDrive, 44998, Kenvil, NJ ,34655,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+186,2020,BMW,X4_xDrive30i, 50102, Greenvale, NY ,2320,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+187,2017,BMW,X1_xDrive28i, 26195, Darien, CT ,45596,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,11
+188,2018,BMW,X5_xDrive35i, 41054, White Plains, NY ,33857,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+189,2018,BMW,3_Series_330i_xDrive_Gran_Turismo, 32646, Kenvil, NJ ,18717,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+190,2018,BMW,4_Series_440i_Gran_Coupe, 29900, Plainfield, NJ ,48022,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+191,2019,BMW,4_Series_430i_xDrive_Gran_Coupe, 33795, Paramus, NJ ,26194,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,4
+192,2019,BMW,M5_Competition, 94990, Ridgefield, CT ,18365,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,14
+193,2019,BMW,5_Series_540i_xDrive, 49995, Darien, CT ,34712,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+194,2018,BMW,X5_xDrive35i, 37980, Richmond Hill, NY ,39625,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+195,2017,BMW,X3_xDrive28i, 24752, Jamaica, NY ,36765,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+196,2018,BMW,5_Series_530i_xDrive, 33999, Yonkers, NY ,36158,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+197,2018,BMW,X5_xDrive35i, 45125, Brooklyn, NY ,30400,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+198,2018,BMW,5_Series_530i_xDrive, 28995, Jamaica, NY ,67879,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,4
+199,2018,BMW,X5_xDrive35i, 40498, Floral Park, NY ,27939,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+200,2018,BMW,5_Series_530i_xDrive, 29990, Bronx, NY ,63644,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+201,2018,BMW,3_Series_330i_xDrive, 23045, Hollis, NY ,41138,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+202,2019,BMW,X3_xDrive30i, 40995, Mount Kisco, NY ,18056,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+203,2018,BMW,X3_xDrive30i, 34495, Ramsey, NJ ,29378,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+204,2018,BMW,X2_xDrive28i, 29999, Trenton, NJ ,29098,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,18
+205,2018,BMW,X2_xDrive28i, 30499, Edison, NJ ,34513,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+206,2018,BMW,5_Series_540i_xDrive, 42495, Mount Kisco, NY ,29681,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,12
+207,2016,BMW,X3_xDrive28i, 16995, Edison, NJ ,111196,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,24
+208,2018,BMW,X2_xDrive28i, 28997, Lodi, NJ ,34605,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+209,2013,BMW,X1_xDrive28i, 12000, Lakewood, NJ ,101005,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,15
+210,2018,BMW,X3_M40i, 37995, Great Neck, NY ,53144,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+211,2018,BMW,X5_xDrive35i, 39988, Great Neck, NY ,25238,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+212,2018,BMW,X3_M40i, 44575, Oyster Bay, NY ,26909,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+213,2015,BMW,6_Series_650i_xDrive_Gran_Coupe, 27995, Elizabeth, NJ ,93562,Damage Reported,Sedan,Blue_Engine:_8_Cyl_4.4_L_,2-Owner,Personal Use,40
+214,2018,BMW,3_Series_330i, 24249, Elizabeth, NJ ,27530,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,12
+215,2013,BMW,3_Series_328i_xDrive, 12045, Elizabeth, NJ ,101517,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,18
+216,2021,BMW,X5_M50i, 86497, Morristown, NJ ,6029,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,7
+217,2013,BMW,3_Series_328i_xDrive, 14599, Ramsey, NJ ,82189,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,20
+218,2018,BMW,3_Series_328d_xDrive, 34990, Ridgefield, CT ,45327,No Accident or Damage Reported,Wagon,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+219,2016,BMW,5_Series_550i_xDrive, 30995, Ledgewood, NJ ,48914,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.4_L_,2-Owner,Personal Use,14
+220,2021,BMW,3_Series_330i_xDrive, 43395, Darien, CT ,4014,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,4
+221,2018,BMW,5_Series_540i_xDrive, 35988, Yonkers, NY ,46502,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Corporate Use,5
+222,2018,BMW,5_Series_540i_xDrive, 38645, Darien, CT ,48965,Accident/Minor Damage,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+223,2018,BMW,X5_xDrive40e_iPerformance, 39980, Richmond Hill, NY ,29998,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+224,2018,BMW,X3_xDrive30i, 36695, Darien, CT ,42091,Minor Damage,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+225,2018,BMW,5_Series_540i_xDrive, 35988, Yonkers, NY ,46502,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Corporate Use,5
+226,2019,BMW,X3_xDrive30i, 31980, Richmond Hill, NY ,35965,Accident Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+227,2018,BMW,X3_xDrive30i, 36695, Darien, CT ,42091,Minor Damage,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+228,2020,BMW,7_Series_750i_xDrive, 75980, Richmond Hill, NY ,16452,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,0
+229,2018,BMW,X6_xDrive35i, 49495, New York, NY ,31130,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+230,2021,BMW,2_Series_228i_xDrive_Gran_Coupe, 38990, Brooklyn, NY ,747,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+231,2018,BMW,X5_xDrive35i, 41487, Morristown, NJ ,26654,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+232,2018,BMW,X5_xDrive35i, 39392, Morristown, NJ ,41418,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+233,2013,BMW,M5, 35990, Brooklyn, NY ,70918,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_4.4_L_,3+ Owners,Personal Use,29
+234,2018,BMW,X1_xDrive28i, 30495, Darien, CT ,37273,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+235,2018,BMW,X5_xDrive40e_iPerformance, 42895, Darien, CT ,38622,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+236,2018,BMW,X3_M40i, 45495, Darien, CT ,38912,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+237,2018,BMW,3_Series_320i_xDrive, 30195, Darien, CT ,18959,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+238,2019,BMW,X7_xDrive40i, 78495, Darien, CT ,5234,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+239,2018,BMW,X3_xDrive30i, 39568, Brooklyn, NY ,19907,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+240,2019,BMW,4_Series_430i_xDrive, 35989, Sayville, NY ,30524,No Accident or Damage Reported,Coupe,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+241,2019,BMW,X5_xDrive40i, 53900, Summit, NJ ,20561,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+242,2019,BMW,7_Series_740i_xDrive, 50999, Jamaica, NY ,15278,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+243,2021,BMW,X5_xDrive40i, 61988, Westbury, NY ,7164,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+244,2018,BMW,X5_xDrive40e_iPerformance, 42900, Florham Park, NJ ,26769,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+245,2019,BMW,4_Series_440i_xDrive, 39900, Rahway, NJ ,19392,Accident/Minor Damage,Coupe,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+246,2015,BMW,3_Series_328i_xDrive, 15980, Richmond Hill, NY ,79817,Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,15
+247,2011,BMW,M3, 34995, Huntington Station, NY ,86710,No Accident or Damage Reported,Coupe,Silver_Engine:_8_Cyl_4.0_L_,CARFAX 1-Owner,Personal Use,22
+248,2020,BMW,5_Series_530i_xDrive, 42441, Upper Saddle River, NJ ,23191,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,8
+249,2019,BMW,4_Series_440i_xDrive_Gran_Coupe, 37990, Ridgefield, CT ,47733,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+250,2018,BMW,5_Series_M550i_xDrive, 53988, Westbury, NY ,32928,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,10
+251,2019,BMW,X5_xDrive40i, 51995, Great Neck, NY ,43182,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+252,2018,BMW,X3_xDrive30i, 29980, Richmond Hill, NY ,49630,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,22
+253,2018,BMW,X1_xDrive28i, 26212, Princeton, NJ ,41395,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+254,2018,BMW,X5_xDrive35i, 38980, Richmond Hill, NY ,40070,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+255,2018,BMW,5_Series_M550i_xDrive, 40495, Freeport, NY ,68979,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_4.4_L_,2-Owner,Personal Use,10
+256,2019,BMW,4_Series_440i_xDrive_Gran_Coupe, 41995, Edison, NJ ,19526,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+257,2018,BMW,5_Series_530i_xDrive, 29990, Bronx, NY ,55068,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+258,2018,BMW,X2_xDrive28i, 30988, Edison, NJ ,29994,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+259,2018,BMW,3_Series_330i_xDrive, 31880, Blauvelt, NY ,14441,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+260,2017,BMW,7_Series_740i_xDrive, 39488, Edison, NJ ,61766,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,45
+261,2021,BMW,X1_xDrive28i, 42044, Trenton, NJ ,1525,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+262,2018,BMW,X3_xDrive30i, 36988, Edison, NJ ,21432,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+263,2019,BMW,Z4_sDrive30i, 55495, Newton, NJ ,1383,No Accident or Damage Reported,Convertible,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+264,2016,BMW,5_Series_528i_xDrive, 19995, Mount Kisco, NY ,75430,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,22
+265,2018,BMW,X5_xDrive35i, 45988, Edison, NJ ,33885,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+266,2018,BMW,X2_xDrive28i, 30995, Edison, NJ ,27798,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+267,2018,BMW,X3_xDrive30i, 37995, Edison, NJ ,21554,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+268,2019,BMW,7_Series_750i_xDrive, 65995, Edison, NJ ,36371,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,8
+269,2020,BMW,3_Series_330i_xDrive, 39995, Edison, NJ ,14116,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+270,2019,BMW,X4_xDrive30i, 42199, Maplewood, NJ ,30295,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+271,2018,BMW,X3_xDrive30i, 37749, Edison, NJ ,32177,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+272,2016,BMW,2_Series_228i_xDrive, 22995, South Hackensack, NJ ,43009,Accident/Minor Damage,Coupe,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,16
+273,2014,BMW,X3_xDrive28i, 15995, South Hackensack, NJ ,71541,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,11
+274,2018,BMW,3_Series_320i_xDrive, 22895, Colonia, NJ ,37503,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+275,2007,BMW,3_Series_335i, 10250, Little Ferry, NJ ,93342,No Accident or Damage Reported,Coupe,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,17
+276,2018,BMW,7_Series_750i_xDrive, 50124, Edison, NJ ,40501,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,11
+277,2018,BMW,X3_xDrive30i, 29590, Freehold, NJ ,51587,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+278,2018,BMW,3_Series_340i_xDrive, 36900, Somerville, NJ ,36895,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+279,2018,BMW,M4_Base, 53233, Morristown, NJ ,31351,No Accident or Damage Reported,Coupe,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,11
+280,2018,BMW,X3_xDrive30i, 33995, Woodside, NY ,18918,Accident Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+281,2015,BMW,3_Series_328i_xDrive, 13199, Little Ferry, NJ ,105153,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,8
+282,2014,BMW,5_Series_535i_xDrive, 13995, Nanuet, NY ,136757,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,16
+283,2018,BMW,X2_xDrive28i, 29990, Tenafly, NJ ,26329,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,6
+284,2020,BMW,4_Series_430i_xDrive, 36995, Amityville, NY ,14104,Damage Reported,Coupe,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+285,2019,BMW,X3_xDrive30i, 41950, Mamaroneck, NY ,13403,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+286,2021,BMW,X3_xDrive30i, 47475, Mamaroneck, NY ,9008,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,5
+287,2019,BMW,7_Series_750i_xDrive, 64750, Rochelle Park, NJ ,32996,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,4
+288,2018,BMW,2_Series_230i_xDrive, 33994, Huntington Station, NY ,44352,No Accident or Damage Reported,Convertible,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+289,2018,BMW,X5_xDrive40e_iPerformance, 38995, Westbury, NY ,48431,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+290,2020,BMW,X2_xDrive28i, 36950, Greenwich, CT ,9623,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+291,2019,BMW,4_Series_430i_xDrive, 37430, Rochelle Park, NJ ,21483,No Accident or Damage Reported,Coupe,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+292,2018,BMW,X3_xDrive30i, 34990, Ridgefield, CT ,17587,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+293,2018,BMW,X5_xDrive35i, 41166, Madison, NJ ,30197,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+294,2019,BMW,M4, 73500, Mamaroneck, NY ,7414,No Accident or Damage Reported,Convertible,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+295,2018,BMW,5_Series_530e_xDrive_iPerformance, 38995, Tenafly, NJ ,22103,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+296,2021,BMW,X4_xDrive30i, 52894, Englewood, NJ ,10127,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+297,2018,BMW,6_Series_640i_xDrive_Gran_Turismo, 46750, Tenafly, NJ ,40823,No Accident or Damage Reported,Hatchback,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+298,2019,BMW,7_Series_750i_xDrive, 61595, Tenafly, NJ ,35309,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,8
+299,2020,BMW,2_Series_228i_xDrive_Gran_Coupe, 35988, Eatontown, NJ ,14535,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+300,2021,BMW,X4_xDrive30i, 52894, Englewood, NJ ,10127,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+301,2017,BMW,X3_xDrive28i, 26888, Eatontown, NJ ,60158,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+302,2019,BMW,4_Series_440i_xDrive, 43795, Brooklyn, NY ,24867,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+303,2018,BMW,X5_xDrive35i, 45995, Darien, CT ,19997,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+304,2018,BMW,5_Series_530i_xDrive, 42995, Darien, CT ,14695,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+305,2019,BMW,X3_xDrive30i, 41695, Darien, CT ,31827,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+306,2018,BMW,5_Series_540i_xDrive, 46995, Darien, CT ,26293,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+307,2018,BMW,X4_M40i, 45995, Darien, CT ,31968,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+308,2019,BMW,4_Series_440i_xDrive_Gran_Coupe, 28495, Bronx, NY ,43149,Accident Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+309,2018,BMW,5_Series_530i_xDrive, 30995, Great Neck, NY ,47698,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,8
+310,2018,BMW,3_Series_330i_xDrive, 27990, Ridgefield, CT ,35180,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+311,2021,BMW,X3_M40i, 55950, Greenwich, CT ,5560,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,4
+312,2018,BMW,X3_M40i, 46040, Rochelle Park, NJ ,30718,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+313,2021,BMW,5_Series_530i_xDrive, 52530, Rochelle Park, NJ ,8354,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,5
+314,2018,BMW,2_Series_230i_xDrive, 28998, Westbury, NY ,22830,Minor Damage,Coupe,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+315,2021,BMW,3_Series_330i_xDrive, 42330, Rochelle Park, NJ ,8369,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,5
+316,2016,BMW,X3_xDrive28i, 19950, Greenwich, CT ,94671,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,20
+317,2018,BMW,X5_xDrive35i, 39990, Ridgefield, CT ,42478,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,13
+318,2021,BMW,X3_xDrive30i, 47995, Huntington Station, NY ,5442,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,2
+319,2020,BMW,M5_Competition, 99995, Edison, NJ ,4875,No Accident or Damage Reported,Sedan,Silver_Engine:_8_Cyl_4.4_L_,2-Owner,Personal Use,10
+320,2019,BMW,8_Series_M850i_xDrive, 81890, Massapequa Park, NY ,25401,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,2
+321,2018,BMW,6_Series_640i_xDrive_Gran_Turismo, 44897, Morristown, NJ ,26915,No Accident or Damage Reported,Hatchback,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+322,2018,BMW,X4_xDrive28i, 32202, Huntington, NY ,47525,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+323,2018,BMW,5_Series_540i_xDrive, 35850, Hollis, NY ,44412,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+324,2019,BMW,X5_xDrive40i, 54497, Morristown, NJ ,36406,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+325,2018,BMW,5_Series_540i_xDrive, 35850, Hollis, NY ,44412,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+326,2018,BMW,5_Series_530e_xDrive_iPerformance, 30995, Westbury, NY ,44462,Accident/Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+327,2018,BMW,X5_xDrive35i, 30900, Englewood Cliffs, NJ ,72677,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+328,2021,BMW,3_Series_330i_xDrive, 46290, White Plains, NY ,5822,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+329,2018,BMW,X6_xDrive35i, 49991, South River, NJ ,15223,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+330,2018,BMW,X3_xDrive30i, 37897, Freeport, NY ,17544,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,7
+331,2019,BMW,X5_xDrive40i, 48990, Freehold, NJ ,39292,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+332,2018,BMW,3_Series_330i_xDrive, 26999, Jamaica, NY ,29597,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+333,2018,BMW,3_Series_320i_xDrive, 21989, Brooklyn, NY ,45153,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+334,2018,BMW,3_Series_330i_xDrive, 23980, Massapequa Park, NY ,41517,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+335,2018,BMW,M3, 53995, Woodside, NY ,38831,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,24
+336,2019,BMW,X3_xDrive30i, 37976, Great Neck, NY ,10807,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+337,2007,BMW,3_Series_328xi, 7291, Bohemia, NY ,130486,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,15
+338,2018,BMW,4_Series_430i_xDrive_Gran_Coupe, 34500, Harriman, NY ,32600,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+339,2018,BMW,3_Series_340i_xDrive, 33990, Jamaica, NY ,45883,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+340,2019,BMW,i3_Range_Extender, 31999, Ramsey, NJ ,13679,No Accident or Damage Reported,Hatchback,Black_Engine:_Electric__,CARFAX 1-Owner,Personal Use,3
+341,2017,BMW,5_Series_530i_xDrive, 31995, South Hackensack, NJ ,19445,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+342,2014,BMW,X3_xDrive28i, 13500, Morristown, NJ ,129511,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,17
+343,2018,BMW,3_Series_340i_xDrive, 42988, Westbury, NY ,17048,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+344,2018,BMW,3_Series_320i_xDrive, 27790, Ridgefield, CT ,30416,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+345,2019,BMW,X4_xDrive30i, 45995, Edison, NJ ,25982,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+346,2019,BMW,4_Series_440i_xDrive_Gran_Coupe, 39988, Westbury, NY ,14302,No Accident or Damage Reported,Sedan,Red_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+347,2019,BMW,4_Series_430i_xDrive, 33998, Westbury, NY ,30098,No Accident or Damage Reported,Coupe,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+348,2019,BMW,X5_xDrive40i, 54795, Harriman, NY ,39560,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,11
+349,2016,BMW,X1_xDrive28i, 20500, Morristown, NJ ,86696,Accident Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,22
+350,2018,BMW,3_Series_340i_xDrive, 42988, Westbury, NY ,17048,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+351,2018,BMW,3_Series_320i_xDrive, 27790, Ridgefield, CT ,30416,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+352,2018,BMW,X5_xDrive35i, 37495, Watchung, NJ ,42203,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,14
+353,2018,BMW,X3_xDrive30i, 29980, Richmond Hill, NY ,45024,Minor Damage,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+354,2017,BMW,3_Series_330i_xDrive, 24990, West Nyack, NY ,29122,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+355,2018,BMW,3_Series_330i_xDrive_Gran_Turismo, 22950, Bronx, NY ,45525,No Accident or Damage Reported,Hatchback,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+356,2021,BMW,3_Series_330i_xDrive, 44575, Oyster Bay, NY ,8520,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,6
+357,2019,BMW,X3_xDrive30i, 33980, Richmond Hill, NY ,24763,Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+358,2018,BMW,X2_xDrive28i, 26999, Princeton, NJ ,45051,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+359,2019,BMW,X3_xDrive30i, 35980, Richmond Hill, NY ,17734,Accident/Minor Damage,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+360,2018,BMW,M4_Base, 58799, Ramsey, NJ ,26912,No Accident or Damage Reported,Coupe,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+361,2018,BMW,X1_xDrive28i, 29988, Kenvil, NJ ,21098,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+362,2019,BMW,i8, 119975, Oyster Bay, NY ,10074,No Accident or Damage Reported,Convertible,Gray_Engine:_3_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+363,2018,BMW,X5_xDrive35i, 42495, Great Neck, NY ,10601,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+364,2020,BMW,X5_xDrive40i, 61700, Somerville, NJ ,27419,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+365,2016,BMW,X3_xDrive28i, 17997, Morristown, NJ ,107191,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,20
+366,2018,BMW,X4_M40i, 38995, Wall Township, NJ ,43073,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+367,2020,BMW,Z4_sDrive30i, 52421, Hollis, NY ,3802,No Accident or Damage Reported,Convertible,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+368,2018,BMW,X1_xDrive28i, 30497, Morristown, NJ ,27196,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+369,2019,BMW,2_Series_230i_xDrive, 35330, Morristown, NJ ,15186,No Accident or Damage Reported,Coupe,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+370,2018,BMW,X4_M40i, 45684, Tenafly, NJ ,31290,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+371,2018,BMW,X2_xDrive28i, 31488, Eatontown, NJ ,41961,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+372,2018,BMW,X2_xDrive28i, 31950, Mamaroneck, NY ,26451,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+373,2018,BMW,X5_xDrive35i, 44988, Eatontown, NJ ,20599,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+374,2014,BMW,5_Series_535i_xDrive, 15800, Rahway, NJ ,118758,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+375,2018,BMW,3_Series_330i_xDrive, 32789, Mamaroneck, NY ,19477,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+376,2019,BMW,X1_xDrive28i, 34988, Eatontown, NJ ,20413,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+377,2018,BMW,X5_xDrive35i, 44988, Eatontown, NJ ,20599,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+378,2020,BMW,2_Series_M240i_xDrive, 50995, Ramsey, NJ ,9283,No Accident or Damage Reported,Convertible,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+379,2014,BMW,5_Series_535i_xDrive, 15800, Rahway, NJ ,118758,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+380,2018,BMW,M5_Base, 66881, Avenel, NJ ,54525,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,9
+381,2018,BMW,X2_xDrive28i, 29599, Englewood, NJ ,7673,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+382,2021,BMW,X5_xDrive40i, 63497, Morristown, NJ ,1283,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+383,2018,BMW,X1_xDrive28i, 22590, Freeport, NY ,49990,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+384,2018,BMW,5_Series_530i_xDrive, 27490, Jamaica, NY ,48825,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+385,2018,BMW,X6_xDrive35i, 43797, Butler, NJ ,49693,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+386,2018,BMW,7_Series_750i_xDrive, 45495, Great Neck, NY ,60881,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Corporate Use,12
+387,2018,BMW,3_Series_340i_xDrive, 32750, Franklin Square, NY ,42890,Minor Damage,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+388,2015,BMW,5_Series_535i, 19450, Jamaica, NY ,81404,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,7
+389,2018,BMW,X3_xDrive30i, 32990, Ridgefield, CT ,46910,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+390,2018,BMW,X5_xDrive35i, 32895, Colonia, NJ ,68497,Accident Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+391,2018,BMW,4_Series_440i_xDrive_Gran_Coupe, 34955, Kenvil, NJ ,37798,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+392,2018,BMW,5_Series_530e_xDrive_iPerformance, 37660, Kenvil, NJ ,19785,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,9
+393,2018,BMW,X5_xDrive40e_iPerformance, 35995, Westbury, NY ,55644,Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+394,2018,BMW,3_Series_320i_xDrive, 22885, Colonia, NJ ,47952,Accident/Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+395,2019,BMW,4_Series_430i_xDrive_Gran_Coupe, 35461, White Plains, NY ,15947,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+396,2018,BMW,X3_xDrive30i, 33995, Harriman, NY ,31995,Accident Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+397,2018,BMW,3_Series_340i_xDrive, 40490, Ridgefield, CT ,22108,Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+398,2018,BMW,X2_xDrive28i, 31950, Greenwich, CT ,22000,Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+399,2018,BMW,4_Series_430i_xDrive_Gran_Coupe, 31900, Harriman, NY ,47166,Accident/Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,17
+400,2018,BMW,X5_M, 59999, Copiague, NY ,39654,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_4.4_L_,3+ Owners,Personal Use,6
+401,2019,BMW,X6_xDrive35i, 55995, Edison, NJ ,4870,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Corporate Use,1
+402,2018,BMW,5_Series_530e_xDrive_iPerformance, 36990, Ridgefield, CT ,36517,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+403,2021,BMW,X3_xDrive30i, 45330, Rochelle Park, NJ ,8091,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,4
+404,2019,BMW,X3_xDrive30i, 39990, Ridgefield, CT ,19885,Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+405,2021,BMW,5_Series_530i_xDrive, 52530, Rochelle Park, NJ ,8208,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,3
+406,2021,BMW,3_Series_330i_xDrive, 41330, Rochelle Park, NJ ,8246,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,2
+407,2018,BMW,X2_xDrive28i, 28777, Lodi, NJ ,27259,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+408,2018,BMW,2_Series_230i_xDrive, 37230, Rochelle Park, NJ ,22856,No Accident or Damage Reported,Convertible,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+409,2019,BMW,X5_xDrive40i, 59540, Rochelle Park, NJ ,34430,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+410,2018,BMW,X6_xDrive35i, 45777, Lodi, NJ ,46827,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,16
+411,2020,BMW,X3_M_Competition, 58795, Bronx, NY ,59951,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,14
+412,2018,BMW,X6_xDrive35i, 43990, Jamaica, NY ,29590,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+413,2018,BMW,X3_xDrive30i, 27950, Bronx, NY ,52716,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+414,2018,BMW,3_Series_330i_xDrive, 30169, White Plains, NY ,17479,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+415,2014,BMW,3_Series_328i_xDrive, 11923, Ledgewood, NJ ,142367,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,7
+416,2021,BMW,X2_xDrive28i, 38444, White Plains, NY ,8832,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+417,2021,BMW,X3_xDrive30i, 47540, White Plains, NY ,6449,No Accident or Damage Reported,SUV,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+418,2018,BMW,6_Series_640i_xDrive_Gran_Turismo, 46990, Ridgefield, CT ,20168,No Accident or Damage Reported,Hatchback,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+419,2018,BMW,5_Series_530i_xDrive, 42839, Greenwich, CT ,13336,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+420,2018,BMW,X2_xDrive28i, 31228, Rochelle Park, NJ ,29672,No Accident or Damage Reported,SUV,Green_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+421,2018,BMW,6_Series_640i_xDrive_Gran_Turismo, 48949, Greenwich, CT ,17651,No Accident or Damage Reported,Hatchback,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+422,2018,BMW,5_Series_530i_xDrive, 40595, Harriman, NY ,20377,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+423,2019,BMW,X5_xDrive40i, 57540, Rochelle Park, NJ ,26221,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+424,2018,BMW,5_Series_540i_xDrive, 44988, Westbury, NY ,31082,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+425,2018,BMW,X5_xDrive35i, 39990, Ridgefield, CT ,44532,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,18
+426,2019,BMW,X3_xDrive30i, 39330, Rochelle Park, NJ ,22758,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+427,2018,BMW,X5_xDrive35i, 47335, Rochelle Park, NJ ,14265,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+428,2021,BMW,3_Series_330i_xDrive, 46988, Westbury, NY ,7123,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+429,2018,BMW,5_Series_540i_xDrive, 44988, Westbury, NY ,31082,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+430,2019,BMW,X5_xDrive40i, 57540, Rochelle Park, NJ ,26221,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+431,2019,BMW,X1_xDrive28i, 34985, Huntington Station, NY ,16349,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+432,2018,BMW,X3_xDrive30i, 31950, Greenwich, CT ,68405,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+433,2018,BMW,X5_xDrive35i, 45998, Westbury, NY ,16254,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+434,2018,BMW,X2_xDrive28i, 32950, Greenwich, CT ,24074,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+435,2021,BMW,X5_xDrive40i, 65900, Harriman, NY ,8613,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+436,2018,BMW,X3_xDrive30i, 36990, Ridgefield, CT ,39889,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+437,2021,BMW,8_Series_840i_xDrive_Gran_Coupe, 87840, Rochelle Park, NJ ,5218,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+438,2018,BMW,2_Series_M240i_xDrive, 44597, Huntington Station, NY ,27009,No Accident or Damage Reported,Convertible,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+439,2019,BMW,4_Series_430i_xDrive_Gran_Coupe, 34943, Freeport, NY ,25341,Accident/Minor Damage,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+440,2018,BMW,6_Series_640i_xDrive, 55500, Nanuet, NY ,35025,No Accident or Damage Reported,Convertible,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+441,2017,BMW,3_Series_330i, 20995, Great Neck, NY ,52960,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,Number of Owners,Personal Use,1
+442,2018,BMW,X5_xDrive35i, 46921, Freeport, NY ,14976,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+443,2018,BMW,X5_xDrive50i, 49933, Freeport, NY ,27434,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,6
+444,2018,BMW,X1_xDrive28i, 31995, Freeport, NY ,23638,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+445,2019,BMW,X5_xDrive40i, 58943, Freeport, NY ,31266,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+446,2018,BMW,X4_xDrive28i, 31990, Elmwood Park, NJ ,44436,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+447,2019,BMW,i8, 109950, Bronx, NY ,16507,No Accident or Damage Reported,Convertible,Gray_Engine:_3_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,13
+448,2018,BMW,3_Series_330i, 27477, Lodi, NJ ,27865,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+449,2019,BMW,5_Series_530i, 33995, Inwood, NY ,42175,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+450,2018,BMW,3_Series_330i, 27477, Lodi, NJ ,27865,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+451,2018,BMW,3_Series_320i_xDrive, 21890, Bronx, NY ,25470,Accident/Minor Damage,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+452,2018,BMW,M3, 66800, Elmhurst, NY ,28233,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,23
+453,2019,BMW,5_Series_530i_xDrive, 32498, Floral Park, NY ,53940,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Rental Use,5
+454,2018,BMW,4_Series_430i_xDrive, 42250, Harriman, NY ,30242,No Accident or Damage Reported,Convertible,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+455,2017,BMW,4_Series_430i_xDrive, 30895, Huntington Station, NY ,72527,No Accident or Damage Reported,Convertible,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+456,2019,BMW,X4_xDrive30i, 43900, North Plainfield, NJ ,33282,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+457,2018,BMW,5_Series_530i_xDrive, 33950, Woodside, NY ,30676,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+458,2019,BMW,i8, 115997, Morristown, NJ ,7406,No Accident or Damage Reported,Convertible,White_Engine:_3_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,5
+459,2019,BMW,5_Series_530i_xDrive, 34495, Commack, NY ,57171,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+460,2016,BMW,3_Series_340i_xDrive, 28500, Valley Stream, NY ,38292,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,8
+461,2019,BMW,M5_Base, 84990, Valley Stream, NY ,14470,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,1
+462,2018,BMW,5_Series_530e_iPerformance, 33995, Wall Township, NJ ,24909,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+463,2018,BMW,3_Series_330i_xDrive, 28638, Amityville, NY ,23148,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+464,2018,BMW,X2_xDrive28i, 26181, Hollis, NY ,33072,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+465,2018,BMW,X2_xDrive28i, 29997, Morristown, NJ ,21841,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+466,2014,BMW,6_Series_650i_xDrive_Gran_Coupe, 26995, E Rutherford, NJ ,72214,Accident Reported,Sedan,Black_Engine:_8_Cyl_4.4_L_,3+ Owners,Personal Use,13
+467,2018,BMW,3_Series_330i_xDrive, 26995, West Nyack, NY ,34352,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+468,2019,BMW,X4_xDrive30i, 45430, Rochelle Park, NJ ,25012,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+469,2018,BMW,X6_xDrive35i, 38995, Linden, NJ ,64303,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+470,2018,BMW,X1_xDrive28i, 29575, Oyster Bay, NY ,18618,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+471,2021,BMW,3_Series_330i_xDrive, 43975, Oyster Bay, NY ,5731,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,4
+472,2015,BMW,4_Series_435i_xDrive, 26866, Bronx, NY ,53055,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,15
+473,2016,BMW,6_Series_640i_xDrive_Gran_Coupe, 29900, Brooklyn, NY ,64377,Accident/Minor Damage,Sedan,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,8
+474,2015,BMW,M4, 44299, Ramsey, NJ ,40735,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,3
+475,2019,BMW,4_Series_430i_xDrive_Gran_Coupe, 33975, Oyster Bay, NY ,25633,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+476,2020,BMW,3_Series_330i, 35995, Harriman, NY ,27338,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,4
+477,2018,BMW,5_Series_530i_xDrive, 28881, Woodside, NY ,49225,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+478,2018,BMW,X5_xDrive35i, 33950, Bronx, NY ,47417,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+479,2013,BMW,X5_xDrive35i_Sport_Activity, 17477, Massapequa, NY ,89812,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,17
+480,2016,BMW,M4_Base, 35700, North Plainfield, NJ ,82970,No Accident or Damage Reported,Convertible,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,16
+481,2011,BMW,3_Series_328i_xDrive, 7299, S Hackensack, NJ ,130488,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,2
+482,2015,BMW,3_Series_328i_xDrive, 15470, Little Ferry, NJ ,91248,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,9
+483,2019,BMW,4_Series_430i_xDrive, 34710, Kenvil, NJ ,51928,No Accident or Damage Reported,Coupe,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,8
+484,2018,BMW,X5_xDrive35i, 42931, Kenvil, NJ ,38801,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+485,2017,BMW,X3_xDrive28i, 20495, Roslyn Heights, NY ,66474,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,4
+486,2018,BMW,4_Series_430i_xDrive_Gran_Coupe, 31988, Kenvil, NJ ,41281,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+487,2015,BMW,4_Series_428i_xDrive, 15995, UNION CITY, NJ ,84325,Accident/Minor Damage,Coupe,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+488,2006,BMW,5_Series_530xi, 7495, South Hackensack, NJ ,84831,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,24
+489,2019,BMW,5_Series_530i_xDrive, 34885, Colonia, NJ ,40547,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+490,2012,BMW,5_Series_528i_xDrive, 10980, Bronx, NY ,101940,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,13
+491,2018,BMW,3_Series_330i_xDrive, 24152, Brooklyn, NY ,52610,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+492,2018,BMW,X1_xDrive28i, 26895, Colonia, NJ ,28512,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+493,2013,BMW,X3_xDrive28i, 16897, Ramsey, NJ ,45005,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,16
+494,2018,BMW,X2_xDrive28i, 29800, Upper Saddle River, NJ ,27000,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,9
+495,2013,BMW,X5_xDrive35i_Sport_Activity, 13980, Bronx, NY ,115960,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,19
+496,2016,BMW,7_Series_750i_xDrive, 28980, Bronx, NY ,105398,Accident Reported,Sedan,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,11
+497,2018,BMW,X1_xDrive28i, 29994, Kenvil, NJ ,17798,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,4
+498,2018,BMW,M3, 59330, Massapequa Park, NY ,25129,Minor Damage,Sedan,Yellow_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+499,2018,BMW,7_Series_750i_xDrive, 41995, South Hackensack, NJ ,61925,Damage Reported,Sedan,Blue_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,13
+500,2018,BMW,4_Series_430i_Gran_Coupe, 30990, Pleasantville, NY,27032,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,Number of Owners,Personal Use,4
+501,2018,BMW,4_Series_430i_xDrive_Gran_Coupe, 23218, Jamaica, NY ,68951,Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Lease Use,12
+502,2018,BMW,X3_xDrive30i, 37495, Red Bank, NJ ,32242,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+503,2019,BMW,5_Series_M550i_xDrive, 62995, Edison, NJ ,7262,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,5
+504,2020,BMW,M4_Base, 76509, Trenton, NJ ,9926,No Accident or Damage Reported,Convertible,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+505,2020,BMW,X3_M40i, 54988, Westbury, NY ,6896,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+506,2011,BMW,X5_xDrive50i, 10567, Tenafly, NJ ,120672,Accident Reported,SUV,Silver_Engine:_8_Cyl_4.4_L_,3+ Owners,Personal Use,30
+507,2018,BMW,5_Series_M550i_xDrive, 59995, Darien, CT ,28657,No Accident or Damage Reported,Sedan,8_Cyl_4.4_L_,CARFAX 1-Owner,Corporate Use,6
+508,2019,BMW,3_Series_330i_xDrive, 39126, Kenvil, NJ ,20025,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+509,2018,BMW,3_Series_330i_xDrive, 29887, White Plains, NY ,30651,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+510,2013,BMW,X3_xDrive28i, 14990, New Windsor, NY ,79038,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,20
+511,2019,BMW,X5_xDrive40i, 53836, White Plains, NY ,36049,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+512,2018,BMW,X1_xDrive28i, 28995, East Brunswick, NJ ,37498,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+513,2018,BMW,X2_xDrive28i, 30545, Kenvil, NJ ,30590,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+514,2019,BMW,X3_xDrive30i, 39998, Kenvil, NJ ,28986,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+515,2017,BMW,X3_xDrive28i, 21980, Richmond Hill, NY ,71182,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,13
+516,2021,BMW,3_Series_330i_xDrive, 41989, New Rochelle, NY ,4954,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+517,2016,BMW,5_Series_528i, 20626, Jamaica, NY ,63019,Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+518,2018,BMW,5_Series_530i_xDrive, 39998, Westbury, NY ,21621,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+519,2017,BMW,5_Series_535i_xDrive_Gran_Turismo, 26403, Long Island City, NY ,49078,Minor Damage,Hatchback,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,12
+520,2018,BMW,X2_xDrive28i, 32995, Harriman, NY ,34572,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+521,2018,BMW,5_Series_540i_xDrive, 51995, Harriman, NY ,8969,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+522,2018,BMW,X5_xDrive35i, 42988, Westbury, NY ,39274,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+523,2018,BMW,3_Series_330i_xDrive_Gran_Turismo, 33330, Rochelle Park, NJ ,32192,No Accident or Damage Reported,Hatchback,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+524,2018,BMW,3_Series_330i_xDrive, 34330, Rochelle Park, NJ ,9628,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+525,2018,BMW,X3_xDrive30i, 38994, Huntington Station, NY ,27457,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+526,2019,BMW,X3_M40i, 46999, Randolph, NJ ,32600,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+527,2018,BMW,X1_xDrive28i, 28295, Harriman, NY ,41475,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+528,2019,BMW,X3_xDrive30i, 38977, Huntington Station, NY ,34506,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+529,2019,BMW,7_Series_750i_xDrive, 66975, Oyster Bay, NY ,11288,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,11
+530,2018,BMW,X1_xDrive28i, 30950, Greenwich, CT ,27823,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+531,2018,BMW,X2_xDrive28i, 31904, Huntington Station, NY ,31580,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+532,2019,BMW,5_Series_540i_xDrive, 49510, Huntington Station, NY ,29531,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+533,2018,BMW,3_Series_320i_xDrive, 27494, Huntington Station, NY ,44113,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+534,2019,BMW,X3_xDrive30i, 40298, Huntington Station, NY ,16538,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+535,2018,BMW,X1_xDrive28i, 26890, Ridgefield, CT ,55461,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+536,2018,BMW,X3_xDrive30i, 37987, Morristown, NJ ,34617,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+537,2019,BMW,7_Series_750i_xDrive, 70990, Ridgefield, CT ,9622,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,6
+538,2018,BMW,3_Series_330i_xDrive, 31490, Ridgefield, CT ,31908,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+539,2018,BMW,X1_xDrive28i, 30990, Ridgefield, CT ,33449,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+540,2019,BMW,4_Series_430i_xDrive_Gran_Coupe, 32998, Westbury, NY ,44902,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+541,2019,BMW,X3_xDrive30i, 40490, Ridgefield, CT ,45806,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+542,2020,BMW,3_Series_330i_xDrive, 37490, Ridgefield, CT ,31435,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+543,2019,BMW,5_Series_540i_xDrive, 49988, Westbury, NY ,13504,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+544,2019,BMW,5_Series_540i_xDrive, 51888, Westbury, NY ,8130,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+545,2019,BMW,5_Series_530i_xDrive, 42256, Huntington Station, NY ,29094,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+546,2018,BMW,X5_xDrive35i, 44558, Huntington Station, NY ,24050,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+547,2019,BMW,8_Series_M850i_xDrive, 85998, Westbury, NY ,16515,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,11
+548,2018,BMW,X5_xDrive35i, 44997, Huntington Station, NY ,31595,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+549,2019,BMW,X5_xDrive40i, 57212, Huntington Station, NY ,36580,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+550,2019,BMW,X3_xDrive30i, 40298, Huntington Station, NY ,16538,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+551,2018,BMW,X2_xDrive28i, 30990, Ridgefield, CT ,31633,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+552,2018,BMW,5_Series_530e_xDrive_iPerformance, 40990, Ridgefield, CT ,28189,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+553,2018,BMW,5_Series_530i_xDrive, 40990, Ridgefield, CT ,29335,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+554,2017,BMW,X5_sDrive35i, 36499, Newark, NJ,38959,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+555,2020,BMW,7_Series_750i_xDrive, 80750, Rochelle Park, NJ ,14879,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Corporate Use,6
+556,2020,BMW,5_Series_530i_xDrive, 46995, Edison, NJ ,13180,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,6
+557,2019,BMW,4_Series_430i_xDrive_Gran_Coupe, 31520, Hollis, NY ,15793,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,1
+558,2018,BMW,4_Series_430i_xDrive_Gran_Coupe, 28498, Floral Park, NY ,31000,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+559,2018,BMW,5_Series_540i_xDrive, 32995, Bronx, NY ,47854,Minor Damage,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+560,2018,BMW,X3_xDrive30i, 36998, Trenton, NJ ,41260,Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,21
+561,2018,BMW,3_Series_328d_xDrive, 31240, Mount Kisco, NY ,14102,Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+562,2017,BMW,X6_xDrive50i, 41995, South Amboy, NJ ,92040,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Vehicle Use,2
+563,2021,BMW,X2_xDrive28i, 39777, Mount Kisco, NY ,6217,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,2
+564,2019,BMW,8_Series_M850i_xDrive, 84795, Bronx, NY ,7902,No Accident or Damage Reported,Coupe,White_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,1
+565,2018,BMW,6_Series_640i_xDrive_Gran_Turismo, 41398, Brooklyn, NY ,37296,No Accident or Damage Reported,Hatchback,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+566,2021,BMW,2_Series_M235i_xDrive_Gran_Coupe, 46997, Brooklyn, NY ,4589,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+567,2019,BMW,4_Series_440i_xDrive, 56999, Morristown, NJ ,9563,No Accident or Damage Reported,Convertible,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+568,2018,BMW,3_Series_330i_xDrive_Gran_Turismo, 27859, Englewood, NJ ,33919,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+569,2018,BMW,4_Series_430i_xDrive_Gran_Coupe, 28950, Bronx, NY ,26172,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+570,2017,BMW,7_Series_740i_xDrive, 31490, Freehold, NJ ,107648,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,13
+571,2019,BMW,5_Series_540i_xDrive, 42290, Freehold, NJ ,47315,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,15
+572,2018,BMW,7_Series_750i_xDrive, 50995, Bronx, NY ,46304,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,12
+573,2019,BMW,X7_xDrive50i, 84943, Freeport, NY ,27096,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,11
+574,2018,BMW,5_Series_530i_xDrive, 42495, Freeport, NY ,21323,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+575,2020,BMW,X3_xDrive30i, 42987, Freeport, NY ,24362,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+576,2020,BMW,5_Series_540i_xDrive, 61593, Freeport, NY ,13428,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+577,2018,BMW,X3_xDrive30i, 40861, Freeport, NY ,33714,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+578,2019,BMW,X7_xDrive50i, 84943, Freeport, NY ,27096,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,11
+579,2018,BMW,5_Series_530i_xDrive, 42495, Freeport, NY ,21323,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+580,2020,BMW,X7_xDrive40i, 79943, Freeport, NY ,26615,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+581,2020,BMW,X3_xDrive30i, 43928, Freeport, NY ,15972,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+582,2018,BMW,3_Series_340i_xDrive, 42995, Freeport, NY ,12909,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+583,2018,BMW,X1_xDrive28i, 29943, Freeport, NY ,27860,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+584,2019,BMW,X3_xDrive30i, 39831, Freeport, NY ,29333,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+585,2018,BMW,4_Series_430i_xDrive_Gran_Coupe, 25995, Great Neck, NY ,49362,Accident Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+586,2019,BMW,4_Series_430i_xDrive_Gran_Coupe, 29795, Great Neck, NY ,41841,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+587,2018,BMW,5_Series_540i_xDrive, 35495, Great Neck, NY ,39425,Accident Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+588,2019,BMW,i8, 115999, Ramsey, NJ ,9415,Minor Damage,Convertible,White_Engine:_3_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+589,2020,BMW,3_Series_M340i, 50900, North Plainfield, NJ ,10996,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+590,2018,BMW,M3, 57990, Freehold, NJ ,33073,No Accident or Damage Reported,Sedan,Yellow_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+591,2018,BMW,3_Series_320i_xDrive, 25499, Brooklyn, NY ,4222,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+592,2018,BMW,X1_xDrive28i, 22490, Freeport, NY ,51312,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+593,2018,BMW,X6_xDrive35i, 36950, Bronx, NY ,61283,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+594,2018,BMW,X3_xDrive30i, 36487, Morristown, NJ ,39098,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+595,2018,BMW,X3_xDrive30i, 33490, Freehold, NJ ,36041,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,16
+596,2018,BMW,X2_xDrive28i, 29490, Freehold, NJ ,30476,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+597,2020,BMW,X5_xDrive40i, 55557, West Islip, NY ,12593,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+598,2018,BMW,3_Series_320i_xDrive, 22795, Colonia, NJ ,35942,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+599,2019,BMW,4_Series_430i_xDrive_Gran_Coupe, 38997, Morristown, NJ ,22014,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+600,2019,BMW,i3_Base, 29497, Morristown, NJ ,11649,No Accident or Damage Reported,Hatchback,White_Engine:_Electric__,CARFAX 1-Owner,Personal Use,3
+601,2018,BMW,3_Series_320i_xDrive, 22795, Colonia, NJ ,35942,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+602,2018,BMW,X5_xDrive35i, 43997, Morristown, NJ ,25825,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+603,2018,BMW,X5_xDrive35i, 44997, Morristown, NJ ,24646,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+604,2019,BMW,4_Series_430i_xDrive_Gran_Coupe, 38997, Morristown, NJ ,22014,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+605,2017,BMW,3_Series_330i_xDrive, 20780, Massapequa Park, NY ,52250,Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,17
+606,2018,BMW,M2, 41815, Hillside, NJ ,35896,Accident Reported,Coupe,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+607,2013,BMW,X5_xDrive35i, 17995, Jamaica, NY ,83581,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,12
+608,2014,BMW,6_Series_650i_xDrive_Gran_Coupe, 31995, Roslyn Heights, NY ,56514,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_4.4_L_,3+ Owners,Personal Use,19
+609,2020,BMW,X1_xDrive28i, 32979, Bay Shore, NY ,21850,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,1
+610,2016,BMW,4_Series_428i_xDrive, 19952, Jersey City, NJ ,60722,Minor Damage,Coupe,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,8
+611,2016,BMW,5_Series_535i_xDrive, 25000, Rockville Centre, NY ,52226,Accident Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,11
+612,2018,BMW,5_Series_540i_xDrive, 44795, Newton, NJ ,31726,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+613,2021,BMW,X7_xDrive40i, 74495, Edison, NJ ,2376,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+614,2018,BMW,3_Series_340i_xDrive, 41495, Harriman, NY ,34460,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,11
+615,2018,BMW,4_Series_430i_xDrive, 31895, Newton, NJ ,44871,No Accident or Damage Reported,Coupe,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+616,2021,BMW,X5_xDrive40i, 65987, Trenton, NJ ,2648,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+617,2019,BMW,M5_Base, 92496, Trenton, NJ ,18102,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,17
+618,2022,BMW,X2_xDrive28i, 42945, Tenafly, NJ ,2675,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,Number of Owners,Vehicle Use,3
+619,2018,BMW,X3_xDrive30i, 36895, Darien, CT ,30333,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,13
+620,2019,BMW,X3_xDrive30i, 39995, Darien, CT ,16280,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,9
+621,2010,BMW,6_Series_650i, 21695, Great Neck, NY ,37711,Damage Reported,Coupe,Red_Engine:_8_Cyl_4.8_L_,Number of Owners,Personal Use,19
+622,2013,BMW,3_Series_328i_xDrive, 11895, Newton, NJ ,102525,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,25
+623,2020,BMW,3_Series_330i_xDrive, 39995, Darien, CT ,8240,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,4
+624,2018,BMW,2_Series_M240i_xDrive, 39900, WEST LONG BRANCH, NJ ,18160,Accident Reported,Convertible,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,12
+625,2018,BMW,7_Series_750i_xDrive, 58995, Edison, NJ ,33673,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Lease Use,11
+626,2016,BMW,M4_Base, 53000, White Plains, NY ,45733,No Accident or Damage Reported,Convertible,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,14
+627,2017,BMW,5_Series_540i_xDrive, 39495, Harriman, NY ,26897,Accident/Minor Damage,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+628,2019,BMW,8_Series_M850i_xDrive, 94850, Newton, NJ ,3631,No Accident or Damage Reported,Convertible,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,1
+629,2019,BMW,4_Series_430i_xDrive_Gran_Coupe, 34975, Oyster Bay, NY ,29487,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+630,2015,BMW,i3, 16250, Little Ferry, NJ ,18157,No Accident or Damage Reported,Hatchback,White_Engine:_Electric__,3+ Owners,Personal Use,12
+631,2018,BMW,4_Series_430i_xDrive_Gran_Coupe, 25170, Hollis, NY ,42226,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+632,2017,BMW,X6_xDrive35i, 44900, Rahway, NJ ,34980,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,1
+633,2018,BMW,5_Series_M550i_xDrive, 59995, Garwood, NJ ,10584,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,6
+634,2018,BMW,4_Series_430i_xDrive_Gran_Coupe, 27999, Copiague, NY ,14083,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+635,2020,BMW,X6_M50i, 89995, Paramus, NJ ,9619,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,5
+636,2018,BMW,X3_M40i, 49195, Darien, CT ,7635,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Corporate Use,10
+637,2019,BMW,X3_xDrive30i, 39735, Ocean, NJ ,10774,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,3
+638,2018,BMW,X3_xDrive30i, 30990, Jamaica, NY ,42156,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+639,2012,BMW,3_Series_328i, 10495, SADDLE BROOK, NJ ,120324,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,32
+640,2018,BMW,X2_xDrive28i, 23990, Great Neck, NY ,51982,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+641,2016,BMW,X5_xDrive35i, 26495, Jamaica, NY ,74332,Accident Reported,SUV,White_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,11
+642,2018,BMW,4_Series_430i_xDrive_Gran_Coupe, 31595, Bronx, NY ,11924,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+643,2015,BMW,3_Series_328i_xDrive, 12495, E Rutherford, NJ ,97648,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,13
+644,2018,BMW,X5_xDrive35i, 34989, Hollis, NY ,31724,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+645,2019,BMW,i8, 118999, Paramus, NJ ,9444,No Accident or Damage Reported,Convertible,Gray_Engine:_3_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,3
+646,2019,BMW,5_Series_530i_xDrive, 39980, Richmond Hill, NY ,25852,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+647,2018,BMW,X3_xDrive30i, 35500, Princeton, NJ ,49685,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+648,2019,BMW,X3_xDrive30i, 39829, White Plains, NY ,20238,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+649,2021,BMW,M8_Base_Gran_Coupe, 129888, Butler, NJ ,6932,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,3
+650,2014,BMW,3_Series_320i_xDrive, 14594, Haskell, NJ ,95704,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+651,2019,BMW,X5_xDrive40i, 55900, Glen Cove, NY ,25435,No Accident or Damage Reported,SUV,6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+652,2013,BMW,X5_xDrive35d, 17990, Parlin, NJ ,96000,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,32
+653,2018,BMW,X3_M40i, 43772, White Plains, NY ,30735,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+654,2019,BMW,5_Series_530i_xDrive, 39483, White Plains, NY ,24873,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+655,2018,BMW,3_Series_330i_xDrive, 32779, White Plains, NY ,21423,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+656,2018,BMW,X2_xDrive28i, 27516, White Plains, NY ,50488,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+657,2019,BMW,4_Series_430i_xDrive_Gran_Coupe, 31444, Great Neck, NY ,34086,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+658,2018,BMW,X3_xDrive30i, 36839, East Brunswick, NJ ,32754,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+659,2016,BMW,X1_xDrive28i, 26595, Darien, CT ,38347,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,15
+660,2018,BMW,4_Series_430i_xDrive_Gran_Coupe, 34755, White Plains, NY ,21111,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+661,2019,BMW,X3_xDrive30i, 41694, White Plains, NY ,9495,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+662,2018,BMW,3_Series_330i_xDrive, 28335, Great Neck, NY ,32071,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+663,2018,BMW,3_Series_330i_xDrive, 29442, Great Neck, NY ,24002,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+664,2019,BMW,X3_xDrive30i, 36340, Kenvil, NJ ,44024,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+665,2020,BMW,5_Series_530i_xDrive, 53648, Englewood, NJ ,2557,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+666,2015,BMW,X4_xDrive35i, 23899, Copiague, NY ,57951,Minor Damage,SUV,6_Cyl_3.0_L_,2-Owner,Personal Use,13
+667,2019,BMW,5_Series_540i_xDrive, 46395, Parsippany, NJ ,21195,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+668,2018,BMW,5_Series_530i_xDrive, 39769, White Plains, NY ,14357,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+669,2019,BMW,M4, 69998, Kenvil, NJ ,26223,No Accident or Damage Reported,Convertible,Orange_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+670,2018,BMW,X5_M, 64562, Jersey City, NJ ,45968,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,1
+671,2018,BMW,X2_xDrive28i, 31998, Kenvil, NJ ,31478,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+672,2019,BMW,X3_xDrive30i, 36299, White Plains, NY ,27468,No Accident or Damage Reported,SUV,Green_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+673,2019,BMW,X2_xDrive28i, 31227, White Plains, NY ,26623,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+674,2018,BMW,X2_xDrive28i, 26900, Rahway, NJ ,26636,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+675,2014,BMW,6_Series_640i_xDrive, 26985, Paterson, NJ ,84550,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,16
+676,2016,BMW,M5, 52990, Valley Stream, NY ,28156,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_4.4_L_,3+ Owners,Personal Use,4
+677,2015,BMW,X5_xDrive35i, 25995, Roslyn Heights, NY ,62287,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,19
+678,2009,BMW,X3_xDrive30i, 7995, Copiague, NY ,110202,Minor Damage,SUV,6_Cyl_3.0_L_,3+ Owners,Personal Use,38
+679,2017,BMW,X3_xDrive28i, 25888, Jamaica, NY ,66826,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,11
+680,2018,BMW,M2, 47822, Rochelle Park, NJ ,32522,No Accident or Damage Reported,Coupe,White_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,6
+681,2018,BMW,4_Series_440i_xDrive_Gran_Coupe, 34995, Totowa, NJ ,43808,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,9
+682,2018,BMW,X3_M40i, 46995, Darien, CT ,23367,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+683,2018,BMW,7_Series_740e_xDrive, 44995, Great Neck, NY ,31613,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,9
+684,2018,BMW,X5_xDrive35i, 38999, Eatontown, NJ ,51462,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Corporate Use,2
+685,2013,BMW,5_Series_528i_xDrive, 15475, Uniondale, NY ,72849,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,12
+686,2020,BMW,5_Series_530i_xDrive, 48999, Edison, NJ ,12232,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,3
+687,2018,BMW,X5_xDrive35i, 36495, Bronx, NY ,23334,Accident Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+688,2018,BMW,X3_xDrive30i, 36850, Newton, NJ ,28349,Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+689,2013,BMW,X5_xDrive35i_Premium, 19500, Morristown, NJ ,76297,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,13
+690,2018,BMW,5_Series_540i_xDrive, 42888, Blauvelt, NY ,22867,Minor Damage,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+691,2021,BMW,3_Series_330i_xDrive, 42707, Trenton, NJ ,9158,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,19
+692,2019,BMW,X3_xDrive30i, 33377, Lodi, NJ ,33290,Accident Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+693,2021,BMW,5_Series_530i_xDrive, 50777, Mount Kisco, NY ,9196,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,2
+694,2021,BMW,3_Series_330i_xDrive, 42171, Trenton, NJ ,9376,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,6
+695,2021,BMW,3_Series_330i_xDrive, 44512, Trenton, NJ ,9157,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,19
+696,2018,BMW,5_Series_540i, 39850, Franklin Square, NY ,23340,Minor Damage,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,11
+697,2018,BMW,3_Series_330i_xDrive, 26900, Bloomfield, NJ ,29880,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+698,2021,BMW,X1_xDrive28i, 39777, Mount Kisco, NY ,6111,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,5
+699,2021,BMW,3_Series_330i_xDrive, 42736, Trenton, NJ ,9670,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,16
+700,2019,BMW,4_Series_440i_xDrive_Gran_Coupe, 41495, Edison, NJ ,13762,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+701,2018,BMW,X3_M40i, 36495, Mount Kisco, NY ,60933,Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,11
+702,2021,BMW,3_Series_330i_xDrive, 47860, Mount Kisco, NY ,690,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,2
+703,2020,BMW,M2_Competition, 67750, Harriman, NY ,8219,No Accident or Damage Reported,Coupe,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+704,2018,BMW,X3_xDrive30i, 30541, Blauvelt, NY ,64966,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+705,2018,BMW,4_Series_430i_xDrive_Gran_Coupe, 24104, Great Neck, NY ,37879,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+706,2018,BMW,5_Series_540i_xDrive, 34980, Richmond Hill, NY ,47714,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+707,2016,BMW,4_Series_428i_xDrive, 23818, Centereach, NY ,29762,No Accident or Damage Reported,Coupe,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,11
+708,2008,BMW,3_Series_335i, 13923, Ledgewood, NJ ,53489,No Accident or Damage Reported,Convertible,Beige_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,16
+709,2018,BMW,X3_xDrive30i, 35631, Blauvelt, NY ,33710,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+710,2018,BMW,X2_xDrive28i, 33486, Trenton, NJ ,18718,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+711,2018,BMW,7_Series_M760i_xDrive, 67559, South River, NJ ,96720,No Accident or Damage Reported,Sedan,Black_Engine:_12_Cyl_6.6_L_,CARFAX 1-Owner,Personal Use,20
+712,2019,BMW,5_Series_540i_xDrive, 46798, Trenton, NJ ,39607,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,15
+713,2020,BMW,X7_xDrive40i, 76620, Mount Kisco, NY ,26568,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+714,2018,BMW,3_Series_340i_xDrive, 42950, Mamaroneck, NY ,22372,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+715,2021,BMW,2_Series_228i_xDrive_Gran_Coupe, 37645, Tenafly, NJ ,3019,Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,2
+716,2018,BMW,3_Series_330i_xDrive, 26188, Greenvale, NY ,32812,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,Number of Owners,Commercial Use,3
+717,2010,BMW,1_Series_128i, 8995, New Windsor, NY ,80977,Accident Reported,Coupe,White_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,17
+718,2018,BMW,X6_xDrive50i, 57000, Parsippany, NJ ,30152,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,7
+719,2020,BMW,3_Series_330i_xDrive, 38000, Old Bridge, NJ ,7030,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,11
+720,2016,BMW,4_Series_428i_xDrive, 20946, Uniondale, NY ,63154,No Accident or Damage Reported,Coupe,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,19
+721,2019,BMW,i8, 118999, Ramsey, NJ ,22964,No Accident or Damage Reported,Convertible,Gray_Engine:_3_Cyl_1.5_L_,CARFAX 1-Owner,Personal Use,4
+722,2020,BMW,3_Series_330i_xDrive, 31495, Commack, NY ,30059,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Rental Use,4
+723,2017,BMW,X1_xDrive28i, 21400, Massapequa Park, NY ,44190,Accident Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+724,2020,BMW,X3_M, 68999, Ramsey, NJ ,15198,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+725,2020,BMW,3_Series_M340i, 46666, Hillside, NJ ,30712,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,8
+726,2021,BMW,X3_xDrive30i, 49960, Tenafly, NJ ,3363,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,Number of Owners,Vehicle Use,2
+727,2018,BMW,X3_xDrive30i, 35999, Mamaroneck, NY ,39112,No Accident or Damage Reported,SUV,Brown_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,10
+728,2018,BMW,X3_xDrive30i, 37695, Tenafly, NJ ,26523,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,14
+729,2018,BMW,X3_xDrive30i, 36950, Mamaroneck, NY ,33431,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,10
+730,2018,BMW,X2_xDrive28i, 33810, Ocean, NJ ,15741,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+731,2012,BMW,5_Series_528i_xDrive, 10495, Jamaica, NY ,142947,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,24
+732,2015,BMW,2_Series_M235i_xDrive, 27900, Neptune, NJ ,65728,No Accident or Damage Reported,Coupe,White_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,11
+733,2016,BMW,5_Series_550i_xDrive, 33490, Ridgefield, CT ,53494,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.4_L_,2-Owner,Personal Use,11
+734,2018,BMW,X5_M, 54961, Great Neck, NY ,62954,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,8
+735,2020,BMW,X3_M_Competition, 70988, Eatontown, NJ ,17206,Minor Damage,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,15
+736,2018,BMW,X2_xDrive28i, 25990, Jamaica, NY ,30352,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+737,2017,BMW,X5_xDrive35i, 28795, Bronx, NY ,77870,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+738,2018,BMW,X3_xDrive30i, 38995, Darien, CT ,21350,Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+739,2021,BMW,7_Series_750i_xDrive, 88995, Wall Township, NJ ,2830,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,0
+740,2018,BMW,4_Series_430i_xDrive, 19740, Bronx, NY ,79497,No Accident or Damage Reported,Coupe,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+741,2019,BMW,8_Series_M850i_xDrive, 92995, Harriman, NY ,28678,No Accident or Damage Reported,Convertible,White_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,15
+742,2021,BMW,5_Series_M550i_xDrive, 77990, Ridgefield, CT ,8705,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,4
+743,2016,BMW,3_Series_335i_xDrive_Gran_Turismo, 24883, East Meadow, NY ,64768,No Accident or Damage Reported,Hatchback,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,8
+744,2016,BMW,X5_xDrive35i, 30988, Eatontown, NJ ,66962,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,13
+745,2021,BMW,X3_xDrive30i, 44960, Huntington Station, NY ,8919,Accident/No Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,1
+746,2020,BMW,3_Series_330i_xDrive, 44365, Darien, CT ,6966,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+747,2019,BMW,4_Series_440i_xDrive, 56995, Darien, CT ,21244,No Accident or Damage Reported,Convertible,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+748,2019,BMW,X5_xDrive40i, 59899, Randolph, NJ ,17186,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,4
+749,2019,BMW,5_Series_M550i_xDrive, 62595, Darien, CT ,13894,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,7
+750,2017,BMW,X3_xDrive28i, 23395, Roslyn Heights, NY ,61491,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,2
+751,2020,BMW,X6_M50i, 79995, Wall Township, NJ ,2040,Branded Title,SUV,White_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,4
+752,2017,BMW,X5_xDrive35i, 36995, North Bergen, NJ ,63693,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,12
+753,2017,BMW,7_Series_750i_xDrive, 38995, Roslyn Heights, NY ,53706,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_4.4_L_,2-Owner,Personal Use,16
+754,2019,BMW,4_Series_430i_xDrive_Gran_Coupe, 30695, Great Neck, NY ,24226,Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+755,2014,BMW,4_Series_428i_xDrive, 18970, Little Ferry, NJ ,60311,No Accident or Damage Reported,Coupe,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,17
+756,2014,BMW,X1_xDrive28i, 11725, Uniondale, NY ,90168,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,9
+757,2021,BMW,3_Series_330i_xDrive, 43997, Ramsey, NJ ,6844,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,7
+758,2012,BMW,X5_xDrive35i, 12295, Brooklyn, NY ,115028,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,1
+759,2014,BMW,X3_xDrive28i, 13970, Little Ferry, NJ ,99455,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,13
+760,2013,BMW,M6_Base, 37875, Hillside, NJ ,49385,No Accident or Damage Reported,Coupe,Orange_Engine:_8_Cyl_4.4_L_,2-Owner,Personal Use,15
+761,2009,BMW,3_Series_335i_xDrive, 8999, Paterson, NJ ,122478,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,26
+762,2016,BMW,X5_xDrive35i, 24995, Jamaica, NY ,83009,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,12
+763,2018,BMW,X5_xDrive35i, 36995, Great Neck, NY ,43410,Minor Damage,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+764,2021,BMW,3_Series_330i_xDrive, 43465, Huntington Station, NY ,8067,No Accident or Damage Reported,Sedan,4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,0
+765,2020,BMW,7_Series_740i, 53900, Englewood Cliffs, NJ ,37892,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Rental Use,1
+766,2021,BMW,X3_xDrive30i, 47935, Huntington Station, NY ,6769,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,0
+767,2021,BMW,7_Series_750i_xDrive, 99487, Morristown, NJ ,9702,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,5
+768,2015,BMW,3_Series_328i_xDrive, 18888, Huntington, NY ,62204,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+769,2012,BMW,5_Series_528i_xDrive, 15560, Mount Kisco, NY ,60414,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,20
+770,2018,BMW,X1_xDrive28i, 29900, Florham Park, NJ ,26890,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+771,2018,BMW,2_Series_M240i_xDrive, 36900, Freehold, NJ ,35254,Accident Reported,Convertible,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,16
+772,2018,BMW,X4_xDrive28i, 38944, Rochelle Park, NJ ,34703,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+773,2018,BMW,3_Series_340i_xDrive, 41698, Westbury, NY ,27251,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+774,2016,BMW,5_Series_535i_xDrive, 26700, White Plains, NY ,51959,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,3+ Owners,Multiple Use,8
+775,2018,BMW,4_Series_430i_xDrive, 41813, Huntington Station, NY ,21803,No Accident or Damage Reported,Convertible,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+776,2018,BMW,3_Series_330i_xDrive, 27999, Jamaica, NY ,28424,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+777,2018,BMW,X5_xDrive35i, 42880, Brooklyn, NY ,27976,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+778,2018,BMW,3_Series_320i_xDrive, 26999, Ramsey, NJ ,32933,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+779,2018,BMW,5_Series_530i_xDrive, 39999, Ramsey, NJ ,32860,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+780,2018,BMW,5_Series_530e_xDrive_iPerformance, 40499, Ramsey, NJ ,24042,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+781,2016,BMW,M4_Base, 42495, Elmwood Park, NJ ,65673,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,4
+782,2020,BMW,X7_M50i, 94949, Englewood, NJ ,20396,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Corporate Use,5
+783,2014,BMW,X6_xDrive50i, 24900, Brooklyn, NY ,95173,No Accident or Damage Reported,SUV,Silver_Engine:_8_Cyl_4.4_L_,3+ Owners,Personal Use,27
+784,2019,BMW,8_Series_M850i_xDrive, 91850, Franklin Square, NY ,20029,No Accident or Damage Reported,Convertible,White_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,4
+785,2018,BMW,X3_M40i, 44745, Lakewood, NJ ,37534,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+786,2018,BMW,X3_xDrive30i, 38263, PARAMUS, NJ ,28150,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+787,2020,BMW,3_Series_330i_xDrive, 39495, Red Bank, NJ ,19438,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+788,2018,BMW,3_Series_330i_xDrive, 34182, Trenton, NJ ,14858,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+789,2019,BMW,X3_xDrive30i, 40701, PARAMUS, NJ ,17696,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+790,2018,BMW,X2_xDrive28i, 30498, Floral Park, NY ,37033,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+791,2019,BMW,7_Series_750i_xDrive, 54498, Floral Park, NY ,52191,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,5
+792,2018,BMW,5_Series_530e_xDrive_iPerformance, 39495, Edison, NJ ,28908,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+793,2018,BMW,3_Series_330i_xDrive, 29888, Blauvelt, NY ,29650,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+794,2018,BMW,X1_xDrive28i, 27995, Newton, NJ ,41560,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+795,2018,BMW,i3_Range_Extender, 29995, Edison, NJ ,13764,No Accident or Damage Reported,Hatchback,Black_Engine:_Electric__,CARFAX 1-Owner,Personal Use,5
+796,2019,BMW,X3_xDrive30i, 42245, Lakewood, NJ ,9477,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+797,2018,BMW,3_Series_330i_xDrive, 32469, Mount Kisco, NY ,35746,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+798,2018,BMW,X2_xDrive28i, 30937, Mount Kisco, NY ,49413,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+799,2019,BMW,X3_xDrive30i, 41495, Red Bank, NJ ,14629,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+800,2019,BMW,X3_xDrive30i, 42245, Lakewood, NJ ,9477,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+801,2019,BMW,X3_xDrive30i, 41495, Red Bank, NJ ,14629,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+802,2019,BMW,X5_xDrive40i, 53995, Mount Kisco, NY ,47646,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+803,2017,BMW,2_Series_230i_xDrive, 36495, Freeport, NY ,16708,No Accident or Damage Reported,Convertible,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+804,2019,BMW,5_Series_530i_xDrive, 32985, Yonkers, NY ,43383,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,6
+805,2018,BMW,X5_xDrive50i, 42980, Richmond Hill, NY ,49287,Accident/Minor Damage,SUV,Black_Engine:_8_Cyl_4.4_L_,2-Owner,Personal Use,5
+806,2018,BMW,3_Series_340i_xDrive, 34564, Great Neck, NY ,37955,Minor Damage,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,14
+807,2010,BMW,6_Series_650i, 17995, Jersey City, NJ ,97128,No Accident or Damage Reported,Coupe,Blue_Engine:_8_Cyl_4.8_L_,3+ Owners,Personal Use,25
+808,2018,BMW,X5_xDrive35i, 34990, Jamaica, NY ,42414,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+809,2015,BMW,X5_xDrive35i, 19800, Syosset, NY ,74080,Accident/Minor Damage,SUV,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+810,2019,BMW,X3_xDrive30i, 39975, Oyster Bay, NY ,21339,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+811,2018,BMW,X3_xDrive30i, 36975, Oyster Bay, NY ,24113,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+812,2019,BMW,5_Series_530i_xDrive, 45975, Oyster Bay, NY ,7729,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+813,2021,BMW,5_Series_540i_xDrive, 63975, Oyster Bay, NY ,6474,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Commercial Use,6
+814,2020,BMW,2_Series_228i_xDrive_Gran_Coupe, 39995, Garwood, NJ ,4586,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Commercial Use,5
+815,2018,BMW,M5_Base, 77497, Morristown, NJ ,23065,Accident/Minor Damage,Sedan,Gray_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,6
+816,2021,BMW,4_Series_430i_xDrive, 49987, Morristown, NJ ,6071,No Accident or Damage Reported,Coupe,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,3
+817,2020,BMW,5_Series_M550i_xDrive, 65498, Ramsey, NJ ,21475,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,15
+818,2018,BMW,X2_xDrive28i, 24970, Little Ferry, NJ ,45469,Accident Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+819,2018,BMW,3_Series_330i_xDrive, 25196, Hollis, NY ,61303,Minor Damage,Wagon,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+820,2018,BMW,X1_xDrive28i, 26870, Massapequa Park, NY ,24928,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,1
+821,2018,BMW,M5_Base, 73485, Hollis, NY ,22066,Minor Damage,Sedan,Red_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,14
+822,2018,BMW,X6_xDrive35i, 48995, Totowa, NJ ,30006,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+823,2009,BMW,3_Series_328i_xDrive, 7999, Brooklyn, NY ,113776,No Accident or Damage Reported,Wagon,Blue_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,24
+824,2018,BMW,5_Series_540i_xDrive, 35945, Hollis, NY ,21763,Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+825,2018,BMW,X6_xDrive35i, 48995, Totowa, NJ ,30006,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+826,2018,BMW,X3_xDrive30i, 30980, Richmond Hill, NY ,46505,Accident Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+827,2016,BMW,X5_xDrive35i, 29900, Verona, NJ ,66093,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,16
+828,2018,BMW,X5_xDrive35i, 39980, Richmond Hill, NY ,23066,Accident Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+829,2017,BMW,X5_xDrive35i, 28980, Richmond Hill, NY ,75200,Minor Damage,SUV,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+830,2012,BMW,X3_xDrive28i, 10987, Irvington, NJ ,115544,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,13
+831,2018,BMW,5_Series_530i_xDrive, 34980, Richmond Hill, NY ,30103,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,17
+832,2014,BMW,3_Series_328i_xDrive_Gran_Turismo, 15987, Irvington, NJ ,97246,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,18
+833,2013,BMW,X6_xDrive35i, 24995, Woodside, NY ,66580,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,17
+834,2020,BMW,X7_M50i, 94495, Hasbrouck Heights, NJ ,19388,Accident Reported,SUV,Blue_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,13
+835,2017,BMW,X6_xDrive35i, 27995, South Hackensack, NJ ,137564,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Corporate Use,15
+836,2021,BMW,X3_xDrive30i, 48535, Tenafly, NJ ,6207,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,1
+837,2021,BMW,3_Series_330i_xDrive, 46065, Tenafly, NJ ,6948,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,2
+838,2021,BMW,X1_xDrive28i, 41925, Tenafly, NJ ,5537,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,2
+839,2021,BMW,X1_xDrive28i, 41925, Tenafly, NJ ,5746,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,3
+840,2021,BMW,3_Series_330i_xDrive, 45815, Tenafly, NJ ,6956,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,2
+841,2018,BMW,5_Series_540i_xDrive, 45165, Mamaroneck, NY ,18607,Accident/Minor Damage,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+842,2016,BMW,3_Series_328i_xDrive, 18495, Darien, CT ,83955,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,11
+843,2018,BMW,X3_xDrive30i, 39950, Mamaroneck, NY ,21729,Accident Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+844,2018,BMW,4_Series_430i_xDrive_Gran_Coupe, 25950, Bronx, NY ,24939,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+845,2018,BMW,X1_xDrive28i, 29989, Tenafly, NJ ,31810,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+846,2019,BMW,4_Series_430i_xDrive_Gran_Coupe, 26995, Great Neck, NY ,38026,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+847,2018,BMW,X2_xDrive28i, 25998, Upper Saddle River, NJ ,55328,Accident/Minor Damage,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+848,2017,BMW,4_Series_430i_Gran_Coupe, 21881, Avenel, NJ ,69855,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+849,2018,BMW,3_Series_330i_xDrive_Gran_Turismo, 27179, Englewood, NJ ,48093,No Accident or Damage Reported,Hatchback,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+850,2018,BMW,X3_xDrive30i, 30992, Morristown, NJ ,23667,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+851,2018,BMW,X4_M40i, 42700, Nanuet, NY ,24095,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+852,2021,BMW,X3_xDrive30i, 47988, Eatontown, NJ ,9099,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,4
+853,2017,BMW,X5_xDrive40e_iPerformance, 36981, Ramsey, NJ ,32909,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+854,2018,BMW,4_Series_430i_xDrive_Gran_Coupe, 24667, Great Neck, NY ,35045,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,8
+855,2017,BMW,3_Series_330i_xDrive, 20202, Great Neck, NY ,35436,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+856,2018,BMW,3_Series_330i_xDrive, 29975, Manasquan, NJ ,25560,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+857,2017,BMW,4_Series_440i_xDrive, 29850, Franklin Square, NY ,43305,Minor Damage,Coupe,Blue_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,10
+858,2018,BMW,M5_Base, 69995, Bronx, NY ,35580,Minor Damage,Sedan,Black_Engine:_8_Cyl_4.4_L_,2-Owner,Personal Use,1
+859,2018,BMW,5_Series_540i_xDrive, 36495, Ramsey, NJ ,43161,Minor Damage,Sedan,Silver_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,12
+860,2018,BMW,X2_xDrive28i, 26495, Mount Kisco, NY ,46318,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,9
+861,2019,BMW,X6_xDrive35i, 61950, Greenwich, CT ,9672,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+862,2018,BMW,X1_xDrive28i, 24995, Parsippany, NJ ,5537,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,3
+863,2017,BMW,X3_xDrive28i, 29983, Bridgewater, NJ ,35758,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+864,2018,BMW,X6_xDrive35i, 52999, Jamaica, NY ,13931,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,0
+865,2019,BMW,X5_xDrive40i, 55995, Woodside, NY ,46244,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+866,2020,BMW,X3_M40i, 55855, Mamaroneck, NY ,18425,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+867,2019,BMW,X3_xDrive30i, 32674, Greenvale, NY ,41079,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,11
+868,2019,BMW,X3_xDrive30i, 36400, Nanuet, NY ,44701,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+869,2019,BMW,8_Series_M850i_xDrive, 91988, Eatontown, NJ ,11013,No Accident or Damage Reported,Coupe,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,6
+870,2018,BMW,3_Series_330i_xDrive, 30565, Jersey City, NJ ,20067,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+871,2016,BMW,X5_xDrive35i, 25837, Jersey City, NJ ,84204,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,8
+872,2018,BMW,X1_xDrive28i, 30987, Tenafly, NJ ,26380,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+873,2019,BMW,4_Series_440i_xDrive_Gran_Coupe, 43988, Eatontown, NJ ,15789,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+874,2018,BMW,4_Series_440i_xDrive_Gran_Coupe, 40995, Tenafly, NJ ,26050,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+875,2013,BMW,X3_xDrive28i, 10250, Little Ferry, NJ ,139355,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,10
+876,2015,BMW,4_Series_428i, 23942, Carlstadt, NJ ,81690,No Accident or Damage Reported,Convertible,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+877,2018,BMW,X2_xDrive28i, 34225, Darien, CT ,14001,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+878,2018,BMW,X5_xDrive35i, 44195, Darien, CT ,33100,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+879,2018,BMW,X6_xDrive35i, 54995, Darien, CT ,35022,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+880,2018,BMW,X3_xDrive30i, 35862, Huntington Station, NY ,34778,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,9
+881,2018,BMW,X1_xDrive28i, 33965, Darien, CT ,23198,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+882,2018,BMW,X1_xDrive28i, 30795, Darien, CT ,20253,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+883,2019,BMW,4_Series_430i, 38990, Ridgefield, CT ,7850,Minor Damage,Coupe,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,3
+884,2018,BMW,3_Series_330i_xDrive, 33995, Darien, CT ,21645,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+885,2018,BMW,3_Series_330i_xDrive, 32395, Darien, CT ,28357,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+886,2018,BMW,3_Series_330i_xDrive, 34995, Darien, CT ,17095,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+887,2019,BMW,X7_xDrive40i, 71995, Darien, CT ,29761,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+888,2018,BMW,X5_sDrive35i, 41499, Newark, NJ,41556,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,12
+889,2021,BMW,X5_xDrive40i, 64995, Darien, CT ,11572,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+890,2017,BMW,3_Series_330i_xDrive, 22995, Newton, NJ ,67685,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,4
+891,2018,BMW,M3_CS, 53950, Bronx, NY ,43118,Damage Reported,Sedan,Yellow_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+892,2016,BMW,4_Series_428i, 26399, Ramsey, NJ ,65287,No Accident or Damage Reported,Convertible,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,15
+893,2020,BMW,7_Series_750i_xDrive, 81797, Morristown, NJ ,13547,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_4.4_L_,2-Owner,Personal Use,9
+894,2016,BMW,X5_xDrive35i, 25995, Roslyn Heights, NY ,73684,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,12
+895,2020,BMW,X3_M_Competition, 72933, Rochelle Park, NJ ,2771,No Accident or Damage Reported,SUV,Brown_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Corporate Use,2
+896,2018,BMW,5_Series_540i_xDrive, 45250, Harriman, NY ,31579,Minor Damage,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+897,2016,BMW,X3_xDrive28i, 20570, Monmouth Junction, NJ ,84141,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+898,2018,BMW,X2_xDrive28i, 27290, Valley Stream, NY ,17336,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+899,2018,BMW,M5_Base, 77595, Harriman, NY ,43016,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Corporate Use,15
+900,2019,BMW,X5_xDrive40i, 56540, Rochelle Park, NJ ,25636,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+901,2018,BMW,X2_xDrive28i, 28900, Rahway, NJ ,35672,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,6
+902,2020,BMW,X5_xDrive40i, 58940, Rochelle Park, NJ ,10983,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+903,2018,BMW,5_Series_530i_xDrive, 34030, Hollis, NY ,34656,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+904,2016,BMW,X5_xDrive35i, 37999, Bridgewater, NJ ,16364,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+905,2021,BMW,8_Series_840i_xDrive, 86888, Butler, NJ ,4482,No Accident or Damage Reported,Coupe,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+906,2021,BMW,X5_xDrive40i, 62995, Wall Township, NJ ,3751,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+907,2018,BMW,X4_xDrive28i, 36997, Morristown, NJ ,39114,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+908,2019,BMW,X5_xDrive40i, 59788, Englewood, NJ ,18932,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+909,2018,BMW,X4_xDrive28i, 33690, Jamaica, NY ,50696,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+910,2018,BMW,5_Series_530i_xDrive, 25995, Great Neck, NY ,66285,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+911,2019,BMW,X7_xDrive40i, 70998, Kenvil, NJ ,23675,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,15
+912,2014,BMW,X1_xDrive28i, 11499, Little Ferry, NJ ,128258,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,28
+913,2014,BMW,4_Series_435i_xDrive, 25900, Englewood Cliffs, NJ ,40883,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,2
+914,2019,BMW,X2_xDrive28i, 33339, White Plains, NY ,11540,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+915,2019,BMW,X3_xDrive30i, 32495, Parsippany, NJ ,56962,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+916,2013,BMW,X3_xDrive28i, 12999, Jamaica, NY ,85467,Accident/Minor Damage,SUV,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,13
+917,2019,BMW,X5_xDrive40i, 57401, White Plains, NY ,14599,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,0
+918,2021,BMW,3_Series_330i_xDrive, 47965, White Plains, NY ,6677,No Accident or Damage Reported,Sedan,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+919,2018,BMW,6_Series_640i_xDrive_Gran_Turismo, 47712, White Plains, NY ,16624,No Accident or Damage Reported,Hatchback,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,0
+920,2014,BMW,X3_xDrive28i, 18000, Norwalk, CT ,60591,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,16
+921,2021,BMW,3_Series_330i_xDrive, 47735, White Plains, NY ,4217,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+922,2018,BMW,M4_Base, 44777, Hillside, NJ ,88152,No Accident or Damage Reported,Coupe,Orange_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,11
+923,2018,BMW,X2_xDrive28i, 30799, Ramsey, NJ ,37860,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+924,2018,BMW,X2_xDrive28i, 32599, Ramsey, NJ ,19739,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+925,2018,BMW,X2_xDrive28i, 32599, Ramsey, NJ ,19739,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+926,2018,BMW,X6_xDrive35i, 44950, Bronx, NY ,42168,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+927,2019,BMW,7_Series_740i_xDrive, 55999, Ramsey, NJ ,20966,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+928,2019,BMW,X5_xDrive40i, 57299, Ramsey, NJ ,25538,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+929,2018,BMW,X5_xDrive35i, 41495, Parsippany, NJ ,41760,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+930,2019,BMW,7_Series_750i_xDrive, 65899, Ramsey, NJ ,27249,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,9
+931,2018,BMW,M5_Base, 81999, Ramsey, NJ ,26540,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,10
+932,2019,BMW,X3_xDrive30i, 41999, Ramsey, NJ ,13498,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+933,2019,BMW,7_Series_750i_xDrive, 62499, Ramsey, NJ ,37749,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,8
+934,2015,BMW,X5_xDrive35i, 23995, Newark, NJ ,52656,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,8
+935,2017,BMW,3_Series_330i_xDrive, 20581, Great Neck, NY ,25755,Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+936,2018,BMW,4_Series_430i, 25720, Hollis, NY ,42105,No Accident or Damage Reported,Coupe,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,9
+937,2015,BMW,X1_xDrive28i, 17900, Ozone Park, NY ,53046,Accident Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,8
+938,2020,BMW,5_Series_530i_xDrive, 46488, Edison, NJ ,19001,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,4
+939,2015,BMW,7_Series_750Li_xDrive, 24701, Syosset, NY ,75828,No Accident or Damage Reported,Sedan,Gray_Engine:_8_Cyl_4.4_L_,2-Owner,Personal Use,22
+940,2017,BMW,X1_sDrive28i, 17481, Syosset, NY ,71479,Accident Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+941,2013,BMW,X1_xDrive28i, 10995, Newton, NJ ,118023,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,27
+942,2016,BMW,4_Series_428i_xDrive, 20942, Carlstadt, NJ ,73967,No Accident or Damage Reported,Coupe,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,5
+943,2019,BMW,M5_Base, 96988, Westbury, NY ,11469,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,6
+944,2020,BMW,M4, 72250, Harriman, NY ,35469,No Accident or Damage Reported,Coupe,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+945,2021,BMW,X6_M50i, 89799, Huntington Station, NY ,16778,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,2
+946,2009,BMW,3_Series_328i, 8977, Massapequa, NY ,73343,Accident Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,16
+947,2016,BMW,X5_xDrive35i, 26995, Brooklyn, NY ,68495,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,3+ Owners,Multiple Use,6
+948,2018,BMW,4_Series_440i_xDrive_Gran_Coupe, 29395, Commack, NY ,55928,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,13
+949,2019,BMW,4_Series_440i_xDrive_Gran_Coupe, 32500, Old Bridge, NJ ,47155,Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,12
+950,2018,BMW,4_Series_440i_xDrive_Gran_Coupe, 29395, Commack, NY ,55928,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,13
+951,2018,BMW,5_Series_540i_xDrive, 36900, North Plainfield, NJ ,39430,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,14
+952,2018,BMW,3_Series_330i_xDrive, 27995, Wall Township, NJ ,23653,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+953,2019,BMW,X4_xDrive30i, 40490, Freehold, NJ ,42999,Accident Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+954,2018,BMW,3_Series_320i, 23995, Wall Township, NJ ,20120,Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+955,2018,BMW,3_Series_340i, 34995, Wall Township, NJ ,16983,Branded Title,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+956,2021,BMW,3_Series_330i, 43490, Freehold, NJ ,1664,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,3
+957,2017,BMW,4_Series_440i_Gran_Coupe, 29995, Wall Township, NJ ,15739,Branded Title,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+958,2019,BMW,5_Series_530e_iPerformance, 33995, Wall Township, NJ ,10582,Branded Title,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+959,2018,BMW,3_Series_330i_xDrive, 24995, Commack, NY ,52373,Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+960,2018,BMW,5_Series_530i_xDrive, 30995, Commack, NY ,50032,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+961,2018,BMW,2_Series_M240i_xDrive, 41995, Wall Township, NJ ,6428,Branded Title,Convertible,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+962,2019,BMW,X3_xDrive30i, 31995, Mountain Lakes, NJ ,49614,Accident Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+963,2020,BMW,3_Series_330i, 33105, Hollis, NY ,13433,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+964,2018,BMW,3_Series_340i, 33450, Hollis, NY ,16397,Accident Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+965,2018,BMW,4_Series_440i_xDrive, 32195, Jersey City, NJ ,60381,No Accident or Damage Reported,Coupe,Red_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,7
+966,2018,BMW,5_Series_530i_xDrive, 33995, Woodside, NY ,26030,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+967,2016,BMW,X1_xDrive28i, 19129, Syosset, NY ,54855,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,15
+968,2019,BMW,X5_xDrive40i, 60943, Freeport, NY ,13358,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,0
+969,2018,BMW,X6_xDrive35i, 34995, Bronx, NY ,81441,Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+970,2018,BMW,M4_Base, 61716, Upper Saddle River, NJ ,24758,No Accident or Damage Reported,Coupe,Orange_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+971,2019,BMW,5_Series_530i_xDrive, 36995, West Nyack, NY ,48994,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+972,2018,BMW,X5_xDrive35i, 37970, Massapequa Park, NY ,32518,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+973,2020,BMW,X6_xDrive40i, 76943, Freeport, NY ,8974,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+974,2016,BMW,X1_xDrive28i, 19995, Haskell, NJ ,65810,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,17
+975,2018,BMW,3_Series_330i_xDrive, 26980, Richmond Hill, NY ,32581,Accident Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+976,2019,BMW,X5_xDrive40i, 52980, Richmond Hill, NY ,25445,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,9
+977,2012,BMW,M3, 26890, Bronx, NY ,84180,No Accident or Damage Reported,Convertible,White_Engine:_8_Cyl_4.0_L_,3+ Owners,Personal Use,31
+978,2019,BMW,4_Series_430i_Gran_Coupe, 33590, New York, NY,23591,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,8
+979,2018,BMW,X3_xDrive30i, 37695, Great Neck, NY ,16611,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,6
+980,2014,BMW,5_Series_528i, 14999, Jamaica, NY ,76341,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,19
+981,2017,BMW,X3_xDrive28i, 29875, Elmhurst, NY ,22900,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,9
+982,2019,BMW,M5_Base, 87798, Brooklyn, NY ,7996,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,5
+983,2018,BMW,4_Series_430i_xDrive_Gran_Coupe, 28913, Edison, NJ ,26549,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,9
+984,2019,BMW,M5, 83496, White Plains, NY ,36826,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,6
+985,2012,BMW,5_Series_535i, 15444, New Windsor, NY ,96714,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,14
+986,2014,BMW,X1_xDrive28i, 11999, Jamaica, NY ,92149,Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,17
+987,2018,BMW,M4_Base, 61995, Mount Kisco, NY ,18014,No Accident or Damage Reported,Convertible,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+988,2019,BMW,X3_xDrive30i, 38490, Freehold, NJ ,24877,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+989,2017,BMW,i3_Range_Extender, 21995, Brooklyn, NY ,39489,No Accident or Damage Reported,Hatchback,Black_Engine:_Electric__,2-Owner,Personal Use,11
+990,2013,BMW,X5_xDrive35i_Premium, 17551, Kenvil, NJ ,74790,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,13
+991,2016,BMW,X3_xDrive28i, 18318, Syosset, NY ,62499,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,13
+992,2018,BMW,3_Series_330i_xDrive, 29695, Great Neck, NY ,34131,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+993,2011,BMW,3_Series_328i_xDrive, 7995, Jersey City, NJ ,132492,Accident/Minor Damage,Sedan,Black_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,22
+994,2013,BMW,5_Series_528i_xDrive, 11980, Bronx, NY ,97035,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,10
+995,2018,BMW,X2_xDrive28i, 31988, Eatontown, NJ ,31556,No Accident or Damage Reported,SUV,Orange_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+996,2018,BMW,X5_xDrive35i, 41055, West Caldwell, NJ ,31180,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+997,2018,BMW,X1_xDrive28i, 29894, Mamaroneck, NY ,33624,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+998,2018,BMW,4_Series_430i_xDrive_Gran_Coupe, 22081, Irvington, NJ ,58552,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,8
+999,2019,BMW,7_Series_740i_xDrive, 56988, Eatontown, NJ ,33051,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+1000,2018,BMW,X5_xDrive35i, 33885, Colonia, NJ ,65688,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,11
+1001,2018,BMW,X5_xDrive35i, 43757, Tenafly, NJ ,35576,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,11
+1002,2018,BMW,3_Series_330i_xDrive_Gran_Turismo, 32459, Mamaroneck, NY ,44351,No Accident or Damage Reported,Hatchback,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+1003,2020,BMW,X3_M40i, 52991, Hackensack, NJ ,23731,No Accident or Damage Reported,SUV,6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+1004,2019,BMW,4_Series_430i_xDrive_Gran_Coupe, 37488, Eatontown, NJ ,42919,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+1005,2018,BMW,3_Series_320i_xDrive, 30988, Eatontown, NJ ,8501,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+1006,2019,BMW,3_Series_330i_xDrive, 40950, Mamaroneck, NY ,13223,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+1007,2018,BMW,5_Series_540i_xDrive, 46988, Eatontown, NJ ,21463,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+1008,2018,BMW,5_Series_530i_xDrive, 41988, Eatontown, NJ ,26209,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+1009,2018,BMW,X1_xDrive28i, 30988, Eatontown, NJ ,43272,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+1010,2018,BMW,X1_xDrive28i, 31488, Eatontown, NJ ,29137,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+1011,2018,BMW,X1_xDrive28i, 30988, Eatontown, NJ ,31070,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+1012,2018,BMW,X5_xDrive35i, 42950, Mamaroneck, NY ,45537,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+1013,2019,BMW,5_Series_540i_xDrive, 49988, Eatontown, NJ ,16199,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+1014,2018,BMW,X5_xDrive35i, 44950, Mamaroneck, NY ,31348,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+1015,2016,BMW,X4_xDrive28i, 24547, Kenvil, NJ ,104090,Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+1016,2016,BMW,4_Series_428i_xDrive_Gran_Coupe, 26513, Trenton, NJ ,50618,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,14
+1017,2013,BMW,M5, 35550, Linden, NJ ,74203,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_4.4_L_,3+ Owners,Personal Use,7
+1018,2016,BMW,X3_xDrive28i, 19995, Jamaica, NY ,91201,Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+1019,2018,BMW,3_Series_330i_xDrive, 28714, White Plains, NY ,26914,No Accident or Damage Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,1
+1020,2019,BMW,5_Series_530i_xDrive, 34495, Westbury, NY ,45348,Accident Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+1021,2014,BMW,5_Series_528i_xDrive, 15995, South Hackensack, NJ ,91865,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+1022,2019,BMW,X5_xDrive40i, 47990, Ridgefield, CT ,69607,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Corporate Use,14
+1023,2018,BMW,5_Series_530i_xDrive, 37995, Edison, NJ ,31105,Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+1024,2019,BMW,4_Series_440i_xDrive_Gran_Coupe, 40490, Ridgefield, CT ,36658,Accident Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,13
+1025,2019,BMW,X5_xDrive40i, 57253, Huntington Station, NY ,22884,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Corporate Use,8
+1026,2017,BMW,3_Series_328d_xDrive, 25695, Great Neck, NY ,47894,No Accident or Damage Reported,Sedan,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,12
+1027,2018,BMW,X2_xDrive28i, 32228, Rochelle Park, NJ ,17417,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+1028,2019,BMW,X1_xDrive28i, 34128, Rochelle Park, NJ ,22088,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+1029,2019,BMW,X1_xDrive28i, 34490, Ridgefield, CT ,18998,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,3
+1030,2018,BMW,7_Series_750i_xDrive, 61950, Greenwich, CT ,24117,No Accident or Damage Reported,Sedan,Blue_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Corporate Use,4
+1031,2019,BMW,4_Series_440i_xDrive_Gran_Coupe, 40490, Ridgefield, CT ,36658,Accident Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,13
+1032,2018,BMW,5_Series_530i_xDrive, 40695, Harriman, NY ,36776,Accident/Minor Damage,Sedan,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+1033,2019,BMW,X3_xDrive30i, 39330, Rochelle Park, NJ ,27848,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+1034,2018,BMW,X1_xDrive28i, 28128, Rochelle Park, NJ ,37281,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,10
+1035,2016,BMW,X5_xDrive35i, 28180, Upper Saddle River, NJ ,74884,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,13
+1036,2019,BMW,X3_xDrive30i, 40330, Rochelle Park, NJ ,18918,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+1037,2018,BMW,X3_xDrive30i, 37330, Rochelle Park, NJ ,21699,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+1038,2018,BMW,3_Series_330e_iPerformance, 30950, Greenwich, CT ,34473,Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+1039,2021,BMW,X5_xDrive40i, 62650, Westbury, NY ,6006,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+1040,2018,BMW,X2_xDrive28i, 30950, Greenwich, CT ,27916,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+1041,2019,BMW,X4_xDrive30i, 44900, Fairfield, CT ,32234,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+1042,2019,BMW,4_Series_440i_xDrive, 42995, Edison, NJ ,19891,Damage Reported,Coupe,6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+1043,2021,BMW,X3_xDrive30i, 46998, Westbury, NY ,5864,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+1044,2018,BMW,X5_xDrive35i, 47335, Rochelle Park, NJ ,12353,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+1045,2018,BMW,X3_xDrive30i, 36900, Stamford, CT ,28500,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,7
+1046,2019,BMW,X7_xDrive50i, 85750, Rochelle Park, NJ ,13140,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,7
+1047,2018,BMW,X2_xDrive28i, 30950, Greenwich, CT ,24426,Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+1048,2018,BMW,X5_xDrive35i, 46950, Greenwich, CT ,30583,Minor Damage,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+1049,2019,BMW,X4_xDrive30i, 46430, Rochelle Park, NJ ,13877,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+1050,2018,BMW,X3_xDrive30i, 36900, Stamford, CT ,28500,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,7
+1051,2018,BMW,X5_xDrive35i, 47335, Rochelle Park, NJ ,12353,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+1052,2019,BMW,X7_xDrive40i, 71000, Jersey City, NJ ,37697,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+1053,2018,BMW,3_Series_320i_xDrive, 24494, Brooklyn, NY ,33512,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+1054,2018,BMW,X2_xDrive28i, 30851, White Plains, NY ,25506,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+1055,2021,BMW,3_Series_330i_xDrive, 47494, White Plains, NY ,3995,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+1056,2021,BMW,X3_xDrive30i, 49395, White Plains, NY ,7407,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+1057,2021,BMW,5_Series_530e_xDrive, 66685, White Plains, NY ,8406,No Accident or Damage Reported,Sedan,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+1058,2017,BMW,X3_xDrive28i, 25495, E Rutherford, NJ ,62852,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+1059,2014,BMW,5_Series_550i, 19995, E Rutherford, NJ ,95483,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_4.4_L_,2-Owner,Personal Use,14
+1060,2019,BMW,X3_M40i, 47335, White Plains, NY ,26888,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,0
+1061,2018,BMW,5_Series_540i_xDrive, 45888, Westbury, NY ,25508,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+1062,2021,BMW,M5_Base, 112495, Flemington, NJ ,2027,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,1
+1063,2019,BMW,X5_xDrive40i, 56995, Harriman, NY ,45283,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+1064,2013,BMW,X5_xDrive35i_Premium, 17000, Morristown, NJ ,102722,Minor Damage,SUV,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,5
+1065,2018,BMW,X6_xDrive35i, 49998, Huntington Station, NY ,36771,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+1066,2019,BMW,X4_M40i, 57440, Rochelle Park, NJ ,6671,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+1067,2014,BMW,3_Series_328d_xDrive, 17740, Mount Kisco, NY ,83015,Accident Reported,Wagon,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,21
+1068,2018,BMW,3_Series_320i_xDrive, 28995, Harriman, NY ,30118,No Accident or Damage Reported,Sedan,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+1069,2018,BMW,5_Series_530i_xDrive, 40995, Edison, NJ ,15483,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+1070,2018,BMW,3_Series_320i_xDrive, 26733, Huntington Station, NY ,31745,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+1071,2018,BMW,X5_xDrive35i, 46535, Rochelle Park, NJ ,33725,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+1072,2019,BMW,X6_xDrive35i, 57995, Harriman, NY ,32966,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+1073,2019,BMW,3_Series_330i_xDrive, 39330, Rochelle Park, NJ ,12497,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+1074,2016,BMW,7_Series_750i_xDrive, 29875, Hillside, NJ ,102506,No Accident or Damage Reported,Sedan,Black_Engine:_8_Cyl_4.4_L_,2-Owner,Multiple Use,20
+1075,2013,BMW,3_Series_320i_xDrive, 11995, Keyport, NJ ,114717,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,20
+1076,2021,BMW,X5_xDrive40i, 64895, Tenafly, NJ ,3960,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.0_L_,Number of Owners,Vehicle Use,3
+1077,2018,BMW,5_Series_530e_xDrive_iPerformance, 27650, Bronx, NY ,29097,Accident/Minor Damage,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,40
+1078,2018,BMW,M3, 56350, Bronx, NY ,33538,Minor Damage,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+1079,2018,BMW,5_Series_530i_xDrive, 28749, Hollis, NY ,41412,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+1080,2013,BMW,X5_xDrive35i_Sport_Activity, 16700, Amityville, NY ,63140,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,4
+1081,2016,BMW,X3_xDrive28i, 18995, Elizabeth, NJ ,99111,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,21
+1082,2016,BMW,5_Series_528i_xDrive, 22999, Ramsey, NJ ,58781,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,6
+1083,2015,BMW,3_Series_328i_xDrive_Gran_Turismo, 18999, Jamaica, NY ,61613,Accident/Minor Damage,Hatchback,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Personal Use,7
+1084,2019,BMW,4_Series_440i_xDrive, 43999, Ramsey, NJ ,20277,No Accident or Damage Reported,Coupe,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,14
+1085,2019,BMW,3_Series_330i_xDrive, 36989, Saint James, NY ,16209,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+1086,2010,BMW,5_Series_535i_xDrive, 9765, Ramsey, NJ ,121257,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,26
+1087,2018,BMW,5_Series_530e_xDrive_iPerformance, 42495, Freeport, NY ,23752,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+1088,2018,BMW,M3, 65743, Freeport, NY ,23550,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+1089,2018,BMW,3_Series_340i_xDrive, 44943, Freeport, NY ,14583,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+1090,2019,BMW,7_Series_750i_xDrive, 69931, Freeport, NY ,14516,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_4.4_L_,CARFAX 1-Owner,Personal Use,14
+1091,2019,BMW,4_Series_430i_xDrive, 37943, Freeport, NY ,29280,No Accident or Damage Reported,Coupe,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+1092,2014,BMW,4_Series_428i_xDrive, 17099, Union, NJ ,94360,No Accident or Damage Reported,Coupe,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,21
+1093,2018,BMW,X2_xDrive28i, 27900, Hillside, NJ ,24032,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+1094,2018,BMW,5_Series_530i_xDrive, 30760, Hollis, NY ,44845,Accident Reported,Sedan,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+1095,2015,BMW,6_Series_650i_Gran_Coupe, 29499, Union, NJ ,70263,No Accident or Damage Reported,Sedan,White_Engine:_8_Cyl_4.4_L_,3+ Owners,Personal Use,28
+1096,2019,BMW,4_Series_430i_xDrive_Gran_Coupe, 29995, Commack, NY ,42104,Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+1097,2015,BMW,M4, 39995, Somerville, NJ ,48762,No Accident or Damage Reported,Convertible,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,6
+1098,2018,BMW,X2_xDrive28i, 27900, North Plainfield, NJ ,29944,Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+1099,2018,BMW,X6_xDrive35i, 42995, Wall Township, NJ ,56538,Minor Damage,SUV,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5

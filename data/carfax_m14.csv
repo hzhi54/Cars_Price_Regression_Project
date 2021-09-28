@@ -1,0 +1,1101 @@
+,Year,Brand,Model,Cost,City,State,Mileage,Accident,Body,Engine,Owners,Usefor,Services
+0,2018,Infiniti,Q50_Luxe, 28595, Bayside, NY ,25202,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+1,2019,Infiniti,QX50_Essential, 38995, Garwood, NJ ,16223,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+2,2019,Infiniti,QX50_Essential, 35988, Bronx, NY ,21757,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+3,2018,Infiniti,Q60_Luxe, 31999, Lynbrook, NY ,17879,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+4,2020,Infiniti,QX50_Essential, 39999, Lynbrook, NY ,4907,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+5,2018,Infiniti,QX30_Sport, 26880, Lynbrook, NY ,10825,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+6,2018,Infiniti,Q50, 29704, Fairfield, CT ,21182,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+7,2020,Infiniti,QX50_Sensory, 43000, Edison, NJ ,17734,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+8,2018,Infiniti,Q50_Luxe, 28877, West Long Branch, NJ ,34595,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,16
+9,2018,Infiniti,Q50, 27878, West Long Branch, NJ ,35472,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+10,2018,Infiniti,Q70_Luxe, 32344, Brooklyn, NY ,19549,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,6
+11,2018,Infiniti,QX60_Base, 34878, West Long Branch, NJ ,15430,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+12,2019,Infiniti,Q50_Luxe, 28995, Cranbury, NJ ,26519,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+13,2018,Infiniti,Q50_Luxe, 26888, Ramsey, NJ ,46660,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,12
+14,2018,Infiniti,QX60_Base, 31202, Fairfield, CT ,47846,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+15,2019,Infiniti,QX60_Luxe, 38996, Edison, NJ ,31922,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+16,2018,Infiniti,QX60_Base, 30495, Yonkers, NY ,30773,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,14
+17,2017,Infiniti,QX80, 44995, Massapequa, NY ,44469,No Accident or Damage Reported,SUV,Gray_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,3
+18,2018,Infiniti,Q50_Luxe, 28900, Rahway, NJ ,8104,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+19,2017,Infiniti,QX80, 43900, West Long Branch, NJ ,35295,No Accident or Damage Reported,SUV,Blue_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,3
+20,2018,Infiniti,Q50_Luxe, 24900, Brooklyn, NY ,42406,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+21,2018,Infiniti,Q50_Luxe, 27299, Staten Island, NY ,17102,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+22,2019,Infiniti,QX50_Essential, 35900, West Long Branch, NJ ,35408,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+23,2018,Infiniti,Q50_Luxe, 29930, Flemington, NJ ,37127,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+24,2018,Infiniti,QX60_Base, 32490, Flemington, NJ ,37314,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+25,2019,Infiniti,QX60_Luxe, 38950, Flemington, NJ ,33178,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+26,2018,Infiniti,Q60_Luxe, 36267, Flemington, NJ ,24319,No Accident or Damage Reported,Coupe,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+27,2018,Infiniti,Q50_Luxe, 26527, Ramsey, NJ ,43338,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+28,2019,Infiniti,QX50_Essential, 34478, West Long Branch, NJ ,52029,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+29,2018,Infiniti,Q50_Luxe, 29778, West Long Branch, NJ ,21124,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+30,2017,Infiniti,QX80, 43578, West Long Branch, NJ ,43593,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,5
+31,2019,Infiniti,QX60_Luxe, 40995, Bridgewater, NJ ,30654,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+32,2018,Infiniti,Q60_Sport, 34991, Little Falls, NJ ,31471,No Accident or Damage Reported,Coupe,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,20
+33,2019,Infiniti,Q50_Sport, 34995, Edison, NJ ,10448,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+34,2020,Infiniti,QX60, 39131, Fairfield, CT ,13573,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Corporate Use,3
+35,2018,Infiniti,QX60_Base, 32889, Ramsey, NJ ,35525,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+36,2018,Infiniti,QX60_Base, 31488, Ramsey, NJ ,48541,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+37,2017,Infiniti,QX50_Base, 26885, Ramsey, NJ ,23276,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,10
+38,2018,Infiniti,Q50_Luxe, 29995, Bridgewater, NJ ,29021,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+39,2018,Infiniti,QX60_Base, 32488, Ramsey, NJ ,24173,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+40,2018,Infiniti,QX30_Premium, 25498, Great Neck, NY ,21421,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+41,2018,Infiniti,Q50_Luxe, 29878, West Long Branch, NJ ,18322,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+42,2019,Infiniti,Q50_Luxe, 25995, Jamaica, NY ,28777,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+43,2018,Infiniti,QX60_Base, 31988, Eatontown, NJ ,55381,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+44,2018,Infiniti,Q50_Luxe, 28877, West Long Branch, NJ ,27262,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+45,2018,Infiniti,Q50_Luxe, 28877, West Long Branch, NJ ,37606,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+46,2019,Infiniti,QX50_Pure, 33778, West Long Branch, NJ ,50321,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+47,2018,Infiniti,Q50, 28887, West Long Branch, NJ ,31487,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+48,2018,Infiniti,Q50_Luxe, 27999, Lynbrook, NY ,31766,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+49,2018,Infiniti,QX60_Base, 37995, Edison, NJ ,21605,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+50,2018,Infiniti,Q50_Luxe, 28288, Ramsey, NJ ,29155,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+51,2018,Infiniti,Q50_Luxe, 27588, Ramsey, NJ ,34992,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+52,2017,Infiniti,QX50_Base, 29489, Fairfield, CT ,9672,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,5
+53,2018,Infiniti,QX30_Essential, 26988, Ramsey, NJ ,29679,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+54,2019,Infiniti,QX60_Luxe, 35290, Tinton Falls, NJ ,27426,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+55,2017,Infiniti,QX50_Base, 25995, Denville, NJ ,20597,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,5
+56,2018,Infiniti,Q50_Red_Sport_400, 41473, Fairfield, CT ,12390,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+57,2017,Infiniti,QX50_Base, 23495, Hackensack, NJ ,32351,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,11
+58,2018,Infiniti,Q50_Luxe, 31995, Massapequa, NY ,19931,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,11
+59,2019,Infiniti,QX60_Luxe, 39995, Massapequa, NY ,22051,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+60,2019,Infiniti,QX60_Luxe, 35466, Westbury, NY ,23028,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+61,2018,Infiniti,QX30_Premium, 24985, Yonkers, NY ,14865,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+62,2019,Infiniti,QX60_Luxe, 41995, Bridgewater, NJ ,33983,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+63,2019,Infiniti,QX60_Luxe, 41495, Bridgewater, NJ ,26622,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+64,2018,Infiniti,QX60_Base, 37995, Bridgewater, NJ ,26098,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+65,2018,Infiniti,QX60_Base, 36995, Bridgewater, NJ ,35244,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+66,2018,Infiniti,QX60_Base, 38995, Bridgewater, NJ ,25275,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+67,2019,Infiniti,QX80_Luxe, 60995, Edison, NJ ,25354,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,9
+68,2019,Infiniti,QX50_Essential, 38307, Flemington, NJ ,33036,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+69,2019,Infiniti,QX60_Luxe, 39951, Flemington, NJ ,28378,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+70,2018,Infiniti,Q50_Luxe, 30966, Flemington, NJ ,34757,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+71,2017,Infiniti,QX50_Base, 24998, Floral Park, NY ,31621,No Accident or Damage Reported,SUV,Burgundy_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,3
+72,2019,Infiniti,QX60_Luxe, 37490, Green Brook, NJ ,27678,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+73,2018,Infiniti,QX60_Base, 31995, Jamaica, NY ,28081,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+74,2018,Infiniti,Q50_Luxe, 28188, Ramsey, NJ ,35346,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+75,2018,Infiniti,QX80_Base, 48488, Ramsey, NJ ,36536,No Accident or Damage Reported,SUV,Gray_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,4
+76,2020,Infiniti,QX50_Essential, 39900, Rahway, NJ ,11340,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+77,2018,Infiniti,Q50_Luxe, 28688, Ramsey, NJ ,28481,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+78,2019,Infiniti,QX50_Essential, 31580, Yonkers, NY ,36226,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+79,2019,Infiniti,QX50_Essential, 33999, Newark, NJ,38528,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+80,2019,Infiniti,QX50_Luxe, 34900, Wilton, CT ,8607,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+81,2018,Infiniti,Q50_Luxe, 28888, Lynbrook, NY ,23027,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+82,2016,Infiniti,Q50_Premium, 18995, Point Pleasant Boro, NJ ,81942,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,16
+83,2018,Infiniti,Q50_Sport, 33769, Flemington, NJ ,10194,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+84,2018,Infiniti,Q70_Luxe, 33488, Ramsey, NJ ,36842,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,11
+85,2018,Infiniti,Q50_Luxe, 25900, Bloomfield, NJ ,42763,No Accident or Damage Reported,Sedan,Brown_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,11
+86,2019,Infiniti,QX50_Essential, 32990, Bronx, NY ,36250,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+87,2018,Infiniti,Q70_Luxe, 31490, Bronx, NY ,30549,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,12
+88,2019,Infiniti,Q50_Luxe, 26561, Westbury, NY ,34770,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+89,2018,Infiniti,Q50_Luxe, 26994, Westbury, NY ,30511,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+90,2020,Infiniti,QX50, 44848, Fairfield, CT ,12241,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,2
+91,2018,Infiniti,Q50, 31262, Fairfield, CT ,26738,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+92,2014,Infiniti,QX80_Base, 25400, Eatontown, NJ ,121504,No Accident or Damage Reported,SUV,Gray_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,20
+93,2019,Infiniti,QX50_Essential, 38665, Edison, NJ ,36161,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+94,2019,Infiniti,QX50_Essential, 40669, Edison, NJ ,19306,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+95,2018,Infiniti,Q50_Luxe, 32995, Edison, NJ ,11083,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+96,2018,Infiniti,Q60_Luxe, 35877, West Long Branch, NJ ,29749,No Accident or Damage Reported,Coupe,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+97,2019,Infiniti,QX50_Essential, 33990, East Hanover, NJ ,45705,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+98,2018,Infiniti,Q50_Red_Sport_400, 33650, Massapequa Park, NY ,33485,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+99,2019,Infiniti,Q50_Luxe, 25995, Hempstead, NY ,45323,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,12
+100,2018,Infiniti,QX30_Luxury, 23700, North Plainfield, NJ ,27032,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+101,2018,Infiniti,QX60_Base, 28995, Roslyn Heights, NY ,17709,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+102,2017,Infiniti,QX80, 43995, Massapequa, NY ,43189,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,15
+103,2019,Infiniti,QX60_Luxe, 36999, Lynbrook, NY ,22066,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+104,2018,Infiniti,Q50_Sport, 29588, Ramsey, NJ ,38007,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,11
+105,2017,Infiniti,Q50_Sport, 24399, Elizabeth, NJ ,43605,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,5
+106,2018,Infiniti,QX60_Base, 32009, Blauvelt, NY ,23959,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+107,2017,Infiniti,QX50_Base, 25188, Lakewood, NJ ,26872,No Accident or Damage Reported,SUV,Burgundy_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,16
+108,2017,Infiniti,Q50_Premium, 22450, Forest Hills, NY ,56586,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,16
+109,2016,Infiniti,QX50_Base, 20894, North Brunswick, NJ ,79700,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,14
+110,2018,Infiniti,Q50_Sport, 28978, West Long Branch, NJ ,43539,Accident/Minor Damage,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+111,2019,Infiniti,QX60_Luxe, 31894, Princeton, NJ ,46817,Accident/Minor Damage,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+112,2010,Infiniti,M35_Base, 8377, Lodi, NJ ,144976,Accident Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+113,2018,Infiniti,Q50_Luxe, 29888, Ramsey, NJ ,17326,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+114,2018,Infiniti,Q50_Sport, 28990, Valley Stream, NY ,31333,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+115,2015,Infiniti,QX60_Base, 13495, Brooklyn, NY ,162713,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,15
+116,2018,Infiniti,Q50_Luxe, 23769, Lynbrook, NY ,22694,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+117,2019,Infiniti,Q50_Luxe, 29500, Nanuet, NY ,29517,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+118,2011,Infiniti,G37, 7995, Neptune, NJ ,171075,No Accident or Damage Reported,Coupe,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,20
+119,2014,Infiniti,QX70, 17495, Commack, NY ,100421,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,10
+120,2020,Infiniti,QX60_Luxe, 34900, Somerville, NJ ,26067,No Accident or Damage Reported,SUV,Brown_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+121,2018,Infiniti,QX60_Base, 25995, Valley Stream, NY ,55263,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+122,2018,Infiniti,Q50_Luxe, 24750, Hollis, NY ,42548,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+123,2019,Infiniti,QX50_Essential, 33599, Eatontown, NJ ,32500,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+124,2017,Infiniti,Q70, 32995, Edison, NJ ,38892,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Lease Use,13
+125,2018,Infiniti,Q50_Luxe, 23990, Bronx, NY ,40350,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+126,2017,Infiniti,Q60_Premium, 28498, Floral Park, NY ,30574,No Accident or Damage Reported,Coupe,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,12
+127,2018,Infiniti,QX60_Base, 32489, Trenton, NJ ,48607,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+128,2020,Infiniti,QX60_Pure, 39995, West Nyack, NY ,8419,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+129,2017,Infiniti,Q50_Red_Sport_400, 32888, Lindenhurst, NY ,28658,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,18
+130,2018,Infiniti,Q50_Sport, 25821, Lynbrook, NY ,38572,Accident/Minor Damage,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,13
+131,2017,Infiniti,Q50_Red_Sport_400, 29888, Totowa, NJ ,54105,No Accident or Damage Reported,Sedan,Red_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,11
+132,2018,Infiniti,Q50_Luxe, 28900, West Long Branch, NJ ,24722,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,9
+133,2019,Infiniti,QX50_Essential, 36878, West Long Branch, NJ ,30600,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,7
+134,2015,Infiniti,QX80, 27995, Jamaica, NY ,93616,No Accident or Damage Reported,SUV,Brown_Engine:_8_Cyl_5.6_L_,2-Owner,Personal Use,5
+135,2012,Infiniti,G37, 14995, E Rutherford, NJ ,100654,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,8
+136,2017,Infiniti,QX50_Base, 27978, West Long Branch, NJ ,22689,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,2
+137,2017,Infiniti,QX50_Base, 27878, West Long Branch, NJ ,30235,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,8
+138,2017,Infiniti,QX50_Base, 26878, West Long Branch, NJ ,39232,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,7
+139,2020,Infiniti,QX60_Luxe, 40888, Long Island City, NY ,14646,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+140,2019,Infiniti,Q50_Luxe, 25888, Linden, NJ ,53959,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+141,2018,Infiniti,QX60_Base, 26695, Freeport, NY ,50109,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+142,2019,Infiniti,QX50_Luxe, 31860, Massapequa Park, NY ,25505,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+143,2019,Infiniti,QX60_Luxe, 34326, Freehold, NJ ,30216,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+144,2015,Infiniti,Q50, 18900, Glen Cove, NY ,77357,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,Number of Owners,Personal Use,6
+145,2018,Infiniti,QX60_Base, 28395, Hackensack, NJ ,17684,Accident/Minor Damage,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+146,2018,Infiniti,Q50_Red_Sport_400, 37900, Florham Park, NJ ,7314,Minor Damage,Sedan,Red_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+147,2020,Infiniti,Q50_Sport, 36490, Valley Stream, NY ,13911,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+148,2018,Infiniti,Q50_Sport, 28990, Valley Stream, NY ,27681,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+149,2019,Infiniti,QX50_Essential, 34880, Brooklyn, NY ,26286,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+150,2018,Infiniti,Q50_Sport, 28990, Valley Stream, NY ,27681,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+151,2018,Infiniti,QX60_Base, 32495, Edison, NJ ,47942,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+152,2018,Infiniti,Q50, 29936, Fairfield, CT ,0,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+153,2018,Infiniti,Q50_Luxe, 20950, Bronx, NY ,28850,No Accident or Damage Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+154,2020,Infiniti,Q50_Luxe, 37225, Bayside, NY ,6643,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+155,2012,Infiniti,M37, 8888, Hasbrouck Heights, NJ ,188075,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,13
+156,2017,Infiniti,QX60_Base, 24603, Lynbrook, NY ,48310,Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+157,2018,Infiniti,Q50_Luxe, 23950, Bronx, NY ,11172,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+158,2020,Infiniti,Q50_Sport, 34995, Little Ferry, NJ ,37537,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+159,2019,Infiniti,QX50_Essential, 38995, Garwood, NJ ,16223,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+160,2018,Infiniti,QX80_Base, 46990, Freehold, NJ ,29079,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,2
+161,2018,Infiniti,QX30_Premium, 20900, Rahway, NJ ,71099,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+162,2019,Infiniti,QX50_Essential, 33900, Rahway, NJ ,39891,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+163,2018,Infiniti,QX30_Premium, 29288, Bridgewater, NJ ,24456,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+164,2019,Infiniti,QX50_Essential, 35988, Bronx, NY ,21757,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+165,2018,Infiniti,Q50, 28995, West Long Branch, NJ ,32239,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+166,2018,Infiniti,Q50_Sport, 29991, Smithtown, NY ,36972,No Accident or Damage Reported,Sedan,6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+167,2018,Infiniti,Q50_Luxe, 29900, Ozone Park, NY ,15388,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+168,2018,Infiniti,QX60_Base, 35877, West Long Branch, NJ ,37174,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+169,2018,Infiniti,QX60_Base, 28990, Jamaica, NY ,29958,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+170,2018,Infiniti,QX60_Base, 25995, Valley Stream, NY ,47321,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+171,2018,Infiniti,Q50_Red_Sport_400, 41995, Massapequa, NY ,27897,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,15
+172,2018,Infiniti,Q50_Luxe, 26588, Ramsey, NJ ,31805,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+173,2018,Infiniti,QX60_Base, 32900, Wilton, CT ,33078,Minor Damage,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+174,2018,Infiniti,QX60_Base, 32488, Ramsey, NJ ,25563,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+175,2019,Infiniti,QX50_Essential, 36950, Greenwich, CT ,16269,Accident Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+176,2018,Infiniti,Q70_Luxe, 36988, Edison, NJ ,26432,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,9
+177,2018,Infiniti,QX60_Base, 34897, Morristown, NJ ,23248,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+178,2018,Infiniti,Q50_Luxe, 29488, Ramsey, NJ ,26958,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+179,2017,Infiniti,QX50_Base, 25995, Bayside, NY ,25341,Accident Reported,SUV,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,10
+180,2017,Infiniti,QX50_Base, 23178, Jersey City, NJ ,42956,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,13
+181,2018,Infiniti,Q50_Luxe, 27400, Bloomfield, NJ ,33346,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+182,2019,Infiniti,QX50_Essential, 32900, Englewood Cliffs, NJ ,39401,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+183,2007,Infiniti,M35, 6995, Garfield, NJ ,143660,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,15
+184,2018,Infiniti,Q50_Luxe, 24990, Jamaica, NY ,35705,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+185,2018,Infiniti,Q50_Luxe, 25750, Bronx, NY ,29071,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+186,2018,Infiniti,QX60_Base, 17900, Brooklyn, NY ,123893,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+187,2018,Infiniti,Q70_Luxe, 40995, Massapequa, NY ,17018,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,6
+188,2019,Infiniti,QX50_Essential, 31390, Bronx, NY ,46183,Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+189,2018,Infiniti,Q50_Luxe, 24900, Bloomfield, NJ ,46025,Minor Damage,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+190,2012,Infiniti,FX35, 13990, Sayreville, NJ ,137287,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,32
+191,2018,Infiniti,Q50_Luxe, 26490, Valley Stream, NY ,26415,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+192,2018,Infiniti,Q50_Luxe, 25580, Hollis, NY ,29390,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+193,2019,Infiniti,QX50_Essential, 31900, Rahway, NJ ,46909,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+194,2018,Infiniti,QX60_Base, 29990, Valley Stream, NY ,33786,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+195,2016,Infiniti,QX80, 38600, Monmouth Junction, NJ ,51990,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,9
+196,2018,Infiniti,Q60_Luxe, 27980, Freeport, NY ,63899,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,17
+197,2014,Infiniti,QX50_Journey, 15998, Watchung, NJ ,92377,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,29
+198,2018,Infiniti,Q50_Luxe, 23799, Woodside, NY ,32598,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+199,2009,Infiniti,FX35_Base, 13995, Brooklyn, NY ,101119,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,25
+200,2018,Infiniti,Q50_Luxe, 25980, Richmond Hill, NY ,32349,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+201,2008,Infiniti,QX56_Base, 8150, Little Ferry, NJ ,161461,Accident Reported,SUV,Black_Engine:_8_Cyl_5.6_L_,3+ Owners,Personal Use,20
+202,2017,Infiniti,QX50_Base, 28433, Bridgewater, NJ ,31865,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,8
+203,2020,Infiniti,QX50_Luxe, 41995, Bridgewater, NJ ,17222,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+204,2019,Infiniti,QX50_Essential, 39995, Bridgewater, NJ ,33295,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+205,2019,Infiniti,QX50_Essential, 39995, Bridgewater, NJ ,37125,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+206,2018,Infiniti,QX60_Base, 39995, Bridgewater, NJ ,31745,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+207,2019,Infiniti,QX50_Essential, 39995, Bridgewater, NJ ,36706,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+208,2018,Infiniti,QX60_Base, 35995, Edison, NJ ,27728,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+209,2019,Infiniti,QX60_Luxe, 43995, Edison, NJ ,22749,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+210,2018,Infiniti,QX60_Base, 27995, Brooklyn, NY ,42405,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+211,2015,Infiniti,Q50_Premium, 16980, Bronx, NY ,79092,Minor Damage,Sedan,Gray_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,19
+212,2017,Infiniti,Q50_Red_Sport_400, 31440, Massapequa Park, NY ,37286,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,2
+213,2018,Infiniti,QX60_Base, 37501, Flemington, NJ ,33404,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+214,2019,Infiniti,QX50_Essential, 34695, Nanuet, NY ,31395,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+215,2018,Infiniti,QX60_Base, 38335, Flemington, NJ ,37826,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+216,2018,Infiniti,Q50_Luxe, 23895, Colonia, NJ ,46726,Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+217,2018,Infiniti,QX60_Base, 29895, Colonia, NJ ,40496,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+218,2018,Infiniti,QX60_Base, 27995, Denville, NJ ,69336,Minor Damage,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,15
+219,2015,Infiniti,QX60_Base, 16999, Lakewood, NJ ,133672,Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+220,2019,Infiniti,QX50_Essential, 33900, Bloomfield, NJ ,45562,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+221,2018,Infiniti,Q50_Luxe, 28995, Inwood, NY ,10627,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+222,2017,Infiniti,QX80, 45898, COLONIA, NJ ,38897,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,6
+223,2018,Infiniti,Q50_Luxe, 29688, Ramsey, NJ ,22336,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+224,2018,Infiniti,QX60_Base, 34917, Ramsey, NJ ,29269,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+225,2018,Infiniti,Q50_Luxe, 29688, Ramsey, NJ ,22336,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+226,2018,Infiniti,QX60_Base, 34917, Ramsey, NJ ,29269,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+227,2018,Infiniti,Q50_Luxe, 29290, Hasbrouck Heights, NJ ,22576,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+228,2017,Infiniti,QX50_Base, 28995, Massapequa, NY ,35028,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,4
+229,2008,Infiniti,M35_Base, 6395, Ramsey, NJ ,181552,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,19
+230,2018,Infiniti,Q50_Luxe, 28995, Bayside, NY ,34496,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+231,2018,Infiniti,Q50_Luxe, 30325, Bayside, NY ,11558,No Accident or Damage Reported,Sedan,Brown_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+232,2017,Infiniti,QX50_Base, 25995, Totowa, NJ ,13361,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,10
+233,2017,Infiniti,QX60_Base, 31995, Wall Township, NJ ,32289,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+234,2018,Infiniti,Q50_Luxe, 18995, Valley Stream, NY ,70391,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+235,2019,Infiniti,Q50_Sport, 24390, Valley Stream, NY ,52886,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,17
+236,2018,Infiniti,Q60_Sport, 27950, Bronx, NY ,62704,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+237,2018,Infiniti,Q50_Luxe, 29990, Watchung, NJ ,14510,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+238,2018,Infiniti,Q50_Luxe, 25990, Valley Stream, NY ,41048,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+239,2017,Infiniti,Q50_Premium, 18995, Butler, NJ ,48480,Major Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+240,2015,Infiniti,Q50_Premium, 19995, Great Neck, NY ,69965,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,12
+241,2018,Infiniti,Q50_Luxe, 23995, Hollis, NY ,31950,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+242,2019,Infiniti,QX50_Luxe, 26900, Bloomfield, NJ ,52995,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+243,2018,Infiniti,Q50_Red_Sport_400, 33450, Hollis, NY ,24130,Damage Reported,Sedan,Red_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+244,2018,Infiniti,QX80_Base, 51897, Fairfield, CT ,26858,No Accident or Damage Reported,SUV,Beige_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,10
+245,2018,Infiniti,QX60_Base, 41399, Edison, NJ ,18705,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+246,2018,Infiniti,Q50_Luxe, 31995, Edison, NJ ,26666,No Accident or Damage Reported,Sedan,Brown_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+247,2020,Infiniti,QX60_Luxe, 44995, Edison, NJ ,13935,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+248,2018,Infiniti,Q50_Luxe, 33400, Edison, NJ ,21003,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+249,2019,Infiniti,QX50_Essential, 39996, Edison, NJ ,31295,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+250,2018,Infiniti,QX60_Base, 41599, Edison, NJ ,20126,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+251,2019,Infiniti,QX50_Essential, 39996, Edison, NJ ,29736,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,15
+252,2019,Infiniti,QX50_Essential, 40996, Edison, NJ ,17002,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+253,2019,Infiniti,QX50_Essential, 38996, Edison, NJ ,35245,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+254,2019,Infiniti,QX60_Luxe, 43332, Edison, NJ ,22746,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+255,2018,Infiniti,QX60_Base, 40700, Edison, NJ ,24162,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+256,2019,Infiniti,QX50_Essential, 42995, Edison, NJ ,17591,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+257,2018,Infiniti,QX60_Base, 40995, Edison, NJ ,23098,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+258,2018,Infiniti,QX60_Base, 40799, Edison, NJ ,27785,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+259,2008,Infiniti,EX35_Journey, 7995, Asbury Park, NJ ,171526,No Accident or Damage Reported,SUV,Brown_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,46
+260,2019,Infiniti,QX50_Essential, 38399, Edison, NJ ,42574,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+261,2018,Infiniti,QX60_Base, 43995, Edison, NJ ,2715,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+262,2018,Infiniti,Q50_Luxe, 23990, Jamaica, NY ,47992,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,11
+263,2018,Infiniti,QX60_Base, 27881, Woodside, NY ,31035,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+264,2021,Infiniti,QX50_Sensory, 49900, West Long Branch, NJ ,4412,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,Number of Owners,Personal Use,3
+265,2019,Infiniti,QX50_Essential, 37995, Long Island City, NY ,12795,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+266,2018,Infiniti,Q50_Luxe, 28000, Bloomfield, NJ ,35093,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+267,2018,Infiniti,Q50_Luxe, 28400, Bloomfield, NJ ,37618,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+268,2017,Infiniti,QX50_Base, 26009, Great Neck, NY ,28671,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,5
+269,2017,Infiniti,QX50_Base, 24969, Morristown, NJ ,46269,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,15
+270,2019,Infiniti,Q50_Luxe, 32495, Manalapan, NJ ,29878,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+271,2018,Infiniti,QX60_Base, 32988, Great Neck, NY ,26226,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+272,2019,Infiniti,QX50_Essential, 33885, Colonia, NJ ,37710,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+273,2018,Infiniti,Q50_Luxe, 22481, Woodside, NY ,48559,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+274,2018,Infiniti,Q60_Luxe, 27623, Hollis, NY ,40003,Damage Reported,Coupe,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,11
+275,2015,Infiniti,Q50_Premium, 16995, Brooklyn, NY ,104795,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,24
+276,2014,Infiniti,Q60_Base, 14985, Massapequa, NY ,124546,No Accident or Damage Reported,Coupe,White_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,20
+277,2018,Infiniti,Q50_Luxe, 28999, Lynbrook, NY ,31789,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+278,2019,Infiniti,QX50_Essential, 36999, Lynbrook, NY ,31105,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+279,2019,Infiniti,QX50_Essential, 37999, Lynbrook, NY ,12751,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+280,2018,Infiniti,Q50_Luxe, 30995, Massapequa, NY ,32390,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+281,2018,Infiniti,Q50_Luxe, 30995, Massapequa, NY ,36975,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+282,2018,Infiniti,Q50_Luxe, 30995, Massapequa, NY ,31966,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+283,2018,Infiniti,Q50_Luxe, 30995, Massapequa, NY ,37465,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+284,2018,Infiniti,Q50_Luxe, 31990, Green Brook, NJ ,12051,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+285,2020,Infiniti,Q60_Red_Sport_400, 50495, Yonkers, NY ,9424,No Accident or Damage Reported,Coupe,Red_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+286,2008,Infiniti,EX35_Journey, 8590, Sayreville, NJ ,126664,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,37
+287,2011,Infiniti,M37_Base, 11199, Sussex, NJ ,132628,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,23
+288,2010,Infiniti,QX56_Base, 14998, Amityville, NY ,84601,No Accident or Damage Reported,SUV,Silver_Engine:_8_Cyl_5.6_L_,3+ Owners,Personal Use,36
+289,2019,Infiniti,QX50, 36173, Fairfield, CT ,24644,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+290,2008,Infiniti,G35, 7495, South Hackensack, NJ ,118594,Accident Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,4
+291,2015,Infiniti,Q60_Base, 20588, Ramsey, NJ ,65999,No Accident or Damage Reported,Coupe,White_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,22
+292,2018,Infiniti,Q50_Luxe, 27099, Englewood, NJ ,25376,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+293,2019,Infiniti,QX50_Essential, 37478, West Long Branch, NJ ,27454,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,7
+294,2019,Infiniti,QX50_Essential, 33209, Englewood, NJ ,40471,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+295,2018,Infiniti,Q60_Red_Sport_400, 38990, Valley Stream, NY ,17049,Accident Reported,Coupe,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+296,2018,Infiniti,Q50_Luxe, 21210, Wantagh, NY ,41279,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+297,2018,Infiniti,Q50_Red_Sport_400, 35445, Bridgewater, NJ ,19722,Accident Reported,Sedan,Red_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+298,2014,Infiniti,QX60_Base, 18987, Uniondale, NY ,81715,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,21
+299,2009,Infiniti,FX35_Base, 11400, Bloomfield, NJ ,127596,Accident Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,21
+300,2018,Infiniti,QX30_Premium, 23888, Butler, NJ ,24334,Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+301,2018,Infiniti,QX80_Base, 52887, West Long Branch, NJ ,41239,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,5
+302,2018,Infiniti,QX80_Base, 51887, West Long Branch, NJ ,44478,No Accident or Damage Reported,SUV,Blue_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,14
+303,2008,Infiniti,M35_Base, 5150, Little Ferry, NJ ,216561,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,37
+304,2015,Infiniti,Q50_Premium, 16995, Brooklyn, NY ,54196,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,8
+305,2017,Infiniti,QX30_Luxury, 20500, Bronx, NY ,48087,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,10
+306,2018,Infiniti,Q50_Sport, 28995, Totowa, NJ ,15803,Minor Damage,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,11
+307,2019,Infiniti,Q70_Luxe, 38475, Greenwich, CT ,26441,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,13
+308,2018,Infiniti,Q50_Sport, 24495, Linden, NJ ,66113,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,7
+309,2019,Infiniti,Q50_Sport, 32995, Totowa, NJ ,46917,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+310,2018,Infiniti,QX60_Base, 33495, Lakewood, NJ ,35156,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+311,2018,Infiniti,Q50_Luxe, 30995, Massapequa, NY ,26690,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+312,2012,Infiniti,M37, 14988, Saint James, NY ,99165,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,14
+313,2017,Infiniti,QX50_Base, 24109, Englewood, NJ ,28797,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,5
+314,2007,Infiniti,M35, 6495, Paterson, NJ ,169533,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,1
+315,2017,Infiniti,QX30_Premium, 21550, Red Bank, NJ ,53375,Accident/Minor Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+316,2018,Infiniti,Q70_Luxe, 30900, Howell, NJ ,67491,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,1
+317,2019,Infiniti,Q50_Red_Sport_400, 34995, Wall Township, NJ ,17558,Branded Title,Sedan,Red_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+318,2018,Infiniti,Q50_Sport, 38899, Edison, NJ ,9501,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+319,2018,Infiniti,QX30_Sport, 24995, Wall Township, NJ ,22038,Branded Title,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,12
+320,2013,Infiniti,JX35_Base, 15950, Belle Mead, NJ ,107894,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,14
+321,2019,Infiniti,Q50_Luxe, 24588, Hollis, NY ,44690,Minor Damage,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+322,2018,Infiniti,QX60_Base, 37855, East Hanover, NJ ,34622,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+323,2011,Infiniti,FX35_Base, 13950, Paterson, NJ ,120959,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,16
+324,2011,Infiniti,G25, 9995, Bayonne, NJ ,129224,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_2.5_L_,3+ Owners,Personal Use,20
+325,2011,Infiniti,FX35_Base, 15185, EATONTOWN, NJ ,100736,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,12
+326,2018,Infiniti,QX80_Base, 46900, West Long Branch, NJ ,47209,Minor Damage,SUV,Gray_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,11
+327,2012,Infiniti,M37, 14800, Brooklyn, NY ,70424,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,30
+328,2018,Infiniti,QX60_Base, 32481, Avenel, NJ ,39797,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+329,2018,Infiniti,QX80_Base, 49595, Brooklyn, NY ,25735,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,5
+330,2018,Infiniti,Q60_Luxe, 25595, Valley Stream, NY ,61090,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,14
+331,2019,Infiniti,QX50_Essential, 34839, Englewood, NJ ,24903,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+332,2018,Infiniti,QX60_Base, 27999, Syosset, NY ,46836,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+333,2018,Infiniti,Q50_Luxe, 24990, Jamaica, NY ,36343,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+334,2019,Infiniti,QX50_Essential, 30990, Jamaica, NY ,41338,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+335,2019,Infiniti,QX50_Essential, 36878, West Long Branch, NJ ,30088,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+336,2014,Infiniti,QX80, 30878, West Long Branch, NJ ,81069,No Accident or Damage Reported,SUV,Brown_Engine:_8_Cyl_5.6_L_,2-Owner,Personal Use,8
+337,2018,Infiniti,QX60_Base, 26995, Woodside, NY ,50954,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+338,2018,Infiniti,QX60_Base, 32919, Englewood, NJ ,27053,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+339,2018,Infiniti,QX60_Base, 35877, West Long Branch, NJ ,30986,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+340,2018,Infiniti,QX60_Base, 34478, West Long Branch, NJ ,43760,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+341,2018,Infiniti,QX60_Base, 25600, Syosset, NY ,72130,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+342,2018,Infiniti,QX60_Base, 38878, West Long Branch, NJ ,8727,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+343,2017,Infiniti,QX50_Base, 27478, West Long Branch, NJ ,38473,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,9
+344,2018,Infiniti,Q70_Luxe, 37978, West Long Branch, NJ ,22894,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,9
+345,2020,Infiniti,Q50_Luxe, 41878, West Long Branch, NJ ,14696,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+346,2019,Infiniti,QX50_Essential, 39878, West Long Branch, NJ ,27448,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+347,2020,Infiniti,QX60_Luxe, 42669, Edison, NJ ,16297,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Corporate Use,0
+348,2018,Infiniti,Q50_Red_Sport_400, 29950, Bronx, NY ,43845,Accident/Minor Damage,Sedan,Red_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+349,2008,Infiniti,EX35, 10299, S Hackensack, NJ ,52790,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,15
+350,2019,Infiniti,QX80_Luxe, 69996, Edison, NJ ,19628,No Accident or Damage Reported,SUV,Beige_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,5
+351,2017,Infiniti,QX30_Premium, 23988, New York, NY ,35471,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,8
+352,2017,Infiniti,QX60_Base, 23425, Mahwah, NJ ,110673,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+353,2017,Infiniti,Q50_Premium, 25599, Haskell, NJ ,44715,No Accident or Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+354,2008,Infiniti,FX35_Base, 8888, Hasbrouck Heights, NJ ,131213,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,11
+355,2019,Infiniti,QX50_Luxe, 33499, Ramsey, NJ ,30857,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+356,2020,Infiniti,QX80_Luxe, 61000, Eatontown, NJ ,19805,No Accident or Damage Reported,SUV,Gray_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,4
+357,2014,Infiniti,QX80_Base, 29900, Jersey City, NJ ,76860,Accident Reported,SUV,Black_Engine:_8_Cyl_5.6_L_,2-Owner,Personal Use,12
+358,2017,Infiniti,Q60_Premium, 27898, Hollis, NY ,33435,Accident Reported,Coupe,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+359,2018,Infiniti,Q50_Luxe, 19995, Brooklyn, NY ,129053,Accident Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,25
+360,2013,Infiniti,JX35_Base, 16995, Uniondale, NY ,89901,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,22
+361,2018,Infiniti,Q50_Luxe, 22295, Hollis, NY ,20742,Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+362,2018,Infiniti,Q60_Luxe, 30059, Hollis, NY ,23142,Accident Reported,Coupe,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+363,2018,Infiniti,Q50_Luxe, 24900, Rahway, NJ ,48732,Accident Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+364,2018,Infiniti,Q50_Sport, 26900, Rahway, NJ ,40068,Minor Damage,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+365,2018,Infiniti,QX60_Base, 27787, Butler, NJ ,26137,Accident Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+366,2014,Infiniti,QX60_Base, 17970, Little Ferry, NJ ,83949,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,18
+367,2018,Infiniti,Q50_Luxe, 25764, Hollis, NY ,26106,Accident/Minor Damage,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+368,2013,Infiniti,JX35_Base, 12995, Brooklyn, NY ,128792,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,31
+369,2003,Infiniti,I35_Luxury, 4495, Linden, NJ ,135764,No Accident or Damage Reported,Sedan,Green_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,15
+370,2018,Infiniti,Q50_Luxe, 20495, Valley Stream, NY ,46584,Accident/Minor Damage,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+371,2017,Infiniti,QX60_Base, 21995, Newark, NJ ,89696,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,15
+372,2015,Infiniti,Q40, 19571, Bridgewater, NJ ,63000,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,8
+373,2018,Infiniti,QX60_Base, 35995, Garwood, NJ ,23822,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+374,2019,Infiniti,Q50_Luxe, 32995, Garwood, NJ ,28209,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+375,2019,Infiniti,Q50_Luxe, 32995, Garwood, NJ ,28209,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+376,2018,Infiniti,Q50_Luxe, 20950, Bronx, NY ,41459,Accident/Minor Damage,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+377,2015,Infiniti,Q70, 25994, Haskell, NJ ,73152,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,15
+378,2015,Infiniti,Q50, 19995, Robbinsville, NJ ,38264,Accident Reported,Sedan,Blue_Engine:_6_Cyl_3.7_L_,3+ Owners,Multiple Use,5
+379,2018,Infiniti,Q50_Luxe, 29980, Richmond Hill, NY ,37097,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+380,2017,Infiniti,QX50_Base, 26450, Forest Hills, NY ,18191,Accident Reported,SUV,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,9
+381,2018,Infiniti,Q50_Luxe, 26980, Forest Hills, NY ,41229,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+382,2019,Infiniti,QX50_Luxe, 38995, Bridgewater, NJ ,19937,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+383,2017,Infiniti,QX50_Base, 27878, West Long Branch, NJ ,31724,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,7
+384,2018,Infiniti,Q60_Red_Sport_400, 42778, West Long Branch, NJ ,31177,No Accident or Damage Reported,Coupe,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,14
+385,2017,Infiniti,QX50_Base, 24878, West Long Branch, NJ ,53673,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,14
+386,2017,Infiniti,QX50_Base, 28878, West Long Branch, NJ ,25601,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,7
+387,2019,Infiniti,QX50_Essential, 33995, Ozone Park, NY ,42900,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+388,2019,Infiniti,QX50_Essential, 36778, West Long Branch, NJ ,55501,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+389,2017,Infiniti,QX50_Base, 28878, West Long Branch, NJ ,25431,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,3
+390,2017,Infiniti,QX50_Base, 27878, West Long Branch, NJ ,38982,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,6
+391,2017,Infiniti,Q70, 35877, West Long Branch, NJ ,29891,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,15
+392,2019,Infiniti,QX50, 37595, Saint James, NY ,16255,No Accident or Damage Reported,SUV,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+393,2012,Infiniti,G37, 11900, Brooklyn, NY ,124381,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Multiple Use,5
+394,2019,Infiniti,QX50_Pure, 27990, Pleasantville, NY,35340,No Accident or Damage Reported,SUV,Brown_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,2
+395,2018,Infiniti,Q50_Sport, 31999, Lynbrook, NY ,23150,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+396,2017,Infiniti,QX80, 45900, Amityville, NY ,41539,No Accident or Damage Reported,SUV,Blue_Engine:_8_Cyl_5.6_L_,2-Owner,Personal Use,16
+397,2012,Infiniti,FX35, 18300, Rockville Centre, NY ,72772,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,24
+398,2010,Infiniti,QX56_Base, 8999, Little Ferry, NJ ,173788,Accident Reported,SUV,Gray_Engine:_8_Cyl_5.6_L_,2-Owner,Personal Use,23
+399,2018,Infiniti,Q50_Luxe, 27900, Rahway, NJ ,28354,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+400,2018,Infiniti,Q50_Luxe, 25495, Great Neck, NY ,35512,Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+401,2018,Infiniti,Q50_Luxe, 26900, Rahway, NJ ,41836,Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+402,2018,Infiniti,QX80_Base, 48995, Tenafly, NJ ,28204,Accident Reported,SUV,Blue_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,10
+403,2018,Infiniti,Q50_Luxe, 28122, Ramsey, NJ ,12315,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+404,2019,Infiniti,Q60_Luxe, 35387, Brooklyn, NY ,17857,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+405,2018,Infiniti,Q50_Luxe, 28888, Lynbrook, NY ,15480,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+406,2013,Infiniti,JX35_Base, 12942, Carlstadt, NJ ,125203,Accident Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,24
+407,2018,Infiniti,Q50_Luxe, 28900, Rahway, NJ ,46064,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+408,2014,Infiniti,Q50_Premium, 21800, White Plains, NY ,58180,No Accident or Damage Reported,Sedan,Red_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,10
+409,2017,Infiniti,QX70, 22488, Green Brook, NJ ,73680,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.7_L_,3+ Owners,Multiple Use,4
+410,2018,Infiniti,Q50_Luxe, 21210, Freeport, NY ,46847,Minor Damage,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+411,2017,Infiniti,QX50_Base, 25995, Bayside, NY ,25893,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,8
+412,2017,Infiniti,QX80, 46475, Bayside, NY ,28000,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,2
+413,2018,Infiniti,Q50_Luxe, 24481, Woodside, NY ,37851,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+414,2010,Infiniti,G37, 10888, Lindenhurst, NY ,96982,Accident/Minor Damage,Sedan,Gray_Engine:_6_Cyl_3.7_L_,3+ Owners,Multiple Use,25
+415,2020,Infiniti,QX50_Autograph, 40995, Wall Township, NJ ,9617,Manufacturer Buyback,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+416,2018,Infiniti,Q60_Luxe, 24595, Brooklyn, NY ,24947,Accident Reported,Coupe,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+417,2018,Infiniti,QX60_Base, 26995, Valley Stream, NY ,32946,Minor Damage,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+418,2018,Infiniti,Q70_Luxe, 28995, Brooklyn, NY ,21330,Minor Damage,Sedan,Blue_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,2
+419,2019,Infiniti,QX60_Luxe, 35995, Wall Township, NJ ,10566,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+420,2017,Infiniti,Q60_Premium, 26950, Woodside, NY ,35226,Minor Damage,Coupe,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+421,2012,Infiniti,G25, 13945, Uniondale, NY ,43606,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_2.5_L_,2-Owner,Personal Use,4
+422,2020,Infiniti,QX50_Autograph, 39995, Wall Township, NJ ,8600,Branded Title,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+423,2020,Infiniti,QX50_Pure, 28995, Wall Township, NJ ,20802,Branded Title,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+424,2019,Infiniti,Q50_Luxe, 26745, Hillside, NJ ,35473,Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+425,2018,Infiniti,Q50_Luxe, 25465, Hillside, NJ ,22920,Accident/Minor Damage,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+426,2018,Infiniti,QX60_Base, 31995, Wall Township, NJ ,26136,Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+427,2018,Infiniti,Q50_Luxe, 24900, Rahway, NJ ,59592,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+428,2019,Infiniti,QX80_Luxe, 48999, Freehold, NJ ,52065,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.6_L_,2-Owner,Multiple Use,4
+429,2020,Infiniti,Q50_Luxe, 28438, Hollis, NY ,5990,Accident/Minor Damage,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+430,2018,Infiniti,Q50_Luxe, 27900, North Plainfield, NJ ,28882,Minor Damage,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+431,2013,Infiniti,FX37, 16980, Bronx, NY ,87079,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,Number of Owners,Personal Use,8
+432,2018,Infiniti,QX60_Base, 29599, Mountain Lakes, NJ ,52447,Accident/Minor Damage,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+433,2011,Infiniti,G25, 9975, Stamford, CT ,106281,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_2.5_L_,2-Owner,Personal Use,39
+434,2018,Infiniti,Q50_Luxe, 25990, Mountain Lakes, NJ ,34611,Accident/Minor Damage,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+435,2010,Infiniti,EX35_Journey, 8995, Belle Mead, NJ ,121467,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,1
+436,2009,Infiniti,G37, 6700, Paterson, NJ ,157979,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,22
+437,2018,Infiniti,Q50_Sport, 36995, Massapequa, NY ,26827,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,13
+438,2019,Infiniti,Q60_Red_Sport_400, 42450, Franklin Square, NY ,27540,Damage Reported,Coupe,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,13
+439,2018,Infiniti,Q50_Sport, 24350, Jamaica, NY ,37700,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+440,2018,Infiniti,QX60_Base, 36995, Edison, NJ ,29720,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+441,2018,Infiniti,Q50_Luxe, 23950, Bronx, NY ,18456,Minor Damage,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+442,2018,Infiniti,Q60_Luxe, 36888, Bronx, NY ,23457,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+443,2018,Infiniti,Q50_Luxe, 33995, Edison, NJ ,20486,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+444,2019,Infiniti,QX50_Essential, 42996, Edison, NJ ,18653,No Accident or Damage Reported,SUV,Brown_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+445,2018,Infiniti,Q50_Red_Sport_400, 29950, Bronx, NY ,35968,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+446,2018,Infiniti,QX30, 24704, Jersey City, NJ ,31450,Accident Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+447,2018,Infiniti,Q50_Luxe, 22481, Woodside, NY ,38090,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+448,2018,Infiniti,QX60_Base, 38995, Flemington, NJ ,41117,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+449,2018,Infiniti,Q60_Luxe, 33900, Englewood Cliffs, NJ ,25616,Minor Damage,Coupe,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+450,2021,Infiniti,QX50_Luxe, 44732, Flemington, NJ ,8075,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+451,2018,Infiniti,Q50_Luxe, 29150, Hackettstown, NJ ,43054,Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+452,2009,Infiniti,G37, 7295, Hasbrouck Heights, NJ ,165097,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,2-Owner,Multiple Use,19
+453,2018,Infiniti,Q50_Sport, 29788, COLONIA, NJ ,48963,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+454,2018,Infiniti,Q50_Luxe, 31995, Massapequa, NY ,24699,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+455,2018,Infiniti,Q50_Luxe, 30995, Massapequa, NY ,30519,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,11
+456,2019,Infiniti,QX60_Luxe, 38888, Lynbrook, NY ,16427,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+457,2013,Infiniti,FX37, 16990, Elmhurst, NY ,102500,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,27
+458,2018,Infiniti,QX60_Base, 35888, Ramsey, NJ ,24039,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+459,2019,Infiniti,QX50_Essential, 35888, Ramsey, NJ ,48320,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+460,2017,Infiniti,QX50_Base, 21677, Lodi, NJ ,53404,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,13
+461,2019,Infiniti,QX50_Essential, 35900, Rahway, NJ ,36000,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,14
+462,2018,Infiniti,QX60_Base, 35888, Ramsey, NJ ,39325,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+463,2019,Infiniti,QX50_Essential, 38288, Ramsey, NJ ,25489,No Accident or Damage Reported,SUV,Red_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+464,2018,Infiniti,QX60_Base, 37288, Ramsey, NJ ,25125,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+465,2017,Infiniti,QX50_Base, 24595, Elizabeth, NJ ,44889,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,2-Owner,Multiple Use,13
+466,2018,Infiniti,Q50_Luxe, 29888, Lynbrook, NY ,35256,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+467,2019,Infiniti,QX50_Essential, 37999, Lynbrook, NY ,27753,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+468,2019,Infiniti,QX50_Essential, 35995, Massapequa, NY ,35992,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+469,2017,Infiniti,Q60_Premium, 28900, Bloomfield, NJ ,42266,Major Damage,Coupe,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+470,2018,Infiniti,Q50_Luxe, 28000, Jersey City, NJ ,34922,Very Minor Damage,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+471,2017,Infiniti,Q60_Premium, 26900, North Plainfield, NJ ,69471,Minor Damage,Coupe,Black_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,19
+472,2018,Infiniti,QX60_Base, 24995, Commack, NY ,30089,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,5
+473,2016,Infiniti,Q70, 22890, Freeport, NY ,67255,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,3+ Owners,Multiple Use,19
+474,2015,Infiniti,Q50_Premium, 15900, Atlantic Highlands, NJ ,92789,Accident/Minor Damage,Sedan,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,6
+475,2020,Infiniti,QX60, 41926, Fairfield, CT ,15928,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Multiple Use,6
+476,2020,Infiniti,QX60, 41382, Fairfield, CT ,15955,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,2-Owner,Multiple Use,3
+477,2020,Infiniti,QX50, 45230, Fairfield, CT ,10477,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,2
+478,2018,Infiniti,QX60_Base, 31490, Valley Stream, NY ,34341,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+479,2018,Infiniti,QX30_Luxe, 27188, PARAMUS, NJ ,16162,Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+480,2018,Infiniti,Q50_Luxe, 28595, Brooklyn, NY ,20268,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+481,2021,Infiniti,Q50_Luxe, 33980, Richmond Hill, NY ,5708,Accident Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Rental Use,0
+482,2017,Infiniti,QX60_Base, 25995, Bronx, NY ,52815,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,16
+483,2018,Infiniti,Q50_Luxe, 20950, Bronx, NY ,27528,Accident Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+484,2017,Infiniti,QX50_Base, 23795, Elmwood Park, NJ ,16519,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,7
+485,2018,Infiniti,Q50_Luxe, 27950, Woodside, NY ,25254,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+486,2020,Infiniti,Q50_Luxe, 36995, Bridgewater, NJ ,11047,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Lease Use,0
+487,2017,Infiniti,QX70, 31888, Butler, NJ ,30102,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,7
+488,2014,Infiniti,Q50_Premium, 17995, Brooklyn, NY ,92690,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,9
+489,2019,Infiniti,Q50_Luxe, 28922, Springfield, NJ ,29932,Accident/Minor Damage,Sedan,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,8
+490,2017,Infiniti,Q50_Sport, 27450, Forest Hills, NY ,34019,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,8
+491,2019,Infiniti,QX60_Luxe, 34995, Edison, NJ ,19508,Minor Damage,SUV,Silver_Engine:_6_Cyl_3.5_L_,2-Owner,Multiple Use,9
+492,2014,Infiniti,QX60_Base, 12995, Brooklyn, NY ,134331,Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,27
+493,2011,Infiniti,G25, 8990, Yonkers, NY ,131758,Accident/Minor Damage,Sedan,White_Engine:_6_Cyl_2.5_L_,2-Owner,Personal Use,20
+494,2012,Infiniti,G37, 10999, S Hackensack, NJ ,121458,Accident/Minor Damage,Sedan,6_Cyl_3.7_L_,3+ Owners,Personal Use,38
+495,2017,Infiniti,QX50_Base, 30700, Edison, NJ ,25358,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,4
+496,2018,Infiniti,Q50_Luxe, 32996, Edison, NJ ,34491,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+497,2018,Infiniti,Q50_Luxe, 34996, Edison, NJ ,27569,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+498,2019,Infiniti,QX50_Essential, 43996, Edison, NJ ,19206,No Accident or Damage Reported,SUV,Brown_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+499,2019,Infiniti,Q50_Luxe, 36996, Edison, NJ ,14860,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+500,2018,Infiniti,Q50_Luxe, 33996, Edison, NJ ,22371,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+501,2018,Infiniti,Q50_Luxe, 34996, Edison, NJ ,15608,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+502,2018,Infiniti,QX60_Base, 41995, Edison, NJ ,33885,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+503,2018,Infiniti,Q50_Luxe, 36996, Edison, NJ ,10767,No Accident or Damage Reported,Sedan,Brown_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+504,2018,Infiniti,QX60_Base, 40855, Edison, NJ ,38790,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+505,2019,Infiniti,QX50_Essential, 50399, Edison, NJ ,7500,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+506,2018,Infiniti,Q50_Luxe, 35996, Edison, NJ ,9423,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+507,2018,Infiniti,Q50_Luxe, 34996, Edison, NJ ,28120,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+508,2018,Infiniti,Q70_Luxe, 41995, Edison, NJ ,20650,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,9
+509,2018,Infiniti,Q50_Luxe, 36499, Edison, NJ ,20623,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,11
+510,2018,Infiniti,QX60_Base, 38996, Edison, NJ ,33035,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+511,2019,Infiniti,QX50_Essential, 39995, Edison, NJ ,32351,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+512,2018,Infiniti,QX60_Base, 39996, Edison, NJ ,38448,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+513,2019,Infiniti,QX50_Essential, 42995, Edison, NJ ,23333,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+514,2018,Infiniti,QX60_Base, 39996, Edison, NJ ,22874,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+515,2019,Infiniti,Q50_Luxe, 39996, Edison, NJ ,21272,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+516,2018,Infiniti,Q50_Red_Sport_400, 45995, Edison, NJ ,32457,No Accident or Damage Reported,Sedan,Red_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,11
+517,2014,Infiniti,QX80, 27985, Paterson, NJ ,99337,No Accident or Damage Reported,SUV,Gray_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Corporate Use,23
+518,2017,Infiniti,Q50_Premium, 20599, Syosset, NY ,51527,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,5
+519,2018,Infiniti,Q50_Sport, 28862, Englewood, NJ ,27543,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+520,2008,Infiniti,EX35_Journey, 12995, North Bergen, NJ ,70979,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,12
+521,2018,Infiniti,QX30_Premium, 26700, Bloomfield, NJ ,31386,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+522,2017,Infiniti,Q50_Premium, 20950, Bronx, NY ,31506,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,10
+523,2018,Infiniti,QX30_Premium, 26316, Great Neck, NY ,38823,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+524,2018,Infiniti,QX60_Base, 33900, Englewood Cliffs, NJ ,36312,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+525,2018,Infiniti,Q50_Red_Sport_400, 33495, Woodside, NY ,21731,Accident Reported,Sedan,Red_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+526,2019,Infiniti,QX50_Essential, 38995, Massapequa, NY ,28935,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+527,2017,Infiniti,QX50_Base, 29995, Massapequa, NY ,44848,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,23
+528,2017,Infiniti,QX50_Base, 29995, Massapequa, NY ,36822,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,6
+529,2018,Infiniti,QX60_Base, 38995, Massapequa, NY ,38493,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+530,2018,Infiniti,Q70_Luxe, 39995, Massapequa, NY ,15740,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,10
+531,2019,Infiniti,QX50_Essential, 37995, Massapequa, NY ,36456,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+532,2018,Infiniti,Q50_Sport, 35995, Massapequa, NY ,31085,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+533,2018,Infiniti,QX60_Base, 35995, Massapequa, NY ,34847,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+534,2018,Infiniti,QX60_Base, 36595, Massapequa, NY ,34612,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+535,2018,Infiniti,QX60_Base, 35888, Lynbrook, NY ,32277,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+536,2018,Infiniti,QX60_Base, 36995, Massapequa, NY ,30916,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,14
+537,2018,Infiniti,QX60_Base, 38995, Massapequa, NY ,38850,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+538,2019,Infiniti,QX50_Essential, 39995, Massapequa, NY ,37185,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+539,2018,Infiniti,QX60_Base, 34999, Lynbrook, NY ,44427,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+540,2017,Infiniti,QX60_Base, 29883, East Meadow, NY ,33850,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,3
+541,2018,Infiniti,QX60_Base, 32988, Brooklyn, NY ,21841,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+542,2018,Infiniti,Q50_Luxe, 24850, Franklin Square, NY ,24883,Major Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+543,2020,Infiniti,Q60_Luxe, 46878, West Long Branch, NJ ,11575,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+544,2019,Infiniti,Q50_Luxe, 25495, Bronx, NY ,22558,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,2
+545,2013,Infiniti,JX35_Base, 17949, Uniondale, NY ,59840,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,20
+546,2017,Infiniti,Q70, 26005, Hollis, NY ,38241,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,Number of Owners,Commercial Use,1
+547,2018,Infiniti,QX30_Luxury, 22995, Wall Township, NJ ,42811,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,7
+548,2012,Infiniti,G37, 12399, Sussex, NJ ,102356,Accident/Minor Damage,Sedan,Black_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,23
+549,2020,Infiniti,QX80_Limited, 73995, Wall Township, NJ ,4804,No Accident or Damage Reported,SUV,Red_Engine:_8_Cyl_5.6_L_,2-Owner,Corporate Use,4
+550,2010,Infiniti,G37, 9999, Brooklyn, NY ,102767,Damage Reported,Coupe,Blue_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,33
+551,2018,Infiniti,QX30_Luxury, 21495, Commack, NY ,34113,Accident Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,18
+552,2012,Infiniti,G25, 7900, Brooklyn, NY ,127630,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_2.5_L_,2-Owner,Personal Use,9
+553,2018,Infiniti,Q60_Red_Sport_400, 38650, Bronx, NY ,13402,No Accident or Damage Reported,Coupe,Blue_Engine:_6_Cyl_3.0_L_,Number of Owners,Personal Use,10
+554,2018,Infiniti,QX60_Base, 27599, Bronx, NY ,40493,Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+555,2017,Infiniti,QX60_Base, 27695, Bronx, NY ,39839,Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+556,2018,Infiniti,QX60_Base, 32481, Avenel, NJ ,22871,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+557,2019,Infiniti,Q50_Luxe, 30988, Eatontown, NJ ,29848,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,2
+558,2019,Infiniti,QX50_Essential, 32679, Englewood, NJ ,29028,Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+559,2007,Infiniti,G35_Sport, 5995, South Hackensack, NJ ,177478,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,48
+560,2018,Infiniti,Q50_Luxe, 21950, Bronx, NY ,41405,Accident Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+561,2020,Infiniti,Q50_Luxe, 36995, Bridgewater, NJ ,7067,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Lease Use,0
+562,2020,Infiniti,Q50_Luxe, 36995, Bridgewater, NJ ,7275,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Lease Use,0
+563,2018,Infiniti,QX60_Base, 30990, Jamaica, NY ,36786,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+564,2018,Infiniti,QX60_Base, 33495, Brooklyn, NY ,29022,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+565,2015,Infiniti,QX60_Base, 21056, Perth Amboy, NJ ,82122,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,11
+566,2018,Infiniti,Q50_Sport, 31578, West Long Branch, NJ ,27925,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+567,2018,Infiniti,Q50_Sport, 31878, West Long Branch, NJ ,22395,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+568,2018,Infiniti,QX60_Base, 36877, West Long Branch, NJ ,25713,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+569,2018,Infiniti,QX60_Base, 37787, West Long Branch, NJ ,27444,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+570,2014,Infiniti,QX80, 30995, Great Neck, NY ,83240,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.6_L_,3+ Owners,Multiple Use,13
+571,2015,Infiniti,Q50, 14200, Summit, NJ ,119885,Accident/Minor Damage,Sedan,Gray_Engine:_6_Cyl_3.7_L_,3+ Owners,Multiple Use,11
+572,2019,Infiniti,QX60_Luxe, 36072, Yonkers, NY ,40029,Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+573,2007,Infiniti,FX35_Base, 8999, Union, NJ ,121518,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,17
+574,2012,Infiniti,EX35_Journey, 13495, SADDLE BROOK, NJ ,67115,Minor Damage,SUV,Silver_Engine:_6_Cyl_3.5_L_,3+ Owners,Multiple Use,10
+575,2005,Infiniti,QX56_Base, 8985, Lodi, NJ ,133909,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.6_L_,3+ Owners,Multiple Use,2
+576,2019,Infiniti,QX50_Luxe, 32995, New Rochelle, NY ,14818,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,8
+577,2013,Infiniti,G37, 15750, Stamford, CT ,80878,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,17
+578,2018,Infiniti,Q50_Red_Sport_400, 29950, Bronx, NY ,38485,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+579,2018,Infiniti,Q60_Sport, 34250, Bronx, NY ,23481,No Accident or Damage Reported,Coupe,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+580,2013,Infiniti,G37, 11499, Inwood, NY ,124981,Accident/Minor Damage,Sedan,Black_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,15
+581,2009,Infiniti,M35_Base, 10995, Commack, NY ,108697,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,53
+582,2008,Infiniti,EX35, 7400, Paterson, NJ ,99365,Accident Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,29
+583,2011,Infiniti,M37_Base, 16995, Brooklyn, NY ,110965,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,37
+584,2014,Infiniti,Q50, 19969, East Brunswick, NJ ,58219,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,6
+585,2017,Infiniti,Q50_Premium, 22491, Hempstead, NY ,30453,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,Number of Owners,Commercial Use,1
+586,2018,Infiniti,QX60_Base, 36882, Union, NJ ,25117,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+587,2018,Infiniti,Q50_Luxe, 27900, Jersey City, NJ ,57813,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+588,2019,Infiniti,QX50_Luxe, 32990, Newark, NJ,39573,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+589,2018,Infiniti,Q50_Luxe, 32300, Bayside, NY ,25388,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,0
+590,2018,Infiniti,QX60_Base, 32657, Monmouth Junction, NJ ,33243,Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,10
+591,2020,Infiniti,Q50_Sport, 34995, Wall Township, NJ ,8386,Branded Title,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,0
+592,2016,Infiniti,QX70, 17195, Ramsey, NJ ,118471,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,2-Owner,Multiple Use,3
+593,2009,Infiniti,G37_Base, 10999, Brooklyn, NY ,101074,Accident Reported,Convertible,Gray_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,48
+594,2016,Infiniti,QX80, 40995, Wall Township, NJ ,37896,No Accident or Damage Reported,SUV,Gray_Engine:_8_Cyl_5.6_L_,2-Owner,Personal Use,11
+595,2017,Infiniti,QX50_Base, 25980, Richmond Hill, NY ,25968,No Accident or Damage Reported,SUV,Burgundy_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,7
+596,2017,Infiniti,QX50_Base, 29877, West Long Branch, NJ ,18061,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,4
+597,2018,Infiniti,QX60_Base, 32899, Brooklyn, NY ,36876,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,15
+598,2018,Infiniti,QX60_Base, 32194, Brooklyn, NY ,35647,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+599,2018,Infiniti,QX60_Base, 32288, Brooklyn, NY ,40825,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+600,2019,Infiniti,QX50_Essential, 38478, West Long Branch, NJ ,39101,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Corporate Use,7
+601,2019,Infiniti,QX50_Essential, 35449, Englewood, NJ ,20154,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+602,2018,Infiniti,Q50_Luxe, 27645, Englewood, NJ ,31550,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+603,2018,Infiniti,QX60_Base, 36877, West Long Branch, NJ ,24970,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+604,2018,Infiniti,Q50_Red_Sport_400, 41578, West Long Branch, NJ ,24756,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+605,2019,Infiniti,QX60_Luxe, 39878, West Long Branch, NJ ,22591,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+606,2005,Infiniti,QX56_Base, 8599, Elizabeth, NJ ,139608,No Accident or Damage Reported,SUV,Gold_Engine:_8_Cyl_5.6_L_,2-Owner,Personal Use,20
+607,2011,Infiniti,G37_Base, 10990, Great Neck, NY ,110346,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,36
+608,2018,Infiniti,Q50_Sport, 32277, Ramsey, NJ ,25648,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+609,2013,Infiniti,JX35_Base, 10999, S Hackensack, NJ ,184249,No Accident or Damage Reported,SUV,6_Cyl_3.5_L_,2-Owner,Multiple Use,17
+610,2018,Infiniti,Q50_Luxe, 24335, Bayside, NY ,63513,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+611,2018,Infiniti,Q50_Luxe, 27595, Bayside, NY ,19576,Minor Damage,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+612,2017,Infiniti,QX50_Base, 23995, Wall Township, NJ ,16491,Major Damage,SUV,Burgundy_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Lease Use,2
+613,2018,Infiniti,Q50_Luxe, 27900, Rahway, NJ ,18077,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,2
+614,2009,Infiniti,G37, 4995, Butler, NJ ,159951,Minor Damage,Sedan,Gray_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,34
+615,2018,Infiniti,Q50_Luxe, 23999, Inwood, NY ,65497,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,17
+616,2013,Infiniti,JX35_Base, 14995, Somerset, NJ ,107955,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,3+ Owners,Multiple Use,8
+617,2017,Infiniti,Q50_Premium, 24000, Monmouth Junction, NJ ,50001,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,7
+618,2008,Infiniti,EX35_Journey, 7999, Brooklyn, NY ,144951,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,3+ Owners,Multiple Use,37
+619,2018,Infiniti,Q50_Sport, 27995, Commack, NY ,38936,Accident/Minor Damage,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+620,2013,Infiniti,JX35_Base, 15995, Commack, NY ,103870,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,12
+621,2011,Infiniti,G25, 10490, Hasbrouck Heights, NJ ,104065,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_2.5_L_,2-Owner,Personal Use,2
+622,2016,Infiniti,Q70, 31995, Great Neck, NY ,37686,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,Number of Owners,Lease Use,7
+623,2018,Infiniti,QX60_Base, 31990, New York, NY,36412,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,5
+624,2009,Infiniti,G37_Base, 10995, Freeport, NY ,139001,Accident Reported,Coupe,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,59
+625,2018,Infiniti,Q50_Luxe, 31995, Garwood, NJ ,26328,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+626,2018,Infiniti,Q50_Luxe, 27990, Forest Hills, NY ,21522,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+627,2019,Infiniti,QX50_Essential, 34990, Forest Hills, NY ,41804,Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,2
+628,2011,Infiniti,G37, 15990, New York, NY,86412,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,27
+629,2015,Infiniti,Q50_Premium, 24995, Edison, NJ ,42531,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,4
+630,2018,Infiniti,Q50_Signature_Edition, 33991, Smithtown, NY ,27557,No Accident or Damage Reported,Sedan,6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+631,2018,Infiniti,QX60_Base, 34900, Jersey City, NJ ,29180,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+632,2017,Infiniti,Q60_Premium, 26950, Bronx, NY ,34531,No Accident or Damage Reported,Coupe,White_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,1
+633,2018,Infiniti,QX60_Base, 37992, Springfield, NJ ,27371,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+634,2015,Infiniti,Q50_Premium, 20995, Lindenhurst, NY ,65918,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,7
+635,2018,Infiniti,Q50_Red_Sport_400, 39495, Hillside, NJ ,78393,No Accident or Damage Reported,Sedan,Red_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,13
+636,2014,Infiniti,Q60_Base, 19998, Kenvil, NJ ,72572,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,10
+637,2018,Infiniti,Q60_Luxe, 42995, Edison, NJ ,20557,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Corporate Use,6
+638,2021,Infiniti,Q60_Luxe, 45998, Edison, NJ ,2455,No Accident or Damage Reported,Coupe,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+639,2019,Infiniti,Q70_Luxe, 45995, Edison, NJ ,19652,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,8
+640,2018,Infiniti,QX60_Base, 44995, Edison, NJ ,10781,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,0
+641,2017,Infiniti,Q70, 36880, Lynbrook, NY ,29819,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,10
+642,2015,Infiniti,Q70, 23995, West Nyack, NY ,94015,Accident Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,15
+643,2018,Infiniti,Q50_Luxe, 29775, Bayside, NY ,32671,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+644,2019,Infiniti,QX50_Essential, 35995, Bayside, NY ,36017,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+645,2017,Infiniti,QX50_Base, 26725, Bayside, NY ,22751,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,3
+646,2019,Infiniti,QX50_Essential, 38995, Bayside, NY ,18947,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+647,2018,Infiniti,Q50_Luxe, 30294, Union, NJ ,39151,Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+648,2020,Infiniti,QX50_Luxe, 39995, Farmingdale, NY ,9196,No Accident or Damage Reported,SUV,Brown_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+649,2015,Infiniti,Q50_Premium, 22977, Perth Amboy, NJ ,95048,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,13
+650,2018,Infiniti,QX30_Premium, 21598, Hollis, NY ,61064,Major Damage,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,24
+651,2019,Infiniti,Q50_Luxe, 28798, Hollis, NY ,10010,Accident Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+652,2015,Infiniti,QX60_Base, 23500, Old Bridge, NJ ,49547,Minor Damage,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,19
+653,2013,Infiniti,EX37_Journey, 9999, Linden, NJ ,158375,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,32
+654,2008,Infiniti,QX56_Base, 6995, Lodi, NJ ,168835,No Accident or Damage Reported,SUV,Gray_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,3
+655,2018,Infiniti,Q50_Luxe, 23995, Wall Township, NJ ,24906,Branded Title,Sedan,Brown_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+656,2020,Infiniti,QX50_Luxe, 34995, Wall Township, NJ ,9612,Branded Title,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+657,2018,Infiniti,Q60_Sport, 33850, Franklin Square, NY ,23267,Major Damage,Coupe,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+658,2019,Infiniti,QX80_Limited, 59950, Newton, NJ ,29633,Accident/Minor Damage,SUV,White_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,6
+659,2014,Infiniti,Q50_Sport, 20998, Watchung, NJ ,74224,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,25
+660,2013,Infiniti,G37, 13495, Bayonne, NJ ,76214,Accident Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,11
+661,2011,Infiniti,G25, 9875, Brooklyn, NY ,114059,Minor Damage,Sedan,Black_Engine:_6_Cyl_2.5_L_,2-Owner,Personal Use,3
+662,2019,Infiniti,QX80_Luxe, 44995, Commack, NY ,48250,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.6_L_,2-Owner,Multiple Use,1
+663,2020,Infiniti,QX60_Pure, 38917, Englewood, NJ ,3000,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Commercial Use,0
+664,2018,Infiniti,Q60_Luxe, 35138, Brooklyn, NY ,26494,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+665,2014,Infiniti,QX70, 18995, UNION CITY, NJ ,88057,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.7_L_,2-Owner,Multiple Use,18
+666,2019,Infiniti,QX50_Essential, 36888, Kenvil, NJ ,28874,Accident Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+667,2009,Infiniti,G37, 12995, Ridgewood, NY ,121712,No Accident or Damage Reported,Convertible,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,15
+668,2018,Infiniti,QX60_Base, 38530, Flemington, NJ ,36178,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+669,2019,Infiniti,QX60_Luxe, 38900, Amityville, NY ,23111,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+670,2014,Infiniti,QX60_Base, 20990, Pleasantville, NY,89466,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,25
+671,2014,Infiniti,QX60, 16900, Plainfield, NJ ,97251,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,11
+672,2019,Infiniti,Q50_Luxe, 29300, Bloomfield, NJ ,43535,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+673,2018,Infiniti,Q50_Sport, 32875, Brooklyn, NY ,20656,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+674,2011,Infiniti,G37, 14500, Elmsford, NY ,56337,Accident Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,20
+675,2016,Infiniti,QX70, 16999, Inwood, NY ,61366,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.7_L_,3+ Owners,Multiple Use,2
+676,2018,Infiniti,Q50_Sport, 36995, Massapequa, NY ,29625,Minor Damage,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+677,2018,Infiniti,Q50_Luxe, 29999, Lynbrook, NY ,30502,Minor Damage,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+678,2018,Infiniti,Q50_Luxe, 27888, Lynbrook, NY ,23133,Minor Damage,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+679,2018,Infiniti,QX60_Base, 33995, Massapequa, NY ,39018,Minor Damage,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+680,2018,Infiniti,Q50_Luxe, 29999, Lynbrook, NY ,23375,Accident/Minor Damage,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+681,2015,Infiniti,QX60_Base, 26995, Massapequa, NY ,59656,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,13
+682,2018,Infiniti,Q60_Luxe, 39995, Massapequa, NY ,39303,Accident Reported,Coupe,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+683,2018,Infiniti,Q60_Luxe, 39995, Massapequa, NY ,28011,Minor Damage,Coupe,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+684,2019,Infiniti,Q50_Sport, 35495, Lakewood, NJ ,22607,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,Number of Owners,Commercial Use,6
+685,2019,Infiniti,QX50_Essential, 39989, New York, NY ,18173,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+686,2022,Infiniti,QX55_Sensory, 50997, Syosset, NY ,5000,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+687,2014,Infiniti,QX80, 24999, Brooklyn, NY ,148843,Accident/No Damage,SUV,White_Engine:_8_Cyl_5.6_L_,2-Owner,Personal Use,28
+688,2018,Infiniti,QX60_Base, 25990, Bronx, NY ,42295,Minor Damage,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+689,2019,Infiniti,QX50_Essential, 33888, Lynbrook, NY ,32261,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+690,2013,Infiniti,FX37_Base, 20390, Bronx, NY ,61670,Accident Reported,SUV,Black_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,23
+691,2010,Infiniti,G37, 11991, Harriman, NY ,103846,Minor Damage,Sedan,Gray_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,19
+692,2012,Infiniti,FX35, 12995, Brooklyn, NY ,134437,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,14
+693,2014,Infiniti,QX70, 19964, Uniondale, NY ,56358,Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,2-Owner,Multiple Use,13
+694,2017,Infiniti,QX70, 24990, Valley Stream, NY ,63832,Accident Reported,SUV,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Multiple Use,9
+695,2013,Infiniti,G37, 15985, Massapequa, NY ,68237,Damage Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,5
+696,2015,Infiniti,Q60_Base, 36250, Wilton, CT ,36625,No Accident or Damage Reported,Convertible,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,21
+697,2010,Infiniti,G37, 5995, Brooklyn, NY ,145433,Accident Reported,Sedan,Blue_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,14
+698,2018,Infiniti,QX30_Premium, 26900, Summit, NJ ,34614,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+699,2004,Infiniti,FX35_Base, 12500, Farmingdale, NY ,57000,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+700,2018,Infiniti,QX30_Premium, 28999, New Rochelle, NY ,28971,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+701,2019,Infiniti,QX50_Essential, 34995, Brooklyn, NY ,31640,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,13
+702,2016,Infiniti,QX60_Base, 21995, Bronx, NY ,42077,Minor Damage,SUV,Blue_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,9
+703,2014,Infiniti,QX60_Base, 24999, Teterboro, NJ ,36130,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,17
+704,2006,Infiniti,FX35_Base, 10295, Ramsey, NJ ,101631,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,25
+705,2020,Infiniti,Q50_Sport, 40193, PARAMUS, NJ ,22260,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+706,2013,Infiniti,JX35_Base, 16377, West Long Branch, NJ ,99813,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,28
+707,2011,Infiniti,G37, 13995, Brooklyn, NY ,78865,Minor Damage,Sedan,Black_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,10
+708,2018,Infiniti,Q50_Red_Sport_400, 35795, Bronx, NY ,33873,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,21
+709,2017,Infiniti,Q50_Sport, 32950, Elmont, NY ,35838,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,Number of Owners,Personal Use,14
+710,2013,Infiniti,G37, 16888, North Middletown, NJ ,39323,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,16
+711,2017,Infiniti,Q60_Premium, 28997, Brooklyn, NY ,27991,No Accident or Damage Reported,Coupe,Silver_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,7
+712,2018,Infiniti,Q50_Luxe, 28890, Jersey City, NJ ,34501,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+713,2018,Infiniti,QX80_Base, 53200, Bloomfield, NJ ,33867,No Accident or Damage Reported,SUV,White_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,6
+714,2014,Infiniti,Q50_Premium, 14995, North Middletown, NJ ,149541,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,6
+715,2010,Infiniti,EX35_Journey, 8495, Brooklyn, NY ,112054,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,10
+716,2019,Infiniti,Q50_Luxe, 30753, Little Ferry, NJ ,27753,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+717,2018,Infiniti,Q50_Luxe, 29995, Jamaica, NY ,35604,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+718,2009,Infiniti,G37_Base, 8999, S Hackensack, NJ ,116728,Branded Title,Coupe,Gray_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,16
+719,2019,Infiniti,QX50_Essential, 33965, Amityville, NY ,39609,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,8
+720,2012,Infiniti,M37, 13276, Edison, NJ ,114277,Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,16
+721,2018,Infiniti,Q50_Luxe, 26995, Great Neck, NY ,25133,Accident Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,6
+722,2016,Infiniti,Q50_Premium, 21899, Jamaica, NY ,70970,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,8
+723,2012,Infiniti,M37, 19995, Hasbrouck Heights, NJ ,51598,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,16
+724,2016,Infiniti,QX80, 37995, Wall Township, NJ ,49347,Minor Damage,SUV,Silver_Engine:_8_Cyl_5.6_L_,2-Owner,Multiple Use,17
+725,2018,Infiniti,Q50_Sport, 29980, Bronx, NY ,27427,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+726,2018,Infiniti,QX60_Base, 33958, Blauvelt, NY ,30770,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+727,2016,Infiniti,QX50_Base, 22590, Newark, NJ,62440,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,10
+728,2010,Infiniti,QX56_Base, 12500, Paterson, NJ ,144538,Minor Damage,SUV,Black_Engine:_8_Cyl_5.6_L_,3+ Owners,Personal Use,47
+729,2013,Infiniti,G37, 11490, Hasbrouck Heights, NJ ,124655,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,23
+730,2016,Infiniti,QX80_Signature_Edition, 37995, Wall Township, NJ ,51702,Accident Reported,SUV,White_Engine:_8_Cyl_5.6_L_,2-Owner,Personal Use,7
+731,2011,Infiniti,G37, 11995, Bayonne, NJ ,112987,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,35
+732,2018,Infiniti,QX60_Base, 30999, Brooklyn, NY ,35476,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+733,2017,Infiniti,Q60_Sport, 32595, Amityville, NY ,30630,Accident Reported,Coupe,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,12
+734,2018,Infiniti,Q50_Luxe, 22995, Great Neck, NY ,38960,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+735,2018,Infiniti,Q50_Red_Sport_400, 36479, Englewood, NJ ,44224,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,17
+736,2019,Infiniti,QX50_Luxe, 37995, Garwood, NJ ,11319,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,0
+737,2016,Infiniti,QX60_Base, 19995, Asbury Park, NJ ,108586,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,3+ Owners,Multiple Use,17
+738,2009,Infiniti,G37, 11995, Brooklyn, NY ,137768,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,20
+739,2017,Infiniti,Q50_Premium, 26900, Rahway, NJ ,48053,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,Number of Owners,Vehicle Use,4
+740,2021,Infiniti,Q60_Red_Sport_400, 52995, Wall Township, NJ ,523,Branded Title,Coupe,Red_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+741,2008,Infiniti,M35_Base, 8999, Paterson, NJ ,153238,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,19
+742,2020,Infiniti,QX80_Luxe, 57995, Wall Township, NJ ,13835,Branded Title,SUV,Black_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,1
+743,2017,Infiniti,Q60_Red_Sport_400, 32980, Freeport, NY ,28854,Damage Reported,Coupe,Black_Engine:_6_Cyl_3.0_L_,Number of Owners,Commercial Use,4
+744,2018,Infiniti,Q50_Red_Sport_400, 34945, Hollis, NY ,54452,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,12
+745,2012,Infiniti,G25, 10999, Brooklyn, NY ,104833,Accident/Minor Damage,Sedan,Gray_Engine:_6_Cyl_2.5_L_,2-Owner,Personal Use,36
+746,2019,Infiniti,Q50_Luxe, 26950, Woodside, NY ,32081,Minor Damage,Sedan,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,1
+747,2021,Infiniti,Q50_Red_Sport_400, 47995, Wall Township, NJ ,4022,Branded Title,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Commercial Use,4
+748,2016,Infiniti,QX70, 25500, New Rochelle, NY ,65958,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,13
+749,2018,Infiniti,Q50_Luxe, 22490, Great Neck, NY ,31505,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+750,2019,Infiniti,QX60, 38595, Huntington Station, NY ,23000,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+751,2018,Infiniti,Q50_Luxe, 31000, Floral Park, NY ,48897,No Accident or Damage Reported,Sedan,Brown_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,13
+752,2013,Infiniti,G37, 17895, Inwood, NY ,68552,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,20
+753,2018,Infiniti,Q50_Sport, 32495, Lakewood, NJ ,30623,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+754,2018,Infiniti,QX60_Base, 35995, West Nyack, NY ,26095,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+755,2018,Infiniti,Q50_Sport, 32995, Bayside, NY ,19546,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+756,2018,Infiniti,Q50_Sport, 33795, Bayside, NY ,17488,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+757,2020,Infiniti,Q50_Luxe, 29995, Commack, NY ,12588,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Commercial Use,7
+758,2021,Infiniti,Q50_Red_Sport_400, 51995, Wall Township, NJ ,1674,Branded Title,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+759,2018,Infiniti,QX60_Base, 31898, Westbury, NY ,32477,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,0
+760,2014,Infiniti,Q50_Premium, 12995, Brooklyn, NY ,106995,Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,29
+761,2017,Infiniti,QX50_Base, 26997, Brooklyn, NY ,19233,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,5
+762,2018,Infiniti,QX60_Base, 34333, Brooklyn, NY ,37871,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+763,2019,Infiniti,QX50_Luxe, 30995, Woodside, NY ,38721,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+764,2018,Infiniti,QX60_Base, 33995, Englewood, NJ ,29900,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+765,2018,Infiniti,Q50_Luxe, 28409, Englewood, NJ ,37494,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+766,2018,Infiniti,Q50_Luxe, 28990, Brooklyn, NY ,23796,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+767,2019,Infiniti,QX80_Luxe, 62877, West Long Branch, NJ ,13560,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,4
+768,2018,Infiniti,Q60_Luxe, 31878, West Long Branch, NJ ,43299,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+769,2012,Infiniti,M37, 23950, Elmont, NY ,53544,Minor Damage,Sedan,Silver_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,14
+770,2014,Infiniti,Q50_Premium, 22950, Elmont, NY ,77581,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,20
+771,2018,Infiniti,Q50_Luxe, 22995, Great Neck, NY ,44571,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+772,2018,Infiniti,Q50_Luxe, 20695, Great Neck, NY ,42140,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,14
+773,2018,Infiniti,QX80_Base, 45300, PARAMUS, NJ ,40709,Minor Damage,SUV,Gray_Engine:_8_Cyl_5.6_L_,2-Owner,Multiple Use,10
+774,2013,Infiniti,G37, 12988, Lodi, NJ ,102402,Damage Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,21
+775,2015,Infiniti,QX80_Base, 33995, Wall Township, NJ ,45204,Branded Title,SUV,Black_Engine:_8_Cyl_5.6_L_,3+ Owners,Personal Use,9
+776,2018,Infiniti,QX60_Base, 33495, Bayside, NY ,33957,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+777,2015,Infiniti,Q50_Sport, 18565, Amityville, NY ,83222,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,9
+778,2018,Infiniti,Q50_Luxe, 26890, Forest Hills, NY ,0,Major Damage,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+779,2018,Infiniti,Q50_Luxe, 29335, Bayside, NY ,23463,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+780,2010,Infiniti,G37, 11999, Commack, NY ,102931,Accident/Minor Damage,Sedan,Gray_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,25
+781,2013,Infiniti,M37, 14995, Butler, NJ ,110454,Minor Damage,Sedan,Gray_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,16
+782,2013,Infiniti,JX35_Base, 13999, S Hackensack, NJ ,155291,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,29
+783,2008,Infiniti,G35, 7999, Brooklyn, NY ,150247,Accident/Minor Damage,Sedan,Silver_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,33
+784,2013,Infiniti,G37, 14755, Rockaway, NJ ,70798,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,3+ Owners,Multiple Use,11
+785,2018,Infiniti,Q50_Sport, 28850, Franklin Square, NY ,38659,Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,10
+786,2015,Infiniti,Q50_Premium, 26450, Merrick, NY ,36613,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.7_L_,3+ Owners,Multiple Use,5
+787,2018,Infiniti,Q50_Luxe, 30961, Avenel, NJ ,26095,Minor Damage,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+788,2017,Infiniti,Q60_Premium, 31981, Long Island City, NY ,53601,No Accident or Damage Reported,Coupe,Silver_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,9
+789,2014,Infiniti,QX60, 20990, New York, NY,82182,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,Number of Owners,Personal Use,15
+790,2013,Infiniti,G37, 12279, Copiague, NY ,106018,Damage Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,27
+791,2014,Infiniti,Q50_Premium, 18879, Haskell, NJ ,94133,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,9
+792,2019,Infiniti,QX60_Pure, 28890, Great Neck, NY ,31419,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+793,2018,Infiniti,Q50_Luxe, 21990, Great Neck, NY ,33944,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+794,2018,Infiniti,Q50_Sport, Call for Price, Garwood, NJ ,25808,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+795,2018,Infiniti,Q50_Luxe, Call for Price, Garwood, NJ ,13438,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+796,2017,Infiniti,Q70, 23995, Bronx, NY ,50827,Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,11
+797,2014,Infiniti,QX60_Base, 17885, Hasbrouck Heights, NJ ,109808,Accident Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,24
+798,2015,Infiniti,Q40, 15995, E Rutherford, NJ ,90495,Accident Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,16
+799,2013,Infiniti,G37, 15890, Linden, NJ ,97781,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,33
+800,2014,Infiniti,Q60_IPL, 25995, West Nyack, NY ,79671,Minor Damage,Convertible,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,20
+801,2011,Infiniti,G37, 17995, E Rutherford, NJ ,79668,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,11
+802,2015,Infiniti,Q50, 19389, Jersey City, NJ ,87152,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,14
+803,2013,Infiniti,M37, 17895, E Rutherford, NJ ,86987,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,3
+804,2015,Infiniti,Q50_Premium, 24995, Massapequa, NY ,85423,Damage Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,16
+805,2017,Infiniti,Q50_Sport, 24888, Jamaica, NY ,67300,Minor Damage,Sedan,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,9
+806,2015,Infiniti,Q70, 21900, Jersey City, NJ ,100606,Minor Damage,Sedan,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,10
+807,2015,Infiniti,Q40, 10950, Newton, NJ ,138303,Damage Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,21
+808,2019,Infiniti,QX50_Essential, 37588, Ramsey, NJ ,25251,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+809,2019,Infiniti,QX60_Luxe, 30980, Bronx, NY ,57088,Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Corporate Use,7
+810,2015,Infiniti,Q50, 21988, Valley Stream, NY ,66769,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,3+ Owners,Multiple Use,10
+811,2014,Infiniti,Q60_Base, 16495, Elizabeth, NJ ,127276,Accident Reported,Coupe,White_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,11
+812,2020,Infiniti,QX60_Pure, Call for Price, Freeport, NY ,13078,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+813,2014,Infiniti,Q50, 16495, Bayonne, NJ ,111101,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.7_L_,3+ Owners,Multiple Use,26
+814,2017,Infiniti,QX50_Base, 26995, Bayside, NY ,27802,No Accident or Damage Reported,SUV,Burgundy_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,6
+815,2019,Infiniti,QX50_Essential, 35995, Bayside, NY ,44219,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+816,2020,Infiniti,Q50_Luxe, 37325, Bayside, NY ,3419,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+817,2019,Infiniti,QX50_Essential, 36995, Bayside, NY ,34289,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+818,2015,Infiniti,QX60_Base, 22500, Monmouth Junction, NJ ,67739,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,5
+819,2018,Infiniti,QX60_Base, 33495, Bayside, NY ,40992,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+820,2018,Infiniti,Q50_Luxe, 31335, Bayside, NY ,15774,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+821,2018,Infiniti,Q50_Luxe, 30795, Bayside, NY ,29707,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+822,2017,Infiniti,QX80, 44995, Wall Township, NJ ,31735,Branded Title,SUV,White_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,9
+823,2019,Infiniti,QX60_Luxe, 41495, Wall Township, NJ ,5870,Branded Title,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+824,2019,Infiniti,QX80_Luxe, 57995, Wall Township, NJ ,15587,Branded Title,SUV,Beige_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,7
+825,2019,Infiniti,QX50_Essential, 33990, Freehold, NJ ,48112,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,6
+826,2019,Infiniti,QX50_Essential, 36990, Great Neck, NY ,19087,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+827,2018,Infiniti,QX60_Base, 33299, Mountain Lakes, NJ ,31152,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+828,2018,Infiniti,Q50_Luxe, 29995, Woodside, NY ,29065,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+829,2018,Infiniti,Q50_Sport, 25980, Bronx, NY ,63254,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,15
+830,2018,Infiniti,Q50_Luxe, 25888, Elmont, NY ,39558,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+831,2018,Infiniti,Q60_Red_Sport_400, Call for Price, Richmond Hill, NY ,29970,Accident/Minor Damage,Coupe,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+832,2018,Infiniti,Q50_Luxe, 22995, Great Neck, NY ,40790,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+833,2015,Infiniti,QX60_Base, 25777, Perth Amboy, NJ ,72360,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,3+ Owners,Multiple Use,16
+834,2008,Infiniti,G35, 8995, Yonkers, NY ,115540,Accident Reported,Sedan,Silver_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,45
+835,2019,Infiniti,QX50, Call for Price, Fairfield, CT ,0,No Accident or Damage Reported,SUV,4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,10
+836,2018,Infiniti,QX60_Base, 42995, Edison, NJ ,26000,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+837,2018,Infiniti,QX60_Base, 44366, Edison, NJ ,30275,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+838,2018,Infiniti,QX80_Base, 58995, Edison, NJ ,35500,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,8
+839,2018,Infiniti,Q50_Luxe, 39995, Edison, NJ ,25388,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+840,2018,Infiniti,Q50_Luxe, 39995, Edison, NJ ,16453,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+841,2018,Infiniti,QX60_Base, 33450, Bloomfield, NJ ,42550,Accident Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,9
+842,2018,Infiniti,Q50_Luxe, 25800, Long Island City, NY ,43191,Major Damage,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+843,2015,Infiniti,QX60_Base, 21686, Secaucus, NJ ,79127,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+844,2020,Infiniti,QX60_Pure, 37887, Union, NJ ,38470,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Rental Use,2
+845,2015,Infiniti,Q50_Premium, 23990, Pleasantville, NY,55780,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,19
+846,2018,Infiniti,Q50_Red_Sport_400, 36900, Englewood Cliffs, NJ ,45439,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+847,2018,Infiniti,QX30_Premium, 24688, Ramsey, NJ ,38548,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,3
+848,2020,Infiniti,QX60_Luxe, Call for Price, Long Island City, NY ,6767,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+849,2018,Infiniti,Q50_Luxe, 30995, Massapequa, NY ,33327,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+850,2017,Infiniti,QX50_Base, 28995, Massapequa, NY ,33246,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,8
+851,2019,Infiniti,QX50_Essential, 36880, Lynbrook, NY ,34527,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+852,2019,Infiniti,QX50_Luxe, 38888, Lynbrook, NY ,18824,No Accident or Damage Reported,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+853,2018,Infiniti,QX60_Base, 37995, Lynbrook, NY ,34179,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+854,2009,Infiniti,G37, 11982, Bridgewater, NJ ,73581,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,15
+855,2014,Infiniti,Q50_Sport, 22599, Freehold, NJ ,49994,Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,16
+856,2016,Infiniti,Q70, 32999, South Plainfield, NJ ,68986,Minor Damage,Sedan,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,19
+857,2007,Infiniti,G35, 10399, West Milford, NJ ,111867,Accident Reported,Sedan,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,26
+858,2012,Infiniti,G25, 14995, Jamaica, NY ,87586,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_2.5_L_,2-Owner,Personal Use,23
+859,2017,Infiniti,QX70, 31995, Wall Township, NJ ,2964,Branded Title,SUV,Black_Engine:_6_Cyl_3.7_L_,Number of Owners,Personal Use,8
+860,2018,Infiniti,QX80_Base, 43682, Fairfield, CT ,75379,Accident/Minor Damage,SUV,Black_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Corporate Use,15
+861,2018,Infiniti,QX60_Base, 33946, Avenel, NJ ,38811,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,10
+862,2018,Infiniti,QX60_Base, 39995, Commack, NY ,44841,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,14
+863,2013,Infiniti,G37, 10995, Brooklyn, NY ,98800,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,20
+864,2018,Infiniti,Q60_Red_Sport_400, 33950, Bronx, NY ,53388,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,13
+865,2017,Infiniti,QX60_Base, 19777, Amityville, NY ,54100,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Lease Use,4
+866,2013,Infiniti,JX35_Base, 15995, Robbinsville, NJ ,108074,Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,3+ Owners,Multiple Use,36
+867,2018,Infiniti,Q50_Luxe, 31999, North Plainfield, NJ ,30860,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+868,2010,Infiniti,EX35_Journey, 13500, Commack, NY ,108786,No Accident or Damage Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,19
+869,2013,Infiniti,M37, 24999, Teterboro, NJ ,36542,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,22
+870,2018,Infiniti,Q60_Luxe, 33940, Brooklyn, NY ,33916,Minor Damage,Coupe,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+871,2015,Infiniti,Q50, 21940, Jersey City, NJ ,64544,Minor Damage,Sedan,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,8
+872,2007,Infiniti,G35, 9995, Lodi, NJ ,101661,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,29
+873,2019,Infiniti,QX60_Luxe, Call for Price, Long Island City, NY ,48820,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+874,2019,Infiniti,Q50_Luxe, Call for Price, Long Island City, NY ,14877,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+875,2019,Infiniti,QX60_Luxe, 36877, West Long Branch, NJ ,41554,No Accident or Damage Reported,SUV,Red_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,12
+876,2012,Infiniti,M37, 12299, Ramsey, NJ ,138902,Accident/Minor Damage,Sedan,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,36
+877,2017,Infiniti,QX80, 37995, Long Island City, NY ,49677,Branded Title,SUV,Beige_Engine:_8_Cyl_5.6_L_,2-Owner,Multiple Use,3
+878,2016,Infiniti,QX80, 35985, Paterson, NJ ,72788,Accident Reported,SUV,Black_Engine:_8_Cyl_5.6_L_,3+ Owners,Multiple Use,12
+879,2013,Infiniti,G37, Call for Price, Brooklyn, NY ,148529,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,27
+880,2017,Infiniti,QX50_Base, 25745, Lakewood, NJ ,61665,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,14
+881,2019,Infiniti,QX50_Luxe, 32188, Englewood, NJ ,48787,Accident Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+882,2018,Infiniti,QX60_Base, 38162, Blauvelt, NY ,23009,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+883,2018,Infiniti,QX60_Base, 35396, Blauvelt, NY ,28528,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+884,2014,Infiniti,Q50_Premium, 23990, Newark, NJ,52980,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,15
+885,2018,Infiniti,Q50_Sport, 26980, Freeport, NY ,42338,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,Number of Owners,Commercial Use,0
+886,2012,Infiniti,M37, 18495, Lodi, NJ ,61979,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,2-Owner,Multiple Use,2
+887,2015,Infiniti,Q40, 14599, Lodi, NJ ,94184,Accident Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,10
+888,2010,Infiniti,QX56_Base, 14900, Brooklyn, NY ,113409,Odometer Rollback,SUV,Silver_Engine:_8_Cyl_5.6_L_,3+ Owners,Personal Use,26
+889,2015,Infiniti,Q40, 14995, Brooklyn, NY ,97753,Accident/Minor Damage,Sedan,Black_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,5
+890,2020,Infiniti,Q50_Sport, Call for Price, East Hanover, NJ ,29130,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+891,2005,Infiniti,QX56_Base, 4495, Brooklyn, NY ,98733,Branded Title,SUV,Black_Engine:_8_Cyl_5.6_L_,3+ Owners,Multiple Use,22
+892,2017,Infiniti,Q60_Sport, 24950, Bronx, NY ,38261,Accident Reported,Coupe,Blue_Engine:_6_Cyl_3.0_L_,Number of Owners,Lease Use,4
+893,2017,Infiniti,Q60_Premium, 30900, Ozone Park, NY ,51441,Accident Reported,Coupe,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,8
+894,2013,Infiniti,G37, 15995, Paramus, NJ ,103988,Accident Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,18
+895,2013,Infiniti,G37, 15663, Farmingdale, NY ,75926,Accident Reported,Sedan,Blue_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,5
+896,2019,Infiniti,Q50_Luxe, 33995, Englewood, NJ ,2000,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Vehicle Use,1
+897,2015,Infiniti,QX60_Base, 29950, Elmont, NY ,25245,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,3+ Owners,Multiple Use,22
+898,2017,Infiniti,QX50_Base, 26995, North Bergen, NJ ,39369,Accident/Minor Damage,SUV,Gray_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,9
+899,2013,Infiniti,M37, 25950, Elmont, NY ,52597,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,3+ Owners,Multiple Use,21
+900,2017,Infiniti,Q60_Premium, 35950, Elmont, NY ,49323,No Accident or Damage Reported,Coupe,6_Cyl_3.0_L_,Number of Owners,Commercial Use,7
+901,2017,Infiniti,Q70, 24995, Great Neck, NY ,40952,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,0
+902,2018,Infiniti,Q60_Luxe, 31900, Rahway, NJ ,46763,Damage Reported,Coupe,White_Engine:_6_Cyl_3.0_L_,3+ Owners,Multiple Use,8
+903,2018,Infiniti,QX30_Luxury, Call for Price, Rahway, NJ ,31864,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+904,2018,Infiniti,Q50_Sport, 27995, Bronx, NY ,24760,Accident/Minor Damage,Sedan,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,2
+905,2017,Infiniti,Q60_Red_Sport_400, 32490, Bronx, NY ,48561,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.0_L_,3+ Owners,Multiple Use,0
+906,2019,Infiniti,Q50, Call for Price, Fairfield, CT ,0,No Accident or Damage Reported,Sedan,6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+907,2018,Infiniti,Q50, Call for Price, Fairfield, CT ,0,No Accident or Damage Reported,Sedan,6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+908,2017,Infiniti,Q50_Red_Sport_400, Call for Price, Fairfield, CT ,0,No Accident or Damage Reported,Sedan,6_Cyl_3.0_L_,2-Owner,Personal Use,12
+909,2015,Infiniti,QX60_Base, 19990, Great Neck, NY ,71255,No Accident or Damage Reported,SUV,6_Cyl_3.5_L_,2-Owner,Multiple Use,2
+910,2015,Infiniti,Q50_Premium, 22999, Newark, NJ,49511,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,0
+911,2018,Infiniti,Q50_Luxe, 22490, Valley Stream, NY ,39446,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,5
+912,2012,Infiniti,G37, 11989, Butler, NJ ,98741,Minor Damage,Sedan,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,9
+913,2015,Infiniti,Q50, 18900, Bloomfield, NJ ,61483,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,Number of Owners,Personal Use,4
+914,2016,Infiniti,Q50_Red_Sport_400, 30995, Manalapan, NJ ,38099,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,23
+915,2012,Infiniti,G37, 12995, Brooklyn, NY ,101168,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,25
+916,2015,Infiniti,Q50_Premium, 19888, Westbury, NY ,64153,Minor Damage,Sedan,Gray_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,7
+917,2019,Infiniti,QX80_Luxe, 49618, Westbury, NY ,45288,No Accident or Damage Reported,SUV,Black_Engine:_8_Cyl_5.6_L_,2-Owner,Multiple Use,4
+918,2017,Infiniti,Q70, 31840, Jersey City, NJ ,47286,Minor Damage,Sedan,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,10
+919,2017,Infiniti,Q60_Premium, 31681, Long Island City, NY ,58640,Minor Damage,Coupe,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,13
+920,2018,Infiniti,Q50_Luxe, 20695, Great Neck, NY ,43809,Minor Damage,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+921,2018,Infiniti,QX80_Base, 53995, Garwood, NJ ,34293,No Accident or Damage Reported,SUV,Blue_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,15
+922,2009,Infiniti,G37, 5995, Bronx, NY ,108765,Branded Title,Sedan,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,17
+923,2015,Infiniti,Q50, 21975, Bay Shore, NY ,95276,Accident/Minor Damage,Sedan,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,8
+924,2018,Infiniti,QX60_Base, 34988, Bronx, NY ,39561,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+925,2019,Infiniti,Q50_Luxe, 30379, Englewood, NJ ,28718,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+926,2019,Infiniti,QX50_Essential, 36699, Brooklyn, NY ,38118,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+927,2018,Infiniti,QX60_Base, 34594, Brooklyn, NY ,39152,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+928,2019,Infiniti,QX50_Essential, 35119, Brooklyn, NY ,46455,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,18
+929,2019,Infiniti,QX50_Essential, 33997, Brooklyn, NY ,59935,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+930,2019,Infiniti,QX60_Pure, 32995, Jamaica, NY ,33712,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Multiple Use,7
+931,2018,Infiniti,Q50_Luxe, 32727, Brooklyn, NY ,40117,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+932,2018,Infiniti,QX60_Base, 28995, Great Neck, NY ,36964,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,0
+933,2007,Infiniti,G35_Sport, 5995, Bay Shore, NY ,208101,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.5_L_,3+ Owners,Multiple Use,52
+934,2012,Infiniti,G37, 16895, Elizabeth, NJ ,99004,Accident Reported,Coupe,Gray_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,11
+935,2010,Infiniti,G37, 10995, E Rutherford, NJ ,147434,Damage Reported,Coupe,Blue_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,51
+936,2017,Infiniti,QX30_Luxury, 21995, Green Brook, NJ ,69364,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,11
+937,2018,Infiniti,Q50_Luxe, 25990, Valley Stream, NY ,14895,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+938,2019,Infiniti,Q50_Red_Sport_400, 36900, Rahway, NJ ,49150,Minor Damage,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,9
+939,2019,Infiniti,Q50_Luxe, 27900, Hillside, NJ ,43994,Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+940,2015,Infiniti,Q50_Premium, 17900, Bloomfield, NJ ,96743,Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,3
+941,2012,Infiniti,G37, 11495, Newark, NJ ,176163,No Accident or Damage Reported,Sedan,Brown_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,29
+942,2013,Infiniti,G37, 15995, North Middletown, NJ ,97285,Accident Reported,Sedan,Silver_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,15
+943,2010,Infiniti,FX35_Base, 16495, Newark, NJ ,132297,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,10
+944,2011,Infiniti,G37, 11895, Hasbrouck Heights, NJ ,103000,Branded Title,Sedan,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,31
+945,2021,Infiniti,Q50_Pure, 28995, Wall Township, NJ ,7903,Branded Title,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+946,1998,Infiniti,I30_Base, 2999, Teterboro, NJ ,147392,No Accident or Damage Reported,Sedan,Beige_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,7
+947,2018,Infiniti,Q50_Sport, 36995, Great Neck, NY ,41003,Minor Damage,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+948,2018,Infiniti,QX60_Base, 27890, Great Neck, NY ,33680,Accident/Minor Damage,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+949,2018,Infiniti,QX60_Base, 26890, Great Neck, NY ,51797,Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,1
+950,2018,Infiniti,Q50_Luxe, 21990, Great Neck, NY ,46000,Minor Damage,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,14
+951,2018,Infiniti,Q50_Sport, 26690, Great Neck, NY ,54477,Minor Damage,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+952,2018,Infiniti,QX60_Base, 28895, Great Neck, NY ,40230,Minor Damage,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+953,2018,Infiniti,Q50_Luxe, 21890, Great Neck, NY ,48752,Minor Damage,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,10
+954,2018,Infiniti,Q50_Sport, 24995, Great Neck, NY ,49049,Accident/Minor Damage,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,13
+955,2017,Infiniti,Q50_Sport, 23345, Great Neck, NY ,30885,Odometer Rollback,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+956,2018,Infiniti,Q50, Call for Price, Fairfield, CT ,0,No Accident or Damage Reported,Sedan,6_Cyl_3.0_L_,2-Owner,Personal Use,5
+957,2020,Infiniti,Q50_Luxe, Call for Price, Richmond Hill, NY ,14120,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,5
+958,2018,Infiniti,QX60_Base, Call for Price, Richmond Hill, NY ,31790,Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+959,2017,Infiniti,QX50_Base, 24253, Englewood, NJ ,46421,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Multiple Use,9
+960,2014,Infiniti,Q50_Premium, 17995, Yonkers, NY ,96325,Damage Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,15
+961,2019,Infiniti,Q50_Luxe, 28700, New York, NY ,24429,Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,7
+962,2014,Infiniti,QX60_Base, 14477, Lodi, NJ ,132303,Accident/Minor Damage,SUV,Silver_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,15
+963,2020,Infiniti,QX50_Luxe, 39997, Bridgewater, NJ ,27241,No Accident or Damage Reported,SUV,Silver_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,4
+964,2018,Infiniti,QX30_Premium, Call for Price, Long Island City, NY ,14001,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,5
+965,2018,Infiniti,QX60_Base, Call for Price, Fairfield, CT ,0,No Accident or Damage Reported,SUV,6_Cyl_3.5_L_,2-Owner,Personal Use,7
+966,2008,Infiniti,G35, 8275, East Windsor, NJ ,137588,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,10
+967,2019,Infiniti,QX50, Call for Price, Fairfield, CT ,0,No Accident or Damage Reported,SUV,4_Cyl_2.0_L_,2-Owner,Personal Use,7
+968,2018,Infiniti,Q50_Luxe, Call for Price, Bayside, NY ,24842,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+969,2009,Infiniti,G37, 4999, Brooklyn, NY ,137375,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,17
+970,2009,Infiniti,G37, 5995, Bronx, NY ,96484,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,8
+971,2012,Infiniti,G37, 13475, Massapequa Park, NY ,76948,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.7_L_,3+ Owners,Multiple Use,13
+972,2017,Infiniti,QX50_Base, 21495, Newark, NJ ,90574,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,8
+973,2015,Infiniti,QX60_Base, 23994, Haskell, NJ ,66977,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,14
+974,2013,Infiniti,M37, 17995, Newark, NJ ,137806,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,6
+975,2013,Infiniti,M37, 17995, Newark, NJ ,137806,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,6
+976,2011,Infiniti,M37_Base, 11990, Elmwood Park, NJ ,101906,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,3+ Owners,Multiple Use,21
+977,2001,Infiniti,QX4, 3399, Lakewood, NJ ,142210,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,9
+978,2013,Infiniti,G37, 18999, Lodi, NJ ,92147,Minor Damage,Coupe,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,8
+979,2018,Infiniti,QX60_Base, Call for Price, Butler, NJ ,17050,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+980,2018,Infiniti,Q50_Luxe, Call for Price, Butler, NJ ,20350,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+981,2011,Infiniti,M37_Base, 13995, Somerset, NJ ,103431,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.7_L_,3+ Owners,Multiple Use,18
+982,2017,Infiniti,QX50_Base, 23590, Newark, NJ,35260,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,1
+983,2018,Infiniti,Q60_Red_Sport_400, Call for Price, Edison, NJ ,32347,No Accident or Damage Reported,Coupe,Red_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+984,2008,Infiniti,G37_Base, 13981, Avenel, NJ ,85918,No Accident or Damage Reported,Coupe,Purple_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,20
+985,2018,Infiniti,QX60_Base, Call for Price, Long Island City, NY ,42593,Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+986,2018,Infiniti,QX60_Base, Call for Price, Long Island City, NY ,45476,Accident/Minor Damage,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,13
+987,2018,Infiniti,Q50_Red_Sport_400, Call for Price, Long Island City, NY ,25127,Major Damage,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+988,2021,Infiniti,Q50_Luxe, Call for Price, Long Island City, NY ,3441,Branded Title,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+989,2019,Infiniti,Q50_Red_Sport_400, Call for Price, Long Island City, NY ,31164,Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+990,2020,Infiniti,Q50_Sport, Call for Price, Long Island City, NY ,10096,Branded Title,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,5
+991,2018,Infiniti,QX60_Base, 38000, Princeton, NJ ,43837,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+992,2021,Infiniti,QX50_Luxe, Call for Price, Long Island City, NY ,5355,Manufacturer Buyback,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+993,2018,Infiniti,Q70_Luxe, 35900, Englewood Cliffs, NJ ,47632,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,4
+994,2015,Infiniti,Q50_Premium, Call for Price, Sussex, NJ ,12712,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,11
+995,2010,Infiniti,G37, 7995, Bronx, NY ,108956,Damage Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,5
+996,2015,Infiniti,Q50_Premium, 19991, Lodi, NJ ,83742,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Multiple Use,16
+997,2016,Infiniti,QX60_Base, 26995, Hackensack, NJ ,39285,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,11
+998,2019,Infiniti,Q50_Signature_Edition, 25998, Floral Park, NY ,43043,No Accident or Damage Reported,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+999,2013,Infiniti,G37_Journey, 17985, Elizabeth, NJ ,92040,Accident/Minor Damage,Coupe,Silver_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,10
+1000,2013,Infiniti,G37_Journey, 17985, Elizabeth, NJ ,92040,Accident/Minor Damage,Coupe,Silver_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,10
+1001,2015,Infiniti,Q50, 21942, Carlstadt, NJ ,49190,Accident Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,6
+1002,2018,Infiniti,QX30_Sport, 23990, Newark, NJ,50176,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,3+ Owners,Multiple Use,7
+1003,2017,Infiniti,Q50_Premium, 25980, Richmond Hill, NY ,37562,Accident Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,Number of Owners,Vehicle Use,11
+1004,2013,Infiniti,G37, 12995, Brooklyn, NY ,113371,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Multiple Use,17
+1005,2018,Infiniti,Q60_Red_Sport_400, 38646, Butler, NJ ,30526,No Accident or Damage Reported,Coupe,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,4
+1006,2018,Infiniti,QX60_Base, Call for Price, Elmont, NY ,35691,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+1007,2018,Infiniti,Q60_Red_Sport_400, Call for Price, Franklin Square, NY ,23243,Accident Reported,Coupe,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,8
+1008,2015,Infiniti,QX70, 24026, Freeport, NY ,30763,Accident Reported,SUV,Black_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,10
+1009,2013,Infiniti,G37_Base, 23985, Elizabeth, NJ ,45513,Minor Damage,Convertible,Blue_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,9
+1010,2013,Infiniti,G37, 14785, Freeport, NY ,90402,Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,5
+1011,2004,Infiniti,I35_Luxury, 2999, Lakewood, NJ ,177870,Accident Reported,Sedan,Silver_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,5
+1012,2006,Infiniti,G35_Base, 5995, Union, NJ ,151298,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,7
+1013,2013,Infiniti,G37, 19999, Lodi, NJ ,94167,Accident Reported,Coupe,Gray_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,15
+1014,2016,Infiniti,Q50, 18702, Jersey City, NJ ,91562,Accident Reported,Sedan,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,12
+1015,2018,Infiniti,QX60_Base, Call for Price, Fairfield, CT ,0,No Accident or Damage Reported,SUV,6_Cyl_3.5_L_,2-Owner,Personal Use,6
+1016,2018,Infiniti,Q50, Call for Price, Fairfield, CT ,0,Damage Reported,Sedan,6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,6
+1017,2012,Infiniti,G37, 11990, Freehold, NJ ,121200,Accident/Minor Damage,Sedan,Blue_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,34
+1018,2016,Infiniti,QX60_Base, Call for Price, Plainfield, NJ ,92450,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,18
+1019,2019,Infiniti,QX80_Luxe, 51995, Wall Township, NJ ,17274,Accident Reported,SUV,Silver_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Rental Use,0
+1020,2018,Infiniti,QX80_Base, 52481, Avenel, NJ ,33360,Accident Reported,SUV,White_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Personal Use,4
+1021,2018,Infiniti,Q50_Luxe, 27518, Brooklyn, NY ,42470,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,12
+1022,2018,Infiniti,QX60_Base, 30152, Freeport, NY ,54799,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,3
+1023,2018,Infiniti,Q50_Luxe, 23318, Freeport, NY ,55507,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,15
+1024,2018,Infiniti,QX60_Base, 34311, Brooklyn, NY ,44165,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,10
+1025,2014,Infiniti,Q50_Premium, 17378, West Long Branch, NJ ,94425,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,13
+1026,2014,Infiniti,Q50_Premium, 19995, Bronx, NY ,0,Minor Damage,Sedan,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,18
+1027,2018,Infiniti,QX60_Base, Call for Price, East Hanover, NJ ,30004,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,7
+1028,2013,Infiniti,M37, 14985, Massapequa, NY ,109501,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,2-Owner,Multiple Use,5
+1029,2009,Infiniti,G37, 10495, Commack, NY ,104156,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,24
+1030,2013,Infiniti,G37, 14495, Hasbrouck Heights, NJ ,111651,Accident Reported,Sedan,Silver_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,27
+1031,2017,Infiniti,Q50_Sport, 21980, Bronx, NY ,96683,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,3+ Owners,Commercial Use,10
+1032,2017,Infiniti,QX60_Base, Call for Price, Richmond Hill, NY ,56566,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,3+ Owners,Multiple Use,2
+1033,2020,Infiniti,QX50_Luxe, Call for Price, Richmond Hill, NY ,19918,No Accident or Damage Reported,SUV,Gray_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,2
+1034,2017,Infiniti,Q60, 30999, Lynbrook, NY ,18315,No Accident or Damage Reported,Coupe,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,9
+1035,2017,Infiniti,QX50_Base, Call for Price, Richmond Hill, NY ,34886,No Accident or Damage Reported,SUV,Burgundy_Engine:_6_Cyl_3.7_L_,3+ Owners,Multiple Use,3
+1036,2018,Infiniti,Q50_Sport, 26999, Inwood, NY ,59461,Accident Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,0
+1037,2018,Infiniti,QX60_Base, Call for Price, Garwood, NJ ,34688,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,8
+1038,2017,Infiniti,Q60_Premium, Call for Price, Brooklyn, NY ,28069,No Accident or Damage Reported,Coupe,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,11
+1039,2011,Infiniti,QX56_Base, 15995, Ramsey, NJ ,157771,Accident Reported,SUV,Gray_Engine:_8_Cyl_5.6_L_,3+ Owners,Personal Use,9
+1040,2018,Infiniti,Q50_Luxe, Call for Price, Bayside, NY ,51356,Major Damage,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,19
+1041,2021,Infiniti,QX80_Luxe, 58995, Westbury, NY ,1238,Major Damage,SUV,Silver_Engine:_8_Cyl_5.6_L_,CARFAX 1-Owner,Rental Use,0
+1042,2014,Infiniti,QX60_Base, 16895, Jersey City, NJ ,118368,Accident Reported,SUV,Silver_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,38
+1043,2012,Infiniti,M37, 17995, Brooklyn, NY ,105262,Accident/Minor Damage,Sedan,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,28
+1044,2015,Infiniti,Q50, 19030, Lodi, NJ ,91654,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.7_L_,3+ Owners,Multiple Use,6
+1045,2014,Infiniti,Q50, 19999, Lodi, NJ ,78820,Accident/Minor Damage,Sedan,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,16
+1046,2017,Infiniti,Q60_Premium, 29482, Hollis, NY ,41134,Accident/Minor Damage,Coupe,Gray_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,8
+1047,2016,Infiniti,Q50_Premium, 24999, Brooklyn, NY ,55409,Accident/Minor Damage,Sedan,White_Engine:_6_Cyl_3.0_L_,3+ Owners,Personal Use,18
+1048,2008,Infiniti,QX56_Base, 11999, S Hackensack, NJ ,142248,Accident Reported,SUV,Blue_Engine:_8_Cyl_5.6_L_,3+ Owners,Personal Use,29
+1049,2005,Infiniti,G35_Base, 5999, Linden, NJ ,148237,Accident Reported,Sedan,Silver_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,1
+1050,2018,Infiniti,Q50_Red_Sport_400, Call for Price, Butler, NJ ,27344,Minor Damage,Sedan,Blue_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+1051,2017,Infiniti,QX50_Base, 27999, Lynbrook, NY ,34878,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,1
+1052,2018,Infiniti,Q50_Luxe, 26498, Floral Park, NY ,30324,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,2-Owner,Personal Use,4
+1053,2018,Infiniti,Q50_Luxe, Call for Price, Edison, NJ ,29836,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+1054,2014,Infiniti,QX60_Base, 13499, S Hackensack, NJ ,148207,Accident/Minor Damage,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+1055,2016,Infiniti,QX70, 25950, Bronx, NY ,18756,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.7_L_,3+ Owners,Multiple Use,3
+1056,2017,Infiniti,Q60_Red_Sport_400, 34995, Great Neck, NY ,34568,No Accident or Damage Reported,Coupe,Red_Engine:_6_Cyl_3.0_L_,Number of Owners,Vehicle Use,0
+1057,2018,Infiniti,Q50_Luxe, Call for Price, Long Island City, NY ,30118,Damage Reported,Sedan,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,3
+1058,2013,Infiniti,G37_Journey, 19999, Lodi, NJ ,93552,No Accident or Damage Reported,Coupe,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,16
+1059,2018,Infiniti,QX30_Premium, Call for Price, Long Island City, NY ,35339,Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,2-Owner,Personal Use,3
+1060,1996,Infiniti,G20, 5995, Paterson, NJ ,60389,Accident Reported,Sedan,Gold_Engine:_4_Cyl_2.0_L_,2-Owner,Vehicle Use,5
+1061,2004,Infiniti,FX35_Base, Call for Price, Yonkers, NY ,179494,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,14
+1062,2018,Infiniti,QX60_Base, 31745, Lakewood, NJ ,64658,Minor Damage,SUV,Blue_Engine:_6_Cyl_3.5_L_,2-Owner,Multiple Use,5
+1063,2015,Infiniti,Q50_Premium, 23485, Inwood, NY ,49096,Minor Damage,Sedan,Silver_Engine:_6_Cyl_3.7_L_,3+ Owners,Multiple Use,3
+1064,2016,Infiniti,QX70, 26995, Lindenhurst, NY ,62208,Minor Damage,SUV,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Multiple Use,6
+1065,2019,Infiniti,QX50_Essential, Call for Price, Ramsey, NJ ,31467,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,7
+1066,2019,Infiniti,QX60_Luxe, Call for Price, Ramsey, NJ ,32749,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,2
+1067,2019,Infiniti,QX60_Luxe, Call for Price, Ramsey, NJ ,18359,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,5
+1068,2018,Infiniti,Q60_Luxe, Call for Price, Edison, NJ ,0,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,2
+1069,2018,Infiniti,QX60_Base, Call for Price, Edison, NJ ,0,No Accident or Damage Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+1070,2014,Infiniti,QX60_Base, Call for Price, Paterson, NJ ,241139,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,21
+1071,2015,Infiniti,Q50, Call for Price, Woodside, NY ,63382,No Accident or Damage Reported,Sedan,Silver_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,30
+1072,2011,Infiniti,G37_Journey, 25999, Bridgewater, NJ ,12166,No Accident or Damage Reported,Coupe,Gray_Engine:_6_Cyl_3.7_L_,CARFAX 1-Owner,Personal Use,20
+1073,2019,Infiniti,Q50_Luxe, Call for Price, Butler, NJ ,20120,Accident/Minor Damage,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,3
+1074,2019,Infiniti,QX60_Pure, 26995, Wall Township, NJ ,23885,Branded Title,SUV,Black_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,4
+1075,2018,Infiniti,QX30_Premium, 25878, West Long Branch, NJ ,30388,No Accident or Damage Reported,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,5
+1076,2019,Infiniti,QX60_Luxe, Call for Price, Long Island City, NY ,42157,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,6
+1077,2011,Infiniti,M37_Base, 12414, Avenel, NJ ,174159,Accident Reported,Sedan,Gray_Engine:_6_Cyl_3.7_L_,3+ Owners,Multiple Use,23
+1078,2013,Infiniti,M37, 18995, Lindenhurst, NY ,95918,Accident/Minor Damage,Sedan,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,17
+1079,2019,Infiniti,QX50_Essential, 46795, Englewood, NJ ,15586,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,Number of Owners,Vehicle Use,4
+1080,2009,Infiniti,G37_Sport, 16995, Commack, NY ,83024,Accident/Minor Damage,Coupe,Black_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,20
+1081,2019,Infiniti,QX50_Essential, 36500, Brooklyn, NY ,29758,No Accident or Damage Reported,SUV,Black_Engine:_4_Cyl_2.0_L_,2-Owner,Multiple Use,4
+1082,2016,Infiniti,QX50_Base, Call for Price, Brooklyn, NY ,107591,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,2-Owner,Personal Use,11
+1083,2019,Infiniti,QX50_Essential, 29900, Rahway, NJ ,42948,Accident/Minor Damage,SUV,White_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,1
+1084,2019,Infiniti,QX50_Luxe, 27995, Wall Township, NJ ,18077,Branded Title,SUV,Blue_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,11
+1085,2014,Infiniti,QX50, Call for Price, Rahway, NJ ,32402,No Accident or Damage Reported,SUV,White_Engine:_6_Cyl_3.7_L_,Number of Owners,Vehicle Use,13
+1086,2014,Infiniti,Q50_Premium, 19999, Jamaica, NY ,88004,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.7_L_,3+ Owners,Personal Use,36
+1087,2004,Infiniti,G35_Base, 8995, Commack, NY ,118097,No Accident or Damage Reported,Coupe,Blue_Engine:_6_Cyl_3.5_L_,3+ Owners,Personal Use,7
+1088,2018,Infiniti,QX60_Base, 25995, Newark, NJ ,125054,Accident Reported,SUV,Black_Engine:_6_Cyl_3.5_L_,2-Owner,Multiple Use,9
+1089,2017,Infiniti,Q60, 32995, Butler, NJ ,62433,Accident Reported,Coupe,Blue_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,11
+1090,2019,Infiniti,Q50_Luxe, 27999, Inwood, NY ,25002,Accident Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Rental Use,0
+1091,2019,Infiniti,Q50_Luxe, Call for Price, Richmond Hill, NY ,9575,Accident Reported,Sedan,Silver_Engine:_6_Cyl_3.0_L_,2-Owner,Multiple Use,6
+1092,2016,Infiniti,QX60_Base, 22730, PARAMUS, NJ ,62312,Accident/Minor Damage,SUV,White_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,18
+1093,2018,Infiniti,Q50_Luxe, 30995, Bayside, NY ,3485,No Accident or Damage Reported,Sedan,Black_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,1
+1094,2011,Infiniti,FX35_Base, Call for Price, Brooklyn, NY ,109739,No Accident or Damage Reported,SUV,Blue_Engine:_6_Cyl_3.5_L_,2-Owner,Personal Use,4
+1095,2019,Infiniti,QX60_Luxe, Call for Price, Englewood, NJ ,18872,No Accident or Damage Reported,SUV,Gray_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Corporate Use,1
+1096,2018,Infiniti,Q50_Luxe, 32367, Brooklyn, NY ,27940,No Accident or Damage Reported,Sedan,Gray_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Personal Use,7
+1097,2017,Infiniti,QX30, Call for Price, Brooklyn, NY ,120327,Accident/Minor Damage,SUV,Gray_Engine:_4_Cyl_2.0_L_,CARFAX 1-Owner,Personal Use,16
+1098,2019,Infiniti,Q50_Luxe, Call for Price, Englewood, NJ ,103,No Accident or Damage Reported,Sedan,White_Engine:_6_Cyl_3.0_L_,CARFAX 1-Owner,Commercial Use,2
+1099,2013,Infiniti,JX35_Base, 17985, Elizabeth, NJ ,75409,Accident Reported,SUV,White_Engine:_6_Cyl_3.5_L_,CARFAX 1-Owner,Personal Use,18
