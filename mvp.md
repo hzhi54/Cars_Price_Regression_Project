@@ -13,3 +13,5 @@ By just taking this to apply the linear regression model without modifying or ad
 ![Jointplot_simple](https://user-images.githubusercontent.com/43353401/135163877-bc38928a-2191-4777-8cde-e9b5de558707.png)
 
 As you can see, using the linear regression models, it will leads to high bias!
+Here are the coeficients by ['Year','Mileage','Owners','Services','Brandl','Bodyl','Accl','Modell']
+[ 1418.9906, -0.1187, -1002.3048, 142.3328, -176.4892, -3162.6663, 342.2964, -11.6402]
